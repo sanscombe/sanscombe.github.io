@@ -13,22 +13,77 @@ MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]}
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <script>
 var menumode = "main";
-$(function(){$("#menu").load("./menu.html");});
 </script>
+<!--
+	<script>
+	$(function(){$("#includedmenu").load("menu.html");});
+	</script>
+-->
+<!-- METHOD 1 -->
+<!--
+	<script>
+    var xhr= new XMLHttpRequest();
+xhr.open('GET', 'temp_menu.js', true);
+xhr.onreadystatechange= function() {
+    if (this.readyState!==4) return;
+    if (this.status!==200) return; // or whatever error handling you want
+    document.getElementById('menumenu').innerHTML= this.responseText;
+};
+    xhr.send();
+    </script>
+-->
+<!-- METHOD 2 -->
+
+    <script>
+function includeHTML() {
+  var z, i, elmnt, file, xhttp;
+  /* Loop through a collection of all HTML elements: */
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    /*search for elements with a certain atrribute:*/
+    file = elmnt.getAttribute("w3-include-html");
+    if (file) {
+      /* Make an HTTP request using the attribute value as the file name: */
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          /* Remove the attribute, and call this function once more: */
+          elmnt.removeAttribute("w3-include-html");
+          includeHTML();
+        }
+      }
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      /* Exit the function: */
+      return;
+    }
+  }
+}
+</script>
+
 </head>
 
 <body>
 
 <div id="nav">
-<div id="menu">
+<!-- METHOD 1 -->
+<!--
+	<div id="menumenu"></div>
+-->
+<!-- METHOD 2 -->
+
+	<div w3-include-html="./temp_menu.js"></div>
+
 </div>
-</div>
+    
 
 <div id="header">
-	<!--<h2 style="background:#FFFFBB;text-align:center;color:DarkSlateGrey">-->
-	<h2 style="background:#FFFFBB;text-align:center;color:Black">
-Sylvy Anscombe's homepage
-</h2>
+    <h2 style="background:#FFFFBB;text-align:center;color:Black">
+        Sylvy Anscombe's homepage
+    </h2>
 </div>
 
 <div id="section">
@@ -37,11 +92,6 @@ I am a mathematician working at the University of Central Lancashire, based in t
 Here is some further information about my <a class="linkresearchmain" href="./research.html"><b><font size="4">&nbsp;research&nbsp;</font></b></a>.
 
 <br><br>
-
-
-<!--
-<a class="linkdebugmain" href="http://www.star.uclan.ac.uk/phd-studentships-and-postgraduate-study/anscombe/">&nbsp;PhD project with Sylvy&nbsp;</a>
--->
 
 
 <hr>
@@ -112,5 +162,8 @@ alt="free hit counter"></a></div>
 </noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
+    <script>
+    includeHTML();
+    </script>
 </body>
 </html>
