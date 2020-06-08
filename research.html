@@ -44,12 +44,21 @@ function includeHTML() {
 }
 </script>
 
+<script>
+	fetch('menu.js')
+	  .then(data => data.text())
+	  .then(html => document.getElementById('menumenumenu').innerHTML = html);
+</script>
+
 </head>
 
 <body>
 
 <div id="nav">
 <div w3-include-html="./menu.js"></div>
+i
+<div id='menumenumenu'> </div>
+
 </div>
 
 
