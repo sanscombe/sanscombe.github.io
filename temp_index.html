@@ -14,13 +14,11 @@ MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]}
 <script>
 var menumode = "main";
 </script>
-<!--
-	<script>
-	$(function(){$("#includedmenu").load("menu.html");});
-	</script>
--->
+<script>
+$(function(){$("#menu").load("./menu.html");});
+</script>
 <!-- METHOD 1 -->
-<!--
+
 	<script>
     var xhr= new XMLHttpRequest();
 xhr.open('GET', 'temp_menu.js', true);
@@ -31,7 +29,7 @@ xhr.onreadystatechange= function() {
 };
     xhr.send();
     </script>
--->
+
 <!-- METHOD 2 -->
 
     <script>
@@ -69,10 +67,11 @@ function includeHTML() {
 <body>
 
 <div id="nav">
+<div id="menu"></div>
 <!-- METHOD 1 -->
-<!--
+
 	<div id="menumenu"></div>
--->
+
 <!-- METHOD 2 -->
 
 	<div w3-include-html="./temp_menu.js"></div>
@@ -81,7 +80,7 @@ function includeHTML() {
     
 
 <div id="header">
-    <h2 style="background:#FFFFBB;text-align:center;color:Black">
+    <h2 style="background:#FFFFFF;text-align:center;color:Black">
         Sylvy Anscombe's homepage
     </h2>
 </div>
@@ -93,6 +92,18 @@ Here is some further information about my <a class="linkresearchmain" href="./re
 
 <br><br>
 
+
+
+<hr>
+<br>
+
+<b>Welcome to my new website.
+
+<br><br>
+
+It is much like the old one, but I have slightly reorganized and adopted a new URL. The old URL will be maintained for a short while, then will redirect to this one.</b>
+
+<br><br>
 
 <hr>
 <br>
