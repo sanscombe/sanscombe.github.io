@@ -14,28 +14,10 @@ MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]}
 <script>
 var menumode = "main";
 </script>
-<!-- METHOD 1 -->
-<!--
-<script>
-$(function(){$("#menu").load("./menu.html");});
-</script>
--->
-<!-- METHOD 2 -->
-<!--
-	<script>
-    var xhr= new XMLHttpRequest();
-xhr.open('GET', 'menu.js', true);
-xhr.onreadystatechange= function() {
-    if (this.readyState!==4) return;
-    if (this.status!==200) return; // or whatever error handling you want
-    document.getElementById('menumenu').innerHTML= this.responseText;
-};
-    xhr.send();
-    </script>
--->
-<!-- METHOD 3 -->
 
-    <script>
+<!-- MENU SCRIPT -->
+
+<script>
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /* Loop through a collection of all HTML elements: */
@@ -70,15 +52,6 @@ function includeHTML() {
 <body>
 
 <div id="nav">
-<!-- METHOD 1 -->
-<!--
-<div id="menu"></div>
--->
-<!-- METHOD 2 -->
-<!--
-	<div id="menumenu"></div>
--->
-<!-- METHOD 3 -->
 
 	<div w3-include-html="./menu.js"></div>
 
@@ -86,9 +59,11 @@ function includeHTML() {
     
 
 <div id="header">
+
     <h2 style="background:#FFFFFF;text-align:center;color:Black">
         Sylvy Anscombe's homepage
     </h2>
+
 </div>
 
 <div id="section">
