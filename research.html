@@ -15,6 +15,17 @@ MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]}
 <!-- MENU SCRIPT -->
 
 <script>
+    var xhr= new XMLHttpRequest();
+		xhr.open('GET', 'menu.js', true);
+		xhr.onreadystatechange= function() {
+    if (this.readyState!==4) return;
+    if (this.status!==200) return; // or whatever error handling you want
+    document.getElementById('menumenu').innerHTML= this.responseText;
+};
+    xhr.send();
+</script>
+
+<script>
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /* Loop through a collection of all HTML elements: */
@@ -49,7 +60,7 @@ function includeHTML() {
 <body>
 
 <div id="nav">
-
+	<div id="menumenu"></div>
 	<div w3-include-html="./menu.js"></div>
 
 </div>
