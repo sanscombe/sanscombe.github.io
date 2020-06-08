@@ -21,10 +21,10 @@ $(function(){$("#menu").load("./menu.html");});
 </script>
 -->
 <!-- METHOD 2 -->
-<!--
+
 	<script>
     var xhr= new XMLHttpRequest();
-xhr.open('GET', 'temp_menu.js', true);
+xhr.open('GET', 'menu.js', true);
 xhr.onreadystatechange= function() {
     if (this.readyState!==4) return;
     if (this.status!==200) return; // or whatever error handling you want
@@ -32,7 +32,7 @@ xhr.onreadystatechange= function() {
 };
     xhr.send();
     </script>
--->
+
 <!-- METHOD 3 -->
 
     <script>
@@ -75,9 +75,9 @@ function includeHTML() {
 <div id="menu"></div>
 -->
 <!-- METHOD 2 -->
-<!--
+
 	<div id="menumenu"></div>
--->
+
 <!-- METHOD 3 -->
 
 	<div w3-include-html="./menu.js"></div>
