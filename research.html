@@ -49,6 +49,16 @@ function includeHTML() {
 	  .then(data => data.text())
 	  .then(html => document.getElementById('menumenumenu').innerHTML = html);
 </script>
+<script>
+    var xhr= new XMLHttpRequest();
+                xhr.open('GET', 'menu.js', true);
+                xhr.onreadystatechange= function() {
+    if (this.readyState!==4) return;
+    if (this.status!==200) return; // or whatever error handling you want
+    document.getElementById('menumenu').innerHTML= this.responseText;
+};
+    xhr.send();
+</script>
 
 </head>
 
@@ -56,9 +66,8 @@ function includeHTML() {
 
 <div id="nav">
 <div w3-include-html="./menu.js"></div>
-i
-<div id='menumenumenu'> </div>
-
+II
+<div id='menumenu'> </div>
 </div>
 
 
