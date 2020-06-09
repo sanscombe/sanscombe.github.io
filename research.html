@@ -11,26 +11,17 @@ MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]}
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-
-<!-- MENU SCRIPT -->
-
 <script>
-    var xhr= new XMLHttpRequest();
-                xhr.open('GET', 'menu.js', true);
-                xhr.onreadystatechange= function() {
-    if (this.readyState!==4) return;
-    if (this.status!==200) return; // or whatever error handling you want
-    document.getElementById('menumenu').innerHTML= this.responseText;
-};
-    xhr.send();
+var menumode = "research";
+$(function(){$("#menu").load("./menu.js");});
 </script>
-
 </head>
 
 <body>
 
 <div id="nav">
-<div id="menumenu"></div>
+<div id="menu">
+</div>
 </div>
 
 
