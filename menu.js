@@ -12,7 +12,6 @@
 -->
     <li><a class="navsmorgasbordmain" href="./smorgasbord.html">sm&ouml;rg&aring;sbord</a></li>
     <li><a class="navblogmain" href="https://sylvyanscombe.wordpress.com/">blog</a></li>
-    <li><a class="navblogsub" href="https://sylvyanscombe.wordpress.com/">blog</a></li>
     <li><a class="navmain" href="./office.hours.html">office hours</a></li>
     <li><a class="navmain" href="./contact.html">contact</a></li>
 </ul>
