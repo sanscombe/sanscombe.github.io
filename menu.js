@@ -21,6 +21,10 @@
     <li><a>&nbsp;</a></li>
     <li><a class="navresearchsub" href="./newdirections.html">New Directions</a></li>
     <li><a class="navresearchsub" href="http://www.icms.org.uk/permutationgroups.php">FPGMT@ICMS</a></li>
-    <li><a class="navdebugsub" href="https://www.waterstones.com/book/unmasked/s-anscombe/n-danino/9781912979080?fbclid=IwAR2kkLuFbVRS0TvOr9etGZMB2E45oH8KkBVce9FdiyK7Mg01zQ-5km-6hlo
-">UNMASKED</a></li>
+</ul>
+
+<ul class="nav">
+    <li><a>&nbsp;</a></li>
+    <li><a>&nbsp;</a></li>
+    <li><a class="navdebugmain" href="https://unmaskedscience.uclan.ac.uk/">UNMASKED</a></li>
 </ul>
