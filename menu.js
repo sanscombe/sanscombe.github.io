@@ -26,5 +26,5 @@
 <ul class="nav">
     <li><a>&nbsp;</a></li>
     <li><a>&nbsp;</a></li>
-    <li><a class="navdebugmain" href="https://unmaskedscience.uclan.ac.uk/">UNMASKED</a></li>
+    <li><a class="navdebugmain" href="https://unmaskedscience.uclan.ac.uk/">Unmasked</a></li>
 </ul>
