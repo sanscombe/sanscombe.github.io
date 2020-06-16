@@ -53,6 +53,8 @@ navteachingmain
 navteachingsub
 navsmorgasbordmain
 navsmorgasbordsub
+navblogmain
+navblogsub
 navpersonalmain
 navpersonalsub
 navdebugmain
@@ -267,6 +269,48 @@ text-align:center;
 vertical-align:center}
 a.navsmorgasbordsub:hover {background:OrangeRed}
 a.navsmorgasbordsub:link, a:visited {}
+
+a.navsblogmain {border-style: solid;
+border-left-width: 10px;
+border-right-width: 0px;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-color:Orange}
+a.navblogmain {text-decoration:none;
+color:Snow;
+background-color:DarkOrchid;
+display:block;
+height:30px;
+text-align:center;
+vertical-align:center}
+a.navblogmain:hover {background:DarkMagenta}
+a.navblogmain:link, a:visited {}
+
+a.linkblogmain {text-decoration:none;
+color:Snow;
+background-color:DarkOrchid;
+font-size:large;
+height:30px;
+text-align:center;
+vertical-align:center}
+a.linkblogmain:hover {background:DarkMagenta}
+a.linkblogmain:link, a:visited {}
+
+a.navblogsub {border-style: solid;
+border-left-width: 10px;
+border-right-width: 0px;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-color:DarkOrchid}
+a.navblogsub {text-decoration:none;
+color:Snow;
+background-color:Gray;
+display:block;
+height:30px;
+text-align:center;
+vertical-align:center}
+a.navblogsub:hover {background:DarkMagenta}
+a.navblogsub:link, a:visited {}
 
 a.navpersonalmain {border-style: solid;
 border-left-width: 10px;
