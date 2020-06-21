@@ -2,8 +2,9 @@
     <li><a class="navtitle">Sylvy Anscombe</a></li>
     <li><a class="navmain" href="./">home</a></li>
     <li><a class="navresearchmain" href="./research.html">research</a></li>
-    <li><a class="navseminarmain" href="./model.theory.seminar.html">seminar</a></li>
+    <li><a class="navseminarmain" href="./uclan_seminar.html">UCLan seminar</a></li>
 <!--
+    <li><a class="navseminarsub" href="./leeds_seminar.html">Leeds seminar</a></li>
     <li><a class="navseminarsub" href="./lymots.html">LYMoTS</a></li>
     <li><a class="navseminarsub" href="./seminar.html">upcoming</a></li>
 -->
