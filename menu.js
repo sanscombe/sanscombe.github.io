@@ -3,11 +3,6 @@
     <li><a class="navmain" href="./">home</a></li>
     <li><a class="navresearchmain" href="./research.html">research</a></li>
     <li><a class="navseminarmain" href="./uclan_seminar.html">UCLan seminar</a></li>
-<!--
-    <li><a class="navseminarsub" href="./leeds_seminar.html">Leeds seminar</a></li>
-    <li><a class="navseminarsub" href="./lymots.html">LYMoTS</a></li>
-    <li><a class="navseminarsub" href="./seminar.html">upcoming</a></li>
--->
     <li><a class="navteachingmain" href="./teaching.html">teaching</a></li>
 <!--
     <li><a class="navteachingsub" href="./teaching.html#farrago">farrago</a></li>
@@ -23,6 +18,7 @@
     <li><a>&nbsp;</a></li>
     <li><a class="navresearchsub" href="./newdirections.html">New Directions</a></li>
     <li><a class="navresearchsub" href="http://www.icms.org.uk/permutationgroups.php">FPGMT@ICMS</a></li>
+    <li><a class="navseminarsub" href="./leeds_seminar.html">Leeds seminar</a></li>
 </ul>
 
 <ul class="nav">
