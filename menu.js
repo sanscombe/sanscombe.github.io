@@ -17,9 +17,11 @@
     <li><a>&nbsp;</a></li>
     <li><a class="navresearchsub" href="./newdirections.html">New Directions</a></li>
     <li><a class="navresearchsub" href="http://www.icms.org.uk/permutationgroups.php">FPGMT@ICMS</a></li>
+    <!--
     <li><a class="navseminarsub" href="./uclan_seminar.html">UCLan seminar 2015--2018</a></li>
     <li><a class="navseminarsub" href="http://personalpages.manchester.ac.uk/staff/Marcus.Tressl/events/LYMoTS.php">LYMoTS</a></li>
     <li><a class="navseminarsub" href="./leeds_seminar.html">Leeds seminar 2013--2015</a></li>
+    -->
 </ul>
 
 <ul class="nav">
