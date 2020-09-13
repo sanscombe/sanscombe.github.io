@@ -16,8 +16,8 @@ ul.nav {
     font-weight: bold;
 }
 span.coursetitle {
-    color: DarkMagenta;
-    /*font-style: italic;*/
+    /*color: DarkMagenta;*/
+    font-style: italic;
     padding-right: 20px;
 }
 span.projecttitle {
