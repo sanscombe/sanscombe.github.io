@@ -15,6 +15,11 @@ ul.nav {
     padding: 0;
     font-weight: bold;
 }
+	span.newcoursetitle {
+	    /*color: DarkMagenta;*/
+	    /*font-style: italic;*/
+	    padding-right: 50px;
+	}
 span.coursetitle {
     /*color: DarkMagenta;*/
     font-style: italic;
