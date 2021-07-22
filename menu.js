@@ -25,7 +25,7 @@
 <ul class="nav">
     <li><a>&nbsp;</a></li>
     <li><a>&nbsp;</a></li>
-    <li><a class="navresearchmain" href="https://msp.org/mt">Model Theory &ndash;journal</a></li>
+    <li><a class="navresearchmain" href="https://msp.org/mt">Model Theory &ndash; journal</a></li>
     <li><a>&nbsp;</a></li>
     <li><a class="navdebugmain" href="https://unmaskedscience.uclan.ac.uk/">Unmasked</a></li>
 </ul>
