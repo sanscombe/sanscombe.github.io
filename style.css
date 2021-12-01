@@ -1,8 +1,9 @@
 body {
 /* I used to use Verdana, Geneva, sans-serif*/
-/*font-family: Arial, Helvetica, sans-serif*/
-font-family: Verdana, Geneva, sans-serif;
-background-color:Lavender;
+font-family: Arial, Geneva, sans-serif;
+/* font-family: Verdana, Geneva, sans-serif;*/
+background-color:MidnightBlue;
+/*#4169E1;*/
 margin:0;
 width:100%
 }
@@ -403,7 +404,10 @@ a.navdebugsub:link, a:visited {}
 SECTIONS
 */
 #header {
-    background-color:Lavender;
+    background-color:MidnightBlue;
+/*Lavender*/
+/*LavenderBlush*/
+/*#4169E1;*/
     color:DarkSlateGrey;
     text-align:left;
     padding:5px;
@@ -415,15 +419,16 @@ SECTIONS
     display:block;
     text-align:center;
     line-height:30px;
-    background-color:Lavender;
-    color:MidnightBlue;
-    height:100%;
+    background-color:FloralWhite;
+    /*color:MidnightBlue;*/
+    height:auto;/*136%;*/
     width:15%;
     float:right;
     padding:0px;
 }
 #section {
-    background-color:#FFFFFF;
+    background-color:FloralWhite;
+/*#FFFFFF;*/
     width:70%;
     height:auto;
     float:right;
