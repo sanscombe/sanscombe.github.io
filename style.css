@@ -1,6 +1,6 @@
 body {
 /* I used to use Verdana, Geneva, sans-serif*/
-font-family: Verdana,Arial, Geneva, sans-serif;
+font-family: Arial, Geneva, sans-serif;
 /* font-family: Verdana, Geneva, sans-serif;*/
 background-color:Lavender;
 /*#4169E1;*/
@@ -419,7 +419,7 @@ SECTIONS
     display:block;
     text-align:center;
     line-height:30px;
-    background-color:Lavender;
+    background-color:White;
     color:MidnightBlue;
     height:136%;
     width:15%;
