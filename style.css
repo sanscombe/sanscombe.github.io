@@ -404,7 +404,7 @@ a.navdebugsub:link, a:visited {}
 SECTIONS
 */
 #header {
-    background-color:Lavender;
+    background-color:White;
 /*Lavender*/
 /*LavenderBlush*/
 /*#4169E1;*/
@@ -419,7 +419,7 @@ SECTIONS
     display:block;
     text-align:center;
     line-height:30px;
-    background-color:Lavender;
+    background-color:White;
     color:MidnightBlue;
     height:136%;
     width:15%;
@@ -427,7 +427,7 @@ SECTIONS
     padding:0px;
 }
 #section {
-    background-color:Lavender;
+    background-color:White;
 /*#FFFFFF;*/
     width:70%;
     height:auto;
