@@ -2,7 +2,7 @@ body {
 /* I used to use Verdana, Geneva, sans-serif*/
 font-family: Arial, Geneva, sans-serif;
 /* font-family: Verdana, Geneva, sans-serif;*/
-background-color:White;
+background-color:Lavender;
 /*#4169E1;*/
 margin:0;
 width:100%
@@ -404,7 +404,7 @@ a.navdebugsub:link, a:visited {}
 SECTIONS
 */
 #header {
-    background-color:White;
+    background-color:Lavender;
 /*Lavender*/
 /*LavenderBlush*/
 /*#4169E1;*/
@@ -419,7 +419,7 @@ SECTIONS
     display:block;
     text-align:center;
     line-height:30px;
-    background-color:White;
+    background-color:Lavender;
     color:MidnightBlue;
     height:136%;
     width:15%;
@@ -427,7 +427,7 @@ SECTIONS
     padding:0px;
 }
 #section {
-    background-color:LavenderBlush;
+    background-color:White;
 /*#FFFFFF;*/
     width:70%;
     height:auto;
