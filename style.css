@@ -419,7 +419,7 @@ SECTIONS
     display:block;
     text-align:center;
     line-height:30px;
-    background-color:White;
+    background-color:Lavender;
     color:MidnightBlue;
     height:136%;
     width:15%;
@@ -427,7 +427,7 @@ SECTIONS
     padding:0px;
 }
 #section {
-    background-color:LavenderBlush;
+    background-color:Lavender;
 /*#FFFFFF;*/
     width:70%;
     height:auto;
