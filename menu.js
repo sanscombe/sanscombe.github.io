@@ -25,7 +25,7 @@
 <ul class="nav">
     <li><a>&nbsp;</a></li>
     <li><a>&nbsp;</a></li>
-    <li><a class="navresearchsub" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral</a></li>
+    <li><a class="navresearchmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral</a></li>
     <li><a>&nbsp;</a></li>
     <li><a class="navresearchmain" href="https://msp.org/mt">Model Theory &ndash; journal</a></li>
 <!--
