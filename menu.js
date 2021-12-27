@@ -20,6 +20,7 @@
     <li><a class="navseminarsub" href="http://personalpages.manchester.ac.uk/staff/Marcus.Tressl/events/LYMoTS.php">LYMoTS</a></li>
     <li><a class="navseminarsub" href="./leeds_seminar.html">Leeds seminar 2013--2015</a></li>
 	-->
+    <li><a class="navseminarmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;eminaire G&eacute;n&eacute;ral</a></li>
 </ul>
 
 <ul class="nav">
@@ -27,7 +28,9 @@
     <li><a>&nbsp;</a></li>
     <li><a class="navresearchmain" href="https://msp.org/mt">Model Theory &ndash; journal</a></li>
     <li><a>&nbsp;</a></li>
+<!--
     <li><a class="navdebugmain" href="https://unmaskedscience.uclan.ac.uk/">Unmasked</a></li>
+-->
     <li><a>&nbsp;</a></li>
     <li><a class="navresearchmain" href="https://women-in-numbers-europe-4.sites.uu.nl/">WINE-4</a></li>
 </ul>
