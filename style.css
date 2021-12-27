@@ -2,7 +2,7 @@ body {
 /* I used to use Verdana, Geneva, sans-serif*/
 font-family: Verdana, Arial, Helvetica, sans-serif;
 /* font-family: Verdana, Geneva, sans-serif;*/
-background-color:RoyalBlue;/*Lavender;*/
+background-color:AliceBlue;/*Lavender;*/
 /*#4169E1;*/
 margin:0;
 width:100%
@@ -82,12 +82,12 @@ border-bottom-width: 0px;
 border-color:White}/*Lavender}*/
 a.navtitle {text-decoration:none;
 color:Black;
-background-color:White;/*Lavender;*/
+background-color:AliceBlue;/*Lavender;*/
 display:block;
 height:90px;
 text-align:center;
 vertical-align:center}
-a.navtitle:hover {background:Azure}/*Lavender}*/
+a.navtitle:hover {background:AliceBlue}/*Lavender}*/
 a.navtitle:link, a:visited {}
 
 a.navmain {border-style: solid;
@@ -419,7 +419,7 @@ SECTIONS
     display:block;
     text-align:center;
     line-height:30px;
-    background-color:RoyalBlue;/*Lavender*/
+    background-color:AliceBlue;/*Lavender*/
     color:MidnightBlue;
     height:101%;/*136%*/
     width:15%;
