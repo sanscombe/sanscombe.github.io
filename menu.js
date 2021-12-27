@@ -2,6 +2,7 @@
     <li><a class="navtitle">Sylvy Anscombe</a></li>
     <li><a class="navmain" href="./">home</a></li>
     <li><a class="navresearchmain" href="./research.html">research</a></li>
+    <li><a class="navresearchsub" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral</a></li>
     <li><a class="navteachingmain" href="./teaching.html">teaching</a></li>
     <li><a class="navsmorgasbordmain" href="./smorgasbord.html">sm&ouml;rg&aring;sbord</a></li>
     <li><a class="navblogmain" href="https://sylvyanscombe.wordpress.com/">blog</a></li>
@@ -20,7 +21,6 @@
     <li><a class="navseminarsub" href="http://personalpages.manchester.ac.uk/staff/Marcus.Tressl/events/LYMoTS.php">LYMoTS</a></li>
     <li><a class="navseminarsub" href="./leeds_seminar.html">Leeds seminar 2013--2015</a></li>
 	-->
-    <li><a class="navseminarsub" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral</a></li>
 </ul>
 
 <ul class="nav">
