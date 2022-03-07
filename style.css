@@ -79,15 +79,15 @@ border-left-width: 10px;
 border-right-width: 0px;
 border-top-width: 0px;
 border-bottom-width: 0px;
-border-color:AliceBlue}/*Lavender}*/
+border-color:Lavender}/*AliceBlue*/
 a.navtitle {text-decoration:none;
 color:Black;
-background-color:AliceBlue;/*Lavender;*/
+background-color:Lavender;/*AliceBlue*/
 display:block;
 height:90px;
 text-align:center;
 vertical-align:center}
-a.navtitle:hover {background:AliceBlue}/*Lavender}*/
+a.navtitle:hover {background:Lavender}/*AliceBlue*/
 a.navtitle:link, a:visited {}
 
 a.navmain {border-style: solid;
