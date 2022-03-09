@@ -28,10 +28,11 @@
     <li><a class="navresearchmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral</a></li>
     <li><a>&nbsp;</a></li>
     <li><a class="navresearchmain" href="https://msp.org/mt">Model Theory &ndash; journal</a></li>
-<!--
+    <li><a class="navresearchmain" href="https://www.cambridge.org/core/journals/journal-of-symbolic-logic">Journal of Symbolic Logic</a></li>
+
     <li><a>&nbsp;</a></li>
     <li><a class="navdebugmain" href="https://unmaskedscience.uclan.ac.uk/">Unmasked</a></li>
--->
+
     <li><a>&nbsp;</a></li>
     <li><a class="navresearchmain" href="https://women-in-numbers-europe-4.sites.uu.nl/">WINE-4</a></li>
 </ul>
