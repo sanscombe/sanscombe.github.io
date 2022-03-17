@@ -7,6 +7,7 @@
     <li><a class="navseminarmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral</a></li>
     <li><a class="navteachingmain" href="./teaching.html">teaching</a></li>
     <li><a class="navsmorgasbordmain" href="./smorgasbord.html">sm&ouml;rg&aring;sbord</a></li>
+	    <li><a class="navsmorgasbordsub" href="https://unmaskedscience.uclan.ac.uk/">Unmasked</a></li>
     <li><a class="navblogmain" href="https://sylvyanscombe.wordpress.com/">blog</a></li>
     <li><a class="navmain" href="./contact.html">contact</a></li>
 </ul>
@@ -31,7 +32,6 @@
     <li><a>&nbsp;</a></li>
 <!--
     <li><a>&nbsp;</a></li>
-    <li><a class="navdebugmain" href="https://unmaskedscience.uclan.ac.uk/">Unmasked</a></li>
 -->
     <li><a>&nbsp;</a></li>
     <li><a class="navresearchsub" href="https://women-in-numbers-europe-4.sites.uu.nl/">WINE-4</a></li>
