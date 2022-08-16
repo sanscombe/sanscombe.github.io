@@ -28,72 +28,59 @@ $(function(){$("#menu").load("./menu.js");});
 </div>
 </div>
 
-
-<div id="header">
-	<h2 style="background:Orange;text-align:center;color:Snow">
-	Sylvy's sm&ouml;rg&aring;sbord of fun maths
-	</h2>
-</div>
-
-
 <div id="section">
 
 <h3><a class="linkdebugmain" href="https://www.waterstones.com/book/unmasked/s-anscombe/n-danino/9781912979080?fbclid=IwAR2kkLuFbVRS0TvOr9etGZMB2E45oH8KkBVce9FdiyK7Mg01zQ-5km-6hlo">Unmasked: the Science of Superheroes</a></h3>
 
 <b>OUT NOW!</b>
 <ul>
-	<li><a href="https://www.amazon.co.uk/Unmasked-Science-Superheroes-Robert-Walsh/dp/191297908X/ref=sr_1_1?keywords=unmasked%3A+the+science+of+superheroes&qid=1583537025&sr=8-1">Amazon</a></li>
-	<li><a href="https://www.waterstones.com/book/unmasked/robert-walsh/sarita-robsinson/9781912979080">Waterstones</a></li>
+<li><a href="https://www.amazon.co.uk/Unmasked-Science-Superheroes-Robert-Walsh/dp/191297908X/ref=sr_1_1?keywords=unmasked%3A+the+science+of+superheroes&qid=1583537025&sr=8-1">Amazon</a></li>
+<li><a href="https://www.waterstones.com/book/unmasked/robert-walsh/sarita-robsinson/9781912979080">Waterstones</a></li>
 </ul>
 Here are some <b>PUZZLES</b> linked to my book chapter:
 <ul>
-	<li><a href="https://drive.google.com/open?id=1K-xXXL_MDcRIw9oqBXxBkids8Tl2Re_h">Sylvy's Super-Puzzles</a>
-	<ul>
-		<li><a href="https://drive.google.com/open?id=1wRbmZ1NnrsDi8owL3eR67jT6qxY08q15">Solutions</a> to Puzzle 1</li>
-		<li><a href="https://drive.google.com/open?id=1FMIm128PyFPKjqdvzH1HVODcymrDQImU">Solutions</a> to Puzzle 2</li>
-		<li><a href="https://drive.google.com/open?id=1eJuCq47qeHz4Rfd2CNA6HNJZ3k5jwQ1f">Solutions</a> to Puzzle 3</li>
-		<li><a href="https://drive.google.com/open?id=1-ygDZoILj3275DNXMXMRT27L7ij6tEp8">Solutions</a> to Puzzle 4</li>
-	</ul>
-	</li>
+<li><a href="https://drive.google.com/open?id=1K-xXXL_MDcRIw9oqBXxBkids8Tl2Re_h">Sylvy's Super-Puzzles</a>
+<ul>
+<li><a href="https://drive.google.com/open?id=1wRbmZ1NnrsDi8owL3eR67jT6qxY08q15">Solutions</a> to Puzzle 1</li>
+<li><a href="https://drive.google.com/open?id=1FMIm128PyFPKjqdvzH1HVODcymrDQImU">Solutions</a> to Puzzle 2</li>
+<li><a href="https://drive.google.com/open?id=1eJuCq47qeHz4Rfd2CNA6HNJZ3k5jwQ1f">Solutions</a> to Puzzle 3</li>
+<li><a href="https://drive.google.com/open?id=1-ygDZoILj3275DNXMXMRT27L7ij6tEp8">Solutions</a> to Puzzle 4</li>
+</ul>
+</li>
 </ul>
 
 <br>
-<a name="blog"></a>
-<hr>
 
+<hr>
 
 <h3>Sylvy's puzzle corner</h3>
 
-<!--<h4><font color="#800080">$\vdash$ latest puzzle</font></h4>-->
-
-<!--<h4><font color="#800080">$\vdash$ older puzzles</font></h4>-->
-
 <ul>
 
-	<li><a href="https://drive.google.com/file/d/1Y1f2rfKFNoUjqvpLnxobaEXha8kieE4C/view?usp=sharing">Cute Functions</a></li>
-	<li><a href="https://drive.google.com/open?id=1tB2ceF85zjMHMrlukyXEf2utWGk3PJQP">A tribute to Rubik's Cube</a></li>
-	<li><a href="https://drive.google.com/open?id=1HCCLIiGS2ZN34gsOxerLYGKWJQ2A6LnX">Quick Pythagoras</a></li>
-	<li><a href="http://www.lancashiresciencefestival.co.uk/wp-content/uploads/2018/07/LanBots-Logic-Puzzles-with-Sylvy-Anscombe.pdf">Lanbot's Logic Puzzles</a> (Lancashire Science Festival)</li>
-	<li><a href="https://drive.google.com/open?id=1u_NX6uAT93VMB0dWBZ7H-ormCrMrvunj">Sections through a cube</a></li>
-	<li><a href="https://drive.google.com/open?id=1qw4hcQVZuDdAIN7PVrJFyGeFI9-diA3K">Optimist, Pessimist</a></li>
-	<li><a href="https://drive.google.com/open?id=18VD2zNDJ8hqHkcfm31bhq0r1RD2BP7_L">Heptagon</a></li>
-	<li><a href="https://drive.google.com/open?id=1C7FPQGbc-vId4bIBpV80zd5vjlODTs1C">Pentagon</a></li>
-	<li><a href="https://drive.google.com/open?id=1K_bxWt_s-gOUMPh3kr09PwLfbLG4ltHJ">All present and correct</a></li>
-	<li><a href="https://drive.google.com/open?id=1sqPjD3kr-AVhtlYdnC8aiK3EzGgzSqKt">Long Division</a>
-	(<a href="https://drive.google.com/open?id=1-uXa83mTjN0bqq_PQA50opMN65vxL1su">solution</a>)</li>
-	<li><a href="https://drive.google.com/open?id=1zi9g_C_2DwsdwjM502mbQgqR5IEmHKvv">Factorial, Factorialer, Factorialist</a></li>
-	<li><a href="https://drive.google.com/open?id=0B6bVmoUt7QTXNEZndDdxLXU0SFk">the puzzle forest</a>
-	(<a href="https://drive.google.com/open?id=0B6bVmoUt7QTXeGRLWjE4SmZLSnc">solution</a>)</li>
-	<li><a href="https://sylvyanscombe.wordpress.com/2015/11/10/puzzle-corner-sylvys-puzzle-5/">vertex of parabola</a></li>
-	<li><a href="https://sylvyanscombe.wordpress.com/2015/10/28/sylvys-weekly-puzzle-4/">continuum chain in $\mathcal{P}(\mathbb{N})$</a>
-	(<a href="https://sylvyanscombe.wordpress.com/2015/12/18/puzzle-corner-solution-to-sylvys-puzzle-4/">solution</a>)</li>
-	<li><a href="https://sylvyanscombe.wordpress.com/2015/10/14/sylvys-weekly-puzzle-3/">Sonic topology</a>
-	(<a href="https://sylvyanscombe.wordpress.com/2015/10/28/sylvys-weekly-puzzle-3-solution-part-i/">solution part (i)</a>,
-	<a href="https://sylvyanscombe.wordpress.com/2015/11/10/sylvys-weekly-puzzle-3-solution-part-ii/">solution part (ii)</a>)</li>
-	<li><a href="https://drive.google.com/open?id=1rvjFVInD3iZtZ7yJK_LJnPMunG7ZaWnK">magic number</a></li>
-	<li><a href="https://drive.google.com/open?id=1mAd5D5rg_gJ24VKEb5f6j69ICRuPzb5q">coins, coins, and more coins</a></li>
-	<li><a href="https://drive.google.com/open?id=1dBMwVTqsjnDuiwT3ObaYLPI5c8DL0zT0">Knights and Knaves Puzzles</a></li>
-	<li><a href="https://drive.google.com/file/d/0B6bVmoUt7QTXdzRlNERaZEVYLVk/view?usp=sharing">Pirates and coins</a></li>
+<li><a href="https://drive.google.com/file/d/1Y1f2rfKFNoUjqvpLnxobaEXha8kieE4C/view?usp=sharing">Cute Functions</a></li>
+<li><a href="https://drive.google.com/open?id=1tB2ceF85zjMHMrlukyXEf2utWGk3PJQP">A tribute to Rubik's Cube</a></li>
+<li><a href="https://drive.google.com/open?id=1HCCLIiGS2ZN34gsOxerLYGKWJQ2A6LnX">Quick Pythagoras</a></li>
+<li><a href="http://www.lancashiresciencefestival.co.uk/wp-content/uploads/2018/07/LanBots-Logic-Puzzles-with-Sylvy-Anscombe.pdf">Lanbot's Logic Puzzles</a> (Lancashire Science Festival)</li>
+<li><a href="https://drive.google.com/open?id=1u_NX6uAT93VMB0dWBZ7H-ormCrMrvunj">Sections through a cube</a></li>
+<li><a href="https://drive.google.com/open?id=1qw4hcQVZuDdAIN7PVrJFyGeFI9-diA3K">Optimist, Pessimist</a></li>
+<li><a href="https://drive.google.com/open?id=18VD2zNDJ8hqHkcfm31bhq0r1RD2BP7_L">Heptagon</a></li>
+<li><a href="https://drive.google.com/open?id=1C7FPQGbc-vId4bIBpV80zd5vjlODTs1C">Pentagon</a></li>
+<li><a href="https://drive.google.com/open?id=1K_bxWt_s-gOUMPh3kr09PwLfbLG4ltHJ">All present and correct</a></li>
+<li><a href="https://drive.google.com/open?id=1sqPjD3kr-AVhtlYdnC8aiK3EzGgzSqKt">Long Division</a>
+(<a href="https://drive.google.com/open?id=1-uXa83mTjN0bqq_PQA50opMN65vxL1su">solution</a>)</li>
+<li><a href="https://drive.google.com/open?id=1zi9g_C_2DwsdwjM502mbQgqR5IEmHKvv">Factorial, Factorialer, Factorialist</a></li>
+<li><a href="https://drive.google.com/open?id=0B6bVmoUt7QTXNEZndDdxLXU0SFk">the puzzle forest</a>
+(<a href="https://drive.google.com/open?id=0B6bVmoUt7QTXeGRLWjE4SmZLSnc">solution</a>)</li>
+<li><a href="https://sylvyanscombe.wordpress.com/2015/11/10/puzzle-corner-sylvys-puzzle-5/">vertex of parabola</a></li>
+<li><a href="https://sylvyanscombe.wordpress.com/2015/10/28/sylvys-weekly-puzzle-4/">continuum chain in $\mathcal{P}(\mathbb{N})$</a>
+(<a href="https://sylvyanscombe.wordpress.com/2015/12/18/puzzle-corner-solution-to-sylvys-puzzle-4/">solution</a>)</li>
+<li><a href="https://sylvyanscombe.wordpress.com/2015/10/14/sylvys-weekly-puzzle-3/">Sonic topology</a>
+(<a href="https://sylvyanscombe.wordpress.com/2015/10/28/sylvys-weekly-puzzle-3-solution-part-i/">solution part (i)</a>,
+<a href="https://sylvyanscombe.wordpress.com/2015/11/10/sylvys-weekly-puzzle-3-solution-part-ii/">solution part (ii)</a>)</li>
+<li><a href="https://drive.google.com/open?id=1rvjFVInD3iZtZ7yJK_LJnPMunG7ZaWnK">magic number</a></li>
+<li><a href="https://drive.google.com/open?id=1mAd5D5rg_gJ24VKEb5f6j69ICRuPzb5q">coins, coins, and more coins</a></li>
+<li><a href="https://drive.google.com/open?id=1dBMwVTqsjnDuiwT3ObaYLPI5c8DL0zT0">Knights and Knaves Puzzles</a></li>
+<li><a href="https://drive.google.com/file/d/0B6bVmoUt7QTXdzRlNERaZEVYLVk/view?usp=sharing">Pirates and coins</a></li>
 
 </ul>
 
@@ -127,9 +114,8 @@ Here are some <b>PUZZLES</b> linked to my book chapter:
 </ul>
 -->
 
-<a name="outreach"></a>
-
 <br>
+
 <hr>
 
 <h3>outreach talks</h3>
@@ -148,11 +134,6 @@ Here are some <b>PUZZLES</b> linked to my book chapter:
 	<li>Set Theory: <a href="https://drive.google.com/open?id=0B6bVmoUt7QTXT2kySmJuQXpfeTA">Cantor's Infinities</a>, talk for schools, 2011.</li>
 -->
 </ul>
-
-
-<br><br>
-<hr>
-<br>
 
 
 </div>

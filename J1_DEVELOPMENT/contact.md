@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "contact"
-date:   2022-08-15 11:30:00 +0200
-categories: research
+categories: me
 usemathjax: true
 ---
 

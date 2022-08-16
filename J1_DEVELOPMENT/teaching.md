@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "teaching"
-date:   2022-08-14 14:50:00 +0200
+title: "teaching"
 categories: about me
 usemathjax: true
 ---

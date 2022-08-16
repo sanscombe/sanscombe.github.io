@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "me"
-date:   2022-08-13 19:39:44 +0200
-categories: about me
+categories: me
 ---
 
 I am a mathematician.
@@ -34,6 +33,17 @@ You are welcome to [contact][contact] me.
 - The journal [Model Theory][Model Theory] has its [first issue][first issue]!
 <a href="https://msp.org/mt/"><img src="/journal.jpg" width="20%" style="float:right;"></a>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="/msri.jpg" width="100%" style="float:right;">
 
 [research]: ../14/research.html
 [teaching]: ../14/teaching.html
