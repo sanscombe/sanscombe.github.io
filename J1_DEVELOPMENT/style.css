@@ -33,7 +33,7 @@ ul.nav {
 	}
 
 a {
-font-weight: bold;
+/*font-weight: bold;*/
 }
 a:link {
 text-decoration: none;
@@ -404,33 +404,10 @@ a.navdebugsub:link, a:visited {}
 /*
 SECTIONS
 */
-#header {
-    background-color:White;/*Lavender;*/
-/*Lavender*/
-/*LavenderBlush*/
-/*#4169E1;*/
-    color:DarkSlateGrey;
-    text-align:left;
-    padding:5px;
-    height:80px;
-    width:70%;
-    float:right;
-}
-#nav {
-    display:block;
-    text-align:center;
-    line-height:30px;
-    background-color: AliceBlue; /*AliceBlue or Lavender*/
-    color:MidnightBlue;
-    height:101%;/*136%*/
-    width:15%;
-    float:right;
-    padding:0px;
-}
 #section {
     background-color:White;
 /*#FFFFFF;*/
-    width:70%;
+    width:100%;
     height:auto;/*auto;*/
     float:right;
     padding:5px;
