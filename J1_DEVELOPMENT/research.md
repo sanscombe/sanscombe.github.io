@@ -269,6 +269,14 @@ Here are some links to meetings that I have attended or will attend.
 
 <ul>
 
+<li><a href="https://www.jointmathematicsmeetings.org/">JMM 2023</a>, 4th &ndash; 7th January 2023</li>
+
+<li><a href="https://www.uantwerpen.be/en/summer-winter-schools/algar/">ALGAR 2022</a>, Antwerp, 5th &ndash; 9th September 2022</li>
+
+<li><a href="https://women-in-numbers-europe-4.sites.uu.nl/">Women in Numbers Europe 4</a>, Utrecht, 29th August--2nd September 2022</li>
+
+<li><a href="http://www.msri.org/programs/364">Decidability, definability and computability in number theory: Part 2</a>, MSRI, Berkeley, 18th July &ndash; 12th August 2022</li>
+
 <li><a href="http://icetcs.ru.is/lc2022/">Logic Colloquium 2022</a>, Reykjavik, June 2022</li>
 
 <li><a href="https://tu-dresden.de/mn/math/algebra/fehm/die-professur/seminartag">Model theory of valued fields and resolution of singularities</a>, Dresden, 17th June 2022</li>
@@ -277,9 +285,9 @@ Here are some links to meetings that I have attended or will attend.
 
 <li><a href="https://sites.google.com/view/smth2/">Short Model Theory Huddle 2</a>, 16th &ndash; 18th June 2021</li>
 
-<li><a href="http://www.msri.org/programs/319">Decidability, definability and computability in number theory</a>, MSRI, Berkeley, 17th August -- 18th December 2020</li>
+<li><a href="http://www.msri.org/programs/319">Decidability, definability and computability in number theory: Part 1 - Virtual Semester</a>, MSRI, Berkeley, 17th August &ndash; 18th December 2020</li>
 
-<li><a href="https://www.uantwerpen.be/en/summer-schools/algar/">ALGAR</a>, Antwerp, 6th -- 10th of July 2020</li>
+<li><a href="https://www.uantwerpen.be/en/summer-schools/algar/">ALGAR</a>, Antwerp, 6th &ndash; 10th of July 2020</li>
 
 <li><a href="https://ivv5hpp.uni-muenster.de/u/fjahn_01/mtvfa/">Model Theory of Valued Fields and Applications</a>, M&uuml;nster, 10th June - 14th June 2019</li>
 
@@ -341,7 +349,7 @@ Here are some links to meetings that I have attended or will attend.
 
 <h3>research students</h3>
 
-PhD &nbsp;&nbsp;($\Longrightarrow$<a href="https://www.math.univ-paris-diderot.fr/formations/doctorats/index">Ecole Doctorale, Université Paris Cité</a>)
+PhD
 <ul>
 <li>Piotr Szewczyk. Co-supervised with Arno Fehm, TU Dresden.</li>
 <li>Paulo Andrés Soto Moreno.</li>
@@ -352,65 +360,100 @@ Master/Memoire
 <li>Paulo Soto, 2022.</li>
 </ul>
 
-<br>
+If you're interested in studying with me, please <a href="/contact.html">contact</a> me.
 
-<hr>
-
-<h3>online tools</h3>
-
-<ul>
-
-<li>my articles on the <a href="http://arxiv.org/a/anscombe_w_1">arXiv</a></li>
-
-<li>my page on <a href="https://uclan.academia.edu/SylvyAnscombe">academia.edu</a></li>
-
-<li>my page on <a href="https://scholar.google.co.uk/citations?user=WP2b3cMAAAAJ&hl=en">Google Scholar</a></li>
-
-<li>my page on <a href="http://orcid.org/0000-0002-9930-2804">ORCiD</a></li>
-
-<li>my page on <a href="https://genealogy.math.ndsu.nodak.edu/id.php?id=173503">Mathematics Genealogy Project</a></li>
-
-</ul>
+<br><br>
 
 <hr>
 
 <h3>useful links</h3>
 
+
 <ul>
 
-<li><a href="http://www.logique.jussieu.fr/modnet/Meetings%20and%20events/Onlineseminars.html">Online seminars in model theory</a></li>
+<li>my pages on 
 
-<li><a href="https://researchseminars.org/">Online mathematics research seminars</a></li>
+	<ul>
 
-<li><a href="http://www.uclan.ac.uk/research/explore/groups/mathematics-model-theory.php">Model Theory group</a>, University of Central Lancashire</li>
+	<li><a href="http://arxiv.org/a/anscombe_w_1">arXiv</a></li>
 
-<li><a href="http://www.star.uclan.ac.uk/mathematics/">Mathematics group</a>, University of Central Lancashire</li>
+	<li><a href="https://uclan.academia.edu/SylvyAnscombe">academia.edu</a></li>
 
-<li><a href="http://www.star.uclan.ac.uk/">Jeremiah Horrocks Institute</a>, University of Central Lancashire</li>
+	<li><a href="https://scholar.google.co.uk/citations?user=WP2b3cMAAAAJ&hl=en">Google Scholar</a></li>
 
-<li><a href="http://www1.maths.leeds.ac.uk/pure/logic/index.html">Logic@Leeds</a>, University of Leeds</li>
+	<li><a href="http://orcid.org/0000-0002-9930-2804">ORCiD</a></li>
 
-<li><a href="http://www.maths.leeds.ac.uk">School of Mathematics</a>, University of Leeds</li>
+	<li><a href="https://genealogy.math.ndsu.nodak.edu/id.php?id=173503">Mathematics Genealogy Project</a></li>
 
-<li><a href="http://www.maths.ox.ac.uk/groups/logic">Mathematical Logic research group</a>, University of Oxford</li>
+	</ul>
 
-<li><a href="http://www.maths.ox.ac.uk">The Mathematical Institute</a>, University of Oxford</li>
+</li>
 
-<li><a href="http://www.lms.ac.uk">The London Mathematical Society</a></li>
+<li><a href="https://u-paris.fr/">Université Paris Cité</a>
 
-<li><a href="http://blc-logic.org">The British Logic Colloquium</a></li>
+	<ul>
 
-<li><a href="https://aslonline.org">The Association for Symbolic Logic</a></li>
+	<li><a href="https://www.imj-prg.fr/lm/">Équipe de Logique</a></li>
 
-<li><a href="http://arxiv.org">arXiv</a></li>
+	<li><a href="https://www.imj-prg.fr/">IMJ-PRG</a></li>
 
-<li><a href="http://www.ams.org/mathscinet/index.html">MathSciNet</a></li>
+	<li><a href="https://www.math.univ-paris-diderot.fr/">UFR de mathématiques</a></li>
 
-<li><a href="http://www.ams.org/mathscinet/collaborationDistance.html">AMS Collaboration Distance</a></li>
+	<li><a href="https://www.math.univ-paris-diderot.fr/formations/doctorats/index">École Doctorale 386 Sciences Mathématiques de Paris Centre</a></li>
 
-<li><a href="https://genealogy.math.ndsu.nodak.edu/index.php">Mathematics Genealogy Project</a></li>
+	</ul> 
 
-<li><a href="http://www.e-booksdirectory.com/mathematics.php">Free Mathematics ebooks</a></li>
+</li>
+
+<li>other institutions
+
+	<ul>
+
+	<li><a href="http://www.star.uclan.ac.uk/">Jeremiah Horrocks Institute</a>, <a href="https://www.uclan.ac.uk/">University of Central Lancashire</a></li>
+
+	<li><a href="https://eps.leeds.ac.uk/maths-pure-mathematics/doc/logic">Logic group</a>, <a href="http://www.maths.leeds.ac.uk">School of Mathematics</a>, <a href="https://www.leeds.ac.uk/">University of Leeds</a></li>
+
+	<li><a href="http://www.maths.ox.ac.uk/groups/logic">Mathematical Logic group</a>, <a href="http://www.maths.ox.ac.uk">The Mathematical Institute</a>, <a href="http://www.ox.ac.uk">University of Oxford</a></li>
+
+	</ul>
+
+</li>
+
+<li>professional organisations
+
+	<ul>
+
+	<li><a href="http://www.lms.ac.uk">The London Mathematical Society</a></li>
+
+	<li><a href="http://blc-logic.org">The British Logic Colloquium</a></li>
+
+	<li><a href="https://aslonline.org">The Association for Symbolic Logic</a></li>
+
+	</ul>
+
+</li>
+
+<li>online resources
+
+	<ul>
+
+	<li><a href="http://arxiv.org/">arXiv</a></li>
+
+	<li><a href="http://www.ams.org/mathscinet/index.html">MathSciNet</a></li>
+
+	<li><a href="http://www.ams.org/mathscinet/collaborationDistance.html">AMS Collaboration Distance</a></li>
+
+	<li><a href="https://genealogy.math.ndsu.nodak.edu/index.php">Mathematics Genealogy Project</a></li>
+
+	<li><a href="http://www.logique.jussieu.fr/modnet/Meetings%20and%20events/Onlineseminars.html">Online seminars in model theory</a></li>
+
+	<li><a href="https://researchseminars.org/">Online mathematics research seminars</a></li>
+
+	<li><a href="http://www.e-booksdirectory.com/mathematics.php">Free Mathematics ebooks</a></li>
+
+	</ul>
+
+</li>
 
 </ul>
 

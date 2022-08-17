@@ -45,11 +45,33 @@ You are welcome to [contact][contact] me.
 
 <img src="/msri.jpg" width="100%" style="float:right;">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="/arithmetic.jpg" width="100%" style="float:right;">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="/SYLVY.jpg" width="100%" style="float:right;">
+
 [research]: ../14/research.html
 [teaching]: ../14/teaching.html
 [contact]: ../15/contact.html
 [UPC]:	https://u-paris.fr/
-[IMJ-PRG]: https://u-paris.fr/
+[IMJ-PRG]: https://www.imj-prg.fr/
 [LM]:	https://www.imj-prg.fr/lm/
 [GeoMod]: https://home.mathematik.uni-freiburg.de/palacin/GeoMod/
 [JSL]:	https://msp.org/mt/

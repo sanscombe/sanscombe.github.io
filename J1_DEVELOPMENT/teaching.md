@@ -10,7 +10,7 @@ usemathjax: true
 
 ##### 2022--2023, Université Paris Cité
 
-- Cours de 
+- Cours/TD de MI1-1 dans L1INFO
 - Cours de MC2 dans L1CHIM
 - TD de MC2 dans L1CHIM
 - TD de LO6 dans L3MATHSMFA/L3MATINF
