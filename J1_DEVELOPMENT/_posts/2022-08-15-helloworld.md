@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Hello World!
+date: 2022-08-15 09:00 +0200
 ---
 
 <html>
