@@ -127,24 +127,24 @@ Supervised by Prof. Jochen Koenigsmann.
 <ol reversed class="papers" type="I">
 
 <li>
-<a href="https://arxiv.org/abs/2205.05438">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>
-(with Philip Dittmann and Arno Fehm).
+<a href="https://arxiv.org/abs/2205.05438">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>,
+with Philip Dittmann and Arno Fehm.
 <br>
 Submitted, 2022.
 <a href="http://arxiv.org/abs/2205.05438">arXiv:2205.05438 [math.LO]</a>
 </li>
 
 <li>
-<a href="https://arxiv.org/abs/1911.00309">Characterizing NIP henselian fields</a>
-(with Franziska Jahnke).
+<a href="https://arxiv.org/abs/1911.00309">Characterizing NIP henselian fields</a>,
+with Franziska Jahnke.
 <br>
 Submitted, 2022.
 <a href="https://arxiv.org/abs/1911.00309">arXiv:1911.00309 [math.LO]</a>
 </li>
 
 <li>
-<a href="https://arxiv.org/abs/1904.08297">The model theory of Cohen rings</a>
-(with Franziska Jahnke).
+<a href="https://arxiv.org/abs/1904.08297">The model theory of Cohen rings</a>,
+with Franziska Jahnke.
 <br>
 Submitted, 2021.
 <a href="https://arxiv.org/abs/1904.08297">arXiv:1904.08297 [math.LO]</a>
@@ -158,14 +158,14 @@ Submitted, 2021.
 
 
 <li>
-An elementary geometric approach to linear prediction
-(with Amery Gration).
+An elementary geometric approach to linear prediction,
+with Amery Gration.
 Manuscript, 2021.
 </li>
 
 <li>
-<a href="https://drive.google.com/open?id=1WZgYHagdgannBDn_rwT64rvhbeaPtE5V">The mathematical structure of classical mechanics</a>
-(with Amery Gration).
+<a href="https://drive.google.com/open?id=1WZgYHagdgannBDn_rwT64rvhbeaPtE5V">The mathematical structure of classical mechanics</a>,
+with Amery Gration.
 Manuscript, 2019.
 </li>
 
@@ -177,13 +177,13 @@ Manuscript, 2018.
 
 </ol>
 
-
-
-<br>
-<a name="talks"></a>
 <hr>
 
-<h3>talks: slides, notes, and abstracts</h3>
+<h3>talks</h3>
+
+Links to a selection of slides, notes, and abstracts.
+
+<img src="/msri.jpg" width="50%" style="float:right;">
 
 <ol reversed type="a">
 
@@ -265,7 +265,9 @@ Talk, AMS Rutgers, Nov 2015.
 
 <h3>meetings, conferences, workshops</h3>
 
-Here are some links to meetings that I have attended or will attend.
+Links to a selection of meetings that I have attended or will attend.
+
+<img src="/arithmetic.jpg" width="40%" style="float:right;">
 
 <ul>
 
@@ -287,7 +289,7 @@ Here are some links to meetings that I have attended or will attend.
 
 <li><a href="http://www.msri.org/programs/319">Decidability, definability and computability in number theory: Part 1 - Virtual Semester</a>, MSRI, Berkeley, 17th August &ndash; 18th December 2020</li>
 
-<li><a href="https://www.uantwerpen.be/en/summer-schools/algar/">ALGAR</a>, Antwerp, 6th &ndash; 10th of July 2020</li>
+<li><a href="https://www.uantwerpen.be/en/summer-schools/algar/">ALGAR 2020</a>, Antwerp, 6th &ndash; 10th of July 2020</li>
 
 <li><a href="https://ivv5hpp.uni-muenster.de/u/fjahn_01/mtvfa/">Model Theory of Valued Fields and Applications</a>, M&uuml;nster, 10th June - 14th June 2019</li>
 
@@ -351,7 +353,7 @@ Here are some links to meetings that I have attended or will attend.
 
 PhD
 <ul>
-<li>Piotr Szewczyk. Co-supervised with Arno Fehm, TU Dresden.</li>
+<li>Piotr Szewczyk &mdash; co-supervised with Arno Fehm, TU Dresden.</li>
 <li>Paulo Andrés Soto Moreno.</li>
 </ul>
 
@@ -368,6 +370,7 @@ If you're interested in studying with me, please <a href="/contact.html">contact
 
 <h3>useful links</h3>
 
+<img src="/msri2.jpg" width="30%" style="float:right;">
 
 <ul>
 

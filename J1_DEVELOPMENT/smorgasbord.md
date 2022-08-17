@@ -32,6 +32,7 @@ $(function(){$("#menu").load("./menu.js");});
 
 <h3><a class="linkdebugmain" href="https://www.waterstones.com/book/unmasked/s-anscombe/n-danino/9781912979080?fbclid=IwAR2kkLuFbVRS0TvOr9etGZMB2E45oH8KkBVce9FdiyK7Mg01zQ-5km-6hlo">Unmasked: the Science of Superheroes</a></h3>
 
+<img src="/sylvy.jpg" width="35%" style="float:right;">
 <b>OUT NOW!</b>
 <ul>
 <li><a href="https://www.amazon.co.uk/Unmasked-Science-Superheroes-Robert-Walsh/dp/191297908X/ref=sr_1_1?keywords=unmasked%3A+the+science+of+superheroes&qid=1583537025&sr=8-1">Amazon</a></li>

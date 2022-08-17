@@ -18,6 +18,8 @@ I am supported by [GeoMod][GeoMod].
 - [ALGAR 2022](https://www.uantwerpen.be/en/summer-winter-schools/algar/), Antwerp, 5th--9th September 2022
 - [JMM 2023](https://www.jointmathematicsmeetings.org/), JMM, 4th--7th January 2023
 
+<img src="/berkeley3.jpg" width="100%" style="display:block; margin-left: auto; margin-right: auto;">
+
 ---
 
 You can find resources for my teaching on my [teaching][teaching] page.
@@ -31,41 +33,8 @@ You are welcome to [contact][contact] me.
 #### News.
 
 - The journal [Model Theory][Model Theory] has its [first issue][first issue]!
-<a href="https://msp.org/mt/"><img src="/journal.jpg" width="20%" style="float:right;"></a>
+<a href="https://msp.org/mt/"><img src="/journal.jpg" width="30%" style="float:right;"></a>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="/msri.jpg" width="100%" style="float:right;">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="/arithmetic.jpg" width="100%" style="float:right;">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="/SYLVY.jpg" width="100%" style="float:right;">
 
 [research]: ../14/research.html
 [teaching]: ../14/teaching.html
