@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: page
 title: "teaching"
 categories: about me
 usemathjax: true
 ---
 
----
-#### current teaching
+### current teaching
 
 ##### 2022--2023, Université Paris Cité
 
@@ -18,7 +17,7 @@ usemathjax: true
 
 ---
 
-#### farrago
+### farrago
 
 Short notes from teaching
 
@@ -31,7 +30,7 @@ Short notes from teaching
 
 ---
 
-#### past teaching
+### past teaching
 
 ##### 2021--2022, Université Paris Cité
 

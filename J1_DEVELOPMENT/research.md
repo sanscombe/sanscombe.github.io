@@ -1,6 +1,6 @@
 ---
-layout: post
-title: research
+layout: page
+title: "research"
 categories: research
 ---
 <html>
@@ -8,7 +8,7 @@ categories: research
 <title>
 Sylvy Anscombe
 </title>
-<link rel="stylesheet" type="text/css" href="./style.css?">
+<link rel="stylesheet" type="text/css" href="/style.css?">
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]}
 });
@@ -16,10 +16,10 @@ MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]}
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-<script>
+<!--<script>
 var menumode = "research";
 $(function(){$("#menu").load("./menu.js");});
-</script>
+</script>-->
 </head>
 
 <body>
@@ -277,7 +277,7 @@ Links to a selection of meetings that I have attended or will attend.
 
 <li><a href="https://women-in-numbers-europe-4.sites.uu.nl/">Women in Numbers Europe 4</a>, Utrecht, 29th August--2nd September 2022</li>
 
-<li><a href="http://www.msri.org/programs/364">Decidability, definability and computability in number theory: Part 2</a>, MSRI, Berkeley, 18th July &ndash; 12th August 2022</li>
+<li><a href="http://www.msri.org/programs/364">Decidability, definability and computability in number theory: Part 2</a>, MSRI/SLMath, Berkeley, 18th July &ndash; 12th August 2022</li>
 
 <li><a href="http://icetcs.ru.is/lc2022/">Logic Colloquium 2022</a>, Reykjavik, June 2022</li>
 
