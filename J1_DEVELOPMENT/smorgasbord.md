@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "smörgåsbord2"
+title: "smörgåsbord"
 ---
 
 ### <a class="linkdebugmain" href="https://www.waterstones.com/book/unmasked/s-anscombe/n-danino/9781912979080?fbclid=IwAR2kkLuFbVRS0TvOr9etGZMB2E45oH8KkBVce9FdiyK7Mg01zQ-5km-6hlo">Unmasked: the Science of Superheroes</a>
