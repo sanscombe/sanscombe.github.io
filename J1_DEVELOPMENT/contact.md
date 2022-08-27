@@ -5,6 +5,8 @@ categories: me
 usemathjax: true
 ---
 
+<img src="/leeds_cafe.jpg" width="35%" style="float:right;">
+
 My e-mail address is:
 
 >
