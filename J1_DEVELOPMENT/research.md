@@ -297,7 +297,7 @@ Links to a selection of meetings that I have attended or will attend.
 
 <li><a href="https://www.birs.ca/events/2018/5-day-workshops/18w5193">Neostability Theory</a>, BIRS-CMO Workshop, Casa Matem&aacute;tica, 14th October - 19th October 2018</li>
 
-<li><a class="linkresearchmain" href="https://www.icms.org.uk/events/workshops/PGMT">&nbsp;From permutation groups to model theory&nbsp;</a>, ICMS, Edinburgh, 17th - 20th September 2018</li>
+<li><a class="linkresearchmain" href="https://www.icms.org.uk/events/workshops/PGMT">From permutation groups to model theory</a>, ICMS, Edinburgh, 17th - 20th September 2018</li>
 
 <li><a href="https://sites.google.com/site/ewmgm18/">EWM General Meeting 2018</a>, Graz, 3rd - 7th September 2018</li>
 
@@ -319,7 +319,7 @@ Links to a selection of meetings that I have attended or will attend.
 
 <li><a href="http://www1.maths.leeds.ac.uk/pure/logic/events/homogeneous/">Homogeneous structures, permutation groups, and connections to set theory</a>, Leeds, 10th - 12th September 2017</li>
 
-<li><a class="linkresearchmain" href="./newdirections.html">&nbsp;New Directions in the Model Theory of Valued Fields&nbsp;</a>, Preston, 4th August 2017</li>
+<li><a class="linkresearchmain" href="./newdirections.html">New Directions in the Model Theory of Valued Fields</a>, Preston, 4th August 2017</li>
 
 <li><a href="https://www.impan.pl/en/activities/banach-center/conferences/17-modeltheory">Model Theory in B&#281;dlewo</a>, B&#281;dlewo, 2nd - 8th July 2017</li>
 
@@ -373,6 +373,28 @@ If you're interested in studying with me, please <a href="/contact.html">contact
 <img src="/msri2.jpg" width="30%" style="float:right;">
 
 <ul>
+
+<li>journals
+
+	<ul>
+
+	<li><a class="linkresearchmain" href="https://msp.org/mt">Model Theory &ndash; journal</a></li>
+
+	<li><a class="linkresearchmain" href="https://www.cambridge.org/core/journals/journal-of-symbolic-logic">Journal of Symbolic Logic</a></li>
+
+	</ul>
+
+</li>
+
+<li>seminars
+
+	<ul>
+
+	<li><a class="linkseminarmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral</a></li>
+
+	</ul>
+
+</li>
 
 <li>my pages on 
 
@@ -443,6 +465,10 @@ If you're interested in studying with me, please <a href="/contact.html">contact
 	<li><a href="http://arxiv.org/">arXiv</a></li>
 
 	<li><a href="http://www.ams.org/mathscinet/index.html">MathSciNet</a></li>
+
+	<li><a href="https://www.lmfdb.org/">LMFDB</a></li>
+
+	<li><a href="https://www.forkinganddividing.com/">forkinganddividing</a></li>
 
 	<li><a href="http://www.ams.org/mathscinet/collaborationDistance.html">AMS Collaboration Distance</a></li>
 

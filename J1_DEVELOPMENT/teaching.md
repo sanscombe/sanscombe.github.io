@@ -17,6 +17,20 @@ usemathjax: true
 
 ---
 
+### useful links
+- [UFR de mathématiques](https://www.math.univ-paris-diderot.fr/), [Université Paris Cité](https://u-paris.fr/)
+	- [Les licences de Mathématiques](https://licence.math.univ-paris-diderot.fr/)
+		- [Emplois du temps](https://licence.math.univ-paris-diderot.fr/informations/calendrier/edt/)
+	- [M1 Mathématiques Fondamentales et Appliquées](https://master.math.univ-paris-diderot.fr/annee/m1-math/)
+		- [Emploi du temps](https://master.math.univ-paris-diderot.fr/annee/m1-math/#infospratiques)
+	- [M2 Master Logique et Fondements de l'Informatique](https://master.math.univ-paris-diderot.fr/annee/m2-lmfi/)
+		- [Emploi du temps](https://master.math.univ-paris-diderot.fr/annee/m2-lmfi/#infospratiques)
+	- [Moodle](https://moodle.u-paris.fr/)
+- [M2 de Mathématiques fondamentales](https://master-math-fonda.imj-prg.fr/)
+- [École Doctorale 386 Sciences Mathématiques de Paris Centre](https://www.math.univ-paris-diderot.fr/formations/doctorats/index)
+
+---
+
 ### farrago
 
 Short notes from teaching

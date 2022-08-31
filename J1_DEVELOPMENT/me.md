@@ -14,7 +14,7 @@ I am supported by [GeoMod][GeoMod].
 
 ---
 
-### Current and upcoming.
+### current and upcoming
 
 - [Women in Numbers Europe 4](https://women-in-numbers-europe-4.sites.uu.nl/), Utrecht, 29th August--2nd September 2022
 - [ALGAR 2022](https://www.uantwerpen.be/en/summer-winter-schools/algar/), Antwerp, 5th--9th September 2022
@@ -22,17 +22,17 @@ I am supported by [GeoMod][GeoMod].
 
 <img src="/berkeley3.jpg" width="100%" style="display:block; margin-left: auto; margin-right: auto;">
 
+[!]: <> ---
+
+[!]: <> You can find resources for my teaching on my [teaching][teaching] page.
+
+[!]: <> There is some recreational mathematics on the [smörgåsbord][smorgasbord] of fun maths.
+
+[!]: <> You are welcome to [contact][contact] me.
+
 ---
 
-You can find resources for my teaching on my [teaching][teaching] page.
-
-There is some recreational mathematics on the [smörgåsbord][smorgasbord] of fun maths.
-
-You are welcome to [contact][contact] me.
-
----
-
-### News.
+### news
 
 - The journal [Model Theory][Model Theory] has its [first issue][first issue]!
 <a href="https://msp.org/mt/"><img src="/journal.jpg" width="30%" style="float:right;"></a>
