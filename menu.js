@@ -34,5 +34,7 @@
     <li><a>&nbsp;</a></li>
 -->
     <li><a>&nbsp;</a></li>
+<!--
     <li><a class="navresearchsub" href="https://women-in-numbers-europe-4.sites.uu.nl/">WINE-4</a></li>
+-->
 </ul>
