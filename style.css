@@ -1,6 +1,6 @@
 body {
 /* I used to use Verdana, Geneva, sans-serif*/
-font-family: Verdana, Arial, Helvetica, sans-serif;
+/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
 /* font-family: Verdana, Geneva, sans-serif;*/
 background-color: AliceBlue;
 /*Lavender*/
@@ -33,7 +33,7 @@ ul.nav {
 	}
 
 a {
-font-weight: bold;
+/*font-weight: bold;*/
 }
 a:link {
 text-decoration: none;
@@ -45,7 +45,7 @@ color:blue;
 }
 a:hover {
 text-decoration: underline;
-color:black;
+color:blue;
 }
 a:active {
 text-decoration: underline;
@@ -133,6 +133,12 @@ vertical-align:center}
 a.navresearchmain:hover {background:Maroon}
 a.navresearchmain:link, a:visited {}
 
+a.linkresearchmain {border-style: solid;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-color: Red}
 a.linkresearchmain {text-decoration:none;
 color:Snow;
 background-color:Red;
@@ -175,6 +181,12 @@ vertical-align:center}
 a.navseminarmain:hover {background:Blue}
 a.navseminarmain:link, a:visited {}
 
+a.linkseminarmain {border-style: solid;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-color:CornflowerBlue}
 a.linkseminarmain {text-decoration:none;
 color:Snow;
 background-color:CornflowerBlue;
@@ -375,6 +387,12 @@ vertical-align:center}
 a.navdebugmain:hover {background:Orange}
 a.navdebugmain:link, a:visited {}
 
+a.linkdebugmain {border-style: solid;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-color:Gold}
 a.linkdebugmain {text-decoration:none;
 color:Black;
 background-color:Gold;
@@ -404,33 +422,10 @@ a.navdebugsub:link, a:visited {}
 /*
 SECTIONS
 */
-#header {
-    background-color:White;/*Lavender;*/
-/*Lavender*/
-/*LavenderBlush*/
-/*#4169E1;*/
-    color:DarkSlateGrey;
-    text-align:left;
-    padding:5px;
-    height:80px;
-    width:70%;
-    float:right;
-}
-#nav {
-    display:block;
-    text-align:center;
-    line-height:30px;
-    background-color: AliceBlue; /*AliceBlue or Lavender*/
-    color:MidnightBlue;
-    height:101%;/*136%*/
-    width:15%;
-    float:right;
-    padding:0px;
-}
 #section {
     background-color:White;
 /*#FFFFFF;*/
-    width:70%;
+    width:100%;
     height:auto;/*auto;*/
     float:right;
     padding:5px;
