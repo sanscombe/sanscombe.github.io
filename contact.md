@@ -11,7 +11,7 @@ order: 5
 My e-mail address is:
 
 >
-firstnameDOTlastnameATimj-prgDOTfr
+firstname DOT lastname AT imj-prg DOT fr
 
 My office is:
 
