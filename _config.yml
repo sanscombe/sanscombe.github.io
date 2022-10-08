@@ -21,7 +21,7 @@
 title: Sylvy Anscombe
 email: firstname DOT lastname AT img-prg DOT fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Sylvy's homepage
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
