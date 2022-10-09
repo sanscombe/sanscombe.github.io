@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "teaching // enseignement"
+title: "teaching ‖ enseignement"
 categories: teaching
 usemathjax: true
 order: 3
 ---
 
-### current teaching // enseignement actuel
+### current teaching ‖ enseignement actuel
 
 ##### 2022--2023, Université Paris Cité
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
