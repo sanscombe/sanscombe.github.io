@@ -35,7 +35,7 @@ My office telephone number is:
 My office hours are:
 
 >
-(suspended)
+by appointment
 
 Here is a [campus map][campus map]:
 
