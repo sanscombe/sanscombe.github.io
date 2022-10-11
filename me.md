@@ -20,6 +20,7 @@ I am supported by [GeoMod][GeoMod].
 
 ### current and upcoming
 
+- [MWMT 2022](https://homepages.math.uic.edu/~freitag/MWMT2022/), 14th--16th October 2022
 - [JMM 2023](https://www.jointmathematicsmeetings.org/), JMM, 4th--7th January 2023
 - [Model Theory of Valued Fields](https://conferences.cirm-math.fr/2761.html), CIRM, Luminy, 29th May--2nd June 2023
 
