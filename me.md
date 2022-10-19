@@ -19,7 +19,8 @@ I am supported by [GeoMod][GeoMod].
 ### current and upcoming
 
 - [MWMT 2022](https://homepages.math.uic.edu/~freitag/MWMT2022/), UIC, Chicago, 14th--16th October 2022
-	- [Slides](https://drive.google.com/file/d/1At3Z13k4eev4PdCV5W9wgtMZpUCCBXWW/view?usp=sharing)
+	- [slides](https://drive.google.com/file/d/1At3Z13k4eev4PdCV5W9wgtMZpUCCBXWW/view?usp=sharing)
+	- [handout](https://drive.google.com/file/d/1yJjAu9RjZVM6I9zh6CKdxypVSmaBuNjf/view?usp=sharing)
 - [Théorie des modèles et groupes][LM], IMJ-PRG, Paris, 8th November 2022
 - [DaLFI 2022](https://www.samvangool.net/dalfi.html), IRIF, Paris, 17th November 2022
 - [JMM 2023](https://www.jointmathematicsmeetings.org/), Boston, 4th--7th January 2023

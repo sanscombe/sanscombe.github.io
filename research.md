@@ -244,7 +244,8 @@ Antwerp, July 2020.
 
 <li>
 Generalized measurable structures
-(<a href="https://drive.google.com/file/d/1At3Z13k4eev4PdCV5W9wgtMZpUCCBXWW/view?usp=sharing">slides</a>),
+(<a href="https://drive.google.com/file/d/1At3Z13k4eev4PdCV5W9wgtMZpUCCBXWW/view?usp=sharing">slides</a>,
+<a href="https://drive.google.com/file/d/1yJjAu9RjZVM6I9zh6CKdxypVSmaBuNjf/view?usp=sharing">handout</a>),
 <a href="https://homepages.math.uic.edu/~freitag/MWMT2022/">MWMT2022</a>, Chicago, October 2022
 </li>
 

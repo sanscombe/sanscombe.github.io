@@ -18,7 +18,7 @@ order: 3
 		- interro 1 : 14 septembre 
 		- interro 2 : 23 septembre 
 		- interro 3 : 30 septembre 
-		- interro 4 : 7 octobre 
+		- interro 4 : 7 octobre --- contrôle continu
 		- interro 5 : 14 octobre 
 		- interro 6 : 21 octobre 
 - Cours de MC2 dans L1CHIM
