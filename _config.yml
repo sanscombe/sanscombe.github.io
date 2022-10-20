@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sylvy Anscombe
-email: firstname DOT lastname AT img-prg DOT fr
+email: firstname DOT lastname AT imj-prg DOT fr
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
