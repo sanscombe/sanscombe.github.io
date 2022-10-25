@@ -9,18 +9,6 @@ order: 2
 <title>
 Sylvy Anscombe
 </title>
-<link rel="stylesheet" type="text/css" href="/style.css?">
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]}
-});
-</script>
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-<!--<script>
-var menumode = "research";
-$(function(){$("#menu").load("./menu.js");});
-</script>-->
 </head>
 
 <body>
@@ -564,23 +552,6 @@ If you're interested in studying with me, please <a href="/contact.html">contact
 
 </div>
 
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=9709089; 
-var sc_invisible=1; 
-var sc_security="060d3b77"; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="free hit
-counter" href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/9709089/0/060d3b77/1/"
-alt="free hit counter"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
 
 </body>
 </html>
