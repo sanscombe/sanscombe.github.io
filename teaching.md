@@ -8,7 +8,7 @@ order: 3
 
 ### current teaching ‖ enseignement actuel
 
-- [Mirna's class -- notes](./2022-10-18-Mirna.html)
+- [Mirna's class -- notes](./backpages/2022-10-18-Mirna.html)
 
 ##### 2022--2023, Université Paris Cité
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
@@ -46,6 +46,7 @@ order: 3
 
 Short notes from teaching
 
+- [Mirna's class -- notes](./backpages/2022-10-18-Mirna.html)
 - [The Rank-Nullity Theorem](https://drive.google.com/open?id=15hWnh1Gzmf64ewdBomw0wyFLzgf2GFtB), a note written for a student at UCLan in 2017
 - [Arithmetization of syntax](https://drive.google.com/file/d/0B6bVmoUt7QTXaTY0UmVJTE01ZEE/view?usp=sharing), a note from a course on G&ouml;del's Incompleteness Theorems that I gave in the Nesin Mathematics Village in 2013
 - [The Cayley--Hamilton Theorem, some thoughts about the proof](https://drive.google.com/file/d/0B6bVmoUt7QTXZkpnOW9uMHpzSkE/view?usp=sharing), a note that came from a discussion in tutorials at Merton
