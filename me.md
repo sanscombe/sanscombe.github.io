@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "me"
+title:  ""
 categories: me
 order: 1
 ---

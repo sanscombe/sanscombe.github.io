@@ -453,7 +453,7 @@ If you're interested in studying with me, please <a href="/contact.html">contact
 
 	<ul>
 
-	<li><a class="linkseminarmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral</a></li>
+	<li><a class="linkseminarmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral de Logique</a></li>
 
 	</ul>
 
