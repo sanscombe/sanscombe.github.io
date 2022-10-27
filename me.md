@@ -22,6 +22,7 @@ I am supported by [GeoMod][GeoMod].
 - [DaLFI 2022](https://www.samvangool.net/dalfi.html), IRIF, Paris, 17th November 2022
 - [JMM 2023](https://www.jointmathematicsmeetings.org/), Boston, 4th--7th January 2023
 - [Model Theory of Valued Fields](https://conferences.cirm-math.fr/2761.html), CIRM, Luminy, 29th May--2nd June 2023
+- [Model theory and related topics](https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html), Manchester, 3rd--7th July 2023
 
 ---
 
