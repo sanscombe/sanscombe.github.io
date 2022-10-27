@@ -30,7 +30,6 @@ I am supported by [GeoMod][GeoMod].
 
 [//]: # - The journal [Model Theory][Model Theory] has its [first issue][first issue]!
 
-<!--<a href="https://msp.org/mt/"><img src="/journal.jpg" alt="Model Theory" width="20%" style="float:right;"></a>-->
 
 - [Current favourite xkcd](https://xkcd.com/2668/)
 
