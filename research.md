@@ -238,6 +238,12 @@ Generalized measurable structures
 </li>
 
 <li>
+Existential AKE principles for henselian valued fields
+(<a href="https://www.msri.org/seminars/26790">video</a>),
+<a href="https://www.msri.org/programs/364">Decidability, definability and computability in number theory, Part 2</a>, MSRI, July 2022
+</li>
+
+<li>
 Henselian discretely valued fields and existential AKE principles
 (<a href="https://drive.google.com/file/d/1UwktPcRC9mKsu5dC5utJA9r66co1k2L2/view?usp=sharing">slides</a>),
 <a href="http://icetcs.ru.is/lc2022/">Logic Colloquium 2022</a>, Reykjavik, June 2022
