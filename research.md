@@ -385,7 +385,7 @@ A selection of meetings that I have attended or will attend.
 
 <li><a href="http://www1.maths.leeds.ac.uk/pure/logic/events/homogeneous/">Homogeneous structures, permutation groups, and connections to set theory</a>, Leeds, 10th &ndash; 12th September 2017</li>
 
-<li><a class="linkresearchmain" href="./newdirections.html">New Directions in the Model Theory of Valued Fields</a>, Preston, 4th August 2017</li>
+<li><a class="linkresearchmain" href="./backpages/newdirections.html">New Directions in the Model Theory of Valued Fields</a>, Preston, 4th August 2017</li>
 
 <li><a href="https://www.impan.pl/en/activities/banach-center/conferences/17-modeltheory">Model Theory in B&#281;dlewo</a>, B&#281;dlewo, 2nd &ndash; 8th July 2017</li>
 
