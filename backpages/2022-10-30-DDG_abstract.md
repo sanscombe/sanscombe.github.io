@@ -1,11 +1,11 @@
 ---
-title: Seminar: Théorie des modèles et groupes, 8th November 2022
+title: Seminar - Théorie des modèles et groupes, 8th November 2022
 layout: post
 date: 2022-10-30 02:30:00 +0200
 ---
-Théorie des modèles et groupes, Paris
+[Théorie des modèles et groupes][LM], IMJ-PRG, Paris, 8th November 2022
 
-8th November 2022
+[LM]: https://www.imj-prg.fr/lm/
 
 **Title.**
 Cohen rings and existential AKE principles.
