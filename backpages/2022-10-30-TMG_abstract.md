@@ -1,5 +1,5 @@
 ---
-title: Seminar - Théorie des modèles et groupes, 8th November 2022
+title: Seminar - Théorie des modèles et groupes
 layout: post
 date: 2022-10-30 02:30:00 +0200
 ---

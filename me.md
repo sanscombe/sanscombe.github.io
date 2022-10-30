@@ -20,7 +20,7 @@ I am supported by [GeoMod][GeoMod].
 
 - [Théorie des modèles et groupes][LM], IMJ-PRG, Paris, 8th November 2022:
 	_Cohen rings and existential AKE principles_
-	([abstract](./backpages/2022-10-30-DDG_abstract.html))
+	([abstract](./backpages/2022-10-30-TMG_abstract.html))
 - [DaLFI 2022](https://www.samvangool.net/dalfi.htjfjdkfdfml), IRIF, Paris, 17th November 2022
 - [JMM 2023](https://www.jointmathematicsmeetings.org/), Boston, 4th--7th January 2023
 - [Model Theory of Valued Fields](https://conferences.cirm-math.fr/2761.html), CIRM, Luminy, 29th May--2nd June 2023
