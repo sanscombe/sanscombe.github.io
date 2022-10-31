@@ -16,8 +16,8 @@ I will discuss several notions
 that are defined for classes of finite structures,
 and describe when the sizes of the definable sets in these structures satisfy certain asymptotic formulas.
 There is an infinite counterpart to these definitions:
-the 'measurable' and 'generalized measurable' structures.
-More precisely, an infinite structure $M$ is generalized measurable if there is a
+the 'measurable' and 'generalised measurable' structures.
+More precisely, an infinite structure $M$ is generalised measurable if there is a
 'measuring function' from the family of definable sets in $M$ into a
 'measuring semiring'
 (which are certain ordered semirings)
@@ -25,8 +25,8 @@ satisfying axioms that are intended to capture aspects of the intuitive notions 
 
 The motivating examples for measurable structures as pseudofinite
 fields, and in this talk 
-I will give examples of generalized measurable structures and describe
+I will give examples of generalised measurable structures and describe
 what is known regarding the stability-theoretic properties of
-generalized measurable structures.
+generalised measurable structures.
 This is joint work with Macpherson, Steinhorn, and Wolf, and it
 generalises the work on one-dimensional asymptotic classes and measurable structures introduced by Macpherson and Steinhorn in their 2008 paper.
