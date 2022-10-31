@@ -8,8 +8,6 @@ order: 3
 
 ### current teaching ‖ enseignement actuel
 
-- [Mirna's class -- notes](./backpages/2022-10-18-Mirna.html)
-
 ##### 2022--2023, Université Paris Cité
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
 	- mer. 08h30--10h30, SG1008
@@ -22,11 +20,13 @@ order: 3
 		- interro 3 : 30 septembre 
 		- interro 4 : 7 octobre --- contrôle continu
 		- interro 5 : 14 octobre 
-		- interro 6 : 21 octobre 
+		- interro 6 : 21 octobre --- partiel
 - Cours de MC2 dans L1CHIM
 - TD de MC2 dans L1CHIM
 - TD de LO6 dans L3MATHSMFA/L3MATINF
 - TD de IN8 dans M1MATHS
+
+---
 
 ### useful links
 - [UFR de mathématiques](https://www.math.univ-paris-diderot.fr/), [Université Paris Cité](https://u-paris.fr/)
