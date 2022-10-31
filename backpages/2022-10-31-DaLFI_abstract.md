@@ -1,5 +1,5 @@
 ---
-title: Seminar - Théorie des modèles et groupes
+title: Workshop - Duality and Logic in the passpage from the Finite to the Infinite
 layout: post
 date: 2022-10-31 02:30:00 +0200
 ---
@@ -16,11 +16,13 @@ I will discuss several notions
 that are defined for classes of finite structures,
 and describe when the sizes of the definable sets in these structures satisfy certain asymptotic formulas.
 There is an infinite counterpart to these definitions:
-the measurable and generalaised measurable structures.
-More precisely, an infinite structure is generalized measurable if there is a 'measuring
-function' from the family of definable sets into a 'measuring semiring'
+the 'measurable' and 'generalized measurable' structures.
+More precisely, an infinite structure $M$ is generalized measurable if there is a
+'measuring function' from the family of definable sets in $M$ into a
+'measuring semiring'
 (which are certain ordered semirings)
-satisfying axioms to capture aspects of the intuitive notions of measure and dimension.
+satisfying axioms that are intended to capture aspects of the intuitive notions of measure and dimension.
+
 The motivating examples for measurable structures as pseudofinite
 fields, and in this talk 
 I will give examples of generalized measurable structures and describe
