@@ -33,12 +33,11 @@ I am supported by [GeoMod][GeoMod].
 
 ### news
 
-- The paper ["The model theory of Cohen rings"](https://arxiv.org/abs/1904.08297), coauthored with Franziska Jahnke, was accepted for publication in _Confluentes Mathematici_.
-
 [//]: # - The journal [Model Theory][Model Theory] has its [first issue][first issue]!
 
 <!-- <a href="https://msp.org/mt/"><img src="/journal.jpg" alt="Model Theory" width="20%" style="float:right;"></a>-->
 
+- The paper ["The model theory of Cohen rings"](https://arxiv.org/abs/1904.08297), coauthored with Franziska Jahnke, was accepted for publication in _Confluentes Mathematici_.
 - [Current favourite xkcd](https://xkcd.com/2668/)
 
 [research]: research.html
