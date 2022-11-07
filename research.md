@@ -148,7 +148,6 @@ No. 438,
 <a href="https://www.bourbaki.fr/">Séminaire N. Bourbaki</a>.
 Vol. 2021/2022.
 Exposé 1186 (2022).
-(In production.)
 </li>
 
 <li>
