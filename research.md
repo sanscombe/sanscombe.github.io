@@ -148,14 +148,16 @@ Submitted, 2022.
 <h5>notes and other publications</h5>
 <ol reversed class="papers" type="i"> 
 
-<li>
-<a href="https://www.bourbaki.fr/TEXTES/Exp1186-Anscombe.pdf">Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]</a>.
-<a href="https://smf.emath.fr/en/publications/asterisque">Astérisque</a>
-No. 438,
-<a href="https://www.bourbaki.fr/">Séminaire N. Bourbaki</a>.
-Vol. 2021/2022.
-Exposé 1186 (2022).
-</li>
+<!--
+	<li>
+	<a href="https://www.bourbaki.fr/TEXTES/Exp1186-Anscombe.pdf">Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]</a>.
+	<a href="https://smf.emath.fr/en/publications/asterisque">Astérisque</a>
+	No. 438,
+	<a href="https://www.bourbaki.fr/">Séminaire N. Bourbaki</a>.
+	Vol. 2021/2022.
+	Exposé 1186 (2022).
+	</li>
+-->
 
 <li>
 An elementary geometric approach to linear prediction,
