@@ -228,28 +228,35 @@ Antwerp, July 2020.
 <ol reversed type="a">
 
 <li>
+Cohen rings and existential AKE principles
+(<a href="./backpages/2022-10-30-TMG_abstract.html">abstract</a>),
+<a href="https://www.imj-prg.fr/gestion/evenement/affEvenement/71">Théorie des Modèles et Groupes</a>,
+IMJ-PRG, Paris, November 2022.
+</li>
+
+<li>
 Generalized measurable structures
 (<a href="https://drive.google.com/file/d/1At3Z13k4eev4PdCV5W9wgtMZpUCCBXWW/view?usp=sharing">slides</a>,
 <a href="https://drive.google.com/file/d/1yJjAu9RjZVM6I9zh6CKdxypVSmaBuNjf/view?usp=sharing">handout</a>),
-<a href="https://homepages.math.uic.edu/~freitag/MWMT2022/">MWMT2022</a>, Chicago, October 2022
+<a href="https://homepages.math.uic.edu/~freitag/MWMT2022/">MWMT2022</a>, Chicago, October 2022.
 </li>
 
 <li>
 Existential AKE principles for henselian valued fields
 (<a href="https://www.msri.org/seminars/26790">video</a>),
-<a href="https://www.msri.org/programs/364">Decidability, definability and computability in number theory, Part 2</a>, MSRI, July 2022
+<a href="https://www.msri.org/programs/364">Decidability, definability and computability in number theory, Part 2</a>, MSRI, July 2022.
 </li>
 
 <li>
 Henselian discretely valued fields and existential AKE principles
 (<a href="https://drive.google.com/file/d/1UwktPcRC9mKsu5dC5utJA9r66co1k2L2/view?usp=sharing">slides</a>),
-<a href="http://icetcs.ru.is/lc2022/">Logic Colloquium 2022</a>, Reykjavik, June 2022
+<a href="http://icetcs.ru.is/lc2022/">Logic Colloquium 2022</a>, Reykjavik, June 2022.
 </li>
 
 <li>
 Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]
 (<a href="https://www.bourbaki.fr/TEXTES/Exp1186-Anscombe.pdf">notes</a>),
-<a href="https://www.bourbaki.fr/">Séminaire N. Bourbaki</a>, IHP, Paris, November 2021
+<a href="https://www.bourbaki.fr/">Séminaire N. Bourbaki</a>, IHP, Paris, November 2021.
 </li>
 
 <li>
@@ -261,7 +268,7 @@ SMTH2, June 2021.
 <li>
 Some existential theories of fields
 (<a href="https://drive.google.com/file/d/1fYcK70wgEPCZ3Y0l2UyUt7e3y_XgwSMb/view?usp=sharing">slides</a>),
- Illinois, April 2021.
+Illinois, April 2021.
 </li>
 
 <li>
@@ -334,7 +341,9 @@ A selection of meetings that I have attended or will attend.
 
 <li><a href="https://www.jointmathematicsmeetings.org/">JMM 2023</a>, 4th &ndash; 7th January 2023</li>
 
-<li><a href="https://homepages.math.uic.edu/~freitag/MWMT2022/">MWMT 2022</a>, 14th--16th October 2022</li>
+<li><a href="https://www.samvangool.net/dalfi.html">DaLFI 2022</a>, IRIF, Paris, 17th November 2022</li>
+
+<li><a href="https://homepages.math.uic.edu/~freitag/MWMT2022/">MWMT 2022</a>, 14th &ndash; 16th October 2022</li>
 
 <li><a href="https://www.uantwerpen.be/en/summer-winter-schools/algar/">ALGAR 2022</a>, Antwerp, 5th &ndash; 9th September 2022</li>
 

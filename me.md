@@ -18,9 +18,6 @@ I am supported by [GeoMod][GeoMod].
 
 ### current and upcoming
 
-- [Théorie des modèles et groupes][LM], IMJ-PRG, Paris, 8th November 2022:
-	_Cohen rings and existential AKE principles_
-	([abstract](./backpages/2022-10-30-TMG_abstract.html))
 - [DaLFI 2022](https://www.samvangool.net/dalfi.html), IRIF, Paris, 17th November 2022:
 	_Asymptotic classes of finite structures and their ultralimits_
 	([abstract](./backpages/2022-10-31-DaLFI_abstract.html))
