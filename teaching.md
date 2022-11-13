@@ -8,6 +8,8 @@ order: 3
 
 ### current teaching ‖ enseignement actuel
 
+<img src="/tilly.jpeg" width="25%" style="float:right;">
+
 ##### 2022--2023, Université Paris Cité
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
 	- mer. 08h30--10h30, SG1008
