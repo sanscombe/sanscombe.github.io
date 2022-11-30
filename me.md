@@ -35,6 +35,7 @@ I am supported by [GeoMod][GeoMod].
 
 <!-- <a href="https://msp.org/mt/"><img src="/journal.jpg" alt="Model Theory" width="20%" style="float:right;"></a>-->
 
+- [Model Theory](https://msp.org/mt)
 - I started reading [The $n$-category café](https://golem.ph.utexas.edu/category/). November 2022.
 - [Current favourite xkcd](https://xkcd.com/2668/)
 
