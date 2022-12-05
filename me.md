@@ -18,10 +18,6 @@ I am supported by [GeoMod][GeoMod].
 
 ### current and upcoming
 
-- [TMD 2022](), online, 3rd December 2022:
-	_Hilbert's Tenth Problem and henselian valuations_
-	([slides](https://drive.google.com/file/d/121XD6KuMaA-555CcPycz5k_7Q5MFf7dL/view?usp=share_link),
-	[abstract](./backpages/2022-12-02-TMD_abstract.html))
 - [JMM 2023](https://www.jointmathematicsmeetings.org/), Boston, 4th--7th January 2023
 	_Hilbert's Tenth Problem: Between logic and number theory_
 - [Model Theory of Valued Fields](https://conferences.cirm-math.fr/2761.html), CIRM, Luminy, 29th May--2nd June 2023
