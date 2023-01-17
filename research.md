@@ -228,6 +228,12 @@ Antwerp, July 2020.
 <ol reversed type="a">
 
 <li>
+Hilbert's Tenth Problem: Between logic and number theory
+(<a href="">slides</a>),
+<a href="https://www.jointmathematicsmeetings.org/">JMM 2023</a>, Boston, January 2023.
+</li>
+
+<li>
 Hilbert's Tenth Problem and henselian valuations
 (<a href="https://drive.google.com/file/d/121XD6KuMaA-555CcPycz5k_7Q5MFf7dL/view?usp=share_link">slides</a>,
 <a href="./backpages/2022-12-02-TMD_abstract.html">abstract</a>),
