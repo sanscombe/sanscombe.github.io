@@ -11,22 +11,32 @@ order: 3
 <img src="/tilly.jpeg" width="25%" style="float:right;">
 
 ##### 2022--2023, Université Paris Cité
+###### premier semestre
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
 	- mer. 08h30--10h30, SG1008
 	- jeu. 08h30--10h30, SG2036
 	- ven. 10h30--12h30, SG1003
 
-		les interros:
+		les interros :
 		- interro 1 : 14 septembre 
 		- interro 2 : 23 septembre 
 		- interro 3 : 30 septembre 
 		- interro 4 : 7 octobre --- contrôle continu
 		- interro 5 : 14 octobre 
 		- interro 6 : 21 octobre --- partiel
+
+###### second semestre
 - Cours de MC2 dans L1CHIM
-- TD de MC2 dans L1CHIM
-- TD de LO6 dans L3MATHSMFA/L3MATINF
-- TD de IN8 dans M1MATHS
+	- jeu. 10h45--12h45, 8C HAF
+- TD de MC2 dans L1CHIM (CHIM 1)
+	- jeu. 15h45--17h45, 274F HAF
+	- ven. 10h45--12h45, 274F HAF
+- TD de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
+	- mar. 16h30--18h30, SG1005
+	- mer. 16h30--18h30, SG1015
+- Cours de IN8 dans M1MATHS
+	- mar. 14h00--16h00, SG2015
+	- mer. 13h30--15h30, SG1006
 
 ---
 
