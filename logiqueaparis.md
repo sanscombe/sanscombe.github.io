@@ -13,13 +13,15 @@ There will be symposium-type seminars given by seven invited speakers from a ran
 - _Dates_ : 9th -- 12th May 2023
 - _Location_ : Halle aux Farines, Campus Grandes Moulins, Université Paris Cité, 75013 Paris
 - _Speakers_ :
-	- Ekaterina Fokina (Vienna)
-	- Franziska Jahnke (Münster)
-	- Aleksandra Kwiatkowska (Münster)
-	- Vincenzo Mantova (Leeds)
-	- Paul Shafer (Leeds)
-	- Todor Tsankov (Lyon)
-	- Matteo Viale (Turin)
+	- to be confirmed
+
+[\\]: # - Ekaterina Fokina (Vienna)
+[\\]: # - Franziska Jahnke (Münster)
+[\\]: # - Aleksandra Kwiatkowska (Münster)
+[\\]: # - Vincenzo Mantova (Leeds)
+[\\]: # - Paul Shafer (Leeds)
+[\\]: # - Todor Tsankov (Lyon)
+[\\]: # - Matteo Viale (Turin)
 - _Organisers_ : 
 	- Sylvy Anscombe 
 	- Ludovic Patey

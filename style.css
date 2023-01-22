@@ -371,16 +371,17 @@ a.navblogsub:hover {background:DarkMagenta}
 a.navblogsub:link, a:visited {}
 
 a.navpersonalmain {border-style: solid; /*unused*/
-border-left-width: 10px;
-border-right-width: 0px;
-border-top-width: 0px;
-border-bottom-width: 0px;
+border-radius: 8px;
+border-left-width: 12px;
+border-right-width: 12px;
+border-top-width: 6px;
+border-bottom-width: 6px;
 border-color:HotPink}
 a.navpersonalmain {text-decoration:none;
 color:Snow;
 background-color:HotPink;
 font-weight: bold;
-display:block;
+/*display:block;*/
 height:30px;
 text-align:center;
 vertical-align:center}
@@ -404,16 +405,17 @@ a.navpersonalsub:hover {background:DeepPink}
 a.navpersonalsub:link, a:visited {}
 
 a.navdebugmain {border-style: solid; /*unused*/
-border-left-width: 10px;
-border-right-width: 0px;
-border-top-width: 0px;
-border-bottom-width: 0px;
+border-radius: 8px;
+border-left-width: 12px;
+border-right-width: 12px;
+border-top-width: 6px;
+border-bottom-width: 6px;
 border-color:Gold}
 a.navdebugmain {text-decoration:none;
 color:Black;
 background-color:Gold;
 font-weight: bold;
-display:block;
+/*display:block;*/
 height:30px;
 text-align:center;
 vertical-align:center}
