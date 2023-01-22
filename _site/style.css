@@ -147,7 +147,7 @@ border-bottom-width: 6px;
 border-color: Red}
 a.navresearchmain {text-decoration:none;
 color:Snow;
-background:Red;
+background-color:Red;
 font-weight: bold;
 /*display:block;*/
 height:30px;
@@ -165,6 +165,7 @@ border-color: Red}
 a.linkresearchmain {text-decoration:none;
 color:Snow;
 background-color:Red;
+font-weight: bold;
 font-size:large;
 height:30px;
 text-align:center;
@@ -215,6 +216,7 @@ border-color:CornflowerBlue}
 a.linkseminarmain {text-decoration:none;
 color:Snow;
 background-color:CornflowerBlue;
+font-weight: bold;
 font-size:large;
 height:30px;
 text-align:center;
@@ -422,7 +424,7 @@ vertical-align:center}
 a.navdebugmain:hover {background:Orange}
 a.navdebugmain:link, a:visited {}
 
-a.linkdebugmain {border-style: solid; /*unused*/
+a.linkdebugmain {border-style: solid;
 border-left-width: 5px;
 border-right-width: 5px;
 border-top-width: 3px;
@@ -431,6 +433,7 @@ border-color:Gold}
 a.linkdebugmain {text-decoration:none;
 color:Black;
 background-color:Gold;
+font-weight: bold;
 font-size:large;
 height:30px;
 text-align:center;
