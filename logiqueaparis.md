@@ -3,7 +3,9 @@ title: Logique à Paris 2023
 layout: page
 ---
 A 4-day meeting of contemporary developments in Mathematical Logic,
-aimed mostly students interested in getting to know the major current research topics in mathematical logic.
+with a focus on the themes of interest to the members of the
+[Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
+
 There will be symposium-type seminars given by seven invited speakers from a range of other European centers of research in Logic.
 
 - **Registration will open soon**
@@ -26,3 +28,7 @@ There will be symposium-type seminars given by seven invited speakers from a ran
 - _email us_ : [logiqueaparis@gmail.com](logiqueaparis@gmail.com)
 
 <a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="20%"><a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="20%">
+
+[UPC]:  https://u-paris.fr/
+[IMJ-PRG]: https://www.imj-prg.fr/
+[LM]:   https://www.imj-prg.fr/lm/
