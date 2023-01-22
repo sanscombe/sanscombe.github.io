@@ -18,6 +18,7 @@ I am supported by [GeoMod][GeoMod].
 
 ### current and upcoming
 
+- <a class="linkresearchmain" href="./logiqueaparis.html">Logique à Paris</a>, 9th--12th May 2023
 - [Model Theory of Valued Fields](https://conferences.cirm-math.fr/2761.html), CIRM, Luminy, 29th May--2nd June 2023
 - [Model theory and related topics](https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html), Manchester, 3rd--7th July 2023
 
