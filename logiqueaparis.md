@@ -8,7 +8,7 @@ with a focus on the themes of interest to the members of the
 
 There will be symposium-type seminars given by seven invited speakers from a range of other European centers of research in Logic.
 
-- **Registration will open soon**
+- Registration : **open soon**
 
 - _Dates_ : 9th -- 12th May 2023
 
@@ -31,7 +31,7 @@ There will be symposium-type seminars given by seven invited speakers from a ran
 	- Tamara Servi
 	- Alessandro Vignati
 
-- _email us_ : [logiqueaparis@gmail.com](logiqueaparis@gmail.com)
+- _Email us_ : [logiqueaparis@gmail.com](logiqueaparis@gmail.com)
 
 <a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="20%"><a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="20%">
 

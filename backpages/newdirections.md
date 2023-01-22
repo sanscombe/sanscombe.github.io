@@ -24,7 +24,7 @@ This meeting is being supported by the LMS <b>Celebrating New Appointments</b>
 scheme, and will be an opportunity to share some recent
 developments in the subject area.
 Both new and established researchers are very welcome.
-There is a limited amount of funding available to support the travel of research students, and the opportunity.
+There is a limited amount of funding available to support the travel of research students.
 <br><br>
 <!--
 Details of this meeting can be found at anscombe.sdf.org/newdirections.html.
