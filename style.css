@@ -147,7 +147,7 @@ border-bottom-width: 6px;
 border-color: Red}
 a.navresearchmain {text-decoration:none;
 color:Snow;
-background:Red;
+background-color:Red;
 font-weight: bold;
 /*display:block;*/
 height:30px;
@@ -159,12 +159,13 @@ a.navresearchmain:link, a:visited {}
 a.linkresearchmain {border-style: solid;
 border-left-width: 5px;
 border-right-width: 5px;
-border-top-width: 0px;
-border-bottom-width: 0px;
+border-top-width: 3px;
+border-bottom-width: 3px;
 border-color: Red}
 a.linkresearchmain {text-decoration:none;
 color:Snow;
 background-color:Red;
+font-weight: bold;
 font-size:large;
 height:30px;
 text-align:center;
@@ -209,12 +210,13 @@ a.navseminarmain:link, a:visited {}
 a.linkseminarmain {border-style: solid; /*unused*/
 border-left-width: 5px;
 border-right-width: 5px;
-border-top-width: 0px;
-border-bottom-width: 0px;
+border-top-width: 3px;
+border-bottom-width: 3px;
 border-color:CornflowerBlue}
 a.linkseminarmain {text-decoration:none;
 color:Snow;
 background-color:CornflowerBlue;
+font-weight: bold;
 font-size:large;
 height:30px;
 text-align:center;
@@ -371,16 +373,17 @@ a.navblogsub:hover {background:DarkMagenta}
 a.navblogsub:link, a:visited {}
 
 a.navpersonalmain {border-style: solid; /*unused*/
-border-left-width: 10px;
-border-right-width: 0px;
-border-top-width: 0px;
-border-bottom-width: 0px;
+border-radius: 8px;
+border-left-width: 12px;
+border-right-width: 12px;
+border-top-width: 6px;
+border-bottom-width: 6px;
 border-color:HotPink}
 a.navpersonalmain {text-decoration:none;
 color:Snow;
 background-color:HotPink;
 font-weight: bold;
-display:block;
+/*display:block;*/
 height:30px;
 text-align:center;
 vertical-align:center}
@@ -404,31 +407,33 @@ a.navpersonalsub:hover {background:DeepPink}
 a.navpersonalsub:link, a:visited {}
 
 a.navdebugmain {border-style: solid; /*unused*/
-border-left-width: 10px;
-border-right-width: 0px;
-border-top-width: 0px;
-border-bottom-width: 0px;
+border-radius: 8px;
+border-left-width: 12px;
+border-right-width: 12px;
+border-top-width: 6px;
+border-bottom-width: 6px;
 border-color:Gold}
 a.navdebugmain {text-decoration:none;
 color:Black;
 background-color:Gold;
 font-weight: bold;
-display:block;
+/*display:block;*/
 height:30px;
 text-align:center;
 vertical-align:center}
 a.navdebugmain:hover {background:Orange}
 a.navdebugmain:link, a:visited {}
 
-a.linkdebugmain {border-style: solid; /*unused*/
+a.linkdebugmain {border-style: solid;
 border-left-width: 5px;
 border-right-width: 5px;
-border-top-width: 0px;
-border-bottom-width: 0px;
+border-top-width: 3px;
+border-bottom-width: 3px;
 border-color:Gold}
 a.linkdebugmain {text-decoration:none;
 color:Black;
 background-color:Gold;
+font-weight: bold;
 font-size:large;
 height:30px;
 text-align:center;
