@@ -365,6 +365,8 @@ A selection of meetings that I have attended or will attend.
 
 <ul>
 
+<li><a class="linkdebugmain" href="./logiqueaparis.html">Logique à Paris 2023</a>, IMJ-PRG, Paris, 9th &ndash; 12th May 2023</li>
+
 <li><a href="https://www.jointmathematicsmeetings.org/">JMM 2023</a>, 4th &ndash; 7th January 2023</li>
 
 <li><a href="https://www.samvangool.net/dalfi.html">DaLFI 2022</a>, IRIF, Paris, 17th November 2022</li>
