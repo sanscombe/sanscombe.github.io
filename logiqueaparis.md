@@ -38,8 +38,6 @@ _to be confirmed_
 <a href="./sorbonne.png"><img src="/sorbonne.png" alt="Sorbonne Université" width="15%">
 <a href="./cnrs.png"><img src="/cnrs.png" alt="CNRS" width="7%">
 
-[\\]: # <a href="./SG_3.jpeg"><img src="/SG_3.jpeg" alt="Sophie Germain" width="100%" style="display:block; margin-left: auto; margin-right: auto;"></a>
-
 [UPC]:  https://u-paris.fr/
 [IMJ-PRG]: https://www.imj-prg.fr/
 [LM]:   https://www.imj-prg.fr/lm/
