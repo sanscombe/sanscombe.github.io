@@ -10,7 +10,6 @@ There will be symposium-type seminars given by seven invited speakers from a ran
 
 [\\]: # <a href="./LAP2023.pdf"><img src="./LAP2023.jpg" width="30%" style="float:right;border: 1px solid black;"></a>
 
-[\\]: # ![ background image](./SG_3.jpeg)
 [\\]: # <a class="linkdebugmain" href="./logiqueaparis.html">Registration Form</a>
 
 - Registration :
