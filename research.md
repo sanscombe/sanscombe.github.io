@@ -397,7 +397,7 @@ A selection of meetings that I have attended or will attend.
 
 <li><a href="https://www.birs.ca/events/2018/5-day-workshops/18w5193">Neostability Theory</a>, BIRS-CMO Workshop, Casa Matem&aacute;tica, 14th October &ndash; 19th October 2018</li>
 
-<li><a class="linkresearchmain" href="https://www.icms.org.uk/events/workshops/PGMT">From permutation groups to model theory</a>, ICMS, Edinburgh, 17th &ndash; 20th September 2018</li>
+<li><a class="linkdebugmain" href="https://www.icms.org.uk/events/workshops/PGMT">From permutation groups to model theory</a>, ICMS, Edinburgh, 17th &ndash; 20th September 2018</li>
 
 <li><a href="https://sites.google.com/site/ewmgm18/">EWM General Meeting 2018</a>, Graz, 3rd &ndash; 7th September 2018</li>
 
@@ -419,7 +419,7 @@ A selection of meetings that I have attended or will attend.
 
 <li><a href="http://www1.maths.leeds.ac.uk/pure/logic/events/homogeneous/">Homogeneous structures, permutation groups, and connections to set theory</a>, Leeds, 10th &ndash; 12th September 2017</li>
 
-<li><a class="linkresearchmain" href="./backpages/newdirections.html">New Directions in the Model Theory of Valued Fields</a>, Preston, 4th August 2017</li>
+<li><a class="linkdebugmain" href="./backpages/newdirections.html">New Directions in the Model Theory of Valued Fields</a>, Preston, 4th August 2017</li>
 
 <li><a href="https://www.impan.pl/en/activities/banach-center/conferences/17-modeltheory">Model Theory in B&#281;dlewo</a>, B&#281;dlewo, 2nd &ndash; 8th July 2017</li>
 
