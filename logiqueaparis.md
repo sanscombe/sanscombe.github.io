@@ -13,7 +13,7 @@ There will be symposium-type seminars given by seven invited speakers from a ran
 [\\]: # <a class="linkdebugmain" href="./logiqueaparis.html">Registration Form</a>
 
 - Registration :
-**open soon**
+<a href="https://forms.gle/KJPex1JqHiLjHtT28">CLICK HERE</a>
 - _Dates_ : 9th--12th May 2023
 - _Speakers_ :
 _to be confirmed_
