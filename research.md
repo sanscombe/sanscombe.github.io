@@ -229,7 +229,7 @@ Antwerp, July 2020.
 
 <li>
 Le Xème problème de Hilbert - un problème pour le XXème et le XXIème siècle,
-(<a href="">slides</a>),
+(<a href="https://drive.google.com/file/d/1AtIyRz-S_gM9P_d6dHKQFEJG-7EmdbS1/view?usp=share_link">slides</a>),
 &laquo;Des Mathématiques&raquo;,
 ENS, Paris, February 2023.
 </li>
