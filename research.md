@@ -228,8 +228,16 @@ Antwerp, July 2020.
 <ol reversed type="a">
 
 <li>
+Le Xème problème de Hilbert - un problème pour le XXème et le XXIème siècle,
+(<a href="https://drive.google.com/file/d/1AtIyRz-S_gM9P_d6dHKQFEJG-7EmdbS1/view?usp=share_link">slides</a>),
+&laquo;Des Mathématiques&raquo;,
+ENS, Paris, February 2023.
+</li>
+
+<li>
 Hilbert's Tenth Problem: Between logic and number theory
 (<a href="">slides</a>),
+ASL Tutorial Lectures,
 <a href="https://www.jointmathematicsmeetings.org/">JMM 2023</a>, Boston, January 2023.
 </li>
 
