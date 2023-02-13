@@ -27,6 +27,7 @@ Here are some __PUZZLES__ linked to my book chapter:
 
 ### Sylvy's puzzle corner
 
+- [Des pirates et pièces](https://drive.google.com/file/d/1O7zRE2k8p5LRpJEsOlxPqNcKQfG_z3Fo/view?usp=share_link)
 - [Cute Functions](https://drive.google.com/file/d/1Y1f2rfKFNoUjqvpLnxobaEXha8kieE4C/view?usp=sharing)
 - [A tribute to Rubik's Cube](https://drive.google.com/open?id=1tB2ceF85zjMHMrlukyXEf2utWGk3PJQP)
 - [Quick Pythagoras](https://drive.google.com/open?id=1HCCLIiGS2ZN34gsOxerLYGKWJQ2A6LnX)
