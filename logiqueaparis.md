@@ -15,6 +15,7 @@ There will be symposium-type seminars given by seven invited speakers from a ran
 - _Dates_ : 9th--12th May 2023
 - _Speakers_ :
 	- Ekaterina Fokina (Vienna)
+	- Sam van Gool (Paris Cité)
 	- Franziska Jahnke (Münster)
 	- Aleksandra Kwiatkowska (Münster)
 	- Vincenzo Mantova (Leeds)
