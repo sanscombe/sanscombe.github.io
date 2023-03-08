@@ -35,6 +35,7 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <li>
 <a href="https://arxiv.org/abs/2205.05438">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>,
 with Philip Dittmann and Arno Fehm.
+<br>
 Accepted in
 <i>Algebra &amp; Number Theory</i>, 2023.
 <a href="http://arxiv.org/abs/2205.05438">arXiv:2205.05438 [math.LO]</a>
