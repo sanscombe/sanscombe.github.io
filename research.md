@@ -33,6 +33,14 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <ol reversed class="papers">
 
 <li>
+<a href="https://arxiv.org/abs/2205.05438">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>,
+with Philip Dittmann and Arno Fehm.
+Accepted in
+<i>Algebra &amp; Number Theory</i>, 2023.
+<a href="http://arxiv.org/abs/2205.05438">arXiv:2205.05438 [math.LO]</a>
+</li>
+
+<li>
 <a href="https://arxiv.org/abs/1904.08297">The model theory of Cohen rings</a>,
 with Franziska Jahnke.
 <br>
@@ -133,13 +141,6 @@ Supervised by Prof. Jochen Koenigsmann.
 with Franziska Jahnke.
 Submitted, 2022.
 <a href="https://arxiv.org/abs/1911.00309">arXiv:1911.00309 [math.LO]</a>
-</li>
-
-<li>
-<a href="https://arxiv.org/abs/2205.05438">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>,
-with Philip Dittmann and Arno Fehm.
-Submitted, 2022.
-<a href="http://arxiv.org/abs/2205.05438">arXiv:2205.05438 [math.LO]</a>
 </li>
 
 </ol>
