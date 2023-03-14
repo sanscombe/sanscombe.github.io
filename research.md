@@ -42,12 +42,10 @@ Accepted in
 </li>
 
 <li>
-<a href="https://arxiv.org/abs/1904.08297">The model theory of Cohen rings</a>,
+<a href="https://doi.org/10.5802/cml.84">The model theory of Cohen rings</a>,
 with Franziska Jahnke.
 <br>
-Accepted in
-<i>Confluentes Mathematici</i>, 2022.
-<a href="https://arxiv.org/abs/1904.08297">arXiv:1904.08297 [math.LO]</a>
+<i>Confluentes Mathematici</i>, 14, no.~2, pp. 1--28, 2022.
 </li>
 
 <li>
