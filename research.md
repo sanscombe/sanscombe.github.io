@@ -45,7 +45,7 @@ Accepted in
 <a href="https://doi.org/10.5802/cml.84">The model theory of Cohen rings</a>,
 with Franziska Jahnke.
 <br>
-<i>Confluentes Mathematici</i>, 14, no. 2, pp. 1&ndash;28, 2022.
+<i>Confluentes Mathematici</i>, 14, no. 2, 1&ndash;28, 2022.
 </li>
 
 <li>
