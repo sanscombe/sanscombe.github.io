@@ -38,7 +38,7 @@ order: 3
 	- mar. 14h00--16h00, SG2015
 	- mer. 13h30--15h30, SG1006
 
----
+
 
 ### useful links
 - [UFR de mathématiques](https://www.math.univ-paris-diderot.fr/), [Université Paris Cité](https://u-paris.fr/)
@@ -52,7 +52,7 @@ order: 3
 - [M2 de Mathématiques fondamentales](https://master-math-fonda.imj-prg.fr/)
 - [École Doctorale 386 Sciences Mathématiques de Paris Centre](https://www.math.univ-paris-diderot.fr/formations/doctorats/index)
 
----
+
 
 ### farrago
 
@@ -66,7 +66,7 @@ Short notes from teaching
 ([extended text](https://drive.google.com/open?id=0B6bVmoUt7QTXNVpZUVJlSnRqWjA), [problem sheet](https://drive.google.com/open?id=0B6bVmoUt7QTXSnQ2YWg3SDZJbEU)), a 10-minute lecture
 - [course outline](https://drive.google.com/file/d/0B6bVmoUt7QTXWVZONTAxcm9OMVE/view?usp=sharing), a draft course outline for a graph theory course from 2015
 
----
+
 
 ### past teaching
 
