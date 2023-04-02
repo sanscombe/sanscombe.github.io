@@ -17,14 +17,6 @@ order: 3
 	- jeu. 08h30--10h30, SG2036
 	- ven. 10h30--12h30, SG1003
 
-		les interros :
-		- interro 1 : 14 septembre 
-		- interro 2 : 23 septembre 
-		- interro 3 : 30 septembre 
-		- interro 4 : 7 octobre --- contrôle continu
-		- interro 5 : 14 octobre 
-		- interro 6 : 21 octobre --- partiel
-
 ###### second semestre
 - Cours de MC2 dans L1CHIM
 	- jeu. 10h45--12h45, 8C HAF
