@@ -23,7 +23,7 @@ Here are some __PUZZLES__ linked to my book chapter:
 	- [Solutions to Puzzle 3](https://drive.google.com/open?id=1eJuCq47qeHz4Rfd2CNA6HNJZ3k5jwQ1f)
 	- [Solutions to Puzzle 4](https://drive.google.com/open?id=1-ygDZoILj3275DNXMXMRT27L7ij6tEp8)
 
----
+
 
 ### Sylvy's puzzle corner
 
@@ -82,7 +82,7 @@ Here are some __PUZZLES__ linked to my book chapter:
 </ul>
 -->
 
----
+
 
 ### outreach talks
 

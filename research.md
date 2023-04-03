@@ -15,17 +15,16 @@ Sylvy Anscombe
 
 <div id="section">
 
-My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory">Model Theory</a>, a part of <a href="https://en.wikipedia.org/wiki/Mathematical_logic">Mathematical Logic</a>, including connections to algebra and number theory.<br><br>
+<img src="/AI_pictures/chaos3.png" width="35%" style="float:right;">
+
+My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory">Model Theory</a>, a part of <a href="https://en.wikipedia.org/wiki/Mathematical_logic">Mathematical Logic</a>, including connections to algebra and number theory.
+I am supported by <a href="https://home.mathematik.uni-freiburg.de/palacin/GeoMod/">GeoMod</a>.
+
+<br><br>
 
 <!--
 Keywords: Mathematical logic, model theory, applications of model theory to algebra and number theory, Diophantine equations, asymptotic classes, measurable structures, pseudofinite structures, valued fields, henselianity, definable henselian valuations, Hilbert's Tenth Problem, arithmetic, homogeneous structures, infinite graphs<br>
 -->
-
-<img src="/msri3.jpg" alt="MSRI wall" width="100%" style="display:block; margin-left: auto; margin-right: auto;">
-
-<br>
-<a name="articles"></a>
-<hr>
 
 <h3>research articles</h3>
 
@@ -42,12 +41,10 @@ Accepted in
 </li>
 
 <li>
-<a href="https://arxiv.org/abs/1904.08297">The model theory of Cohen rings</a>,
+<a href="https://doi.org/10.5802/cml.84">The model theory of Cohen rings</a>,
 with Franziska Jahnke.
 <br>
-Accepted in
-<i>Confluentes Mathematici</i>, 2022.
-<a href="https://arxiv.org/abs/1904.08297">arXiv:1904.08297 [math.LO]</a>
+<i>Confluentes Mathematici</i>, 14, no. 2, 1&ndash;28, 2022.
 </li>
 
 <li>
@@ -183,7 +180,7 @@ Manuscript, 2018.
 </ol>
 -->
 
-<hr>
+<br>
 
 
 <h3>talks</h3>
@@ -366,8 +363,6 @@ AMS Rutgers, November 2015.
 </ol>
 
 <br>
-<a name="meetings"></a>
-<hr>
 
 <h3>meetings, conferences, workshops</h3>
 
@@ -459,7 +454,7 @@ A selection of meetings that I have attended or will attend.
 
 </ul>
 
-<hr>
+<br>
 
 <h3>research students</h3>
 
@@ -480,8 +475,6 @@ Master/Memoire
 If you're interested in studying with me, please <a href="/contact.html">contact</a> me.
 
 <br><br>
-
-<hr>
 
 <h3>useful links</h3>
 
