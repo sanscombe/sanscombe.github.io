@@ -229,6 +229,12 @@ Antwerp, July 2020.
 <ol reversed type="a">
 
 <li>
+Hilbert's Tenth Problem - for the 21st century,
+<a href="https://sites.google.com/iiserbpr.ac.in/prospiral/events/2023/moss-2023">MOSS 2023</a>,
+Project Spiral, April, 2023.
+</li>
+
+<li>
 Le Xème problème de Hilbert - un problème pour le XXème et le XXIème siècle,
 (<a href="https://drive.google.com/file/d/1AtIyRz-S_gM9P_d6dHKQFEJG-7EmdbS1/view?usp=share_link">slides</a>),
 &laquo;Des Mathématiques&raquo;,
