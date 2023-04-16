@@ -13,9 +13,6 @@ order: 3
 ##### 2022--2023, Université Paris Cité
 ###### premier semestre
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
-	- mer. 08h30--10h30, SG1008
-	- jeu. 08h30--10h30, SG2036
-	- ven. 10h30--12h30, SG1003
 
 ###### second semestre
 - Cours de MC2 dans L1CHIM
