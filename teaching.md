@@ -21,8 +21,6 @@ order: 3
 	- jeu. 15h45--17h45, 274F HAF
 	- ven. 10h45--12h45, 274F HAF
 - TD de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
-	- mar. 16h30--18h30, SG1005
-	- mer. 16h30--18h30, SG1015
 - Cours de IN8 dans M1MATHS
 	- mar. 14h00--16h00, SG2015
 	- mer. 13h30--15h30, SG1006
