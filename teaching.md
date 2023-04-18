@@ -57,6 +57,14 @@ Short notes from teaching
 
 ### past teaching
 
+
+##### 2022--2023, Université Paris Cité
+- Cours/TD de MI1-1 dans L1INFO (INFO6)
+- Cours de MC2 dans L1CHIM
+- TD de MC2 dans L1CHIM (CHIM 1)
+- TD de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
+- Cours de IN8 dans M1MATHS
+
 ##### 2021--2022, Université Paris Cité
 - Cours de MC2 dans L1CHIM
 - TD de MC2 dans L1CHIM
