@@ -9,9 +9,9 @@ layout: page
 | 09h30-11h00 | pause       | pause       | pause      |pause      |
 | 11h00-12h00 | Viale       | Fokina      | Shafer     | Mantova   |
 |             | | | | |
-| 14h00-15h00 | Jahnke      | Tsankov     | Kwiatkowska|           |
-| 15h00-15h30 | pause       | pause       | pause      |           |
-| 15h30-16h30 | Jahnke      | Tsankov     | Kwiatkowska|  |
+| 14h00-15h00 | Jahnke      | Tsankov     | Kwiatkowska| van Gool  |
+| 15h00-15h30 | pause       | pause       | pause      | pause     |
+| 15h30-16h30 | Jahnke      | Tsankov     | Kwiatkowska| van Gool |
 
 
 <a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
