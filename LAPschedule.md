@@ -2,7 +2,7 @@
 title: Logique à Paris 2023
 layout: page
 ---
-| | Tuesday 2nd | Wednesday 3rd | Thursday 4th | Friday 5th |
+| | Tuesday 9th | Wednesday 10th | Thursday 11th | Friday 12th |
 | | ----------- | ---------- |---------- |---------- |
 | 09h00-09h30 | welcome |  |  |  |
 | 09h30-10h30 | Viale       | Fokina      | Shafer     | Mantova   |
