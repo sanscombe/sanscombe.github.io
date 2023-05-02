@@ -12,6 +12,8 @@ There will be symposium-type seminars given by seven invited speakers from a ran
 
 - Registration :
 <a class="linkdebugmain" href="https://forms.gle/diKmdS5dMA7nT7hW6">click here</a>
+- Schedule :
+<a class="linkdebugmain" href="./LAPschedule.html">click here</a>
 - _Dates_ : 9th--12th May 2023
 - _Speakers_ :
 	- Sam van Gool (Paris Cité)
