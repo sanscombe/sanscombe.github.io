@@ -24,13 +24,19 @@ There will be symposium-type seminars given by seven invited speakers from a ran
 	- Paul Shafer (Leeds)
 	- Todor Tsankov (Lyon)
 	- Matteo Viale (Turin)
-- _Location_ : Halle aux Farines, Campus Grandes Moulins, Université Paris Cité, 75013 Paris
+- _Location_ : Room 278, Halle aux Farines, Campus Grandes Moulins, Université Paris Cité, 75013 Paris
+	- [plan of Halle aux Farines][HAF]
+	- [plan of campus][campus]
+
 - _Organisers_ : 
 	- Sylvy Anscombe 
 	- Ludovic Patey
 	- Tamara Servi
 	- Alessandro Vignati
 - _Email us_ : [logiqueaparis@gmail.com](logiqueaparis@gmail.com)
+
+[campus]: ./plan_campus.png
+[HAF]: ./plan_HAF.png
 
 <a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
 <a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">

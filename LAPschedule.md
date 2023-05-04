@@ -2,6 +2,15 @@
 title: Logique à Paris 2023
 layout: page
 ---
+
+
+#### Main Location
+Room 278, Halle aux Farines
+- [plan of Halle aux Farines][HAF]
+- [plan of campus][campus]
+
+#### Schedule
+
 | | Tuesday 9th | Wednesday 10th | Thursday 11th | Friday 12th |
 | | ----------- | ---------- |---------- |---------- |
 | 09h00-09h30 | welcome |  |  |  |
@@ -12,7 +21,19 @@ layout: page
 | 14h00-15h00 | Jahnke      | Tsankov     | Kwiatkowska| van Gool  |
 | 15h00-15h30 | pause       | pause       | pause      | pause     |
 | 15h30-16h30 | Jahnke      | Tsankov     | Kwiatkowska| van Gool |
+|             |             |             |            |          |
+| 17h00-18h30 | [Seminar][seminar]* |       |            |          |
 
+*) The extra seminar is part of the series 'Théorie des modèles et groupes': 
+
+ - Speaker: Stefan Ludwig
+ - Title: _Difference fields with an additive character on the fixed field_
+ - Location of seminar: [Buffon][campus], salle RH 02B
+
+[campus]: ./plan_campus.png
+[HAF]: ./plan_HAF.png
+
+[seminar]:  https://www.imj-prg.fr/gestion/evenement/affEvenement/71
 
 <a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
 <a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">

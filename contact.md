@@ -39,6 +39,6 @@ by appointment
 
 Here is a [campus map][campus map]:
 
-<a href="https://u-paris.fr/nos-sites-et-campus/"><img src="/plan_campus.png"></a>
+<a href="https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf"><img src="/plan_campus.png"></a>
 
 [campus map]: /plan_campus.png
