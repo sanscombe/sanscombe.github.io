@@ -7,7 +7,7 @@ layout: page_LAP
 	_What model companionship can say about the continuum problem_.
 	- [Abstract][TAViale]
 1. Franziska Jahnke:
-	_Ax-Kochen/Ershov principles and their applications_.
+	_Ax&ndash;Kochen/Ershov principles and their applications_.
 	- [Abstract][TAJahnke]
 1. Ekaterina Fokina:
 	_Complexity of descriptions and relations in computable structure theory_.
