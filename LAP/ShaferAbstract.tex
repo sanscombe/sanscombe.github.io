@@ -1,0 +1,75 @@
+%!TEX spellcheck = English (United States) [w_accents]
+%Paul Shafer 03 May 2023
+\documentclass[11pt]{amsart}
+\usepackage{amsmath,amssymb,amsfonts,amsthm,amsrefs}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+\title{The Medvedev and Muchnik degrees}
+\author{Paul Shafer}
+\address{School of Mathematics\\
+University of Leeds\\
+Leeds, LS2 9JT, United Kingdom}
+\email{\href{mailto:p.e.shafer@leeds.ac.uk}{p.e.shafer@leeds.ac.uk}}
+\urladdr{\url{http://www1.maths.leeds.ac.uk/~matpsh/}}
+
+\newcommand{\Nb}{\mathbb{N}}
+
+\newcommand{\leqT}{\leq_\mathrm{T}}
+
+\newcommand{\mc}[1]{\mathcal{#1}}
+
+\begin{document}
+
+\maketitle
+
+\section*{Abstract}
+
+The central notion in computability theory is \emph{Turing reducibility}.  We say that function $f \colon \Nb \to \Nb$ \emph{Turing reduces} to another function $g \colon \Nb \to \Nb$ if there is a computer program that computes the function $f$ when given access to the function $g$ as a black box.  This means that $f$ is \emph{computable relative to $g$}:  if $g$ were computable, then $f$ would be computable too.  The functions on the natural numbers organized by Turing reducibility gives rise to a structure called the \emph{Turing degrees}.
+
+The \emph{Medvedev degrees} and the \emph{Muchnik degrees} are higher-order analogues of the Turing degrees that were developed to give precise mathematical meaning to Andrey Kolmogorov's informal idea for a \emph{calculus of problems} and a \emph{logic of problem solving}.  Instead of thinking of one function $f$ reducing to another function $g$, we think of a class of functions $\mc{A} \subseteq \Nb^\Nb$ reducing to another class of functions $\mc{B} \subseteq \Nb^\Nb$.  Here, $\mc{A}$ reducing to $\mc{B}$ means that every function $g$ in $\mc{B}$ can be used to compute some function $f$ in $\mc{A}$, either uniformly (i.e., always by the same program) in the Medvedev case or non-uniformly in the Muchnik case.  The intuition is that a class $\mc{A} \subseteq \Nb^\Nb$ represents an abstract mathematical problem, namely the problem of finding a member of $\mc{A}$.  With this intuition, we then interpret \emph{$\mc{A}$ reduces to $\mc{B}$} as meaning that problem $\mc{B}$ is at least as hard as problem $\mc{A}$.  If we could produce solutions to $\mc{B}$, then we could use those solutions to compute solutions to $\mc{A}$.
+
+In this presentation, we introduce the Medvedev and Muchnik degrees and study their basic properties.  We then consider the Medvedev and Muchnik degrees as semantics for propositional logic and show how to interpret propositional formulas in these structures.  For further reading, we recommend starting with surveys~\cites{HinmanSurvey,SimpsonMassProblems,SorbiSurvey}.
+
+\begin{bibdiv}
+\begin{biblist}
+
+\bib{HinmanSurvey}{article}{
+      author={Hinman, Peter~G.},
+       title={A survey of {M}u\v cnik and {M}edvedev degrees},
+        date={2012},
+        ISSN={1079-8986},
+     journal={Bulletin of Symbolic Logic},
+      volume={18},
+      number={2},
+       pages={161\ndash 229},
+         url={https://doi.org/10.2178/bsl/1333560805},
+}
+
+\bib{SimpsonMassProblems}{article}{
+      author={Simpson, Stephen~G.},
+       title={Mass problems associated with effectively closed sets},
+        date={2011},
+     journal={Tohoku Mathematical Journal, Second Series},
+      volume={63},
+      number={4},
+       pages={489\ndash 517},
+}
+
+\bib{SorbiSurvey}{incollection}{
+      author={Sorbi, Andrea},
+       title={The {M}edvedev lattice of degrees of difficulty},
+        date={1996},
+   booktitle={Computability, Enumerability, Unsolvability},
+      series={London Mathematical Society Lecture Note Series},
+      volume={224},
+   publisher={Cambridge University Press, Cambridge},
+       pages={289\ndash 312},
+         url={https://doi.org/10.1017/CBO9780511629167.015},
+      review={\MR{1395886}},
+}
+
+\end{biblist}
+\end{bibdiv}
+
+\end{document}
