@@ -16,9 +16,9 @@ Room 278, Halle aux Farines
 | 10h30-11h00 | pause               | pause                | pause                  | pause                  |
 | 11h00-12h00 | [Viale][TAViale]    | [Fokina][TAFokina]   | [Shafer][TAShafer]     | [Mantova][TAMantova]   |
 |             | | | | |
-| 14h00-15h00 | [Jahnke][TAJahnke]  | [Tsankov][TATsankov] | [Kwiatkowska][TAKwiat] | van Gool               |
+| 14h00-15h00 | [Jahnke][TAJahnke]  | [Tsankov][TATsankov] | [Kwiatkowska][TAKwiat] | [van Gool][TAvanGool]  |
 | 15h00-15h30 | pause               | pause                | pause                  | pause                  |
-| 15h30-16h30 | [Jahnke][TAJahnke]  | [Tsankov][TATsankov] | [Kwiatkowska][TAKwiat] | van Gool               |
+| 15h30-16h30 | [Jahnke][TAJahnke]  | [Tsankov][TATsankov] | [Kwiatkowska][TAKwiat] | [van Gool][TAvanGool]  |
 |             |                     |                      |                        |                        |
 | 17h00-18h30 | [Seminar][seminar]* |                      |                        |                        |
 

@@ -24,6 +24,9 @@ layout: page_LAP
 1. Vincenzo Mantova:
 	_The quantifier $Q$ "there exist uncountably many", quasi-minimality, and complex exponentiation_.
 	- [Abstract][TAMantova]
+1. Sam van Gool:
+	_Logic, lattices, and profinite structures_.
+	- [Abstract][TAvanGool]
 
 [TAViale]:  ./LAP/VialeAbstract.pdf
 [TAJahnke]:  ./LAP/JahnkeAbstract.pdf
