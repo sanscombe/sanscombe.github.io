@@ -1,6 +1,6 @@
 ---
 title: Logique à Paris 2023
-layout: page
+layout: page_LAP
 ---
 #### Main Location
 Room 278, Halle aux Farines

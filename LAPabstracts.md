@@ -1,6 +1,6 @@
 ---
 title: Logique à Paris 2023
-layout: page
+layout: page_LAP
 ---
 #### Titles and abstracts
 1. Vincenzo Mantova: _The quantifier Q "there exist uncountably many", quasi-minimality, and complex exponentiation_.

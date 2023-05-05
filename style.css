@@ -157,6 +157,7 @@ a.navresearchmain:hover {background:Maroon;border-color:Maroon}
 a.navresearchmain:link, a:visited {}
 
 a.linkresearchmain {border-style: solid;
+border-radius: 8px;
 border-left-width: 5px;
 border-right-width: 5px;
 border-top-width: 3px;
@@ -208,6 +209,7 @@ a.navseminarmain:hover {background:Blue;border-color:Blue}
 a.navseminarmain:link, a:visited {}
 
 a.linkseminarmain {border-style: solid;
+border-radius: 8px;
 border-left-width: 5px;
 border-right-width: 5px;
 border-top-width: 3px;
@@ -259,6 +261,7 @@ a.navteachingmain:hover {background:ForestGreen;border-color:ForestGreen}
 a.navteachingmain:link, a:visited {}
 
 a.linkteachingmain {border-style: solid;
+border-radius: 8px;
 border-left-width: 5px;
 border-right-width: 5px;
 border-top-width: 3px;
@@ -310,6 +313,7 @@ a.navsmorgasbordmain:hover {background:OrangeRed;border-color:OrangeRed}
 a.navsmorgasbordmain:link, a:visited {}
 
 a.linksmorgasbordmain {border-style: solid;
+border-radius: 8px;
 border-left-width: 5px;
 border-right-width: 5px;
 border-top-width: 3px;
@@ -361,6 +365,7 @@ a.navblogmain:hover {background:DarkMagenta;border-color:DarkMagenta}
 a.navblogmain:link, a:visited {}
 
 a.linkblogmain {border-style: solid;
+border-radius: 8px;
 border-left-width: 5px;
 border-right-width: 5px;
 border-top-width: 3px;
@@ -428,6 +433,7 @@ a.navpersonalsub:hover {background:DeepPink}
 a.navpersonalsub:link, a:visited {}
 
 a.linkpersonalmain {border-style: solid;
+border-radius: 8px;
 border-left-width: 5px;
 border-right-width: 5px;
 border-top-width: 3px;
@@ -463,6 +469,7 @@ a.navdebugmain:hover {background:Orange;border-color:Orange}
 a.navdebugmain:link, a:visited {}
 
 a.linkdebugmain {border-style: solid;
+border-radius: 8px;
 border-left-width: 5px;
 border-right-width: 5px;
 border-top-width: 3px;
