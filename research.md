@@ -148,8 +148,11 @@ Submitted, 2022.
 <ol reversed class="papers" type="i"> 
 
 <li>
-<a href="https://www.bourbaki.fr/TEXTES/Exp1186-Anscombe.pdf"></a>
-<a href="">Exposé Bourbaki 1186 : Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]</a>.
+<a href="http://dx.doi.org/10.24033/ast.1181">
+Exposé
+</a>
+<a href="https://smf.emath.fr/publications/seminaire-bourbaki-volume-20212022-exposes-1181-1196">
+Bourbaki 1186 : Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]</a>.
 <br>
 Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 <i>Astérisque</i>, no.438, p. 247&ndash;279, 2022.
