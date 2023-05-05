@@ -36,3 +36,8 @@ layout: page_LAP
 [TAKwiat]:  ./LAP/KwiatkowskaAbstract.pdf
 [TAMantova]:  ./LAP/MantovaAbstract.pdf
 [TAvanGool]:  ./LAP/vanGoolAbstract.pdf
+
+<a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
+<a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
+<a href="./sorbonne.png"><img src="/sorbonne.png" alt="Sorbonne Université" width="15%">
+<a href="./cnrs.png"><img src="/cnrs.png" alt="CNRS" width="7%">
