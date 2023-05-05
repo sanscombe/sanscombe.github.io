@@ -3,5 +3,33 @@ title: Logique à Paris 2023
 layout: page_LAP
 ---
 #### Titles and abstracts
-1. Vincenzo Mantova: _The quantifier Q "there exist uncountably many", quasi-minimality, and complex exponentiation_.
-	- In classical model theory, infinite definable sets can have any arbitrary size. But what if we want countable sets to stay put? We will go back to 1970 and Keisler's four axioms for the quantifier Q "there exist uncountably many", which can be used to pin down the cardinality of our preferred definable sets. The proof of completeness of these axioms prompts us to go further: instead of just pinning down the cardinality of countable sets, we should pin down the sets themselves; more precisely, we should only look at elementary extension where the countable definable sets do not grow at all (just like finite definable sets do not grow when going to elementary extensions). Fast forward to this century, we will see how this approach plays out in Zilber's study of complex exponentiation and his conjecture that complex exponentiation is quasi-minimal, that is to say, that every definable subset of the complex numbers is either countable or the complement of a countable set.
+1. Matteo Viale:
+	_What model companionship can say about the continuum problem_.
+	- [Abstract][TAViale]
+1. Franziska Jahnke:
+	_Ax-Kochen/Ershov principles and their applications_.
+	- [Abstract][TAJahnke]
+1. Ekaterina Fokina:
+	_Complexity of descriptions and relations in computable structure theory_.
+	- [Abstract][TAFokina]
+1. Todor Tsankov:
+	_Infinitary continuous logic and applications to descriptive set theory_.
+	- [Abstract][TATsankov]
+1. Paul Shafer:
+	_The Medvedev and Muchnik degrees_.
+	- [Abstract][TAShafer]
+1. Aleksandra Kwiatkowska:
+	_Introduction to continuum theory and projective Fra&iuml;ss&eacute; theory_.
+	- [Abstract][TAKwiat]
+1. Vincenzo Mantova:
+	_The quantifier $Q$ "there exist uncountably many", quasi-minimality, and complex exponentiation_.
+	- [Abstract][TAMantova]
+
+[TAViale]:  ./LAP/VialeAbstract.pdf
+[TAJahnke]:  ./LAP/JahnkeAbstract.pdf
+[TAFokina]:  ./LAP/FokinaAbstract.pdf
+[TATsankov]:  ./LAP/TsankovAbstract.pdf
+[TAShafer]:  ./LAP/ShaferAbstract.pdf
+[TAKwiat]:  ./LAP/KwiatkowskaAbstract.pdf
+[TAMantova]:  ./LAP/MantovaAbstract.pdf
+[TAvanGool]:  ./LAP/vanGoolAbstract.pdf
