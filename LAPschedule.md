@@ -13,7 +13,7 @@ Room 278, Halle aux Farines
 | | ----------- | ---------- |---------- |---------- |
 | 09h00-09h30 | welcome |  |  |  |
 | 09h30-10h30 | [Viale][TA]       | [Fokina][TA]      | [Shafer][TA]     | [Mantova][TA]   |
-| 09h30-11h00 | pause             | pause             | pause            |pause            |
+| 10h30-11h00 | pause             | pause             | pause            |pause            |
 | 11h00-12h00 | [Viale][TA]       | [Fokina][TA]      | [Shafer][TA]     | [Mantova][TA]   |
 |             | | | | |
 | 14h00-15h00 | [Jahnke][TA]      | [Tsankov][TA]     | [Kwiatkowska][TA]| [van Gool][TA]  |
@@ -33,7 +33,7 @@ Room 278, Halle aux Farines
 
 [seminar]:  https://www.imj-prg.fr/gestion/evenement/affEvenement/71
 
-[TA]:  ./LAPabstracts.html
+[TA]:  ./LAPschedule.html
 
 <a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
 <a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
