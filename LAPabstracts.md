@@ -33,7 +33,7 @@ layout: page_LAP
 [TAFokina]:  ./LAP/FokinaAbstract.pdf
 [TATsankov]:  ./LAP/TsankovAbstract.pdf
 [TAShafer]:  ./LAP/ShaferAbstract.pdf
-[TAKwiat]:  ./LAP/KwiatkowskaAbstract.pdf
+[TAKwiat]:  ./LAP/Kwiatkowska.pdf
 [TAMantova]:  ./LAP/MantovaAbstract.pdf
 [TAvanGool]:  ./LAP/vanGoolAbstract.pdf
 
