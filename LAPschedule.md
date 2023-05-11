@@ -37,7 +37,7 @@ Room 278, Halle aux Farines
 [TAJahnke]:  ./LAP/JahnkeAbstract.pdf
 [TAFokina]:  ./LAP/FokinaAbstract.pdf
 [TATsankov]:  ./LAP/TsankovAbstract.pdf
-[TAShafer]:  ./LAP/ShaferAbstract.pdf
+[TAShafer]:  ./LAP/ParisMay2023shafer.pdf
 [TAKwiat]:  ./LAP/Kwiat.pdf
 [TAMantova]:  ./LAP/MantovaAbstract.pdf
 [TAvanGool]:  ./LAP/vanGoolAbstract.pdf
