@@ -5,7 +5,8 @@ layout: page_LAP
 #### Titles and abstracts
 1. Matteo Viale:
 	_What model companionship can say about the continuum problem_.
-	- [Abstract][TAViale]
+	- [Abstract][AViale]
+	- [Talk][TViale]
 1. Franziska Jahnke:
 	_Ax&ndash;Kochen/Ershov principles and their applications_.
 	- [Abstract][TAJahnke]
@@ -17,7 +18,8 @@ layout: page_LAP
 	- [Abstract][TATsankov]
 1. Paul Shafer:
 	_The Medvedev and Muchnik degrees_.
-	- [Abstract][TAShafer]
+	- [Abstract][AShafer]
+	- [Talk][TShafer]
 1. Aleksandra Kwiatkowska:
 	_Introduction to continuum theory and projective Fra&iuml;ss&eacute; theory_.
 	- [Abstract][TAKwiat]
@@ -28,11 +30,14 @@ layout: page_LAP
 	_Logic, lattices, and profinite structures_.
 	- [Abstract][TAvanGool]
 
-[TAViale]:  ./LAP/VialeAbstract.pdf
+[AViale]:  ./LAP/VialeAbstract.pdf
+[TViale]: ./LAP/LogicParis-Viale2023.pdf
+
 [TAJahnke]:  ./LAP/JahnkeAbstract.pdf
 [TAFokina]:  ./LAP/FokinaAbstract.pdf
 [TATsankov]:  ./LAP/TsankovAbstract.pdf
-[TAShafer]:  ./LAP/ShaferAbstract.pdf
+[AShafer]:  ./LAP/ShaferAbstract.pdf
+[TShafer]:  ./LAP/ParisMay2023shafer.pdf
 [TAKwiat]:  ./LAP/Kwiat.pdf
 [TAMantova]:  ./LAP/MantovaAbstract.pdf
 [TAvanGool]:  ./LAP/vanGoolAbstract.pdf
