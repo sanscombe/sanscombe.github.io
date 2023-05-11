@@ -32,7 +32,7 @@ Room 278, Halle aux Farines
 [HAF]: ./plan_HAF.png
 
 [seminar]:  https://www.imj-prg.fr/gestion/evenement/affEvenement/71
-
+[TA]: ./LAPabstracts.html
 [TAViale]:  ./LAP/VialeAbstract.pdf
 [TAJahnke]:  ./LAP/JahnkeAbstract.pdf
 [TAFokina]:  ./LAP/FokinaAbstract.pdf
