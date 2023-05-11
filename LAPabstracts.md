@@ -9,7 +9,8 @@ layout: page_LAP
 	- [Talk][TViale]
 1. Franziska Jahnke:
 	_Ax&ndash;Kochen/Ershov principles and their applications_.
-	- [Abstract][TAJahnke]
+	- [Abstract][AJahnke]
+	- [Talk][TJahnke]
 1. Ekaterina Fokina:
 	_Complexity of descriptions and relations in computable structure theory_.
 	- [Abstract][TAFokina]
@@ -33,7 +34,9 @@ layout: page_LAP
 [AViale]:  ./LAP/VialeAbstract.pdf
 [TViale]: ./LAP/LogicParis-Viale2023.pdf
 
-[TAJahnke]:  ./LAP/JahnkeAbstract.pdf
+[AJahnke]:  ./LAP/JahnkeAbstract.pdf
+[TJahnke]:  ./LAP/Jahnke_notes.pdf
+
 [TAFokina]:  ./LAP/FokinaAbstract.pdf
 [TATsankov]:  ./LAP/TsankovAbstract.pdf
 [AShafer]:  ./LAP/ShaferAbstract.pdf
