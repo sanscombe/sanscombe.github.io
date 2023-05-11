@@ -31,6 +31,7 @@ github_username:  sanscombe
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 markdown: kramdown
 
 header_pages:
