@@ -13,37 +13,46 @@ layout: page_LAP
 	- [Talk][TJahnke]
 1. Ekaterina Fokina:
 	_Complexity of descriptions and relations in computable structure theory_.
-	- [Abstract][TAFokina]
+	- [Abstract][AFokina]
 1. Todor Tsankov:
 	_Infinitary continuous logic and applications to descriptive set theory_.
-	- [Abstract][TATsankov]
+	- [Abstract][ATsankov]
 1. Paul Shafer:
 	_The Medvedev and Muchnik degrees_.
 	- [Abstract][AShafer]
 	- [Talk][TShafer]
 1. Aleksandra Kwiatkowska:
 	_Introduction to continuum theory and projective Fra&iuml;ss&eacute; theory_.
-	- [Abstract][TAKwiat]
+	- [Abstract][AKwiat]
+	- [Talk 1][T1Kwiat]
+	- [Talk 2][T2Kwiat]
 1. Vincenzo Mantova:
 	_The quantifier $Q$ "there exist uncountably many", quasi-minimality, and complex exponentiation_.
-	- [Abstract][TAMantova]
+	- [Abstract][AMantova]
 1. Sam van Gool:
 	_Logic, lattices, and profinite structures_.
-	- [Abstract][TAvanGool]
+	- [Abstract][AvanGool]
 
-[AViale]:  ./LAP/VialeAbstract.pdf
-[TViale]: ./LAP/LogicParis-Viale2023.pdf
+[AViale]:  ./LAP/AViale.pdf
+[TViale]: ./LAP/TViale.pdf
 
-[AJahnke]:  ./LAP/JahnkeAbstract.pdf
-[TJahnke]:  ./LAP/Jahnke_notes.pdf
+[AJahnke]:  ./LAP/AJahnke.pdf
+[TJahnke]:  ./LAP/TJahnke.pdf
 
-[TAFokina]:  ./LAP/FokinaAbstract.pdf
-[TATsankov]:  ./LAP/TsankovAbstract.pdf
-[AShafer]:  ./LAP/ShaferAbstract.pdf
-[TShafer]:  ./LAP/ParisMay2023shafer.pdf
-[TAKwiat]:  ./LAP/Kwiat.pdf
-[TAMantova]:  ./LAP/MantovaAbstract.pdf
-[TAvanGool]:  ./LAP/vanGoolAbstract.pdf
+[AFokina]:  ./LAP/AFokina.pdf
+
+[ATsankov]:  ./LAP/ATsankov.pdf
+
+[AShafer]:  ./LAP/AShafer.pdf
+[TShafer]:  ./LAP/TShafer.pdf
+
+[AKwiat]:  ./LAP/AKwiat.pdf
+[T1Kwiat]:  ./LAP/T1Kwiat.pdf
+[T2Kwiat]:  ./LAP/T2Kwiat.pdf
+
+[TAMantova]:  ./LAP/AMantova.pdf
+
+[TAvanGool]:  ./LAP/AvanGool.pdf
 
 <a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
 <a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
