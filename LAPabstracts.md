@@ -2,7 +2,7 @@
 title: Logique à Paris 2023
 layout: page_LAP
 ---
-#### Titles, abstracts, and talks
+#### Talks and abstracts
 1. Matteo Viale:
 	_What model companionship can say about the continuum problem_.
 	- [Abstract][AViale]
