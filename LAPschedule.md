@@ -13,7 +13,7 @@ Room 278, Halle aux Farines
 | | ----------- | ---------- |---------- |---------- |
 | 09h00-09h30 | welcome |  |  |  |
 | 09h30-10h30 | [Viale][TA]         | [Fokina][TA]         | [Shafer][TA]           | [Mantova][TA]          |
-| 10h30-11h00 | pause               | pause                | pause                  | pause--photo           |
+| 10h30-11h00 | pause               | pause                | pause                  | pause -- photo         |
 | 11h00-12h00 | [Viale][TA]         | [Fokina][TA]         | [Shafer][TA]           | [Mantova][TA]          |
 |             | | | | |
 | 14h00-15h00 | [Jahnke][TA]        | [Tsankov][TA]        | [Kwiatkowska][TA]      | [van Gool][TA]         |
