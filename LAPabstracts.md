@@ -50,9 +50,9 @@ layout: page_LAP
 [T1Kwiat]:  ./LAP/T1Kwiat.pdf
 [T2Kwiat]:  ./LAP/T2Kwiat.pdf
 
-[TAMantova]:  ./LAP/AMantova.pdf
+[AMantova]:  ./LAP/AMantova.pdf
 
-[TAvanGool]:  ./LAP/AvanGool.pdf
+[AvanGool]:  ./LAP/AvanGool.pdf
 
 <a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
 <a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
