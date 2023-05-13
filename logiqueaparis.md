@@ -6,7 +6,7 @@ A 4-day meeting of contemporary developments in Mathematical Logic,
 with a focus on the themes of interest to the members of the
 [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
 
-There will be symposium-type seminars given by invited speakers from a range of other European centers of research in Logic.
+There will be symposium-type seminars given by eight invited speakers from a range of other European centers of research in Logic.
 
 <a href="./LAP2023.pdf"><img src="./LAP2023.jpg" width="30%" style="float:right;border: 1px solid black;"></a>
 
