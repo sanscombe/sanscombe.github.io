@@ -8,7 +8,7 @@ with a focus on the themes of interest to the members of the
 
 There will be symposium-type seminars given by eight invited speakers from a range of other European centers of research in Logic.
 
-<a href="./LAP2023.pdf"><img src="./LAP2023.jpg" width="30%" style="float:right;border: 1px solid black;"></a>
+<a href="/LAP/LAP2023.pdf"><img src="/LAP/LAP2023.jpg" width="30%" style="float:right;border: 1px solid black;"></a>
 
 - <a class="linkdebugmain" href="https://forms.gle/diKmdS5dMA7nT7hW6">Registration</a>
 - _Dates_ : 9th--12th May 2023
@@ -32,13 +32,13 @@ There will be symposium-type seminars given by eight invited speakers from a ran
 	- Alessandro Vignati
 - _Email us_ : [logiqueaparis@gmail.com](logiqueaparis@gmail.com)
 
-[campus]: ./plan_campus.png
-[HAF]: ./plan_HAF.png
+[campus]: /plan_campus.png
+[HAF]: /plan_HAF.png
 
-<a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
-<a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
-<a href="./sorbonne.png"><img src="/sorbonne.png" alt="Sorbonne Université" width="15%">
-<a href="./cnrs.png"><img src="/cnrs.png" alt="CNRS" width="7%">
+<a href="/imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
+<a href="/upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
+<a href="/sorbonne.png"><img src="/sorbonne.png" alt="Sorbonne Université" width="15%">
+<a href="/cnrs.png"><img src="/cnrs.png" alt="CNRS" width="7%">
 
 [UPC]:  https://u-paris.fr/
 [IMJ-PRG]: https://www.imj-prg.fr/

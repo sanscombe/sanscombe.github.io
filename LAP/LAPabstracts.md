@@ -33,28 +33,28 @@ layout: page_LAP
 	_Logic, lattices, and profinite structures_.
 	- [Abstract][AvanGool]
 
-[AViale]:  ./LAP/AViale.pdf
-[TViale]: ./LAP/TViale.pdf
+[AViale]:  /LAP/AViale.pdf
+[TViale]: /LAP/TViale.pdf
 
-[AJahnke]:  ./LAP/AJahnke.pdf
-[TJahnke]:  ./LAP/TJahnke.pdf
+[AJahnke]:  /LAP/AJahnke.pdf
+[TJahnke]:  /LAP/TJahnke.pdf
 
-[AFokina]:  ./LAP/AFokina.pdf
+[AFokina]:  /LAP/AFokina.pdf
 
-[ATsankov]:  ./LAP/ATsankov.pdf
+[ATsankov]:  /LAP/ATsankov.pdf
 
-[AShafer]:  ./LAP/AShafer.pdf
-[TShafer]:  ./LAP/TShafer.pdf
+[AShafer]:  /LAP/AShafer.pdf
+[TShafer]:  /LAP/TShafer.pdf
 
-[AKwiat]:  ./LAP/AKwiat.pdf
-[T1Kwiat]:  ./LAP/T1Kwiat.pdf
-[T2Kwiat]:  ./LAP/T2Kwiat.pdf
+[AKwiat]:  /LAP/AKwiat.pdf
+[T1Kwiat]:  /LAP/T1Kwiat.pdf
+[T2Kwiat]:  /LAP/T2Kwiat.pdf
 
-[AMantova]:  ./LAP/AMantova.pdf
+[AMantova]:  /LAP/AMantova.pdf
 
-[AvanGool]:  ./LAP/AvanGool.pdf
+[AvanGool]:  /LAP/AvanGool.pdf
 
-<a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
-<a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
-<a href="./sorbonne.png"><img src="/sorbonne.png" alt="Sorbonne Université" width="15%">
-<a href="./cnrs.png"><img src="/cnrs.png" alt="CNRS" width="7%">
+<a href="/imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
+<a href="/upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
+<a href="/sorbonne.png"><img src="/sorbonne.png" alt="Sorbonne Université" width="15%">
+<a href="/cnrs.png"><img src="/cnrs.png" alt="CNRS" width="7%">

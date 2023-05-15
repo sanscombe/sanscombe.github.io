@@ -28,25 +28,16 @@ Room 278, Halle aux Farines
  - Title: _Difference fields with an additive character on the fixed field_
  - Location of seminar: [Buffon][campus], salle RH 02B
 
-[campus]: ./plan_campus.png
-[HAF]: ./plan_HAF.png
+[campus]: /plan_campus.png
+[HAF]: /plan_HAF.png
 
 [seminar]:  https://www.imj-prg.fr/gestion/evenement/affEvenement/71
-[TA]: ./LAPabstracts.html
+[TA]: /LAPabstracts.html
 
-[TAViale]:  ./LAP/VialeAbstract.pdf
-[TAJahnke]:  ./LAP/JahnkeAbstract.pdf
-[TAFokina]:  ./LAP/FokinaAbstract.pdf
-[TATsankov]:  ./LAP/TsankovAbstract.pdf
-[TAShafer]:  ./LAP/ParisMay2023shafer.pdf
-[TAKwiat]:  ./LAP/Kwiat.pdf
-[TAMantova]:  ./LAP/MantovaAbstract.pdf
-[TAvanGool]:  ./LAP/vanGoolAbstract.pdf
-
-<a href="./imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
-<a href="./upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
-<a href="./sorbonne.png"><img src="/sorbonne.png" alt="Sorbonne Université" width="15%">
-<a href="./cnrs.png"><img src="/cnrs.png" alt="CNRS" width="7%">
+<a href="/imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
+<a href="/upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
+<a href="/sorbonne.png"><img src="/sorbonne.png" alt="Sorbonne Université" width="15%">
+<a href="/cnrs.png"><img src="/cnrs.png" alt="CNRS" width="7%">
 
 [UPC]:  https://u-paris.fr/
 [IMJ-PRG]: https://www.imj-prg.fr/

@@ -24,7 +24,7 @@ I am supported by [GeoMod][GeoMod].
 [\\]: # - [GEOMOD Final Conference](https://home.mathematik.uni-freiburg.de/pizarro/GeoMod/index.html), Freiburg, 13th--17th November 2023
 [\\]: # - [Spectra Conference II](http://lgbtmath.org/), online, 21st--23rd September 2023
 [\\]: # - [MOSS 2023](https://sites.google.com/iiserbpr.ac.in/prospiral/events/2023/moss-2023), Project Spiral, 2nd April 2023
-- <a class="linkdebugmain" href="./logiqueaparis.html">Logique à Paris 2023</a>, IMJ-PRG, 9th--12th May 2023
+[\\]: # - <a class="linkdebugmain" href="./logiqueaparis.html">Logique à Paris 2023</a>, IMJ-PRG, 9th--12th May 2023
 - [Model Theory of Valued Fields](https://conferences.cirm-math.fr/2761.html), CIRM, Luminy, 29th May--2nd June 2023
 - [Model theory and related topics](https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html), Manchester, 3rd--7th July 2023
 
