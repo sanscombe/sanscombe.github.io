@@ -28,8 +28,8 @@ Room 278, Halle aux Farines
  - Title: _Difference fields with an additive character on the fixed field_
  - Location of seminar: [Buffon][campus], salle RH 02B
 
-[campus]: /plan_campus.png
-[HAF]: /plan_HAF.png
+[campus]: /IMAGES/plan_campus.png
+[HAF]: /IMAGES/plan_HAF.png
 
 [seminar]:  https://www.imj-prg.fr/gestion/evenement/affEvenement/71
 [TA]: /LAP/LAPabstracts.html
