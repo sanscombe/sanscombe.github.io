@@ -5,7 +5,7 @@ categories: me
 order: 1
 ---
 
-<a href="./sky.jpg"><img src="/IMAGES/sky.jpg" alt="The sky, it's blue" title="The sky, it's blue" align="right" width="30%"></a>
+<a href="/IMAGES/sky.jpg"><img src="/IMAGES/sky.jpg" alt="The sky, it's blue" title="The sky, it's blue" align="right" width="30%"></a>
 I am a mathematician.
 I am maîtresse de conférences
 at [Université Paris Cité][UPC], and a member of the [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
