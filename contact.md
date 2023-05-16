@@ -41,4 +41,4 @@ Here is a [campus map][campus map]:
 
 <a href="https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf"><img src="/IMAGES/plan_campus.png"></a>
 
-[campus map]: /plan_campus.png
+[campus map]: /IMAGES/plan_campus.png
