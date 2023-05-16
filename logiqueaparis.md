@@ -30,7 +30,7 @@ There will be symposium-type seminars given by eight invited speakers from a ran
 	- Ludovic Patey
 	- Tamara Servi
 	- Alessandro Vignati
-- _Email us_ : [mailto:logiqueaparis@gmail.com](logiqueaparis@gmail.com)
+- _Email us_ : [logiqueaparis@gmail.com](mailto:logiqueaparis@gmail.com)
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png
