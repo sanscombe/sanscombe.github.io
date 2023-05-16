@@ -6,7 +6,7 @@ usemathjax: true
 order: 5
 ---
 
-<img src="/leeds_cafe.jpg" width="35%" style="float:right;">
+<img src="/IMAGES/leeds_cafe.jpg" width="35%" style="float:right;">
 
 My e-mail address is:
 
@@ -39,6 +39,6 @@ by appointment
 
 Here is a [campus map][campus map]:
 
-<a href="https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf"><img src="/plan_campus.png"></a>
+<a href="https://u-paris.fr/wp-content/uploads/2022/09/PlanB5_PRG_0922.pdf"><img src="/IMAGES/plan_campus.png"></a>
 
 [campus map]: /plan_campus.png

@@ -8,7 +8,7 @@ order: 3
 
 ### current teaching ‖ enseignement actuel
 
-<img src="/tilly.jpeg" width="25%" style="float:right;">
+<img src="/IMAGES/tilly.jpeg" width="25%" style="float:right;">
 
 ##### 2022--2023, Université Paris Cité
 ###### premier semestre
@@ -16,14 +16,11 @@ order: 3
 
 ###### second semestre
 - Cours de MC2 dans L1CHIM
-	- jeu. 10h45--12h45, 8C HAF
 - TD de MC2 dans L1CHIM (CHIM 1)
-	- jeu. 15h45--17h45, 274F HAF
-	- ven. 10h45--12h45, 274F HAF
 - TD de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
 - Cours de IN8 dans M1MATHS
-	- mar. 14h00--16h00, SG2015
-	- mer. 13h30--15h30, SG1006
+
+[//]: # - mer. 13h30--15h30, SG1006
 
 
 

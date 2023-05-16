@@ -8,7 +8,7 @@ order: 4
 
 ### <a class="linkdebugmain" href="https://www.waterstones.com/book/unmasked/s-anscombe/n-danino/9781912979080?fbclid=IwAR2kkLuFbVRS0TvOr9etGZMB2E45oH8KkBVce9FdiyK7Mg01zQ-5km-6hlo">Unmasked: the Science of Superheroes</a>
 
-<img src="/sylvy.jpg" width="25%" style="float:right;">
+<img src="/IMAGES/sylvy.jpg" width="30%" style="float:right;">
 
 __OUT NOW!__
 

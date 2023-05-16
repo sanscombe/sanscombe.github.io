@@ -34,10 +34,10 @@ Room 278, Halle aux Farines
 [seminar]:  https://www.imj-prg.fr/gestion/evenement/affEvenement/71
 [TA]: /LAPabstracts.html
 
-<a href="/imj-prg.png"><img src="/imj-prg.png" alt="IMJ-PRG" width="15%">
-<a href="/upc.png"><img src="/upc.png" alt="Université Paris Cité" width="15%">
-<a href="/sorbonne.png"><img src="/sorbonne.png" alt="Sorbonne Université" width="15%">
-<a href="/cnrs.png"><img src="/cnrs.png" alt="CNRS" width="7%">
+<a href="/ICONS/imj-prg.png"><img src="/ICONS/imj-prg.png" alt="IMJ-PRG" width="15%">
+<a href="/ICONS/upc.png"><img src="/ICONS/upc.png" alt="Université Paris Cité" width="15%">
+<a href="/ICONS/sorbonne.png"><img src="/ICONS/sorbonne.png" alt="Sorbonne Université" width="15%">
+<a href="/ICONS/cnrs.png"><img src="/ICONS/cnrs.png" alt="CNRS" width="7%">
 
 [UPC]:  https://u-paris.fr/
 [IMJ-PRG]: https://www.imj-prg.fr/

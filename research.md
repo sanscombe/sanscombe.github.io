@@ -15,7 +15,7 @@ Sylvy Anscombe
 
 <div id="section">
 
-<img src="/AI_pictures/chaos3.png" width="35%" style="float:right;">
+<img src="/IMAGES/AI_IMAGES/chaos3.png" width="35%" style="float:right;">
 
 My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory">Model Theory</a>, a part of <a href="https://en.wikipedia.org/wiki/Mathematical_logic">Mathematical Logic</a>, including connections to algebra and number theory.
 I am supported by <a href="https://home.mathematik.uni-freiburg.de/palacin/GeoMod/">GeoMod</a>.
@@ -189,7 +189,7 @@ Manuscript, 2018.
 
 <!--A selection of slides, notes, and abstracts.-->
 
-<img src="/spices.jpg" width="35%" style="float:right;">
+<img src="/IMAGES/spices.jpg" width="35%" style="float:right;">
 
 <h5>short courses</h5>
 <ol reversed type="A">
@@ -377,7 +377,7 @@ AMS Rutgers, November 2015.
 
 A selection of meetings that I have attended or will attend.
 
-<img src="/arithmetic.jpg" width="40%" style="float:right;">
+<img src="/IMAGES/arithmetic.jpg" width="40%" style="float:right;">
 
 <ul>
 
@@ -487,7 +487,7 @@ If you're interested in studying with me, please <a href="/contact.html">contact
 
 <h3>useful links</h3>
 
-<img src="/msri2.jpg" width="30%" style="float:right;">
+<img src="/IMAGES/msri2.jpg" width="30%" style="float:right;">
 
 <ul>
 
