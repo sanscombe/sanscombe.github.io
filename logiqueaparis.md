@@ -32,8 +32,8 @@ There will be symposium-type seminars given by eight invited speakers from a ran
 	- Alessandro Vignati
 - _Email us_ : [logiqueaparis@gmail.com](logiqueaparis@gmail.com)
 
-[campus]: /plan_campus.png
-[HAF]: /plan_HAF.png
+[campus]: /IMAGES/plan_campus.png
+[HAF]: /IMAGES/plan_HAF.png
 
 <a href="/ICONS/imj-prg.png"><img src="/ICONS/imj-prg.png" alt="IMJ-PRG" width="15%">
 <a href="/ICONS/upc.png"><img src="/ICONS/upc.png" alt="Université Paris Cité" width="15%">
