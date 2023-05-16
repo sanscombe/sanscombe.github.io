@@ -1,13 +1,22 @@
 body {
-/* I used to use Verdana, Geneva, sans-serif*/
-/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
-/* font-family: Verdana, Geneva, sans-serif;*/
-background-color: White;
-/* AliceBlue;*/
-/*Lavender*/
-/*#4169E1;*/
-margin:0;
-width:100%
+	/* I used to use Verdana, Geneva, sans-serif*/
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	/* font-family: Verdana, Geneva, sans-serif;*/
+	background-color: lemonchiffon;
+	/* White */
+	/* AliceBlue;*/
+	/*Lavender*/
+	/*#4169E1;*/
+	margin:0;
+	width:100%
+}
+#section {
+	background-color: lemonchiffon;
+	/*#FFFFFF;*/
+	width:100%;
+	height:auto;/*auto;*/
+	float:right;
+	padding:5px;
 }
 ol.papers li {
     margin: 8px 0;
@@ -501,15 +510,3 @@ text-align:center;
 vertical-align:center}
 a.navdebugsub:hover {background:Orange}
 a.navdebugsub:link, a:visited {}
-
-/*
-SECTIONS
-*/
-#section {
-    background-color:White;
-/*#FFFFFF;*/
-    width:100%;
-    height:auto;/*auto;*/
-    float:right;
-    padding:5px;
-}
