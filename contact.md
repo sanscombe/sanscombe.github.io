@@ -6,7 +6,7 @@ usemathjax: true
 order: 5
 ---
 
-<img src="/IMAGES/leeds_cafe.jpg" width="35%" style="float:right;">
+<img src="/IMAGES/AI_IMAGES/frog2.png" width="35%" style="float:right;">
 
 My e-mail address is:
 
