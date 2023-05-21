@@ -135,6 +135,13 @@ Supervised by Prof. Jochen Koenigsmann.
 <ol reversed class="papers" type="a">
 
 <li>
+<a href="">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
+with Philip Dittmann and Franziska Jahnke.
+<br>
+Submitted, 2023.
+</li>
+
+<li>
 <a href="https://arxiv.org/abs/1911.00309">Characterizing NIP henselian fields</a>,
 with Franziska Jahnke.
 <br>
