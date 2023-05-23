@@ -135,10 +135,11 @@ Supervised by Prof. Jochen Koenigsmann.
 <ol reversed class="papers" type="a">
 
 <li>
-<a href="">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
+<a href="http://arxiv.org/abs/2305.12145">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
 with Philip Dittmann and Franziska Jahnke.
 <br>
-Submitted, 2023.
+Manuscript, 2023.
+<a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
 </li>
 
 <li>
