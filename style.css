@@ -28,7 +28,8 @@
 	.text {
 	  color: black;
 	  font-size: 60px;
-	  position: absolute;
+	  position: relative;
+/*absolute*/
 	  top: 0%;
 	  left: 0%;
 	}
