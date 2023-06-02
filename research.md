@@ -239,6 +239,14 @@ Antwerp, July 2020.
 <ol reversed type="a">
 
 <li>
+Transfer of decidability for existential theories of (valued) fields,
+(<a href="https://drive.google.com/file/d/12sqJRczJAx5JtrUAZ_p0tBrPtAEZ6eu0/view?usp=sharing">abstract</a>,
+<a href="https://www.youtube.com/live/OGA6R0vL1ts?feature=share">video</a>),
+<a href="https://conferences.cirm-math.fr/2761.html">Théorie des modèles des corps valués</a>,
+CIRM, May, 2023.
+</li>
+
+<li>
 Hilbert's Tenth Problem - for the 21st century,
 (<a href="">slides</a>),
 <a href="https://sites.google.com/iiserbpr.ac.in/prospiral/events/2023/moss-2023">MOSS 2023</a>,
