@@ -22,7 +22,7 @@ I am supported by [GeoMod][GeoMod].
 ### current and upcoming
 
 - [SEEMOD](https://www.cantab.net/users/jonathankirby/SEEMOD_main.html), Oxford, 13th June 2023
-- [GTM](http://gtm.imj-prg.fr/), ENS, 16th June 2023
+- [GTM](http://gtm.imj-prg.fr/), Jussieu, 16th June 2023
 - [Definability and Computability over Arithmetically Significant Fields](), online, 21st--22nd June 2023
 - [Model theory and related topics](https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html), Manchester, 3rd--7th July 2023
 
