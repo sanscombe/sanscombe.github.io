@@ -401,7 +401,7 @@ A selection of meetings that I have attended or will attend.
 
 <li><a href="">Definability and Computability over Arithmetically Significant Fields</a>, 21st &ndash; 22nd June 2023</li>
 
-<li><a href="https://www.cantab.net/users/jonathankirby/SEEMOD_main.html">SEEMOD</a>, Oxford, 13th June 2023</li>
+<li><a href="https://lorna-gregory.netlify.app/seemod">SEEMOD</a>, Oxford, 13th June 2023</li>
 
 <li><a href="https://conferences.cirm-math.fr/2761.html">Model Theory of Valued Fields</a>, CIRM, Luminy, 29th May &ndash; 2nd June 2023</li>
 
