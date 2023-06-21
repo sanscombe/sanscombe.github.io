@@ -239,6 +239,12 @@ Antwerp, July 2020.
 <ol reversed type="a">
 
 <li>
+Interpretations of fragments of theories of fields,
+<a href="http://gtm.imj-prg.fr">Géométrie et Théorie des Modèles</a>,
+Jussieu, Paris, June, 2023.
+</li>
+
+<li>
 Transfer of decidability for existential theories of (valued) fields,
 (<a href="https://drive.google.com/file/d/12sqJRczJAx5JtrUAZ_p0tBrPtAEZ6eu0/view?usp=sharing">abstract</a>,
 <a href="https://www.youtube.com/live/OGA6R0vL1ts?feature=share">video</a>),
