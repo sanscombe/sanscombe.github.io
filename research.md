@@ -239,9 +239,21 @@ Antwerp, July 2020.
 <ol reversed type="a">
 
 <li>
+Transfer of decidability for existential theories of (valued) fields,
+<a href="https://www.math.upenn.edu/news/frg-workshop">Definability and Computability over Arithmetically Significant Fields</a>,
+online, June 2023.
+</li>
+
+<li>
 Interpretations of fragments of theories of fields,
 <a href="http://gtm.imj-prg.fr">Géométrie et Théorie des Modèles</a>,
 Jussieu, Paris, June, 2023.
+</li>
+
+<li>
+Interpretations of fragments of theories of fields,
+<a href="https://lorna-gregory.netlify.app/seemod">SEEMOD</a>,
+Oxford, June 2023.
 </li>
 
 <li>
@@ -254,7 +266,6 @@ CIRM, Luminy, May, 2023.
 
 <li>
 Hilbert's Tenth Problem - for the 21st century,
-(<a href="">slides</a>),
 <a href="https://sites.google.com/iiserbpr.ac.in/prospiral/events/2023/moss-2023">MOSS 2023</a>,
 Project Spiral, April, 2023.
 </li>
