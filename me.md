@@ -19,7 +19,7 @@ I am supported by [GeoMod][GeoMod].
 
 
 
-### current and upcoming
+[\\]: # - ### current and upcoming
 
 [\\]: # - [SEEMOD](https://lorna-gregory.netlify.app/seemod), Oxford, 13th June 2023
 [\\]: # - [GTM](http://gtm.imj-prg.fr/), Jussieu, 16th June 2023
