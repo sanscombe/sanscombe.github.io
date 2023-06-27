@@ -24,7 +24,7 @@ I am supported by [GeoMod][GeoMod].
 [\\]: # - [SEEMOD](https://lorna-gregory.netlify.app/seemod), Oxford, 13th June 2023
 [\\]: # - [GTM](http://gtm.imj-prg.fr/), Jussieu, 16th June 2023
 [\\]: # - [Definability and Computability over Arithmetically Significant Fields](https://www.math.upenn.edu/news/frg-workshop), online, 21st--22nd June 2023
-- [Model theory and related topics](https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html), Manchester, 3rd--7th July 2023
+[\\]: # - [Model theory and related topics](https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html), Manchester, 3rd--7th July 2023
 
 [\\]: # - [Spectra Conference II](http://lgbtmath.org/), online, 21st--23rd September 2023
 [\\]: # - [GEOMOD Final Conference](https://home.mathematik.uni-freiburg.de/pizarro/GeoMod/index.html), Freiburg, 13th--17th November 2023
