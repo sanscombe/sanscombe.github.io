@@ -239,6 +239,30 @@ Antwerp, July 2020.
 <ol reversed type="a">
 
 <li>
+Fragments of theories of fields and transfer of existential decidability,
+<a href="https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html">Model theory and related topics</a>,
+Manchester, July 2023.
+</li>
+
+<li>
+Transfer of decidability for existential theories of (valued) fields,
+<a href="">Definability and Computability over Arithmetically Significant Fields</a>,
+June 2023.
+</li>
+
+<li>
+Interpretations of fragments of theories of fields,
+<a href="http://gtm.imj-prg.fr">GTM</a>,
+Jussieu, June 2023.
+</li>
+
+<li>
+Interpretations of fragments of theories of fields,
+<a href="https://lorna-gregory.netlify.app/seemod">SEEMOD XV</a>,
+Oxford, 13th June 2023.
+</li>
+
+<li>
 Transfer of decidability for existential theories of (valued) fields,
 (<a href="https://drive.google.com/file/d/12sqJRczJAx5JtrUAZ_p0tBrPtAEZ6eu0/view?usp=sharing">abstract</a>,
 <a href="https://www.youtube.com/live/OGA6R0vL1ts?feature=share">video</a>),
@@ -400,6 +424,8 @@ A selection of meetings that I have attended or will attend.
 <li><a href="https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html">Model theory and related topics</a>, Manchester, 3rd &ndash; 7th July 2023</li>
 
 <li><a href="">Definability and Computability over Arithmetically Significant Fields</a>, 21st &ndash; 22nd June 2023</li>
+
+<li><a href="http://gtm.imj-prg.fr">GTM</a>, Jussieu, 16th June 2023</li>
 
 <li><a href="https://lorna-gregory.netlify.app/seemod">SEEMOD XV</a>, Oxford, 13th June 2023</li>
 

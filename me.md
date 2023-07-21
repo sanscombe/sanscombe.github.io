@@ -18,27 +18,20 @@ I am supported by [GeoMod][GeoMod].
 -->
 
 
-
 ### current and upcoming
 
-[//]: # - [SEEMOD](https://lorna-gregory.netlify.app/seemod), Oxford, 13th June 2023
-- [GTM](http://gtm.imj-prg.fr/), Jussieu, 16th June 2023
-- [Definability and Computability over Arithmetically Significant Fields](), online, 21st--22nd June 2023
-- [Model theory and related topics](https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html), Manchester, 3rd--7th July 2023
+- [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
 
 [\\]: # - [Spectra Conference II](http://lgbtmath.org/), online, 21st--23rd September 2023
-[\\]: # - [GEOMOD Final Conference](https://home.mathematik.uni-freiburg.de/pizarro/GeoMod/index.html), Freiburg, 13th--17th November 2023
 
 
-
-### news
+[//]: # ### news
 
 [//]: # - The journal [Model Theory][Model Theory] has its [first issue][first issue]!
 
-<!-- <a href="https://msp.org/mt/"><img src="/journal.jpg" alt="Model Theory" width="20%" style="float:right;"></a>-->
+[//]: # - [Model Theory](https://msp.org/mt)
 
-[//]: # [Model Theory](https://msp.org/mt)
-- [Current favourite xkcd](https://xkcd.com/2668/)
+[//]: # - [Current favourite xkcd](https://xkcd.com/2668/)
 
 [research]: research.html
 [teaching]: teaching.html
