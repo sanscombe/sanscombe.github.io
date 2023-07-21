@@ -14,6 +14,7 @@ layout: page_LAP
 1. Ekaterina Fokina:
 	_Complexity of descriptions and relations in computable structure theory_.
 	- [Abstract][AFokina]
+	- [Talk][TFokina]
 1. Todor Tsankov:
 	_Infinitary continuous logic and applications to descriptive set theory_.
 	- [Abstract][ATsankov]
@@ -40,6 +41,7 @@ layout: page_LAP
 [TJahnke]:  /LAP/TJahnke.pdf
 
 [AFokina]:  /LAP/AFokina.pdf
+[TFokina]:  /LAP/TFokina.pdf
 
 [ATsankov]:  /LAP/ATsankov.pdf
 

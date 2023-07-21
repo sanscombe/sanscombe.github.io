@@ -138,7 +138,7 @@ Supervised by Prof. Jochen Koenigsmann.
 <a href="http://arxiv.org/abs/2305.12145">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
 with Philip Dittmann and Franziska Jahnke.
 <br>
-Manuscript, 2023.
+Submitted, 2023.
 <a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
 </li>
 
@@ -264,6 +264,24 @@ Oxford, 13th June 2023.
 
 <li>
 Transfer of decidability for existential theories of (valued) fields,
+<a href="https://www.math.upenn.edu/news/frg-workshop">Definability and Computability over Arithmetically Significant Fields</a>,
+online, June 2023.
+</li>
+
+<li>
+Interpretations of fragments of theories of fields,
+<a href="http://gtm.imj-prg.fr">Géométrie et Théorie des Modèles</a>,
+Jussieu, Paris, June, 2023.
+</li>
+
+<li>
+Interpretations of fragments of theories of fields,
+<a href="https://lorna-gregory.netlify.app/seemod">SEEMOD</a>,
+Oxford, June 2023.
+</li>
+
+<li>
+Transfer of decidability for existential theories of (valued) fields,
 (<a href="https://drive.google.com/file/d/12sqJRczJAx5JtrUAZ_p0tBrPtAEZ6eu0/view?usp=sharing">abstract</a>,
 <a href="https://www.youtube.com/live/OGA6R0vL1ts?feature=share">video</a>),
 <a href="https://conferences.cirm-math.fr/2761.html">Théorie des modèles des corps valués</a>,
@@ -272,7 +290,6 @@ CIRM, Luminy, May, 2023.
 
 <li>
 Hilbert's Tenth Problem - for the 21st century,
-(<a href="">slides</a>),
 <a href="https://sites.google.com/iiserbpr.ac.in/prospiral/events/2023/moss-2023">MOSS 2023</a>,
 Project Spiral, April, 2023.
 </li>

@@ -22,7 +22,7 @@ I am supported by [GeoMod][GeoMod].
 
 - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
 
-[\\]: # - [Spectra Conference II](http://lgbtmath.org/), online, 21st--23rd September 2023
+[//]: # - [Spectra Conference II](http://lgbtmath.org/), online, 21st--23rd September 2023
 
 
 [//]: # ### news
