@@ -246,24 +246,6 @@ Manchester, July 2023.
 
 <li>
 Transfer of decidability for existential theories of (valued) fields,
-<a href="">Definability and Computability over Arithmetically Significant Fields</a>,
-June 2023.
-</li>
-
-<li>
-Interpretations of fragments of theories of fields,
-<a href="http://gtm.imj-prg.fr">GTM</a>,
-Jussieu, June 2023.
-</li>
-
-<li>
-Interpretations of fragments of theories of fields,
-<a href="https://lorna-gregory.netlify.app/seemod">SEEMOD XV</a>,
-Oxford, 13th June 2023.
-</li>
-
-<li>
-Transfer of decidability for existential theories of (valued) fields,
 <a href="https://www.math.upenn.edu/news/frg-workshop">Definability and Computability over Arithmetically Significant Fields</a>,
 online, June 2023.
 </li>
@@ -276,8 +258,8 @@ Jussieu, Paris, June, 2023.
 
 <li>
 Interpretations of fragments of theories of fields,
-<a href="https://lorna-gregory.netlify.app/seemod">SEEMOD</a>,
-Oxford, June 2023.
+<a href="https://lorna-gregory.netlify.app/seemod">SEEMOD XV</a>,
+Oxford, 13th June 2023.
 </li>
 
 <li>
