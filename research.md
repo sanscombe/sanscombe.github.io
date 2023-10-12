@@ -166,10 +166,7 @@ edited by Ramla Abdellatif, Valentijn Karemaker, and Lejla Smajlovic.
 
 <li>
 <a href="http://dx.doi.org/10.24033/ast.1181">
-Exposé
-</a>
-<a href="https://smf.emath.fr/publications/seminaire-bourbaki-volume-20212022-exposes-1181-1196">
-Bourbaki 1186 : Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]</a>.
+Exposé Bourbaki 1186 : Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]</a>.
 <br>
 Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 <i>Astérisque</i>, no.438, p. 247&ndash;279, 2022.
