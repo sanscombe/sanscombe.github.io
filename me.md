@@ -22,6 +22,8 @@ I am supported by [GeoMod][GeoMod].
 
 - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
 
+- [Tame fields reading groups](https://www.uni-muenster.de/IVV5WS/WebHop/user/sramello/tame/)
+
 [//]: # - [Spectra Conference II](http://lgbtmath.org/), online, 21st--23rd September 2023
 
 

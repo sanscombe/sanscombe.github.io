@@ -165,6 +165,13 @@ edited by Ramla Abdellatif, Valentijn Karemaker, and Lejla Smajlovic.
 </li>
 
 <li>
+<a href="http://dx.doi.org/10.4171/OWR/2023/2">
+Imperfection in NIP fields</a>.
+<br>
+Extended abstract, <i>Oberwolfach Reports</i> (20) 2023, pp. 125&ndash;127.
+</li>
+
+<li>
 <a href="http://dx.doi.org/10.24033/ast.1181">
 Exposé Bourbaki 1186 : Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]</a>.
 <br>
