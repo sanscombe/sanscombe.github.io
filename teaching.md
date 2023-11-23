@@ -10,14 +10,13 @@ order: 3
 
 <img src="/IMAGES/tilly.jpeg" width="25%" style="float:right;">
 
-##### 2022--2023, Université Paris Cité
+##### 2023--2024, Université Paris Cité
 ###### premier semestre
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
 
 ###### second semestre
-- Cours de MC2 dans L1CHIM
-- TD de MC2 dans L1CHIM (CHIM 1)
-- TD de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
+- Cours de _Théorie des modèles : Outils classiques_ dans M2LMFI
+- Cours de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
 - Cours de IN8 dans M1MATHS
 
 [//]: # - mer. 13h30--15h30, SG1006
