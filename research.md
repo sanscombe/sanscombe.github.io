@@ -524,7 +524,7 @@ A selection of meetings that I have attended or will attend.
 
 PhD
 <ul>
-<li>Piotr Szewczyk &mdash; co-supervised with Arno Fehm, TU Dresden.</li>
+<li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.</li>
 <li>Paulo Andrés Soto Moreno.</li>
 </ul>
 
