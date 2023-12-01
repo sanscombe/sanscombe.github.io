@@ -32,7 +32,7 @@ Room 278, Halle aux Farines
 [HAF]: /IMAGES/plan_HAF.png
 
 [seminar]:  https://www.imj-prg.fr/gestion/evenement/affEvenement/71
-[TA]: /LAP/LAPabstracts.html
+[TA]: /LAP2023/LAPabstracts.html
 
 <a href="/ICONS/imj-prg.png"><img src="/ICONS/imj-prg.png" alt="IMJ-PRG" width="15%">
 <a href="/ICONS/upc.png"><img src="/ICONS/upc.png" alt="Université Paris Cité" width="15%">
