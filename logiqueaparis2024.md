@@ -1,15 +1,29 @@
 ---
-title: Logique à Paris
-layout: page
+title: Logique à Paris 2024
+layout: page_LAP_2024
 ---
-A series (so far two) of conferences of contemporary developments in Mathematical Logique,
+A 3-day meeting of contemporary developments in Mathematical Logic,
 with a focus on the themes of interest to the members of the
 [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
 
+There will be symposium-type seminars given by six invited speakers from a range of other European centers of research in Logic.
+
 <a href="/LAP2024/LAP2024.pdf"><img src="/LAP2024/LAP2024.jpg" width="30%" style="float:right;border: 1px solid black;"></a>
 
-- <a class="linkdebugmain" href="/logiqueaparis2024.html">Logique à Paris 2024</a>
-- <a class="linkdebugmain" href="/logiqueaparis2023.html">Logique à Paris 2023</a>
+- <a class="linkdebugmain" href="https://forms.gle/diKmdS5dMA7nT7hW6">Registration</a>
+- _Dates_ : 29th February -- 2nd March 2024
+- _Speakers_ :
+	- TBC (TBC)
+- _Location_ : TBC, Campus Grandes Moulins, Université Paris Cité, 75013 Paris
+	- [plan of Halle aux Farines][HAF]
+	- [plan of campus][campus]
+
+- _Organisers_ : 
+	- Sylvy Anscombe 
+	- Vincent Bagayoko
+	- Hervé Fournier
+	- Alessandro Vignati
+- _Email us_ : [logiqueaparis@gmail.com](mailto:logiqueaparis@gmail.com)
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png

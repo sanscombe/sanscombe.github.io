@@ -1,6 +1,6 @@
 ---
 title: Logique à Paris 2023
-layout: page_LAP
+layout: page_LAP_2023
 ---
 #### Talks and abstracts
 1. Matteo Viale:
