@@ -24,28 +24,29 @@ order: 3
 	- Back and forth
 	- Universal, existential, and inductive theories, preservation theorems
 	- Model completeness and quantifier elimination
-- Week 1:
-	- types
-	- compactness again
+- Week 1: Fundamental Theorems
+	- The Compactness Theorem
+	- The Löwenheim--Skolem Theorems
 	- Beth's Theorem
 	- Separation Lemma
+	- Ultraproducts and Łoś's Theorem 
 	- Examples: DLO, random graph, algebraically closed fields, vector spaces
-- Week 2:
-	- The omitting types theorem
+	- Types and realising types
+- Week 2: Countable models and omitting types
+	- The Omitting Types Theorem
 	- The Theorem of Engeler, Ryll-Nardzewski, and Svenonius
 	- $\aleph_{0}$-categoricity and ultrahomogeneity
-	- Ultraproducts and Łoś's Theorem 
-- Week 3:
+- Week 3: More on countable models
 	- Back and forth again
 	- Saturation and homogeneity
 	- Prime and atomic models
 	- Vaught's "Not $2$" Theorem
 	- $0$-stable theories
-- Week 4:
+- Week 4: Quantifier elimination and friends
 	- Quantifier elimination
 	- Model completeness
 	- Criteria
-- Week 5: theories of fields
+- Week 5: Theories of fields
 	- algebraically closed fields, separably closed fields, real closed fields
 	- Pseudofinite, PAC, large fields
 - Week 6:
