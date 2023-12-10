@@ -16,21 +16,30 @@ order: 3
 
 ##### course plan
 
+- Reminder:
+	- Langages, structures, first-order theories
+	- Ultraproducts and compactness
+	- Embeddings, elementary embeddings, method of diagrams
+	- Löwenheim--Skolem Theorems, elementary chains
+	- Back and forth
+	- Universal, existential, and inductive theories, preservation theorems
+	- Model completeness and quantifier elimination
 - Week 1:
 	- types
-	- compactness
-	- Beth
-	- Separation
-	- DLO, random graph, algebraically closed fields, vector spaces
+	- compactness again
+	- Beth's Theorem
+	- Separation Lemma
+	- Examples: DLO, random graph, algebraically closed fields, vector spaces
 - Week 2:
-	- omitting types
-	- Ryll-Nardzewski/Endler/Svenonius
+	- The omitting types theorem
+	- The Theorem of Engeler, Ryll-Nardzewski, and Svenonius
 	- $\aleph_{0}$-categoricity and ultrahomogeneity
-	- Ultraproducts, $\L$os-Theorem 
+	- Ultraproducts and Łoś's Theorem 
 - Week 3:
-	- back and forth
-	- saturation and atomic models
-	- Vaught's Not $2$ Theorem
+	- Back and forth again
+	- Saturation and homogeneity
+	- Prime and atomic models
+	- Vaught's "Not $2$" Theorem
 	- $0$-stable theories
 - Week 4:
 	- Quantifier elimination
@@ -46,7 +55,9 @@ order: 3
 	- OAGs, $\mathbb{Z}$-groups
 	- cross-cutting equivalence relations
 - Week 7:
+	- Totally transcendental theories
 	- Morley's Theorem
+	- Morley rank and degree
 	- Strongly minimal sets
 - Week 8:
 	- Shelah
