@@ -60,17 +60,19 @@ order: 3
 	- Morley rank and degree
 	- Strongly minimal sets
 - Week 8:
-	- Shelah
-	- Forking and dividing
 	- Stable theories
 - Week 9:
-	- Geometric model theory
-	- Zilber
 - Week 10:
 	- Simple theories
 - Week 11:
 	- NIP/Dependent theories
 - Week 12:
+
+[//]: # - Shelah
+[//]: # - Forking and dividing
+
+[//]: # - Geometric model theory
+[//]: # - Zilber
 
 ##### problem sheets
 
