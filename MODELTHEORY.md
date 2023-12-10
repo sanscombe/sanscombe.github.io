@@ -16,8 +16,8 @@ order: 3
 
 ##### course plan
 
-- Reminder:
-	- Langages, structures, first-order theories
+- Reminder (premier semestre):
+	- Languages, structures, first-order theories
 	- Ultraproducts and compactness
 	- Embeddings, elementary embeddings, method of diagrams
 	- Löwenheim--Skolem Theorems, elementary chains
