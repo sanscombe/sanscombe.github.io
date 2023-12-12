@@ -62,20 +62,20 @@ order: 3
 - Week 5: Theories of fields
 	- algebraically closed fields, separably closed fields, real closed fields
 	- Pseudofinite, PAC, large fields
-- Week 6:
+- Week 6: Further examples
 	- equivalence relations, graphs, and groups
 	- Discrete linear orders
 	- DTFAG
 	- OAGs, $\mathbb{Z}$-groups
 	- cross-cutting equivalence relations
-- Week 7:
+- Week 7: Morley's Theorem
 	- Indiscernable sequences and sets
 	- Totally transcendental theories
 	- Morley's Theorem
 	- Baldwin--Lachlan Theorem
 	- Morley rank and degree
 	- Strongly minimal sets
-- Week 8:
+- Week 8: The beginnings of Stability Theory
 	- Strongly minimal theories
 	- $\omega$-stable theories
 	- Stable theories
