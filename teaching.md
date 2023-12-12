@@ -8,7 +8,7 @@ order: 3
 
 ### current teaching ‖ enseignement actuel
 
-<img src="/IMAGES/tilly.jpeg" width="25%" style="float:right;">
+<img src="/IMAGES/tilly.jpeg" width="30%" style="float:right;">
 
 ##### 2023--2024, Université Paris Cité
 ###### premier semestre

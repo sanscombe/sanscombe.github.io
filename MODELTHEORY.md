@@ -10,7 +10,7 @@ order: 3
 
 ### _Outils classiques_
 
-<img src="/IMAGES/tilly.jpeg" width="25%" style="float:right;">
+<img src="/IMAGES/AI_IMAGES/irregular_tessellation1.jpg" width="40%" style="float:right;">
 
 ##### 2023--2024, Université Paris Cité
 
