@@ -14,6 +14,10 @@ order: 3
 ###### second semestre
 - Cours de _Théorie des modèles : Outils classiques_ dans M2LMFI
 
+##### organization:
+- 8 ECTS
+- 4 hours CM/week
+
 ##### books
 
 - Katrin Tent and Martin Ziegler: _A course in Model Theory_
