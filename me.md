@@ -20,6 +20,8 @@ I am supported by [GeoMod][GeoMod].
 
 ### current and upcoming
 
+- <a class="linkdebugmain" href="./logiqueaparis.html">Logique à Paris 2023</a>, IMJ-PRG, Paris, 29th February &ndash; 2nd March 2024
+
 - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
 
 - [Tame fields reading group](https://www.uni-muenster.de/IVV5WS/WebHop/user/sramello/tame/)
