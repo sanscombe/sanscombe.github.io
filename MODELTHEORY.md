@@ -12,7 +12,7 @@ order: 3
 
 ##### 2023--2024, Université Paris Cité
 ###### second semestre
-- Cours de _Théorie des modèles : Outils classiques_ dans M2LMFI
+- Cours de **Théorie des modèles : Outils classiques** dans M2LMFI
 
 ##### organization:
 - 8 ECTS
