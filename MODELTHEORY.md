@@ -85,6 +85,12 @@ order: 3
 - Sheet 5:
 - Sheet 6:
 
+##### books
+
+- Katrin Tent and Martin Ziegler: _A course in Model Theory_
+- Wilfred Hodges: _A shorter Model Theory_
+- David Marker: _Model Theory: An introduction_
+
 
 [contact]: ./contact
 [UPC]:  https://u-paris.fr/
