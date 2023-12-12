@@ -86,7 +86,7 @@ order: 3
 	- NIP/Dependent theories?
 - Week 12:
 
-- SYLVY: don't forget to ask them a fun question!!
+- **SYLVY**: don't forget to ask them a fun question!!
 
 [//]: # - Shelah
 [//]: # - Forking and dividing
