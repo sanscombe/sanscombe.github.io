@@ -74,7 +74,9 @@ order: 3
 	- Morley rank and degree
 	- Strongly minimal sets
 - Week 8:
-	- Stable theories?
+	- Strongly minimal theories
+	- $\omega$-stable theories
+	- Stable theories
 - Week 9:
 - Week 10:
 	- Simple theories?
@@ -87,6 +89,15 @@ order: 3
 
 [//]: # - Geometric model theory
 [//]: # - Zilber
+
+Espaces de types.
+Modèles saturés, modèles homogènes.
+Théorème d'omission des types.
+Modèles atomiques, modèles premiers.
+Théories oméga-catégoriques, théorème de Ryll-Nardzewski.
+Théories stables et omega-stables. Ensembles fortement minimaux.
+Suites et ensembles indiscernables.
+Théories kappa-catégoriques. Théorèmes de Morley et de Baldwin--Lachlan.
 
 ##### problem sheets
 
