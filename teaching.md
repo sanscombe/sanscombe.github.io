@@ -19,8 +19,8 @@ order: 3
 	- [présentation du cours](https://drive.google.com/file/d/1bEsncTjdCSsJczvZTuNkNj03da633rlv/view?usp=sharing)
 - Cours de IN8 dans M1MATHS
 	- [présentation du cours](https://drive.google.com/file/d/1yoUmltB5aYRbQz5jCMb-SyuoSw7GPKzI/view?usp=drive_link)
-
-[//]: # - Cours de [_Théorie des modèles : Outils classiques_](MODELTHEORY.html) dans M2LMFI
+- Cours de [_Théorie des modèles : Outils classiques_](MODELTHEORY.html) dans M2LMFI
+	- [course plan](./MODELTHEORY.html)
 
 [//]: # - mer. 13h30--15h30, SG1006
 

@@ -34,8 +34,9 @@ order: 3
 	- Types and realising types
 - Week 2: Countable models and omitting types
 	- The Omitting Types Theorem
+	- $\aleph_{0}$-categoricity
 	- The Theorem of Engeler, Ryll-Nardzewski, and Svenonius
-	- $\aleph_{0}$-categoricity and ultrahomogeneity
+	- amalgamation, ultrahomogeneity, and Fraïssé's Theorem
 - Week 3: More on countable models
 	- Back and forth again
 	- Saturation and homogeneity
