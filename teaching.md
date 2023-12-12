@@ -20,7 +20,7 @@ order: 3
 - Cours de IN8 dans M1MATHS
 	- [présentation du cours](https://drive.google.com/file/d/1yoUmltB5aYRbQz5jCMb-SyuoSw7GPKzI/view?usp=drive_link)
 - Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
-	- [course information](./MODELTHEORY.html)
+	- [course information][modeltheory]
 
 [//]: # - mer. 13h30--15h30, SG1006
 
@@ -124,6 +124,7 @@ Short notes from teaching
 
 
 
+[modeltheory]: ./modeltheory
 [contact]: ./contact
 [UPC]:  https://u-paris.fr/
 [IMJ-PRG]: https://u-paris.fr/

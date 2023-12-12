@@ -8,7 +8,7 @@ order: 3
 
 ### Model Theory ‖ La Théorie des Modèles
 
-### _Outils classiques_
+### _Classical tools_ ‖ _Outils classiques_
 
 <img src="/IMAGES/AI_IMAGES/irregular_tessellation1.jpg" width="40%" style="float:right;">
 
@@ -86,7 +86,7 @@ order: 3
 	- NIP/Dependent theories?
 - Week 12:
 
-- **Sylvy**: don't forget to ask them a fun question!!
+[//]: # - **Sylvy**: don't forget to ask them a fun question!!
 
 [//]: # - Shelah
 [//]: # - Forking and dividing
