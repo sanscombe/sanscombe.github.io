@@ -15,9 +15,12 @@ order: 3
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
 
 ###### second semestre
-- Cours de _Théorie des modèles : Outils classiques_ dans M2LMFI
 - Cours de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
+	- [présentation du cours](https://drive.google.com/file/d/1bEsncTjdCSsJczvZTuNkNj03da633rlv/view?usp=sharing)
 - Cours de IN8 dans M1MATHS
+	- [présentation du cours](https://drive.google.com/file/d/1yoUmltB5aYRbQz5jCMb-SyuoSw7GPKzI/view?usp=drive_link)
+
+[//]: # - Cours de [_Théorie des modèles : Outils classiques_](MODELTHEORY.html) dans M2LMFI
 
 [//]: # - mer. 13h30--15h30, SG1006
 
