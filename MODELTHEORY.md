@@ -14,6 +14,12 @@ order: 3
 ###### second semestre
 - Cours de _Théorie des modèles : Outils classiques_ dans M2LMFI
 
+##### books
+
+- Katrin Tent and Martin Ziegler: _A course in Model Theory_
+- Wilfred Hodges: _A shorter Model Theory_
+- David Marker: _Model Theory: An introduction_
+
 ##### course plan
 
 - Reminder (premier semestre):
@@ -84,12 +90,6 @@ order: 3
 - Sheet 4:
 - Sheet 5:
 - Sheet 6:
-
-##### books
-
-- Katrin Tent and Martin Ziegler: _A course in Model Theory_
-- Wilfred Hodges: _A shorter Model Theory_
-- David Marker: _Model Theory: An introduction_
 
 
 [contact]: ./contact
