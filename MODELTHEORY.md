@@ -62,12 +62,12 @@ order: 3
 	- Morley rank and degree
 	- Strongly minimal sets
 - Week 8:
-	- Stable theories
+	- Stable theories?
 - Week 9:
 - Week 10:
-	- Simple theories
+	- Simple theories?
 - Week 11:
-	- NIP/Dependent theories
+	- NIP/Dependent theories?
 - Week 12:
 
 [//]: # - Shelah
