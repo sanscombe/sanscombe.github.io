@@ -46,7 +46,7 @@ order: 3
 	- Types and realising types
 - Week 2: Countable models and omitting types
 	- The Omitting Types Theorem
-	- $\aleph_{0}$-categoricity
+	- ($\kappa$-)categoricity, $\aleph_{0}$-categoricity
 	- The Theorem of Engeler, Ryll-Nardzewski, and Svenonius
 	- amalgamation, ultrahomogeneity, and Fraïssé's Theorem
 - Week 3: More on countable models
@@ -69,8 +69,10 @@ order: 3
 	- OAGs, $\mathbb{Z}$-groups
 	- cross-cutting equivalence relations
 - Week 7:
+	- Indiscernable sequences and sets
 	- Totally transcendental theories
 	- Morley's Theorem
+	- Baldwin--Lachlan Theorem
 	- Morley rank and degree
 	- Strongly minimal sets
 - Week 8:
@@ -90,14 +92,14 @@ order: 3
 [//]: # - Geometric model theory
 [//]: # - Zilber
 
-Espaces de types.
-Modèles saturés, modèles homogènes.
-Théorème d'omission des types.
-Modèles atomiques, modèles premiers.
-Théories oméga-catégoriques, théorème de Ryll-Nardzewski.
-Théories stables et omega-stables. Ensembles fortement minimaux.
-Suites et ensembles indiscernables.
-Théories kappa-catégoriques. Théorèmes de Morley et de Baldwin--Lachlan.
+[//]: # Espaces de types.
+[//]: # Modèles saturés, modèles homogènes.
+[//]: # Théorème d'omission des types.
+[//]: # Modèles atomiques, modèles premiers.
+[//]: # Théories oméga-catégoriques, théorème de Ryll-Nardzewski.
+[//]: # Théories stables et omega-stables. Ensembles fortement minimaux.
+[//]: # Suites et ensembles indiscernables.
+[//]: # Théories kappa-catégoriques. Théorèmes de Morley et de Baldwin--Lachlan.
 
 ##### problem sheets
 
