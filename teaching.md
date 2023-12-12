@@ -16,7 +16,7 @@ order: 3
 
 ###### second semestre
 - Cours de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
-	- [présentation du cours](https://drive.google.com/file/d/1jaz9tCzjCj_46r-BEy9iWeobhqo0mL8d/view?usp=sharing)
+	- [présentation du cours](https://drive.google.com/file/d/1bEsncTjdCSsJczvZTuNkNj03da633rlv/view?usp=sharing)
 - Cours de IN8 dans M1MATHS
 	- [présentation du cours](https://drive.google.com/file/d/1yoUmltB5aYRbQz5jCMb-SyuoSw7GPKzI/view?usp=drive_link)
 
