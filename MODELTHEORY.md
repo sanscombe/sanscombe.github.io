@@ -1,20 +1,22 @@
 ---
 layout: page
-title: "Model Theory ‖ La Théorie des Modèles"
+title: "teaching ‖ enseignement"
 categories: teaching
 usemathjax: true
 order: 3
 ---
 
-### current teaching ‖ enseignement actuel
+### Model Theory ‖ La Théorie des Modèles
+
+### _Outils classiques_
 
 <img src="/IMAGES/tilly.jpeg" width="25%" style="float:right;">
 
 ##### 2023--2024, Université Paris Cité
-###### second semestre
-- Cours de **Théorie des modèles : Outils classiques** dans M2LMFI
 
 ##### organization:
+- second semestre
+- Cours de _Théorie des modèles : Outils classiques_ dans M2LMFI
 - 8 ECTS
 - 4 hours CM/week
 
