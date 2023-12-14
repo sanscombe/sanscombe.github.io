@@ -8,7 +8,7 @@ order: 3
 
 ### current teaching ‖ enseignement actuel
 
-<img src="/IMAGES/tilly.jpeg" width="25%" style="float:right;">
+<img src="/IMAGES/tilly.jpeg" width="30%" style="float:right;">
 
 ##### 2023--2024, Université Paris Cité
 ###### premier semestre
@@ -19,8 +19,8 @@ order: 3
 	- [présentation du cours](https://drive.google.com/file/d/1bEsncTjdCSsJczvZTuNkNj03da633rlv/view?usp=sharing)
 - Cours de IN8 dans M1MATHS
 	- [présentation du cours](https://drive.google.com/file/d/1yoUmltB5aYRbQz5jCMb-SyuoSw7GPKzI/view?usp=drive_link)
-- Cours de [_Théorie des modèles : Outils classiques_](MODELTHEORY.html) dans M2LMFI
-	- [course plan](./MODELTHEORY.html)
+- Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
+	- [course information][modeltheory]
 
 [//]: # - mer. 13h30--15h30, SG1006
 
@@ -124,6 +124,7 @@ Short notes from teaching
 
 
 
+[modeltheory]: ./modeltheory
 [contact]: ./contact
 [UPC]:  https://u-paris.fr/
 [IMJ-PRG]: https://u-paris.fr/

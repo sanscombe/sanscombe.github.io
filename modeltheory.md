@@ -1,18 +1,30 @@
 ---
 layout: page
-title: "Model Theory ‖ La Théorie des Modèles"
+title: "teaching ‖ enseignement"
 categories: teaching
 usemathjax: true
 order: 3
 ---
 
-### current teaching ‖ enseignement actuel
+### Model Theory ‖ La Théorie des Modèles
 
-[\\]: # <img src="/IMAGES/tilly.jpeg" width="25%" style="float:right;">
+### _Classical tools_ ‖ _Outils classiques_
+
+<img src="/IMAGES/AI_IMAGES/irregular_tessellation1.jpg" width="40%" style="float:right;">
 
 ##### 2023--2024, Université Paris Cité
-###### second semestre
+
+##### organization:
+- second semestre
 - Cours de _Théorie des modèles : Outils classiques_ dans M2LMFI
+- 8 ECTS
+- 4 hours CM/week
+
+##### books
+
+- Katrin Tent and Martin Ziegler: _A course in Model Theory_
+- Wilfred Hodges: _A shorter Model Theory_
+- David Marker: _Model Theory: An introduction_
 
 ##### course plan
 
@@ -34,7 +46,7 @@ order: 3
 	- Types and realising types
 - Week 2: Countable models and omitting types
 	- The Omitting Types Theorem
-	- $\aleph_{0}$-categoricity
+	- ($\kappa$-)categoricity, $\aleph_{0}$-categoricity
 	- The Theorem of Engeler, Ryll-Nardzewski, and Svenonius
 	- amalgamation, ultrahomogeneity, and Fraïssé's Theorem
 - Week 3: More on countable models
@@ -50,32 +62,46 @@ order: 3
 - Week 5: Theories of fields
 	- algebraically closed fields, separably closed fields, real closed fields
 	- Pseudofinite, PAC, large fields
-- Week 6:
+- Week 6: Further examples
 	- equivalence relations, graphs, and groups
 	- Discrete linear orders
 	- DTFAG
 	- OAGs, $\mathbb{Z}$-groups
 	- cross-cutting equivalence relations
-- Week 7:
+- Week 7: Morley's Theorem
+	- Indiscernable sequences and sets
 	- Totally transcendental theories
 	- Morley's Theorem
+	- Baldwin--Lachlan Theorem
 	- Morley rank and degree
 	- Strongly minimal sets
+- Week 8: The beginnings of Stability Theory
+	- Strongly minimal theories
+	- $\omega$-stable theories
+	- Stable theories
+- Week 9:
+- Week 10:
+	- Simple theories?
+- Week 11:
+	- NIP/Dependent theories?
+- Week 12:
 
-[//]: # - Week 8:
-[//]: # - Stable theories
-[//]: # - Week 9:
-[//]: # - Week 10:
-[//]: # - Simple theories
-[//]: # - Week 11:
-[//]: # - NIP/Dependent theories
-[//]: # - Week 12:
+[//]: # - **Sylvy**: don't forget to ask them a fun question!!
 
 [//]: # - Shelah
 [//]: # - Forking and dividing
 
 [//]: # - Geometric model theory
 [//]: # - Zilber
+
+[//]: # Espaces de types.
+[//]: # Modèles saturés, modèles homogènes.
+[//]: # Théorème d'omission des types.
+[//]: # Modèles atomiques, modèles premiers.
+[//]: # Théories oméga-catégoriques, théorème de Ryll-Nardzewski.
+[//]: # Théories stables et omega-stables. Ensembles fortement minimaux.
+[//]: # Suites et ensembles indiscernables.
+[//]: # Théories kappa-catégoriques. Théorèmes de Morley et de Baldwin--Lachlan.
 
 ##### problem sheets
 
