@@ -24,6 +24,8 @@ I am supported by [GeoMod][GeoMod].
 
 - [Tame fields reading group](https://www.uni-muenster.de/IVV5WS/WebHop/user/sramello/tame/)
 
+- [Young Women in Model Theory and Applications](https://sites.google.com/view/ywmta/home)
+
 [//]: # - [Spectra Conference II](http://lgbtmath.org/), online, 21st--23rd September 2023
 
 

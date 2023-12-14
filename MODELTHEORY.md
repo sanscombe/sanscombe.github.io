@@ -61,14 +61,15 @@ order: 3
 	- Morley's Theorem
 	- Morley rank and degree
 	- Strongly minimal sets
-- Week 8:
-	- Stable theories
-- Week 9:
-- Week 10:
-	- Simple theories
-- Week 11:
-	- NIP/Dependent theories
-- Week 12:
+
+[//]: # - Week 8:
+[//]: # - Stable theories
+[//]: # - Week 9:
+[//]: # - Week 10:
+[//]: # - Simple theories
+[//]: # - Week 11:
+[//]: # - NIP/Dependent theories
+[//]: # - Week 12:
 
 [//]: # - Shelah
 [//]: # - Forking and dividing
@@ -85,6 +86,10 @@ order: 3
 - Sheet 5:
 - Sheet 6:
 
+##### Controls
+
+- partiel
+- examen terminal
 
 [contact]: ./contact
 [UPC]:  https://u-paris.fr/
