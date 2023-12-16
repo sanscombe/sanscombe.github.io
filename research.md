@@ -32,6 +32,14 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <ol reversed class="papers">
 
 <li>
+<a href="https://arxiv.org/abs/1911.00309">Characterizing NIP henselian fields</a>,
+with Franziska Jahnke.
+<br>
+To appear in <i>Journal of the London Mathematical Society</i>.
+<a href="https://arxiv.org/abs/1911.00309">arXiv:1911.00309 [math.LO]</a>
+</li>
+
+<li>
 <a href="https://doi.org/10.2140/ant.2023.17.2013">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>,
 with Philip Dittmann and Arno Fehm.
 <br>
@@ -138,14 +146,6 @@ with Philip Dittmann and Franziska Jahnke.
 <br>
 Submitted, 2023.
 <a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
-</li>
-
-<li>
-<a href="https://arxiv.org/abs/1911.00309">Characterizing NIP henselian fields</a>,
-with Franziska Jahnke.
-<br>
-Submitted, 2022.
-<a href="https://arxiv.org/abs/1911.00309">arXiv:1911.00309 [math.LO]</a>
 </li>
 
 </ol>

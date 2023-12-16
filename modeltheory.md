@@ -112,6 +112,10 @@ order: 3
 - Sheet 5:
 - Sheet 6:
 
+##### Controls
+
+- partiel
+- examen terminal
 
 [contact]: ./contact
 [UPC]:  https://u-paris.fr/
