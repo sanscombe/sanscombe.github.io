@@ -443,7 +443,7 @@ A selection of meetings that I have attended or will attend.
 
 <li><a href="https://conferences.cirm-math.fr/2761.html">Model Theory of Valued Fields</a>, CIRM, Luminy, 29th May &ndash; 2nd June 2023</li>
 
-<li><a class="linkdebugmain" href="./logiqueaparis.html">Logique à Paris 2023</a>, IMJ-PRG, Paris, 9th &ndash; 12th May 2023</li>
+<li><a class="linkdebugmain" href="./logiqueaparis2023.html">Logique à Paris 2023</a>, IMJ-PRG, Paris, 9th &ndash; 12th May 2023</li>
 
 <li><a href="https://www.jointmathematicsmeetings.org/">JMM 2023</a>, 4th &ndash; 7th January 2023</li>
 
