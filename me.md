@@ -22,7 +22,7 @@ I am supported by [GeoMod][GeoMod].
 
 - [Young Women in Model Theory and Applications](https://sites.google.com/view/ywmta/home), Bonn, 11th--14th March 2024
 
-- <a class="linkdebugmain" href="./logiqueaparis.html">Logique à Paris 2023</a>, IMJ-PRG, Paris, 29th February &ndash; 2nd March 2024
+- <a class="linkdebugmain" href="./logiqueaparis2024.html">Logique à Paris 2024</a>, IMJ-PRG, Paris, 29th February &ndash; 2nd March 2024
 
 - [Model theory of valued fields and applications](https://www.mathconf.org/mtvfa2024), Lille, 19th--21st February 2024
 
