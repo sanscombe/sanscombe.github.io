@@ -6,17 +6,17 @@ A 3-day meeting of contemporary developments in Mathematical Logic,
 with a focus on the themes of interest to the members of the
 [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
 
-There will be symposium-type seminars given by six invited speakers from a range of other European centers of research in Logic.
+There will be symposium-type seminars given by invited speakers from a range of other centers of research in Logic.
 
 <!--<a href="/LAP2024/LAP2024.pdf"><img src="/LAP2024/LAP2024.jpg" width="30%" style="float:right;border: 1px solid black;"></a>-->
 
 - <a class="linkdebugmain" href="">Registration</a> --- coming soon!
 - _Dates_ : 29th February -- 2nd March 2024
 - _Speakers_ :
-	- Simon André (IMJ-PRG, Sorbonne)
-	- Alexi BG (Ohio State)
-	- (Andrew Brooke-Taylor](https://www1.maths.leeds.ac.uk/~pmtadb/) (Leeds)
-	- (Aristotelis Panagiotopoulos)[https://apanagiotopoulos.org/] (Carnegie Mellon)
+	- [Simon André](https://webusers.imj-prg.fr/~simon.andre/) (IMJ-PRG, Sorbonne)
+	- [Alexi Block Gorman](https://sites.google.com/wellesley.edu/alexiblockgorman/home) (Ohio State)
+	- [Andrew Brooke-Taylor](https://www1.maths.leeds.ac.uk/~pmtadb/) (Leeds)
+	- [Aristotelis Panagiotopoulos](https://apanagiotopoulos.org/) (Vienna)
 - _Location_ : TBC, Campus Grandes Moulins, Université Paris Cité, 75013 Paris
 	- [plan of Halle aux Farines][HAF]
 	- [plan of campus][campus]
