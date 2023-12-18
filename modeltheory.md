@@ -8,7 +8,7 @@ order: 3
 
 ### Model Theory ‖ La Théorie des Modèles
 
-### _Outils classiques_
+### _Classical tools_ ‖ _Outils classiques_
 
 <img src="/IMAGES/AI_IMAGES/irregular_tessellation1.jpg" width="40%" style="float:right;">
 
@@ -62,20 +62,20 @@ order: 3
 - Week 5: Theories of fields
 	- algebraically closed fields, separably closed fields, real closed fields
 	- Pseudofinite, PAC, large fields
-- Week 6:
+- Week 6: Further examples
 	- equivalence relations, graphs, and groups
 	- Discrete linear orders
 	- DTFAG
 	- OAGs, $\mathbb{Z}$-groups
 	- cross-cutting equivalence relations
-- Week 7:
+- Week 7: Morley's Theorem
 	- Indiscernable sequences and sets
 	- Totally transcendental theories
 	- Morley's Theorem
 	- Baldwin--Lachlan Theorem
 	- Morley rank and degree
 	- Strongly minimal sets
-- Week 8:
+- Week 8: The beginnings of Stability Theory
 	- Strongly minimal theories
 	- $\omega$-stable theories
 	- Stable theories
@@ -86,7 +86,7 @@ order: 3
 	- NIP/Dependent theories?
 - Week 12:
 
-- **Sylvy**: don't forget to ask them a fun question!!
+[//]: # - **Sylvy**: don't forget to ask them a fun question!!
 
 [//]: # - Shelah
 [//]: # - Forking and dividing
@@ -112,6 +112,10 @@ order: 3
 - Sheet 5:
 - Sheet 6:
 
+##### Controls
+
+- partiel
+- examen terminal
 
 [contact]: ./contact
 [UPC]:  https://u-paris.fr/

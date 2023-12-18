@@ -20,6 +20,12 @@ I am supported by [GeoMod][GeoMod].
 
 ### current and upcoming
 
+- [Young Women in Model Theory and Applications](https://sites.google.com/view/ywmta/home), Bonn, 11th--14th March 2024
+
+- <a class="linkdebugmain" href="./logiqueaparis2024.html">Logique à Paris 2024</a>, IMJ-PRG, Paris, 29th February &ndash; 2nd March 2024
+
+- [Model theory of valued fields and applications](https://www.mathconf.org/mtvfa2024), Lille, 19th--21st February 2024
+
 - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
 
 - [Tame fields reading group](https://www.uni-muenster.de/IVV5WS/WebHop/user/sramello/tame/)
