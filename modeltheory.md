@@ -45,11 +45,11 @@ order: 3
 		- Ultraproducts and Łoś's Theorem 
 		- Examples: DLO, random graph, algebraically closed fields, vector spaces
 	- Week 2: Countable models and omitting types
-		- Types and realising types
+		- Types, partial versus complete, type spaces, and realising types
 		- The Omitting Types Theorem
 		- ($\kappa$-)categoricity, $\aleph_{0}$-categoricity
 		- The Theorem of Engeler, Ryll-Nardzewski, and Svenonius
-		- amalgamation, ultrahomogeneity, and Fraïssé's Theorem
+		- The Amalgamation Property, Ultrahomogeneity, and Fraïssé's Theorem
 	- Week 3: More on countable models
 		- Back and forth again
 		- Saturation and homogeneity
