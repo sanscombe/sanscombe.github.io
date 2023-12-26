@@ -43,7 +43,7 @@ order: 3
 		- Beth's Theorem
 		- Separation Lemma
 		- Ultraproducts and Łoś's Theorem 
-		- Examples: DLO, random graph, algebraically closed fields, vector spaces
+		- Examples: infinite set, DLO, random graph, algebraically closed fields, vector spaces
 	- Week 2: Countable models and omitting types
 		- Types, partial versus complete, type spaces, and realising types
 		- The Omitting Types Theorem
