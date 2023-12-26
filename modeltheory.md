@@ -36,55 +36,60 @@ order: 3
 	- Back and forth
 	- Universal, existential, and inductive theories, preservation theorems
 	- Model completeness and quantifier elimination
-- Week 1: Fundamental Theorems
-	- The Compactness Theorem
-	- The Löwenheim--Skolem Theorems
-	- Beth's Theorem
-	- Separation Lemma
-	- Ultraproducts and Łoś's Theorem 
-	- Examples: DLO, random graph, algebraically closed fields, vector spaces
-	- Types and realising types
-- Week 2: Countable models and omitting types
-	- The Omitting Types Theorem
-	- ($\kappa$-)categoricity, $\aleph_{0}$-categoricity
-	- The Theorem of Engeler, Ryll-Nardzewski, and Svenonius
-	- amalgamation, ultrahomogeneity, and Fraïssé's Theorem
-- Week 3: More on countable models
-	- Back and forth again
-	- Saturation and homogeneity
-	- Prime and atomic models
-	- Vaught's "Not $2$" Theorem
-	- $0$-stable theories
-- Week 4: Quantifier elimination and friends
-	- Quantifier elimination
-	- Model completeness
-	- Criteria
-- Week 5: Theories of fields
-	- algebraically closed fields, separably closed fields, real closed fields
-	- Pseudofinite, PAC, large fields
-- Week 6: Further examples
-	- equivalence relations, graphs, and groups
-	- Discrete linear orders
-	- DTFAG
-	- OAGs, $\mathbb{Z}$-groups
-	- cross-cutting equivalence relations
-- Week 7: Morley's Theorem
-	- Indiscernable sequences and sets
-	- Totally transcendental theories
-	- Morley's Theorem
-	- Baldwin--Lachlan Theorem
-	- Morley rank and degree
-	- Strongly minimal sets
-- Week 8: The beginnings of Stability Theory
-	- Strongly minimal theories
-	- $\omega$-stable theories
-	- Stable theories
-- Week 9:
-- Week 10:
-	- Simple theories?
-- Week 11:
-	- NIP/Dependent theories?
-- Week 12:
+- Part 1: Fundamental Theorems, types, and countable models
+	- Week 1: Fundamental Theorems of Model Theory
+		- The Compactness Theorem
+		- The Löwenheim--Skolem Theorems
+		- Beth's Theorem
+		- Separation Lemma
+		- Ultraproducts and Łoś's Theorem 
+		- Examples: DLO, random graph, algebraically closed fields, vector spaces
+	- Week 2: Countable models and omitting types
+		- Types and realising types
+		- The Omitting Types Theorem
+		- ($\kappa$-)categoricity, $\aleph_{0}$-categoricity
+		- The Theorem of Engeler, Ryll-Nardzewski, and Svenonius
+		- amalgamation, ultrahomogeneity, and Fraïssé's Theorem
+	- Week 3: More on countable models
+		- Back and forth again
+		- Saturation and homogeneity
+		- Prime and atomic models
+		- Vaught's "Not $2$" Theorem
+		- $0$-stable theories
+- Part 2: Quantifier elimination and algebraic model theory 
+	- Week 4: Quantifier elimination and friends
+		- Quantifier elimination
+		- Model completeness
+		- Criteria
+	- Week 5: Theories of fields
+		- algebraically closed fields, separably closed fields, real closed fields
+		- Pseudofinite, PAC, large fields
+	- Week 6: Groups, graphs, and friends
+		- equivalence relations, graphs, and groups
+		- Discrete linear orders
+		- DTFAG
+		- OAGs, $\mathbb{Z}$-groups
+		- cross-cutting equivalence relations
+- Part 3: Uncountable categoricity
+	- Week 7: Morley's Theorem
+		- Indiscernable sequences and sets
+		- Totally transcendental theories
+		- Morley's Theorem
+		- Baldwin--Lachlan Theorem
+		- Morley rank and degree
+		- Strongly minimal sets
+	- Week 8: Strong minimality
+		- Strongly minimal theories
+		- $\omega$-stable theories
+		- Stable theories
+	- Week 9: The beginnings of Stability Theory
+		-
+- Part 4: Towards Neostability Theory
+	- Week 10:
+		- Simple theories?
+	- Week 11:
+		- NIP/Dependent theories?
+	- Week 12:
 
 [//]: # - **Sylvy**: don't forget to ask them a fun question!!
 
