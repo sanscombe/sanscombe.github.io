@@ -141,6 +141,14 @@ Supervised by Prof. Jochen Koenigsmann.
 <ol reversed class="papers" type="a">
 
 <li>
+<a href="http://arxiv.org/abs/????.?????">Interpretations of syntactic fragments of theories of fields</a>,
+with Arno Fehm.
+<br>
+Manuscripts, 2023.
+<!--<a href="http://arxiv.org/abs/????.?????">arXiv:????.????? [math.LO]</a>-->
+</li>
+
+<li>
 <a href="http://arxiv.org/abs/2305.12145">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
 with Philip Dittmann and Franziska Jahnke.
 <br>
@@ -166,7 +174,8 @@ edited by Ramla Abdellatif, Valentijn Karemaker, and Lejla Smajlovic.
 
 <li>
 <a href="http://dx.doi.org/10.4171/OWR/2023/2">
-Imperfection in NIP fields</a>.
+Imperfection in NIP fields</a>,
+with Franziska Jahnke.
 <br>
 Extended abstract, <i>Oberwolfach Reports</i> (20) 2023, pp. 125&ndash;127.
 </li>
