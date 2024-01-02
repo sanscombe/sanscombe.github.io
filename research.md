@@ -141,11 +141,11 @@ Supervised by Prof. Jochen Koenigsmann.
 <ol reversed class="papers" type="a">
 
 <li>
-<a href="http://arxiv.org/abs/????.?????">Interpretations of syntactic fragments of theories of fields</a>,
+<a href="http://arxiv.org/abs/2312.17616">Interpretations of syntactic fragments of theories of fields</a>,
 with Arno Fehm.
 <br>
-Manuscripts, 2023.
-<!--<a href="http://arxiv.org/abs/????.?????">arXiv:????.????? [math.LO]</a>-->
+Manuscript, 2023.
+<a href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
 </li>
 
 <li>
