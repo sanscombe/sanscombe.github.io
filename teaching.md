@@ -22,7 +22,7 @@ order: 3
 - Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
 	- [course information][modeltheory]
 	- outline lecture notes: [part one](https://drive.google.com/file/d/15Yuf3Ae7NSJQkYYc3hDUPup-yZFzbYwB/view?usp=sharing)
-	- [first problem sheets](https://drive.google.com/file/d/1etr93O1RvEz-71YCNf2j-Mg-f6debI6T/view?usp=sharing)
+	- problem sheets: [first one](https://drive.google.com/file/d/1etr93O1RvEz-71YCNf2j-Mg-f6debI6T/view?usp=sharing)
 
 [//]: # - mer. 13h30--15h30, SG1006
 
