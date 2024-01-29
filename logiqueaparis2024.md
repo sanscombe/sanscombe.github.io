@@ -17,6 +17,8 @@ There will be symposium-type seminars given by invited speakers from a range of 
 	- [Alexi Block Gorman](https://sites.google.com/wellesley.edu/alexiblockgorman/home) (Ohio State)
 	- [Andrew Brooke-Taylor](https://www1.maths.leeds.ac.uk/~pmtadb/) (Leeds)
 	- [Aristotelis Panagiotopoulos](https://apanagiotopoulos.org/) (Vienna)
+	- [Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/) (Oxford)
+	- [Sébastien Tavenas](https://tavenas.pages.math.cnrs.fr/) (CNRS, Savoie Mont Blanc)
 - _Location_ : TBC, Campus Grandes Moulins, Université Paris Cité, 75013 Paris
 	- [plan of Halle aux Farines][HAF]
 	- [plan of campus][campus]
