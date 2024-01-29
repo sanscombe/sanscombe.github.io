@@ -10,7 +10,7 @@ There will be symposium-type seminars given by invited speakers from a range of 
 
 <!--<a href="/LAP2024/LAP2024.pdf"><img src="/LAP2024/LAP2024.jpg" width="30%" style="float:right;border: 1px solid black;"></a>-->
 
-- <a class="linkdebugmain" href="">Registration</a> --- coming soon!
+- <a class="linkdebugmain" href="https://forms.gle/wECeovkZy4C6AVg79">Registration</a>
 - _Dates_ : 29th February -- 2nd March 2024
 - _Speakers_ :
 	- [Simon André](https://webusers.imj-prg.fr/~simon.andre/) (IMJ-PRG, Sorbonne)
