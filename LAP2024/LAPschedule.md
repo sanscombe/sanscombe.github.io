@@ -2,8 +2,9 @@
 title: Logique à Paris 2024
 layout: page_LAP_2024
 ---
-#### Main Location
-Room 278, Halle aux Farines
+#### Locations
+- Amphi Turing, Sophie Germain
+- Room 027, Halle aux Farines
 - [plan of Halle aux Farines][HAF]
 - [plan of campus][campus]
 
