@@ -27,7 +27,7 @@ Here are some __PUZZLES__ linked to my book chapter:
 
 ### Sylvy's puzzle corner
 
-- [Des pirates et pièces](https://drive.google.com/file/d/1O7zRE2k8p5LRpJEsOlxPqNcKQfG_z3Fo/view?usp=share_link)
+- [Des pirates et pièces](https://drive.google.com/file/d/1LBaCjRsT_o4lBUQ2_aqhyjeVFe-fmdLs/view?usp=sharing)
 - [Cute Functions](https://drive.google.com/file/d/1Y1f2rfKFNoUjqvpLnxobaEXha8kieE4C/view?usp=sharing)
 - [A tribute to Rubik's Cube](https://drive.google.com/open?id=1tB2ceF85zjMHMrlukyXEf2utWGk3PJQP)
 - [Quick Pythagoras](https://drive.google.com/open?id=1HCCLIiGS2ZN34gsOxerLYGKWJQ2A6LnX)
@@ -86,6 +86,7 @@ Here are some __PUZZLES__ linked to my book chapter:
 
 ### outreach talks
 
+- Puzzles: [Des pirates et pièces](https://drive.google.com/file/d/1LBaCjRsT_o4lBUQ2_aqhyjeVFe-fmdLs/view?usp=sharing), stage de troisième, Février 2024.
 - Puzzles: [Des pirates et pièces](https://drive.google.com/file/d/1i8fPiYukmXNtW5OP4D0BCoDrzeOag7s6/view?usp=sharing), stage de troisième, Février 2023.
 - Puzzles: [Hats, hats, and more hats](https://drive.google.com/open?id=1eRqj-A6q05ynuF0gFdmdLlzcNR156RLW), open day talk, November 2019.
 - Puzzles: [Hats, hats, and more hats](https://drive.google.com/open?id=1oD4068p2Syn592eL7c1GTnTWy811Ej83), open day talk, October 2019.
