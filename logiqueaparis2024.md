@@ -29,6 +29,7 @@ There will be symposium-type seminars given by invited speakers from a range of 
 	- Hervé Fournier
 	- Alessandro Vignati
 - _Email us_ : [logiqueaparis@gmail.com](mailto:logiqueaparis@gmail.com)
+- **WARNING**: there is a scam targeting attendees and speakers of this conference. Please beware emails purporting to being from an agency organizing accommodation. This is a scam, please do not reply. If in doubt, please contact us directly.
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png
