@@ -1,0 +1,66 @@
+---
+title: Logique à Paris 2024
+layout: page_LAP_2024
+---
+#### Talks and abstracts
+1. Simon André:
+1. Alexi Block Gorman:
+	- _An introduction to some connections between model theory and automata theory._
+
+		There are compelling and long-established connections between automata theory and model theory, particularly regarding expansions of Presburger arithmetic by sets whose base-$k$ representations are recognized by a finite-state automaton. We call such sets "$k$-automatic".
+
+		Büchi automata are the natural extension of finite-state automata to a model of computation that accepts infinite-length inputs. We say a subset $X$ of the reals is "$k$-regular" if there is a Büchi automaton that accepts (one of) the base-$k$ representations of every element of $X$, and rejects the base-$k$ representations of each element in its complement. These sets often exhibit fractal-like behavior--e.g., the Cantor set is $3$-regular.
+
+		In this talk we will consider the expansions of Presburger arithmetic and the real additive group by $k$-automatic and $k$-regular sets respectively, and learn about what is understood (and what has been open up to now) about the geometry of their definable sets.
+	- _Expansions of $\mathbb{R}$ and $\mathbb{N}$ by $k$-automatic sets: Choose-your-own-adventure!_
+
+		In this talk, we will discuss the significance of expansions of the ordered additive groups of the integers and the reals repectively by $V_{k}$ (and its reducts). In the real setting, we will discuss dividing lines in definability from the perspectives of both tame geometry and neostability. In the setting of Presburger arithmetic, we obtain a characterization of the reducts of this structure in terms of definability of the $V_k$ function and its consquences for the decidability and neostability-related properties of related structures.
+1. Andrew Brooke-Taylor:
+1. Aristotelis Panagiotopoulos:
+	- _Dynamics as obstructions to classification_.
+
+		One of the leading questions in many mathematical research programs is whether a certain collection of objects can be classified under some notion of equivalence using some "simple" invariants. Invariant descriptive set-theory provides a formal framework for measuring the intrinsic complexity of classification problems and for establishing such negative anti-classification results. In these lectures we will take a deep dive into this anti-classification "toolkit" and we will show how to use topological dynamics as obstruction to classification by "simple" types of invariants. We will briefly cover some classical results and then we will move to some more recent developments in relation to algebraic topology and classification by (co)homological invariants.
+1. Rahul Santhanam:
+1. Sébastien Tavenas:
+
+[//]: # - [Abstract][AViale]
+[//]: # - [Talk][TViale]
+[//]: # - [Abstract][AJahnke]
+[//]: # - [Talk][TJahnke]
+[//]: # - [Abstract][AFokina]
+[//]: # - [Talk][TFokina]
+[//]: # - [Abstract][ATsankov]
+[//]: # _The Medvedev and Muchnik degrees_.
+[//]: # - [Abstract][AShafer]
+[//]: # - [Talk][TShafer]
+[//]: # _Introduction to continuum theory and projective Fra&iuml;ss&eacute; theory_.
+[//]: # - [Abstract][AKwiat]
+[//]: # - [Talk 1][T1Kwiat]
+[//]: # - [Talk 2][T2Kwiat]
+
+[AViale]:  /LAP2023/AViale.pdf
+[TViale]: /LAP2023/TViale.pdf
+
+[AJahnke]:  /LAP2023/AJahnke.pdf
+[TJahnke]:  /LAP2023/TJahnke.pdf
+
+[AFokina]:  /LAP2023/AFokina.pdf
+[TFokina]:  /LAP2023/TFokina.pdf
+
+[ATsankov]:  /LAP2023/ATsankov.pdf
+
+[AShafer]:  /LAP2023/AShafer.pdf
+[TShafer]:  /LAP2023/TShafer.pdf
+
+[AKwiat]:  /LAP2023/AKwiat.pdf
+[T1Kwiat]:  /LAP2023/T1Kwiat.pdf
+[T2Kwiat]:  /LAP2023/T2Kwiat.pdf
+
+[AMantova]:  /LAP2023/AMantova.pdf
+
+[AvanGool]:  /LAP2023/AvanGool.pdf
+
+<a href="/ICONS/imj-prg.png"><img src="/ICONS/imj-prg.png" alt="IMJ-PRG" width="15%">
+<a href="/ICONS/upc.png"><img src="/ICONS/upc.png" alt="Université Paris Cité" width="15%">
+<a href="/ICONS/sorbonne.png"><img src="/ICONS/sorbonne.png" alt="Sorbonne Université" width="15%">
+<a href="/ICONS/cnrs.png"><img src="/ICONS/cnrs.png" alt="CNRS" width="7%">
