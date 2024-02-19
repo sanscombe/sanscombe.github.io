@@ -26,7 +26,7 @@ order: 3
 [part one](https://drive.google.com/file/d/1zQ_YTzAUwXiPYxBtYtpktKwp5pHCbfNv/view?usp=drive_link)/
 [part two](https://drive.google.com/file/d/1rwgUh-wa1yoKjzUD-6qKZ_qQcQIy013g/view?usp=drive_link)
 	- problem sheets: [first four](https://drive.google.com/file/d/1etr93O1RvEz-71YCNf2j-Mg-f6debI6T/view?usp=sharing)
-	- **Partial exam**: 22nd February 2024
+	- <a class="linkdebugmain">**Partial exam**</a>: 22nd February 2024
 
 [//]: # - mer. 13h30--15h30, SG1006
 
