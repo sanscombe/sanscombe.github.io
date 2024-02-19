@@ -22,6 +22,10 @@ layout: page_LAP_2024
 		One of the leading questions in many mathematical research programs is whether a certain collection of objects can be classified under some notion of equivalence using some "simple" invariants. Invariant descriptive set-theory provides a formal framework for measuring the intrinsic complexity of classification problems and for establishing such negative anti-classification results. In these lectures we will take a deep dive into this anti-classification "toolkit" and we will show how to use topological dynamics as obstruction to classification by "simple" types of invariants. We will briefly cover some classical results and then we will move to some more recent developments in relation to algebraic topology and classification by (co)homological invariants.
 1. Rahul Santhanam:
 1. Sébastien Tavenas:
+	- _Measuring the complexity of polynomials via algebraic circuits_.
+
+		Every multivariate polynomial $P(x_1,...,x_n)$ can be written as a sum of monomials, i.e. a sum of products of variables and field constants. In general, the size of such an expression is the number of monomials that have a non-zero coefficient. What happens if we add another layer of complexity, and consider sums of products of sums (of variables and field constants) expressions?  Now, it becomes unclear how to prove that a given polynomial $P(x_1,...,x_n)$ does not have small expressions. We will discuss the background behind this question, the relations with standard Boolean complexity and some results from this area.
+
 
 [//]: # - [Abstract][AViale]
 [//]: # - [Talk][TViale]
