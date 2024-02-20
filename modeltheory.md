@@ -26,6 +26,8 @@ order: 3
 - problem sheets: [first four](https://drive.google.com/file/d/1etr93O1RvEz-71YCNf2j-Mg-f6debI6T/view?usp=sharing)
 - <a class="linkdebugmain">**Partial exam**</a>: 22nd February 2024
 
+- Replacement session: Monday 26th February, 9h--11h, salle 6033 Sophie Germain
+
 ##### books
 
 - Katrin Tent and Martin Ziegler: _A course in Model Theory_
