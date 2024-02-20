@@ -16,6 +16,9 @@ layout: page_LAP_2024
 
 		In this talk, we will discuss the significance of expansions of the ordered additive groups of the integers and the reals repectively by $V_{k}$ (and its reducts). In the real setting, we will discuss dividing lines in definability from the perspectives of both tame geometry and neostability. In the setting of Presburger arithmetic, we obtain a characterization of the reducts of this structure in terms of definability of the $V_k$ function and its consquences for the decidability and neostability-related properties of related structures.
 1. Andrew Brooke-Taylor:
+	- _Uncountable cardinals up to the continuum_
+
+		It is well known that the Continuum Hypothesis (CH) is independent of the ZFC set theory axioms.  One stance that people may take is to assume that CH is true, because, why not?  What could possibly be intermediate in size between the naturals and the reals?  Actually, there are many such "cardinal characteristics of the continuum" - natural definitions for cardinals which are provably uncountable, and at most the cardinality of the reals, but which may be strictly between these bounds if the Continuum Hypothesis fails.  I will start by giving a tour of some of these cardinals, dipping into the huge body of knowledge about provable inequalities between them and independence results.  I will then present some more recent results on the robustness of some of the definitions, showing that some natural variations on the definitions leave the resulting cardinals unchanged.
 1. Aristotelis Panagiotopoulos:
 	- _Dynamics as obstructions to classification_.
 
