@@ -4,6 +4,9 @@ layout: page_LAP_2024
 ---
 #### Talks and abstracts
 1. Simon André:
+	- _The first-order theory of free and hyperbolic groups_
+
+		Around 1945, Tarski asked whether non-abelian free groups are elementarily equivalent. This problem was solved positively two decades ago by Sela, and by Kharlampovich and Myasnikov. The geometric techniques introduced by Sela proved very powerful and were used to solve various problems about the first-order theory of free groups (homogeneity, stability, etc). Moreover, these techniques can be extended to more general classes of groups, such as Gromov hyperbolic groups. In my talks, I will present several results concerning the first-order theory of these groups.
 1. Alexi Block Gorman:
 	- _An introduction to some connections between model theory and automata theory._
 
