@@ -144,7 +144,7 @@ Supervised by Prof. Jochen Koenigsmann.
 <a href="http://arxiv.org/abs/2312.17616">Interpretations of syntactic fragments of theories of fields</a>,
 with Arno Fehm.
 <br>
-Manuscript, 2023.
+Submitted, 2024.
 <a href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
 </li>
 
