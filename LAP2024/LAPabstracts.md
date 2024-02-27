@@ -27,6 +27,13 @@ layout: page_LAP_2024
 
 		One of the leading questions in many mathematical research programs is whether a certain collection of objects can be classified under some notion of equivalence using some "simple" invariants. Invariant descriptive set-theory provides a formal framework for measuring the intrinsic complexity of classification problems and for establishing such negative anti-classification results. In these lectures we will take a deep dive into this anti-classification "toolkit" and we will show how to use topological dynamics as obstruction to classification by "simple" types of invariants. We will briefly cover some classical results and then we will move to some more recent developments in relation to algebraic topology and classification by (co)homological invariants.
 1. Rahul Santhanam:
+	- _Introduction to Meta-Complexity_.
+
+		Meta-complexity is the study of the complexity of computational problems that are themselves about complexity, eg., the Minimum Circuit Size Problem (does a Boolean function $F$ given by its truth table have size at most $s$) and the problem of computing time-bounded Kolmogorov complexity. I will begin by discussing the standard notion of Kolmogorov complexity and basic results about it. I will then discuss the resource-constrained versions: defining them, mentioning basic results and informally explaining connections with important open questions in computational complexity.
+
+	- _Recent Advances in Meta-Complexity_.
+
+		In recent years, there has been much progress on understanding meta-complexity. In the first half of my talk, I will describe some interesting new results that connect meta-complexity to learning, cryptography and proof complexity. In the second half of my talk, I will discuss a recent work of mine using meta-complexity to approach fundamental questions such as the PSPACE vs P question and the NP vs P question.
 1. Sébastien Tavenas:
 	- _Measuring the complexity of polynomials via algebraic circuits_.
 
