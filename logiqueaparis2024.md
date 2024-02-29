@@ -8,7 +8,7 @@ with a focus on the themes of interest to the members of the
 
 There will be symposium-type seminars given by invited speakers from a range of other centers of research in Logic.
 
-<!--<a href="/LAP2024/LAP2024.pdf"><img src="/LAP2024/LAP2024.jpg" width="30%" style="float:right;border: 1px solid black;"></a>-->
+<a href="/LAP2024/LAP2024.pdf"><img src="/LAP2024/LAP2024.jpg" width="30%" style="float:right;border: 1px solid black;"></a>
 
 - <a class="linkdebugmain" href="https://forms.gle/wECeovkZy4C6AVg79">Registration</a>
 - _Dates_ : 29th February -- 2nd March 2024
