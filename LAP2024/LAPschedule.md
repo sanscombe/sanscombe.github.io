@@ -4,7 +4,7 @@ layout: page_LAP_2024
 ---
 #### Locations
 - Amphi Turing, Sophie Germain
-- Room 027, Halle aux Farines
+- Room 027C, Halle aux Farines
 - [plan of Halle aux Farines][HAF]
 - [plan of campus][campus]
 
