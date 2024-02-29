@@ -20,6 +20,8 @@ There will be symposium-type seminars given by invited speakers from a range of 
 	- [Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/) (Oxford)
 	- [Sébastien Tavenas](https://tavenas.pages.math.cnrs.fr/) (CNRS, Savoie Mont Blanc)
 - _Location_ : TBC, Campus Grandes Moulins, Université Paris Cité, 75013 Paris
+	- Amphi Turing, Sophie Germain
+	- Room 027C, Halle aux Farines
 	- [plan of Halle aux Farines][HAF]
 	- [plan of campus][campus]
 
