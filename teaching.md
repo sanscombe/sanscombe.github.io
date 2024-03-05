@@ -19,6 +19,8 @@ order: 3
 	- [présentation du cours](https://drive.google.com/file/d/1bEsncTjdCSsJczvZTuNkNj03da633rlv/view?usp=sharing)
 - Cours de IN8 dans M1MATHS
 	- [présentation du cours](https://drive.google.com/file/d/1yoUmltB5aYRbQz5jCMb-SyuoSw7GPKzI/view?usp=drive_link)
+	- Lundi 13h45--15h45, 2014 Sophie Germain 
+	- Mardi 08h30--10h30, 390A Condorcet
 - Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
 	- [course information][modeltheory]
 	- outline lecture notes:
