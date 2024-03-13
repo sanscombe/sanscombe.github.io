@@ -32,18 +32,17 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <ol reversed class="papers">
 
 <li>
-<a href="https://arxiv.org/abs/1911.00309">Characterizing NIP henselian fields</a>,
+<a href=" https://doi.org/10.1112/jlms.12868">Characterizing NIP henselian fields</a>,
 with Franziska Jahnke.
 <br>
-To appear in <i>Journal of the London Mathematical Society</i>.
-<a href="https://arxiv.org/abs/1911.00309">arXiv:1911.00309 [math.LO]</a>
+<i>Journal of the London Mathematical Society</i>, 109(3), 2024.
 </li>
 
 <li>
 <a href="https://doi.org/10.2140/ant.2023.17.2013">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>,
 with Philip Dittmann and Arno Fehm.
 <br>
-<i>Algebra &amp; Number Theory, 17-11 (2023), 2013--2032.</i>
+<i>Algebra &amp; Number Theory</i>, 17-11 (2023), 2013--2032.
 </li>
 
 <li>
