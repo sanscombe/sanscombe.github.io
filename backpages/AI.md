@@ -5,6 +5,15 @@ date: 2022-09-26 03:00:00 +0200
 ---
 # AI Deception
 
+((Some remarks on the paper
+_Honesty Is the Best Policy:
+Defining and Mitigating AI Deception_
+by
+Francis Rhys Ward,
+Francesco Belardinelli,
+Francesca Toni,
+Tom Everitt))
+
 Definition of deception for structural causal games
 - grounded in philosophy literature
 - real-world machine learning systems
