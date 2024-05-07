@@ -38,20 +38,18 @@ They remark "Agents that _intentionally_ deceive in order to achieve their goals
 
 Setting: _Structural causal games_ (SCGs).
 
-#### Remark: Belief
+# Remarks
+- __Belief.__
 They acknowledge that their definition of belief is _functional_, thus divergent from the "standard philosophical account ... [that] ... belief is a _propositional attitude_".
-
-#### Remark: Intention
+- __Intention.__
 There is no "universally accepted philosophical theory of intention".
+- __My remarks about their definition of Deception.__
+	- They reject accidental truths as lies [I disagree]
+	- They reject lying in isolation [I agree]
 
+	They comment that AI agents may deceive and may be deceived.
 
-# My remarks about their definition of Deception
-- They reject accidental truths as lies [I disagree]
-- They reject lying in isolation [I agree]
-
-They comment that AI agents may deceive and may be deceived.
-
-They refer to "Lewis et al.'s negotiation agent" which learnt to deceive from self-play. They give further examples. AI agents (specifically LMs) have the capability to deceive humans to achieve goals.
+	They refer to "Lewis et al.'s negotiation agent" which learnt to deceive from self-play. They give further examples. AI agents (specifically LMs) have the capability to deceive humans to achieve goals.
 
 # Structural Causal Game
 An SCG is a pair $\mathcal{M}=(\mathcal{G},\theta)$
@@ -84,6 +82,39 @@ for each non-decision variable $Y$.
 Furthermore we require that the CPD for each endogenous variable is deterministic
 and that the domains of the utility variables are real-valued.
 
+#### Policies
+A _policy_ for an agent $i$ is a CPD
+$$\pi^{i}(D^{i}\mid \mathrm{Pa}_{D^{i}})$$.
+A _policy profile_ is a tuple
+$$\pi=(\pi^{i})_{i\in N}$$.
+The corresponding _partial policy profile_ is
+$$\pi^{-i}=(\pi^{j})_{j\neq i}$$.
+
+__Note.__
+An SCG together with a policy profile determines a joint probability distribution $P^{\pi}$ over all the variables.
+
+#### Setting
+A _setting_ is a tuple
+$\mathbf{e}$
+of the same length as $\mathbf{E}$.
+
+#### Utilities
+Given a policy profile $\pi$,
+and an agent $i$,
+the _expected utility_ is
+
+$$\mathbb{E}_{\pi}^{i}:=\sum_{U\in\mathbf{U}^{i}}\mathbb{E}_{\pi}[U].$$
+
+#### Best response
+We say $\pi^{i}$ is _best response_ to $\pi^{-i}$ if
+[it is a Nash equilibrium!]
+for all policies $\hat{\pi}^{i}$ for $i$
+
+$$\mathbb{E}_{\pi^{i},\pi^{-i}}^{i}=\sum_{U\in\mathbf{U}^{i}}\mathbb{E}_{\pi^{i},\pi^{-i}}[U]
+\geq
+\sum_{U\in\mathbf{U}^{i}}\mathbb{E}_{\hat{\pi}^{i},\pi^{-i}}[U]
+=\mathbb{E}_{\hat{\pi}^{i},\pi^{-i}}^{i}.$$
+
 # Belief.
 This is the __heart of the matter__.
 
@@ -101,3 +132,6 @@ I'm mildly aware that there would be incompleteness phenomena underlying these s
 Let $\pi=(\pi^{i},\pi^{-i})$ be a policy profile,
 $REF(\pi^{i})$ be a set of `alternative policies', for each $i$, and let $\mathbf{X}\subseteq\mathbf{V}$.
 We say $i$ _intentionally causes_ $\mathbf{X}(\pi,e)$ with policy $\pi^{i}$
+
+
+
