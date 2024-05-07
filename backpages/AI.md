@@ -17,7 +17,7 @@ Definition of deception for structural causal games
 - grounded in philosophy literature
 - real-world machine learning systems
 
-Their papers claims to
+Their paper aims to
 
 - show with examples that their definitions aligns with philosophical and commonsense meaning of "deception".
 
