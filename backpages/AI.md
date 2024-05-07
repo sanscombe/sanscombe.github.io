@@ -54,7 +54,7 @@ There is no "universally accepted philosophical theory of intention".
 	They refer to "Lewis et al.'s negotiation agent" which learnt to deceive from self-play. They give further examples. AI agents (specifically LMs) have the capability to deceive humans to achieve goals.
 
 # Structural Causal Game
-An SCG is a pair $\mathcal{M}=(\mathcal{G},\theta)$
+A _Structural Causal Game_ (SCG) is a pair $\mathcal{M}=(\mathcal{G},\theta)$
 where $\mathcal{G}=(N,\mathbf{E}\cup\mathbf{V},\mathcal{E})$
 with
 - $N$ a set of _agents_,
