@@ -1,13 +1,12 @@
 ---
-title: AI
+title: AI Deception
 layout: page
 date: 2022-09-26 03:00:00 +0200
 ---
-# AI Deception
-
 ((Some remarks on the paper
 _Honesty Is the Best Policy:
-Defining and Mitigating AI Deception_
+Defining and Mitigating AI Deception_,
+[https://arxiv.org/abs/2312.01350](https://arxiv.org/abs/2312.01350),
 by
 Francis Rhys Ward,
 Francesco Belardinelli,
