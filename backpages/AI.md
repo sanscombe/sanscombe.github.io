@@ -13,6 +13,8 @@ Francesco Belardinelli,
 Francesca Toni,
 Tom Everitt))
 
+[These are rough notes, all errors are my own.]
+
 Definition of deception for structural causal games
 - grounded in philosophy literature
 - real-world machine learning systems
