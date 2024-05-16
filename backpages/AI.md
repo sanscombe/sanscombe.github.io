@@ -30,8 +30,10 @@ Their paper aims to
 # Main Definition of Deception
 _An agent $S$ **deceives** another agent $T$ if $S$ <u>intentionally causes</u> $T$ to <u>believe</u> $\phi$, where $\phi$ is <u>false</u> and $S$ does not <u>believe</u> that $\phi$ is true._
 
-We note:
-- this definition relies on the falsity of $\phi$.
+We note: this definition
+- implies the falsity of $\phi$,
+- requires notions of _truth_ and _belief_, and
+- requires a notion that beliefs may be _intentionally caused_.
 
 There are notions of _intent_ and _belief_ involved in this definition.
 _Intent_ depends on _instrumental goals_.
