@@ -28,6 +28,7 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 
 <h3>publications</h3>
 
+
 <h5>research articles</h5>
 <ol reversed class="papers">
 
@@ -136,8 +137,15 @@ Supervised by Prof. Jochen Koenigsmann.
 </ol>
 
 
-<h5>submitted</h5>
+<h5>submitted/notes</h5>
 <ol reversed class="papers" type="a">
+
+<li>
+<a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
+<br>
+Manuscript, 2024.
+<a href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
+</li>
 
 <li>
 <a href="http://arxiv.org/abs/2312.17616">Interpretations of syntactic fragments of theories of fields</a>,
@@ -153,18 +161,6 @@ with Philip Dittmann and Franziska Jahnke.
 <br>
 Submitted, 2023.
 <a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
-</li>
-
-</ol>
-
-<h5>notes</h5>
-<ol reversed class="papers" type="i"> 
-
-<li>
-<a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
-<br>
-Manuscript, 2024.
-<a href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
 </li>
 
 </ol>
