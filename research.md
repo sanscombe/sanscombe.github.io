@@ -157,6 +157,19 @@ Submitted, 2023.
 
 </ol>
 
+<h5>notes</h5>
+<ol reversed class="papers" type="i"> 
+
+<li>
+<a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
+<br>
+Manuscript, 2024.
+<a href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
+</li>
+
+</ol>
+
+
 <h5>other publications</h5>
 <ol reversed class="papers" type="i"> 
 
@@ -200,12 +213,6 @@ Manuscript, 2021.
 <a href="https://drive.google.com/open?id=1WZgYHagdgannBDn_rwT64rvhbeaPtE5V">The mathematical structure of classical mechanics</a>,
 with Amery Gration.
 Manuscript, 2019.
-</li>
-
-<li>
-<a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
-Manuscript, 2018.
-<a href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
 </li>
 
 </ol>
