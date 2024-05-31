@@ -151,7 +151,7 @@ Manuscript, 2024.
 <li>
 <a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
 <br>
-Manuscript, 2024.
+Submitted, 2024.
 <a href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
 </li>
 
