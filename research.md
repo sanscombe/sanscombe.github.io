@@ -144,7 +144,7 @@ Supervised by Prof. Jochen Koenigsmann.
 <a href="http://arxiv.org/abs/2405.12771">Universal-existential theories of fields</a>,
 with Arno Fehm.
 <br>
-Manuscript, 2024.
+Submitted, 2024.
 <a href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
 </li>
 
