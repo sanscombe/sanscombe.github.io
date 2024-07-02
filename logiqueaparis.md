@@ -2,7 +2,7 @@
 title: Logique à Paris
 layout: page
 ---
-A series (so far two) of conferences of contemporary developments in Mathematical Logique,
+A series of (so far) two conferences of contemporary developments in Mathematical Logique,
 with a focus on the themes of interest to the members of the
 [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
 
