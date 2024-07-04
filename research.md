@@ -37,6 +37,7 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 with Philip Dittmann and Franziska Jahnke.
 <br>
 To appear in <i>Transactions of the American Mathematical Society</i>, 2024.
+<br>
 <a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
 </li>
 
