@@ -33,6 +33,14 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <ol reversed class="papers">
 
 <li>
+<a href="http://arxiv.org/abs/2305.12145">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
+with Philip Dittmann and Franziska Jahnke.
+<br>
+To appear in <i>Transactions of the American Mathematical Society</i>, 2024.
+<a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
+</li>
+
+<li>
 <a href=" https://doi.org/10.1112/jlms.12868">Characterizing NIP henselian fields</a>,
 with Franziska Jahnke.
 <br>
@@ -167,14 +175,6 @@ with Arno Fehm.
 <br>
 Submitted, 2024.
 <a href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
-</li>
-
-<li>
-<a href="http://arxiv.org/abs/2305.12145">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
-with Philip Dittmann and Franziska Jahnke.
-<br>
-Submitted, 2023.
-<a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
 </li>
 
 </ol>
