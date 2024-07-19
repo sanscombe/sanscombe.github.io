@@ -459,6 +459,14 @@ A selection of meetings that I have attended or will attend.
 
 <ul>
 
+<li><a href="https://sites.google.com/view/ywmta/home">Young Women in Model Theory and Applications</a>, Bonn, 11th--14th March 2024</li>
+
+<li><a class="linkdebugmain" href="./logiqueaparis2024.html">Logique à Paris 2024</a>, IMJ-PRG, Paris, 29th February &ndash; 2nd March 2024</li>
+
+<li><a href="https://www.mathconf.org/mtvfa2024">Model theory of valued fields and applications</a>, Lille, 19th&ndash;21st February 2024</li>
+
+<li><a href="https://fgallinaro.github.io/geomod-conference.github.io/">GEOMOD Final Conference</a>, Freiburg, 13th&ndash;17th November 2023</li>
+
 <li><a href="https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html">Model theory and related topics</a>, Manchester, 3rd &ndash; 7th July 2023</li>
 
 <li><a href="">Definability and Computability over Arithmetically Significant Fields</a>, 21st &ndash; 22nd June 2023</li>
