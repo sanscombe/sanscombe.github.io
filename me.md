@@ -20,6 +20,10 @@ I am supported by [GeoMod][GeoMod].
 
 ### current and upcoming
 
+- Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
+
+- [FRG Workshop on Definability, Decidability, and Computability](https://www.math.harvard.edu/event/ddc-cambridge-frg-workshop-on-definability-decidability-and-computability-ddccambridge/), Cambridge, MA, 28th July &ndash; 2nd August 2024
+
 [//]: # - [Young Women in Model Theory and Applications](https://sites.google.com/view/ywmta/home), Bonn, 11th--14th March 2024
 
 [//]: # - <a class="linkdebugmain" href="./logiqueaparis2024.html">Logique à Paris 2024</a>, IMJ-PRG, Paris, 29th February &ndash; 2nd March 2024
