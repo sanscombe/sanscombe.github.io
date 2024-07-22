@@ -33,6 +33,15 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <ol reversed class="papers">
 
 <li>
+<a href="http://arxiv.org/abs/2305.12145">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
+with Philip Dittmann and Franziska Jahnke.
+<br>
+To appear in <i>Transactions of the American Mathematical Society</i>, 2024.
+<br>
+<a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
+</li>
+
+<li>
 <a href=" https://doi.org/10.1112/jlms.12868">Characterizing NIP henselian fields</a>,
 with Franziska Jahnke.
 <br>
@@ -167,14 +176,6 @@ with Arno Fehm.
 <br>
 Submitted, 2024.
 <a href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
-</li>
-
-<li>
-<a href="http://arxiv.org/abs/2305.12145">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
-with Philip Dittmann and Franziska Jahnke.
-<br>
-Submitted, 2023.
-<a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
 </li>
 
 </ol>
@@ -457,6 +458,14 @@ A selection of meetings that I have attended or will attend.
 <img src="/IMAGES/arithmetic.jpg" width="40%" style="float:right;">
 
 <ul>
+
+<li><a href="https://sites.google.com/view/ywmta/home">Young Women in Model Theory and Applications</a>, Bonn, 11th--14th March 2024</li>
+
+<li><a class="linkdebugmain" href="./logiqueaparis2024.html">Logique à Paris 2024</a>, IMJ-PRG, Paris, 29th February &ndash; 2nd March 2024</li>
+
+<li><a href="https://www.mathconf.org/mtvfa2024">Model theory of valued fields and applications</a>, Lille, 19th&ndash;21st February 2024</li>
+
+<li><a href="https://fgallinaro.github.io/geomod-conference.github.io/">GEOMOD Final Conference</a>, Freiburg, 13th&ndash;17th November 2023</li>
 
 <li><a href="https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html">Model theory and related topics</a>, Manchester, 3rd &ndash; 7th July 2023</li>
 
