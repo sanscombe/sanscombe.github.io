@@ -150,6 +150,14 @@ Supervised by Prof. Jochen Koenigsmann.
 <ol reversed class="papers" type="a">
 
 <li>
+<a href="http://arxiv.org/abs/2408.00102">Multidimensional asymptotic classes</a>,
+with Dugald Macpherson, Charles Steinhorn, and Daniel Wolf.
+<br>
+Manuscript, 2024.
+<a href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>
+</li>
+
+<li>
 <a href="https://drive.google.com/file/d/1YWp89ATCEPH2oAKJAeh4Mj5VH-K2cpGl/view?usp=sharing">The unknown logic of power series</a>.
 <br>
 Submitted, 2024.
