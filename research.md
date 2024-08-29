@@ -153,7 +153,7 @@ Supervised by Prof. Jochen Koenigsmann.
 <a href="http://arxiv.org/abs/2408.00102">Multidimensional asymptotic classes</a>,
 with Dugald Macpherson, Charles Steinhorn, and Daniel Wolf.
 <br>
-Manuscript, 2024.
+Submitted, 2024.
 <a href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>
 </li>
 
