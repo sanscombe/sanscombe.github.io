@@ -193,14 +193,13 @@ Submitted, 2024.
 <ol reversed class="papers" type="i"> 
 
 <li>
-<a href="https://arxiv.org/abs/2309.14987">
+<a href="https://doi.org/10.1007/978-3-031-52163-8_2">
 A survey of local-global methods for Hilbert's Tenth Problem</a>,
 with Valentijn Karemaker, Zeynep Kisakürek, Vlerë Mehmeti, Margherita Pagano, and Laura Paladino.
 <br>
-To appear in
 <i>Women in Numbers Europe IV</i>, 
 edited by Ramla Abdellatif, Valentijn Karemaker, and Lejla Smajlovic.
-<a href="https://arxiv.org/abs/2309.14987">arXiv:2309.14987 [math.NT]</a>
+Assoc. Women Math. Ser., 32, 29--61, Springer, Cham, 2024.
 </li>
 
 <li>
