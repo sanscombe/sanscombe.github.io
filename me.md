@@ -11,7 +11,8 @@ I am maîtresse de conférences
 at [Université Paris Cité][UPC], and a member of the [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
 
 My [research][research] is in model theory and its connections to algebra and number theory.
-I am supported by [GeoMod][GeoMod].
+
+[//]: # I am supported by [GeoMod][GeoMod].
 
 <!--
 <a href="./seine2.jpg"><img src="/seine.jpg" alt="The river Seine" width="100%" style="display:block; margin-left: auto; margin-right: auto;"></a>

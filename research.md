@@ -18,7 +18,7 @@ Sylvy Anscombe
 <img src="/IMAGES/AI_IMAGES/chaos3.png" width="35%" style="float:right;">
 
 My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory">Model Theory</a>, a part of <a href="https://en.wikipedia.org/wiki/Mathematical_logic">Mathematical Logic</a>, including connections to algebra and number theory.
-I am supported by <a href="https://home.mathematik.uni-freiburg.de/palacin/GeoMod/">GeoMod</a>.
+<!--I am supported by <a href="https://home.mathematik.uni-freiburg.de/palacin/GeoMod/">GeoMod</a>.-->
 
 <br><br>
 
