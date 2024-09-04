@@ -33,6 +33,15 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <ol reversed class="papers">
 
 <li>
+<a href="http://arxiv.org/abs/2312.17616">Interpretations of syntactic fragments of theories of fields</a>,
+with Arno Fehm.
+<br>
+To appear in <i>Israel Journal of Mathematics</i>, 2024.
+<br>
+<a href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
+</li>
+
+<li>
 <a href="http://arxiv.org/abs/2305.12145">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
 with Philip Dittmann and Franziska Jahnke.
 <br>
@@ -176,14 +185,6 @@ Submitted, 2024.
 <br>
 Submitted, 2024.
 <a href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
-</li>
-
-<li>
-<a href="http://arxiv.org/abs/2312.17616">Interpretations of syntactic fragments of theories of fields</a>,
-with Arno Fehm.
-<br>
-Submitted, 2024.
-<a href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
 </li>
 
 </ol>
