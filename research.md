@@ -167,12 +167,6 @@ Submitted, 2024.
 </li>
 
 <li>
-<a href="https://drive.google.com/file/d/1YWp89ATCEPH2oAKJAeh4Mj5VH-K2cpGl/view?usp=sharing">The unknown logic of power series</a>.
-<br>
-Submitted, 2024.
-</li>
-
-<li>
 <a href="http://arxiv.org/abs/2405.12771">Universal-existential theories of fields</a>,
 with Arno Fehm.
 <br>
@@ -192,6 +186,12 @@ Submitted, 2024.
 
 <h5>other publications</h5>
 <ol reversed class="papers" type="i"> 
+
+<li>
+<a href="https://drive.google.com/file/d/1YWp89ATCEPH2oAKJAeh4Mj5VH-K2cpGl/view?usp=sharing">The unknown logic of power series</a>.
+<br>
+To appear in <i>Notices of the American Mathematical Society</i>, 2024.
+</li>
 
 <li>
 <a href="https://doi.org/10.1007/978-3-031-52163-8_2">
