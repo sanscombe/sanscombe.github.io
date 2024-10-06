@@ -242,11 +242,6 @@ Manuscript, 2019.
 
 <h3>research team</h3>
 
-Postdoc
-<ul>
-<li><a href="https://sites.google.com/berkeley.edu/scottmutchnik">Scott Mutchnik</a></li>
-</ul>
-
 PhD
 <ul>
 <li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.</li>
