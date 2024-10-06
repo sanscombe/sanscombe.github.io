@@ -240,6 +240,30 @@ Manuscript, 2019.
 <br>
 
 
+<h3>research team</h3>
+
+Postdoc
+<ul>
+<li><a href="https://sites.google.com/berkeley.edu/scottmutchnik">Scott Mutchnik</a></li>
+</ul>
+
+PhD
+<ul>
+<li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.</li>
+<li>Paulo Andrés Soto Moreno.</li>
+</ul>
+
+Master/Memoire
+<ul>
+<li>Paulo Andrés Soto Moreno.
+<i>Inflators and diffeo-valued fields</i>,
+2022.
+</li>
+</ul>
+
+If you're interested in studying with me, please <a href="/contact.html">contact</a> me.
+
+<br><br>
 <h3>talks</h3>
 
 <!--A selection of slides, notes, and abstracts.-->
@@ -569,25 +593,6 @@ A selection of meetings that I have attended or will attend.
 
 <br>
 
-<h3>research students</h3>
-
-PhD
-<ul>
-<li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.</li>
-<li>Paulo Andrés Soto Moreno.</li>
-</ul>
-
-Master/Memoire
-<ul>
-<li>Paulo Andrés Soto Moreno.
-<i>Inflators and diffeo-valued fields</i>,
-2022.
-</li>
-</ul>
-
-If you're interested in studying with me, please <a href="/contact.html">contact</a> me.
-
-<br><br>
 
 <h3>useful links</h3>
 
