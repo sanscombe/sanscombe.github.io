@@ -25,22 +25,11 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
 
-[//]: # - [FRG Workshop on Definability, Decidability, and Computability](https://www.math.harvard.edu/event/ddc-cambridge-frg-workshop-on-definability-decidability-and-computability-ddccambridge/), Cambridge, MA, 28th July &ndash; 2nd August 2024
-
-[//]: # - [Young Women in Model Theory and Applications](https://sites.google.com/view/ywmta/home), Bonn, 11th--14th March 2024
-
-[//]: # - [Model theory of valued fields and applications](https://www.mathconf.org/mtvfa2024), Lille, 19th--21st February 2024
-
 [\\]: # - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
 
 - [Tame fields reading group](https://www.uni-muenster.de/IVV5WS/WebHop/user/sramello/tame/)
 
-[//]: # - [Spectra Conference II](http://lgbtmath.org/), online, 21st--23rd September 2023
-
-
 [//]: # ### news
-
-[//]: # - The journal [Model Theory][Model Theory] has its [first issue][first issue]!
 
 [//]: # - [Model Theory](https://msp.org/mt)
 
@@ -56,4 +45,3 @@ My [research][research] is in model theory and its connections to algebra and nu
 [GeoMod]: https://home.mathematik.uni-freiburg.de/palacin/GeoMod/
 [JSL]:	https://msp.org/mt/
 [Model Theory]:	https://msp.org/mt/
-[first issue]: https://msp.org/mt/2022/1-1/index.xhtml
