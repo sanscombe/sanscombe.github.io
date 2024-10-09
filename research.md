@@ -188,7 +188,7 @@ Submitted, 2024.
 <ol reversed class="papers" type="i"> 
 
 <li>
-<a href="https://drive.google.com/file/d/1YWp89ATCEPH2oAKJAeh4Mj5VH-K2cpGl/view?usp=sharing">The unknown logic of power series</a>.
+<a href="https://doi.org/10.1090/noti3081">The unknown logic of power series</a>.
 <br>
 To appear in <i>Notices of the American Mathematical Society</i>, 2024.
 </li>
