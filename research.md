@@ -42,10 +42,10 @@ To appear in <i>Israel Journal of Mathematics</i>, 2024.
 </li>
 
 <li>
-<a href="http://arxiv.org/abs/2305.12145">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
+<a href="https://doi.org/10.1090/tran/9271">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
 with Philip Dittmann and Franziska Jahnke.
 <br>
-To appear in <i>Transactions of the American Mathematical Society</i>, 2024.
+<i>Transactions of the American Mathematical Society</i>, 377-12:8963&ndash;8988, 2024.
 <br>
 <a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
 </li>
@@ -61,7 +61,7 @@ with Franziska Jahnke.
 <a href="https://doi.org/10.2140/ant.2023.17.2013">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>,
 with Philip Dittmann and Arno Fehm.
 <br>
-<i>Algebra &amp; Number Theory</i>, 17-11 (2023), 2013--2032.
+<i>Algebra &amp; Number Theory</i>, 17-11:2013&ndash;2032, 2023.
 </li>
 
 <li>
