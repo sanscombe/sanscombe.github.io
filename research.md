@@ -46,8 +46,6 @@ To appear in <i>Israel Journal of Mathematics</i>, 2024.
 with Philip Dittmann and Franziska Jahnke.
 <br>
 <i>Transactions of the American Mathematical Society</i>, 377-12:8963&ndash;8988, 2024.
-<br>
-<a href="http://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
 </li>
 
 <li>
