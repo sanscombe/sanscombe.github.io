@@ -17,11 +17,11 @@ There will be symposium-type seminars given by invited speakers from a range of 
 - _Dates_ : 26th -- 28th Febrary 2025
 
 - _Speakers_ :
-	- [Jonathan Kirby](https://www.cantab.net/users/jonathankirby/)
-	- [Mariana Vicaria](https://sites.google.com/view/m-vicaria/home)
-	- [Ingo Blechschmidt](https://www.ingo-blechschmidt.eu/)
-	- [Chris Lambie-Hanson](https://users.math.cas.cz/~lambiehanson/)
 	- [Albert Atserias](https://www.cs.upc.edu/~atserias/)
+	- [Ingo Blechschmidt](https://www.ingo-blechschmidt.eu/)
+	- [Jonathan Kirby](https://www.cantab.net/users/jonathankirby/)
+	- [Chris Lambie-Hanson](https://users.math.cas.cz/~lambiehanson/)
+	- [Mariana Vicaria](https://sites.google.com/view/m-vicaria/home)
 - _Location_ : Campus Grandes Moulins, Université Paris Cité, 75013 Paris
 	- Amphi Turing, Sophie Germain
 	- [plan of campus][campus]
