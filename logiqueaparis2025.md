@@ -11,7 +11,7 @@ A 3-day meeting of contemporary developments in Mathematical Logic.
 
 There will be symposium-type seminars given by invited speakers from a range of other centers of research in Logic.
 
-<a href="/LAP2025/LAP2025_logo.jpeg"><img src="/LAP2025/LAP2025_logo.jpeg" width="40%" style="float:right;border: 0px solid black;"></a>
+<a href="/LAP2025/LAP2025_logo.jpeg"><img src="/LAP2025/LAP2025_logo.jpeg" width="50%" style="float:right;border: 0px solid black;"></a>
 
 <!--- <a class="linkdebugmain" href="https://forms.gle/wECeovkZy4C6AVg79">Registration</a>-->
 - _Dates_ : 26th -- 28th Febrary 2025
