@@ -19,6 +19,7 @@ There will be symposium-type seminars given by invited speakers from a range of 
 - _Speakers_ :
 	- [Albert Atserias](https://www.cs.upc.edu/~atserias/)
 	- [Ingo Blechschmidt](https://www.ingo-blechschmidt.eu/)
+	- [Laura Fontanella](https://lacl.fr/~lfontanella/)
 	- [Jonathan Kirby](https://www.cantab.net/users/jonathankirby/)
 	- [Chris Lambie-Hanson](https://users.math.cas.cz/~lambiehanson/)
 	- [Mariana Vicaria](https://sites.google.com/view/m-vicaria/home)
