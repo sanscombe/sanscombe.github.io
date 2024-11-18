@@ -13,9 +13,8 @@ There will be symposium-type seminars given by invited speakers from a range of 
 
 <a href="/LAP2025/LAP2025_logo.jpeg"><img src="/LAP2025/LAP2025_logo.jpeg" width="50%" style="float:right;border: 0px solid black;"></a>
 
-<!--- <a class="linkdebugmain" href="https://forms.gle/wECeovkZy4C6AVg79">Registration</a>-->
+- <a class="linkdebugmain" href="https://forms.gle/r8Z65bsS4gRAYJo46">Registration</a>
 - _Dates_ : 26th -- 28th Febrary 2025
-
 - _Speakers_ :
 	- [Albert Atserias](https://www.cs.upc.edu/~atserias/)
 	- [Ingo Blechschmidt](https://www.ingo-blechschmidt.eu/)
