@@ -6,12 +6,9 @@ layout: page_LAP_2025
 
 A 3-day meeting of contemporary developments in Mathematical Logic.
 
-[//]: # with a focus on the themes of interest to the members of the
-[//]: # [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
-
 There will be symposium-type seminars given by invited speakers from a range of other centers of research in Logic.
 
-<a href="/LAP2025/LAP2025_logo.jpeg"><img src="/LAP2025/LAP2025_logo.jpeg" width="50%" style="float:right;border: 0px solid black;"></a>
+<a href="/LAP2025/LAP2025_poster.pdf"><img src="/LAP2025/LAP2025_logo.jpeg" width="50%" style="float:right;border: 0px solid black;"></a>
 
 - <a class="linkdebugmain" href="https://forms.gle/r8Z65bsS4gRAYJo46">Registration</a>
 - _Dates_ : 26th -- 28th Febrary 2025
@@ -38,7 +35,6 @@ There will be symposium-type seminars given by invited speakers from a range of 
 - _Email us_ : [logiqueaparis@gmail.com](mailto:logiqueaparis@gmail.com)
 
 [//]: # 	- **WARNING**: there is a scam targeting attendees and speakers of this conference. Please beware emails purporting to being from an agency organizing accommodation. This is a scam, please do not reply. If in doubt, please contact us directly.
-	
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png

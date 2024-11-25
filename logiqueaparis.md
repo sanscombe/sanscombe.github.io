@@ -8,7 +8,7 @@ with a focus on the themes of interest to the members of the
 
 <a href="/LAP2024/LAP2024.pdf"><img src="/LAP2024/LAP2024.jpg" width="30%" style="float:right;border: 1px solid black;"></a>
 
-- <a class="linkblogmain" href="/logiqueaparis2025.html">Logique à Paris 2025</a> &mdash; <b>COMING SOON!</b>
+- <a class="linkblogmain" href="/logiqueaparis2025.html">Logique à Paris 2025</a> &mdash; <b>REGISTRATION OPEN!</b>
 - <a class="linkdebugmain" href="/logiqueaparis2024.html">Logique à Paris 2024</a>
 - <a class="linkdebugmain" href="/logiqueaparis2023.html">Logique à Paris 2023</a>
 
