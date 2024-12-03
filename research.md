@@ -28,7 +28,6 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 
 <h3>publications</h3>
 
-
 <h5>research articles</h5>
 <ol reversed class="papers">
 
@@ -237,7 +236,6 @@ Manuscript, 2019.
 
 <br>
 
-
 <h3>research team</h3>
 
 PhD
@@ -257,6 +255,21 @@ Master/Memoire
 If you're interested in studying with me, please <a href="/contact.html">contact</a> me.
 
 <br><br>
+
+<h3>editorial work</h3>
+
+Currently serving as editor of
+
+<ul>
+
+<li><a class="linkresearchmain" href="https://msp.org/mt">Model Theory</a></li>
+
+<li><a class="linkresearchmain" href="https://www.cambridge.org/core/journals/journal-of-symbolic-logic">Journal of Symbolic Logic</a></li>
+
+</ul>
+
+<br>
+
 <h3>talks</h3>
 
 <!--A selection of slides, notes, and abstracts.-->
@@ -585,7 +598,6 @@ A selection of meetings that I have attended or will attend.
 </ul>
 
 <br>
-
 
 <h3>useful links</h3>
 
