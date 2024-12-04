@@ -240,7 +240,19 @@ Manuscript, 2019.
 
 PhD
 <ul>
-<li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.</li>
+<li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.
+	<ol>
+	<li>
+	A. Rzepka, P. Szewczyk. <i>Defect extensions and a characterization of tame fields</i>, Journal of Algebra, 630(15):68--91, 2023.
+	</li>
+	<li>
+	H. Ćmiel, F-V. Kuhlmann, P. Szewczyk. <i>Continuity of roots for polynomials over valued fields</i>, Communications in Algebra, 2022.
+	</li>
+	<li>
+	P. Błaszkiewicz, H. Ćmiel, A. Linzi, P. Szewczyk. <i>Caristi-Kirk and Oettli-Théra Ball Spaces and applications</i>, Journal of Fixed Point Theory and Applications 21(4), 2019.
+	</li>
+	</ol>
+</li>
 <li>Paulo Andrés Soto Moreno.</li>
 </ul>
 
