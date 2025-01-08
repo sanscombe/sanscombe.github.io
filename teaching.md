@@ -12,25 +12,25 @@ order: 3
 
 ##### 2023--2024, Université Paris Cité
 ###### premier semestre
-- Cours/TD de MI1-1 dans L1INFO (INFO6)
 
 ###### second semestre
-- Cours de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
-	- [présentation du cours](https://drive.google.com/file/d/1bEsncTjdCSsJczvZTuNkNj03da633rlv/view?usp=sharing)
-- Cours de IN8 dans M1MATHS
-	- [présentation du cours](https://drive.google.com/file/d/1yoUmltB5aYRbQz5jCMb-SyuoSw7GPKzI/view?usp=drive_link)
-	- Lundi 13h45--15h45, 2014 Sophie Germain 
-	- Mardi 08h30--10h30, 390A Condorcet
-- Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
-	- [course information][modeltheory]
-	- outline lecture notes:
-[introduction](https://drive.google.com/file/d/1zmE7Bm4EZs2XGy6Ry-NiPpuEHqBWFv__/view?usp=drive_link)/
-[part one](https://drive.google.com/file/d/1zQ_YTzAUwXiPYxBtYtpktKwp5pHCbfNv/view?usp=drive_link)/
-[part two](https://drive.google.com/file/d/1rwgUh-wa1yoKjzUD-6qKZ_qQcQIy013g/view?usp=drive_link)
-	- problem sheets: [first four](https://drive.google.com/file/d/1etr93O1RvEz-71YCNf2j-Mg-f6debI6T/view?usp=sharing)
-	- <a class="linkdebugmain">**Partial exam**</a>: 22nd February 2024
+[//]: # - Cours de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
+[//]: # - [présentation du cours](https://drive.google.com/file/d/1bEsncTjdCSsJczvZTuNkNj03da633rlv/view?usp=sharing)
 
-[//]: # - mer. 13h30--15h30, SG1006
+[//]: # - [présentation du cours](https://drive.google.com/file/d/1yoUmltB5aYRbQz5jCMb-SyuoSw7GPKzI/view?usp=drive_link)
+
+- Cours de IN8 dans M1MATHS
+- Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
+	- Mercredi 16h16--18h15, 130 Olympe de Gouges
+	- Jeudi 08h30--10h30, 2012 Sophie Germain
+	- [course information][modeltheory]
+
+[//]: # - outline lecture notes:
+[//]: # [introduction](https://drive.google.com/file/d/1zmE7Bm4EZs2XGy6Ry-NiPpuEHqBWFv__/view?usp=drive_link)/
+[//]: # [part one](https://drive.google.com/file/d/1zQ_YTzAUwXiPYxBtYtpktKwp5pHCbfNv/view?usp=drive_link)/
+[//]: # [part two](https://drive.google.com/file/d/1rwgUh-wa1yoKjzUD-6qKZ_qQcQIy013g/view?usp=drive_link)
+[//]: # - problem sheets: [first four](https://drive.google.com/file/d/1etr93O1RvEz-71YCNf2j-Mg-f6debI6T/view?usp=sharing)
+[//]: # - <a class="linkdebugmain">**Partial exam**</a>: 22nd February 2024
 
 
 
@@ -64,6 +64,12 @@ Short notes from teaching
 
 ### past teaching
 
+
+##### 2024--2025, Université Paris Cité
+- Cours/TD de MI1-1 dans L1INFO (INFO6)
+- Cours de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
+- Cours de IN8 dans M1MATHS
+- Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
 
 ##### 2022--2023, Université Paris Cité
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
