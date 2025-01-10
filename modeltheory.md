@@ -20,19 +20,26 @@ order: 3
 - 8 ECTS
 - 4 hours CM/week
 - outline lecture notes:
-[introduction](https://drive.google.com/file/d/1zmE7Bm4EZs2XGy6Ry-NiPpuEHqBWFv__/view?usp=drive_link)/
-[part one](https://drive.google.com/file/d/1zQ_YTzAUwXiPYxBtYtpktKwp5pHCbfNv/view?usp=drive_link)/
-[part two](https://drive.google.com/file/d/1rwgUh-wa1yoKjzUD-6qKZ_qQcQIy013g/view?usp=drive_link)
-- problem sheets: [first four](https://drive.google.com/file/d/1etr93O1RvEz-71YCNf2j-Mg-f6debI6T/view?usp=sharing)
-- <a class="linkdebugmain">**Partial exam**</a>: 22nd February 2024
+	[preliminaries](https://drive.google.com/file/d/1hj-VfC1kJv4Jd2UJwSyyEn2RcYTbK5La/view?usp=sharing) /
+	[week one](https://drive.google.com/file/d/1a5c3KHFZdO5YzRPC4em5Og71U-WPKqbB/view?usp=sharing)
 
-- Replacement session: Monday 26th February, 9h--11h, salle 6033 Sophie Germain
+[//]: # [introduction](https://drive.google.com/file/d/1zmE7Bm4EZs2XGy6Ry-NiPpuEHqBWFv__/view?usp=drive_link)/
+
+[//]: # [part one](https://drive.google.com/file/d/1zQ_YTzAUwXiPYxBtYtpktKwp5pHCbfNv/view?usp=drive_link)/
+
+[//]: # [part two](https://drive.google.com/file/d/1rwgUh-wa1yoKjzUD-6qKZ_qQcQIy013g/view?usp=drive_link)
+
+[//]: # - problem sheets: [first four](https://drive.google.com/file/d/1etr93O1RvEz-71YCNf2j-Mg-f6debI6T/view?usp=sharing)
+
+[//]: # - <a class="linkdebugmain">**Partial exam**</a>: 22nd February 2024
+
+[//]: # - Replacement session: Monday 26th February, 9h--11h, salle 6033 Sophie Germain
 
 ##### books
 
+- David Marker: _Model Theory: An introduction_
 - Katrin Tent and Martin Ziegler: _A course in Model Theory_
 - Wilfred Hodges: _A shorter Model Theory_
-- David Marker: _Model Theory: An introduction_
 
 ##### course plan
 
@@ -93,11 +100,12 @@ order: 3
 	- Week 9: The beginnings of Stability Theory
 		-
 - Part 4: Towards Neostability Theory
-	- Week 10:
-		- Simple theories?
-	- Week 11:
-		- NIP/Dependent theories?
-	- Week 12:
+
+[//]: # 	- Week 10:
+[//]: # 		- Simple theories?
+[//]: # 	- Week 11:
+[//]: # 		- NIP/Dependent theories?
+[//]: # 	- Week 12:
 
 [//]: # - **Sylvy**: don't forget to ask them a fun question!!
 
