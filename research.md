@@ -634,6 +634,7 @@ A selection of meetings that I have attended or will attend.
 	<ul>
 
 	<li><a class="linkseminarmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral de Logique</a></li>
+	<li><a class="linkseminarmain" href="https://gtm.imj-prg.fr/">G&eacute;om&eacute;trie et Th&eacute;orie des Mod&egrave;les</a></li>
 
 	</ul>
 
