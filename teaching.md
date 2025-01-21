@@ -52,6 +52,7 @@ order: 3
 
 Short notes from teaching
 
+- [Ax--Kochen/Ershov: sixty years gone](https://drive.google.com/file/d/19MHJ4DMc-HVARRta-Ytt7T4-MBvwqys8/view?usp=sharing)
 - [Mirna's class -- notes](./backpages/2022-10-18-Mirna.html)
 - [The Rank-Nullity Theorem](https://drive.google.com/open?id=15hWnh1Gzmf64ewdBomw0wyFLzgf2GFtB), a note written for a student at UCLan in 2017
 - [Arithmetization of syntax](https://drive.google.com/file/d/0B6bVmoUt7QTXaTY0UmVJTE01ZEE/view?usp=sharing), a note from a course on G&ouml;del's Incompleteness Theorems that I gave in the Nesin Mathematics Village in 2013
