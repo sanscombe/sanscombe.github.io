@@ -32,6 +32,13 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <ol reversed class="papers">
 
 <li>
+<a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
+<br>
+To appear in <i>Journal of Algebra</i>, 2025.
+<a href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
+</li>
+
+<li>
 <a href="http://arxiv.org/abs/2312.17616">Interpretations of syntactic fragments of theories of fields</a>,
 with Arno Fehm.
 <br>
@@ -169,13 +176,6 @@ with Arno Fehm.
 <br>
 Submitted, 2024.
 <a href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
-</li>
-
-<li>
-<a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
-<br>
-Submitted, 2024.
-<a href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
 </li>
 
 </ol>
