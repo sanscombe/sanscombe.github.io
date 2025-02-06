@@ -23,7 +23,9 @@ order: 3
 - Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
 	- Mercredi 16h16--18h15, 130 Olympe de Gouges
 	- Jeudi 08h30--10h30, 2012 Sophie Germain
-	- [course information][modeltheory]
+	- <a class="linkteachingmain" href="./modeltheory">course information</a>
+
+[//]: # [course information][modeltheory]
 
 [//]: # - outline lecture notes:
 [//]: # [introduction](https://drive.google.com/file/d/1zmE7Bm4EZs2XGy6Ry-NiPpuEHqBWFv__/view?usp=drive_link)/

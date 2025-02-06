@@ -20,20 +20,22 @@ order: 3
 - 8 ECTS
 - 4 hours CM/week
 - outline lecture notes:
-	[preliminaries](https://drive.google.com/file/d/1hj-VfC1kJv4Jd2UJwSyyEn2RcYTbK5La/view?usp=sharing) /
-	[week one](https://drive.google.com/file/d/1a5c3KHFZdO5YzRPC4em5Og71U-WPKqbB/view?usp=sharing)
+	[preliminaries][preliminaries] /
+	[part one][part one]
+- problem sheets:
+	[first batch][problem sheets 1]
 
-[//]: # [introduction](https://drive.google.com/file/d/1zmE7Bm4EZs2XGy6Ry-NiPpuEHqBWFv__/view?usp=drive_link)/
 
-[//]: # [part one](https://drive.google.com/file/d/1zQ_YTzAUwXiPYxBtYtpktKwp5pHCbfNv/view?usp=drive_link)/
 
-[//]: # [part two](https://drive.google.com/file/d/1rwgUh-wa1yoKjzUD-6qKZ_qQcQIy013g/view?usp=drive_link)
 
-[//]: # - problem sheets: [first four](https://drive.google.com/file/d/1etr93O1RvEz-71YCNf2j-Mg-f6debI6T/view?usp=sharing)
-
-[//]: # - <a class="linkdebugmain">**Partial exam**</a>: 22nd February 2024
+- <a class="linkdebugmain">**Partial exam**</a>: (date to be confirmed) ??th February/March 2025
 
 [//]: # - Replacement session: Monday 26th February, 9h--11h, salle 6033 Sophie Germain
+
+[preliminaries]: https://drive.google.com/file/d/1hj-VfC1kJv4Jd2UJwSyyEn2RcYTbK5La/view?usp=sharing
+[part one]: https://drive.google.com/file/d/1UfDhISD69gy8FaYciHGUGxBLpHhLUQH5/view?usp=sharing
+
+[problem sheets 1]: https://drive.google.com/file/d/14Rro0zyhp-5jffiIjgDqsgLU5w482H8H/view?usp=sharing
 
 ##### books
 
