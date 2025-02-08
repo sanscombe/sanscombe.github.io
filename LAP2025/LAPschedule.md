@@ -8,7 +8,7 @@ layout: page_LAP_2025
 
 [//]: # - [plan of Halle aux Farines][HAF]
 
-#### Schedule
+#### Draft Schedule
 
 | | Wednesday 26th | Thursday 27th | Friday 28th | 
 | | ----------- | ---------- |---------- |
