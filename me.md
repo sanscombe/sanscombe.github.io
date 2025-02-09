@@ -21,7 +21,7 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 ### current and upcoming
 
-- <a class="linkresearchmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th &ndash; 28th February 2025
+- <a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th &ndash; 28th February 2025
 
 [\\]: # - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
 

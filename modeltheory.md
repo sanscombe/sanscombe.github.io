@@ -24,11 +24,7 @@ order: 3
 	[part one][part one]
 - problem sheets:
 	[first batch][problem sheets 1]
-
-
-
-
-- <a class="linkdebugmain">**Partial exam**</a>: (date to be confirmed) ??th February/March 2025
+- <a class="linkteachingmain">**Partial exam**</a>: (date to be confirmed) ??th February/March 2025
 
 [//]: # - Replacement session: Monday 26th February, 9h--11h, salle 6033 Sophie Germain
 
@@ -126,14 +122,14 @@ order: 3
 [//]: # Suites et ensembles indiscernables.
 [//]: # Théories kappa-catégoriques. Théorèmes de Morley et de Baldwin--Lachlan.
 
-##### problem sheets
+[//]: # ##### problem sheets
 
-- Sheet 1:
-- Sheet 2:
-- Sheet 3:
-- Sheet 4:
-- Sheet 5:
-- Sheet 6:
+[//]: # - Sheet 1:
+[//]: # - Sheet 2:
+[//]: # - Sheet 3:
+[//]: # - Sheet 4:
+[//]: # - Sheet 5:
+[//]: # - Sheet 6:
 
 ##### Controls
 
