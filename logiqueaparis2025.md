@@ -10,23 +10,19 @@ There will be symposium-type seminars given by invited speakers from a range of 
 
 <a href="/LAP2025/LAP2025_poster.pdf"><img src="/LAP2025/LAP2025_logo.jpeg" width="50%" style="float:right;border: 0px solid black;"></a>
 
-- <a class="linkdebugmain" href="https://forms.gle/r8Z65bsS4gRAYJo46">Registration</a>
+- <a class="linkdebugmain" href="https://forms.gle/r8Z65bsS4gRAYJo46">REGISTRATION</a>
 - <a class="linkdebugmain" href="/LAP2025/LAP2025_poster.pdf">LAP 2025 poster</a>
 - _Dates_ : 26th -- 28th Febrary 2025
 - _Speakers_ :
-	- [Albert Atserias](https://www.cs.upc.edu/~atserias/)
-	- [Ingo Blechschmidt](https://www.ingo-blechschmidt.eu/)
-	- [Laura Fontanella](https://lacl.fr/~lfontanella/)
-	- [Jonathan Kirby](https://www.cantab.net/users/jonathankirby/)
-	- [Chris Lambie-Hanson](https://users.math.cas.cz/~lambiehanson/)
-	- [Mariana Vicaria](https://sites.google.com/view/m-vicaria/home)
+	- [Albert Atserias](https://www.cs.upc.edu/~atserias/), Catalonia
+	- [Ingo Blechschmidt](https://www.ingo-blechschmidt.eu/), Augsburg
+	- [Laura Fontanella](https://lacl.fr/~lfontanella/), Paris Est Créteil
+	- [Jonathan Kirby](https://www.cantab.net/users/jonathankirby/), East Anglia
+	- [Chris Lambie-Hanson](https://users.math.cas.cz/~lambiehanson/), Czech Academy of Sciences
+	- [Mariana Vicaria](https://sites.google.com/view/m-vicaria/home), Münster
 - _Location_ : Campus Grandes Moulins, Université Paris Cité, 75013 Paris
 	- Amphi Turing, Sophie Germain
 	- [plan of campus][campus]
-
-[//]: # 	 Room 027C, Halle aux Farines
-[//]: # 	 [plan of Halle aux Farines][HAF]
-
 - _Organisers_ : 
 	- Sylvy Anscombe 
 	- Vincent Bagayoko
@@ -34,6 +30,9 @@ There will be symposium-type seminars given by invited speakers from a range of 
 	- Sam van Gool
 	- Alessandro Vignati
 - _Email us_ : [logiqueaparis@gmail.com](mailto:logiqueaparis@gmail.com)
+
+[//]: # 	 Room 027C, Halle aux Farines
+[//]: # 	 [plan of Halle aux Farines][HAF]
 
 [//]: # 	- **WARNING**: there is a scam targeting attendees and speakers of this conference. Please beware emails purporting to being from an agency organizing accommodation. This is a scam, please do not reply. If in doubt, please contact us directly.
 
