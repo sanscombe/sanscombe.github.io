@@ -21,7 +21,7 @@ layout: page_LAP_2025
 | 15h00-15h30 | pause               | pause                | pause                  |
 | 15h30-16h30 | [Blechschmidt][TA]        | [Fontanella][TA]        | [Lambie-Hanson][TA]      |
 | | | | |
-| 16h45-18h00 | [Panel discussion TBA][TA]        | | [Panel discussion TBA][TA]      |
+| 16h45-18h00 | Panel discussion: [Careers][TA]        | | Panel discussion: [Presentations][TA]      |
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png
