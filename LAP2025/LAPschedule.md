@@ -8,7 +8,7 @@ layout: page_LAP_2025
 
 [//]: # - [plan of Halle aux Farines][HAF]
 
-#### Draft Schedule
+#### Schedule
 
 | | Wednesday 26th | Thursday 27th | Friday 28th | 
 | | ----------- | ---------- |---------- |
@@ -33,6 +33,13 @@ layout: page_LAP_2025
 <a href="/ICONS/upc.png"><img src="/ICONS/upc.png" alt="Université Paris Cité" width="15%">
 <a href="/ICONS/sorbonne.png"><img src="/ICONS/sorbonne.png" alt="Sorbonne Université" width="15%">
 <a href="/ICONS/cnrs.png"><img src="/ICONS/cnrs.png" alt="CNRS" width="7%">
+
+[AA]: https://www.cs.upc.edu/~atserias/
+[IB]: https://www.ingo-blechschmidt.eu/
+[LF]: https://lacl.fr/~lfontanella/
+[JK]: https://www.cantab.net/users/jonathankirby/
+[CLH]: https://users.math.cas.cz/~lambiehanson/
+[MV]: https://sites.google.com/view/m-vicaria/home/
 
 [UPC]:  https://u-paris.fr/
 [IMJ-PRG]: https://www.imj-prg.fr/
