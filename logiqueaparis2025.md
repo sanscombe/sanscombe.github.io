@@ -2,10 +2,7 @@
 title: Logique à Paris 2025
 layout: page_LAP_2025
 ---
-# **Announcement**
-
-A 3-day meeting of contemporary developments in Mathematical Logic.
-
+A 3-day meeting of contemporary developments in Mathematical Logic.  
 There will be symposium-type seminars given by invited speakers from a range of other centers of research in Logic.
 
 <a href="/LAP2025/LAP2025_poster.pdf"><img src="/LAP2025/LAP2025_logo.jpeg" width="50%" style="float:right;border: 0px solid black;"></a>
