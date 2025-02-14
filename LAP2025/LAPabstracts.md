@@ -5,6 +5,13 @@ layout: page_LAP_2025
 #### Talks and abstracts
 1. [Albert Atserias][AA]:
 1. [Ingo Blechschmidt][IB]:
+	- _The curious world of infinite time Turing machines._
+
+		There are more real numbers than natural numbers. Or are there? Meet the bizarre topos of infinite time Turing machines, where two plus two is still four and still infinitely many prime numbers exist, but where the axiom of choice fails, not every mathematical assertion is true or false&mdash;and where there is an injection from $\mathbb{R}$ to $\mathbb{N}$.
+	- _Computing an integer using the modal toposophic multiverse._
+
+		Combinatorics and commutative algebra abound with situations where we prove quite concrete results by quite abstract transfinite methods, such as minimal bad sequences or maximal ideals. Amazingly, such infinitary arguments can often be understood as blueprints for quite explicit computations—as called for by Hilbert's programme.
+		In this talk, we will travel the modal toposophic multiverse to facilitate this kind of mining abstract proofs for refined quantitative results. We will use a celebrated theorem from order theory about sequences $\mathbb{N}\rightarrow\mathbb{N}$ that everybody can relate with as a running example.
 1. [Laura Fontanella][LF]:
 1. [Jonathan Kirby][JK]:
 	- _Some Model Theory of Exponential Fields._
