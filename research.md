@@ -163,6 +163,13 @@ Supervised by Prof. Jochen Koenigsmann.
 <ol reversed class="papers" type="a">
 
 <li>
+On lambda functions in henselian and separably tame valued fields.
+<br>
+Manuscript, 2025.
+<!--<a href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>-->
+</li>
+
+<li>
 <a href="http://arxiv.org/abs/2408.00102">Multidimensional asymptotic classes</a>,
 with Dugald Macpherson, Charles Steinhorn, and Daniel Wolf.
 <br>
