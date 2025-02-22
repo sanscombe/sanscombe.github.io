@@ -16,7 +16,9 @@ There will be symposium-type seminars given by invited speakers from a range of 
 	- [Laura Fontanella](https://lacl.fr/~lfontanella/), Paris Est Créteil
 	- [Jonathan Kirby](https://www.cantab.net/users/jonathankirby/), East Anglia
 	- [Chris Lambie-Hanson](https://users.math.cas.cz/~lambiehanson/), Czech Academy of Sciences
-	- [Mariana Vicaria](https://sites.google.com/view/m-vicaria/home), Münster
+
+[//]: #	- [Mariana Vicaria](https://sites.google.com/view/m-vicaria/home), Münster
+
 - _Location_ : Campus Grandes Moulins, Université Paris Cité, 75013 Paris
 	- Amphi Turing, Sophie Germain
 	- [plan of campus][campus]

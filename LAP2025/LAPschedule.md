@@ -13,15 +13,17 @@ layout: page_LAP_2025
 | | Wednesday 26th | Thursday 27th | Friday 28th | 
 | | ----------- | ---------- |---------- |
 | 09h00-09h30 | welcome |  |  | 
-| 09h30-10h30 | [Vicaria][TA]         | [Kirby][TA]         | [Atserias][TA]           | 
+| 09h30-10h30 | [To be confirmed (\*)][TA]         | [Kirby][TA]         | [Atserias][TA]           | 
 | 10h30-11h00 | pause               | pause                | pause                  |
-| 11h00-12h00 | [Vicaria][TA]         | [Kirby][TA]         | [Atserias][TA]           |
+| 11h00-12h00 | [To be confirmed (\*)][TA]         | [Kirby][TA]         | [Atserias][TA]           |
 |             | | | | 
 | 14h00-15h00 | [Blechschmidt][TA]        | [Fontanella][TA]        | [Lambie-Hanson][TA]      | 
 | 15h00-15h30 | pause               | pause                | pause                  |
 | 15h30-16h30 | [Blechschmidt][TA]        | [Fontanella][TA]        | [Lambie-Hanson][TA]      |
 | | | | |
 | 16h45-18h00 | Panel discussion: [Careers][TA]        | | Panel discussion: [Presentations][TA]      |
+
+(\*): Late cancellation due to circumstances beyond speaker's control. There will be a replacement speaker announced shortly.
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png
