@@ -8,8 +8,9 @@ layout: page_LAP_2025
 
 1. [Alexi Block Gorman][ABG]
 1. [Françoise Point][FP]
-1. [Alexis Saurin][AS]
 1. [Alessandro Vignati][AV]
+
+[//]: # 1. [Alexis Saurin][AS]
 
 ##### Presentation skills
 
