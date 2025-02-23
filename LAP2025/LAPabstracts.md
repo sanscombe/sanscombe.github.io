@@ -12,6 +12,7 @@ layout: page_LAP_2025
 
 		Combinatorics and commutative algebra abound with situations where we prove quite concrete results by quite abstract transfinite methods, such as minimal bad sequences or maximal ideals. Amazingly, such infinitary arguments can often be understood as blueprints for quite explicit computations—as called for by Hilbert's programme.
 		In this talk, we will travel the modal toposophic multiverse to facilitate this kind of mining abstract proofs for refined quantitative results. We will use a celebrated theorem from order theory about sequences $\mathbb{N}\rightarrow\mathbb{N}$ that everybody can relate with as a running example.
+1. [Adrien Deloro][AD]:
 1. [Laura Fontanella][LF]:
 1. [Jonathan Kirby][JK]:
 	- _Some Model Theory of Exponential Fields._
@@ -25,6 +26,7 @@ layout: page_LAP_2025
 
 [AA]: https://www.cs.upc.edu/~atserias/
 [IB]: https://www.ingo-blechschmidt.eu/
+[AD]:(https://webusers.imj-prg.fr/~adrien.deloro/
 [LF]: https://lacl.fr/~lfontanella/
 [JK]: https://www.cantab.net/users/jonathankirby/
 [CLH]: https://users.math.cas.cz/~lambiehanson/
