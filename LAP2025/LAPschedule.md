@@ -21,7 +21,7 @@ layout: page_LAP_2025
 | 15h00-15h30 | pause               | pause                | pause                  |
 | 15h30-16h30 | [Blechschmidt][TA]        | [Fontanella][TA]        | [Lambie-Hanson][TA]      |
 | | | | |
-| 16h45-18h00 | Panel discussion: [Careers][TA]        | | Panel discussion: [Presentations][TA]      |
+| 16h45-18h00 | Panel discussion: [Careers][P]        | | Panel discussion: [Presentations][P]      |
 
 (\*): Late change of speakers due to circumstances beyond original speaker's control.
 
@@ -30,6 +30,7 @@ layout: page_LAP_2025
 
 [seminar]:  https://www.imj-prg.fr/gestion/evenement/affEvenement/71
 [TA]: /LAP2025/LAPabstracts.html
+[P]: /LAP2025/LAPpanels.html
 
 <a href="/ICONS/imj-prg.png"><img src="/ICONS/imj-prg.png" alt="IMJ-PRG" width="15%">
 <a href="/ICONS/upc.png"><img src="/ICONS/upc.png" alt="Université Paris Cité" width="15%">
