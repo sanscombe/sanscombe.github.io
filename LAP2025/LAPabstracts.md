@@ -20,6 +20,10 @@ layout: page_LAP_2025
 1. [Adrien Deloro][AD]:
 1. [Laura Fontanella][LF]:
 	- _Programming the foundations: a journey through set theory and realizability_
+
+		In the 19th century, mathematicians began to explore fundamental questions about the foundations of mathematics. This inquiry led to the development of formal logic, marked by a particular focus on axiomatic systems, from which set theory emerged as a solid foundation for all mathematics. Around the same time, the concept of computability was investigated in connection with the idea that mathematical proofs should be "computable." This line of inquiry gave rise to Kleene's realizability. 
+
+		In this talk, we will examine how these two research traditions are now converging in the field of classical realizability for set theory. We will explore the construction of models of ZF using lambda-terms and use this technique to investigate the computational content of set theory. We will present the current state of the art alongside several open problems in this area. In particular, we will show that while it is possible to realize even large cardinal axioms, the computational content of the Axiom of Choice remains elusive.
 1. [Jonathan Kirby][JK]:
 	- _Some Model Theory of Exponential Fields_
 
