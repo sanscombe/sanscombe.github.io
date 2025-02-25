@@ -4,7 +4,7 @@ layout: page_LAP_2025
 ---
 #### Panels
 
-##### Career discussion
+#### Wednesday Panel: Career discussion
 
 1. [Alexi Block Gorman][ABG]
 1. [Françoise Point][FP]
@@ -13,7 +13,7 @@ layout: page_LAP_2025
 
 [//]: # 1. [Alexis Saurin][AS]
 
-##### Presentation skills
+#### Friday Panel: Presentation skills
 
 1. [Sylvy Anscombe][SA]
 1. [Sam van Gool][SvG]
