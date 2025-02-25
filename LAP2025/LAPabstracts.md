@@ -18,6 +18,13 @@ layout: page_LAP_2025
 		Combinatorics and commutative algebra abound with situations where we prove quite concrete results by quite abstract transfinite methods, such as minimal bad sequences or maximal ideals. Amazingly, such infinitary arguments can often be understood as blueprints for quite explicit computations—as called for by Hilbert's programme.
 		In this talk, we will travel the modal toposophic multiverse to facilitate this kind of mining abstract proofs for refined quantitative results. We will use a celebrated theorem from order theory about sequences $\mathbb{N}\rightarrow\mathbb{N}$ that everybody can relate with as a running example.
 1. [Adrien Deloro][AD]:
+	- _Dimensions in model theory and model-theoretic algebra_
+
+		The first talk is a survey aimed at a general audience. One needs to know what first-order logic is, and the notion of a model; no further knowledge of model theory is required. I shall explain how two quite different branches of model theory naturally merge into the same topic: theories with a dimension function.
+
+		The second talk will focus on model-theoretic algebra, viz. the study of algebraic structures under model-theoretic constraints. One should certainly know what a field or a group is, but I shall keep things unspecialised. I shall review what is known or not under some dimensionality assumptions, with special focus on o-minimal and finite Morley rank contexts.
+
+		The talks connect, of course, but may be attended independently.
 1. [Laura Fontanella][LF]:
 	- _Programming the foundations: a journey through set theory and realizability_
 
