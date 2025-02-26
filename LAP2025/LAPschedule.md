@@ -14,7 +14,7 @@ layout: page_LAP_2025
 | | ----------- | ---------- |---------- |
 | 09h00-09h30 | welcome |  |  | 
 | 09h30-10h30 | [Deloro][TA] (\*)         | [Kirby][TA]         | [Atserias][TA]           | 
-| 10h30-11h00 | pause               | pause                | pause                  |
+| 10h30-11h00 | pause               | pause ($\dagger$)                | pause                  |
 | 11h00-12h00 | [Deloro][TA] (\*)         | [Kirby][TA]         | [Atserias][TA]           |
 |             | | | | 
 | 14h00-15h00 | [Blechschmidt][TA]        | [Fontanella][TA]        | [Lambie-Hanson][TA]      | 
@@ -24,6 +24,8 @@ layout: page_LAP_2025
 | 16h45-18h00 | Panel discussion: [Careers][P]        | | Panel discussion: [Presentations][P]      |
 
 (\*): Late change of speakers due to circumstances beyond original speaker's control.
+
+($\dagger$): This coffee break will include remarks on Zoé Chatzidakis, delivered by Françoise Delon.
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png
