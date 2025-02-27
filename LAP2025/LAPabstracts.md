@@ -19,6 +19,7 @@ layout: page_LAP_2025
 		In this talk, we will travel the modal toposophic multiverse to facilitate this kind of mining abstract proofs for refined quantitative results. We will use a celebrated theorem from order theory about sequences $\mathbb{N}\rightarrow\mathbb{N}$ that everybody can relate with as a running example.
 1. [Adrien Deloro][AD]:
 	- _Dimensions in model theory and model-theoretic algebra_
+([Slides 1](./talks/Deloro_1.pdf), [Slides 2](./talks/Deloro_2.pdf))
 
 		The first talk is a survey aimed at a general audience. One needs to know what first-order logic is, and the notion of a model; no further knowledge of model theory is required. I shall explain how two quite different branches of model theory naturally merge into the same topic: theories with a dimension function.
 
