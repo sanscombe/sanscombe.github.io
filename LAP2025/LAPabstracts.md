@@ -11,9 +11,11 @@ layout: page_LAP_2025
 		The first part of this talk will be a survey of how the emergence of these new objectives for propositional proof complexity came to be, and what the theory’s methods offer in pursuing them. The second part will review the current state of the art on the computational complexity of automating the proof search problem for various proof systems for propositional logic and other languages. While it is now known and well understood that fully automating propositional Resolution as a proof system for propositional logic is NP-hard, it remains an open question whether it is possible to distinguish satisfiable formulas from unsatisfiable ones with short Resolution proofs of unsatisfiability in polynomial time. As of the time of writing, there is no consensus among experts on whether this problem should be considered computationally intractable.
 1. [Ingo Blechschmidt][IB]:
 	- _The curious world of infinite time Turing machines_
+([Slides 1](https://www.speicherleck.de/iblech/stuff/ittm-paris2025.pdf))
 
 		There are more real numbers than natural numbers. Or are there? Meet the bizarre topos of infinite time Turing machines, where two plus two is still four and still infinitely many prime numbers exist, but where the axiom of choice fails, not every mathematical assertion is true or false&mdash;and where there is an injection from $\mathbb{R}$ to $\mathbb{N}$.
 	- _Computing an integer using the modal toposophic multiverse_
+([Slides 2](https://www.speicherleck.de/iblech/stuff/multiverse-paris2025.pdf))
 
 		Combinatorics and commutative algebra abound with situations where we prove quite concrete results by quite abstract transfinite methods, such as minimal bad sequences or maximal ideals. Amazingly, such infinitary arguments can often be understood as blueprints for quite explicit computations—as called for by Hilbert's programme.
 		In this talk, we will travel the modal toposophic multiverse to facilitate this kind of mining abstract proofs for refined quantitative results. We will use a celebrated theorem from order theory about sequences $\mathbb{N}\rightarrow\mathbb{N}$ that everybody can relate with as a running example.
