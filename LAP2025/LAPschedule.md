@@ -31,7 +31,7 @@ layout: page_LAP_2025
 [HAF]: /IMAGES/plan_HAF.png
 
 [seminar]:  https://www.imj-prg.fr/gestion/evenement/affEvenement/71
-[TA]: /LAP2025/LAPabstracts.html
+[TA]: /LAP2025/LAPtalksabstracts.html
 [P]: /LAP2025/LAPpanels.html
 
 <a href="/ICONS/imj-prg.png"><img src="/ICONS/imj-prg.png" alt="IMJ-PRG" width="15%">
