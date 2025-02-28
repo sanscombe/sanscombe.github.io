@@ -10,6 +10,8 @@ layout: home
 <br>
                 <a class="navresearchmain" href="/research.html">research</a>
 <br>
+                <a class="navdebugmain" href="/logiqueaparis.html">Logique à Paris</a>
+<br>
                 <a class="navteachingmain" href="/teaching.html">teaching</a>
 <br>
                 <a class="navsmorgasbordmain" href="/smorgasbord.html">smörgåsbord</a>

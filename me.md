@@ -19,15 +19,15 @@ My [research][research] is in model theory and its connections to algebra and nu
 -->
 
 
-### current and upcoming
+[\\]: # ### current and upcoming
 
-- <a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th &ndash; 28th February 2025
+[\\]: # - <a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th &ndash; 28th February 2025
 
 [\\]: # - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
 
 [\\]: # - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
 
-- [Tame fields reading group](https://www.uni-muenster.de/IVV5WS/WebHop/user/sramello/tame/)
+[\\]: # - [Tame fields reading group](https://www.uni-muenster.de/IVV5WS/WebHop/user/sramello/tame/)
 
 [//]: # ### news
 
@@ -36,6 +36,7 @@ My [research][research] is in model theory and its connections to algebra and nu
 [//]: # - [Current favourite xkcd](https://xkcd.com/2668/)
 
 [research]: research.html
+[LAP]: logiqueaparis.html
 [teaching]: teaching.html
 [smorgasbord]: smorgasbord.html
 [contact]: /contact.html
