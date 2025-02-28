@@ -7,7 +7,7 @@ There will be symposium-type seminars given by invited speakers from a range of 
 
 <a href="/LAP2025/LAP2025_poster.pdf"><img src="/LAP2025/LAP2025_logo.jpeg" width="50%" style="float:right;border: 0px solid black;"></a>
 
-- <a class="linkdebugmain" href="https://forms.gle/r8Z65bsS4gRAYJo46">REGISTRATION</a>
+- <a class="linkdebugmain" href="https://forms.gle/r8Z65bsS4gRAYJo46">Registration</a>
 - <a class="linkdebugmain" href="/LAP2025/LAP2025_poster.pdf">LAP 2025 poster</a>
 - _Dates_ : 26th -- 28th February 2025
 - _Speakers_ :
