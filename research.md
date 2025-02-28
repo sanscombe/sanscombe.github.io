@@ -509,6 +509,8 @@ A selection of meetings that I have attended or will attend.
 
 <ul>
 
+<li><a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th&ndash;28th February 2025</li>
+
 <li><a href="https://sites.google.com/view/ywmta/home">Young Women in Model Theory and Applications</a>, Bonn, 11th--14th March 2024</li>
 
 <li><a class="linkdebugmain" href="./logiqueaparis2024.html">Logique à Paris 2024</a>, IMJ-PRG, Paris, 29th February &ndash; 2nd March 2024</li>
