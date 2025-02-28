@@ -8,6 +8,7 @@ with a focus on the themes of interest to the members of the
 [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
 
 
+- Logique à Paris 2026 $\Longleftarrow$ _watch this space!_
 - <a class="linkdebugmain" href="/logiqueaparis2025.html">Logique à Paris 2025</a> 
 - <a class="linkdebugmain" href="/logiqueaparis2024.html">Logique à Paris 2024</a>
 - <a class="linkdebugmain" href="/logiqueaparis2023.html">Logique à Paris 2023</a>
