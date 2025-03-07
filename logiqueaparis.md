@@ -2,13 +2,14 @@
 title: Logique à Paris
 layout: page
 ---
-A series of (so far) two conferences of contemporary developments in Mathematical Logique,
+<a href="/LAP2025/LAP2025_poster.pdf"><img src="/LAP2025/LAP2025_logo.jpeg" width="30%" style="float:right;border: 0px solid black;"></a>
+A series of (so far) three conferences of contemporary developments in Mathematical Logique,
 with a focus on the themes of interest to the members of the
 [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
 
-<a href="/LAP2024/LAP2024.pdf"><img src="/LAP2024/LAP2024.jpg" width="30%" style="float:right;border: 1px solid black;"></a>
 
-- <a class="linkblogmain" href="/logiqueaparis2025.html">Logique à Paris 2025</a> &mdash; <b>REGISTRATION OPEN!</b>
+- Logique à Paris 2026 $\Longleftarrow$ _watch this space!_
+- <a class="linkdebugmain" href="/logiqueaparis2025.html">Logique à Paris 2025</a> 
 - <a class="linkdebugmain" href="/logiqueaparis2024.html">Logique à Paris 2024</a>
 - <a class="linkdebugmain" href="/logiqueaparis2023.html">Logique à Paris 2023</a>
 
