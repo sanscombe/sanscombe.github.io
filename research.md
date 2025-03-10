@@ -166,6 +166,7 @@ Supervised by Prof. Jochen Koenigsmann.
 On lambda functions in henselian and separably tame valued fields.
 <br>
 Manuscript, 2025.
+<a href="./backpages/preprints.html">PDF</a>
 <!--<a href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>-->
 </li>
 
