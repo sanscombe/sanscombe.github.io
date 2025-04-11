@@ -720,6 +720,10 @@ A selection of meetings that I have attended or will attend.
 
 	<li><a href="http://www.ams.org/mathscinet/index.html">MathSciNet</a></li>
 
+	<li><a href="https://modnet.imj-prg.fr/Meetings%20and%20events/">MODNET</a></li>
+
+	<li><a href="https://oeis.org/">OEIS</a></li>
+
 	<li><a href="https://www.lmfdb.org/">LMFDB</a></li>
 
 	<li><a href="https://www.forkinganddividing.com/">forkinganddividing</a></li>
