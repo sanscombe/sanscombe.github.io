@@ -330,6 +330,11 @@ ALGAR 2020: Valuations, quadratic forms and definability,
 Antwerp, July 2020.
 </li>
 
+<li>
+NIP fields and valued fields,
+British Postgraduate Model Theory Conference 2020, Leeds, January 2020
+</li>
+
 </ol>
 
 <h5>conference talks and seminars (a selection)</h5>
