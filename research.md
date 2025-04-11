@@ -300,6 +300,13 @@ Currently serving as editor of
 <ol reversed type="A">
 
 <li>
+Ax&ndash;Kochen&ndash;Ershov Principles,
+British Postgraduate Model Theory Conference 2025,
+Manchester,
+January 2025
+</li>
+
+<li>
 Introduction to logic: first-order and categorical
 (<a href="https://drive.google.com/file/d/1l_TCTxghE7TUK_JZoW1UwTcpu1W_biW6/view?usp=sharing">slides</a>,
 <a href="https://drive.google.com/file/d/1y7VWSd7OdGOtzd1U7dBfwahO07fLH_fc/view?usp=sharing">handout</a>,
