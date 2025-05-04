@@ -32,6 +32,14 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <ol reversed class="papers">
 
 <li>
+<a href="http://arxiv.org/abs/2405.12771">Universal-existential theories of fields</a>,
+with Arno Fehm.
+<br>
+To appear in <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
+<a href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
+</li>
+
+<li>
 <a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
 <br>
 To appear in <i>Journal of Algebra</i>, 2025.
@@ -176,14 +184,6 @@ with Dugald Macpherson, Charles Steinhorn, and Daniel Wolf.
 <br>
 Submitted, 2024.
 <a href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>
-</li>
-
-<li>
-<a href="http://arxiv.org/abs/2405.12771">Universal-existential theories of fields</a>,
-with Arno Fehm.
-<br>
-Submitted, 2024.
-<a href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
 </li>
 
 </ol>
