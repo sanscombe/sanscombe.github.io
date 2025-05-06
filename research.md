@@ -36,6 +36,7 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 with Arno Fehm.
 <br>
 To appear in <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
+<br>
 <a href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
 </li>
 
