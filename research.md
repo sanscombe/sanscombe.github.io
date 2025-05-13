@@ -172,11 +172,10 @@ Supervised by Prof. Jochen Koenigsmann.
 <ol reversed class="papers" type="a">
 
 <li>
-On lambda functions in henselian and separably tame valued fields.
+<a href="https://arxiv.org/abs/2505.07518">On lambda functions in henselian and separably tame valued fields</a>.
 <br>
 Manuscript, 2025.
-<a href="./backpages/preprints.html">PDF</a>
-<!--<a href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>-->
+<a href="https://arxiv.org/abs/2505.07518">arXiv:2505.07518 [math.LO]</a>
 </li>
 
 <li>
