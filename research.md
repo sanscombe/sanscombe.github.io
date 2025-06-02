@@ -249,7 +249,7 @@ Manuscript, 2019.
 PhD
 <ul>
 <li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.
-	<ol>
+	<ol reversed class="papers">
         <li>
         M. Ketelsen, S. Ramello, and P. Szewczyk. <i>Definable Henselian valuations in positive residue characteristic</i>, to appear in Journal of Symbolic Logic.
         </li>
