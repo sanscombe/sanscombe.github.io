@@ -265,13 +265,13 @@ PhD
 	</ol>
 </li>
 <li>Paulo Andrés Soto Moreno.
-    <ol>
-    <li>
-    Paulo Andrés Soto Moreno.
-    <i><a href="https://arxiv.org/abs/2505.07418">Relative Quantifier Elimination for Separable-Algebraically Maximal Kaplansky Fields</a></i>, 2025.
-    <br>
-    <a href="https://arxiv.org/abs/2505.07418">arXiv:2505.07418 [math.LO]</a>
-    </li>
+    <ol reversed >
+        <li>
+        Paulo Andrés Soto Moreno.
+        <i><a href="https://arxiv.org/abs/2505.07418">Relative Quantifier Elimination for Separable-Algebraically Maximal Kaplansky Fields</a></i>, 2025.
+        <br>
+        <a href="https://arxiv.org/abs/2505.07418">arXiv:2505.07418 [math.LO]</a>
+        </li>
     </ol>
 </li>
 <li>
