@@ -10,7 +10,7 @@ order: 3
 
 <img src="/IMAGES/tilly.jpeg" width="30%" style="float:right;">
 
-##### 2023--2024, Université Paris Cité
+##### 2024--2025, Université Paris Cité
 ###### premier semestre
 
 ###### second semestre
@@ -68,7 +68,7 @@ Short notes from teaching
 ### past teaching
 
 
-##### 2024--2025, Université Paris Cité
+##### 2023--2024, Université Paris Cité
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
 - Cours de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
 - Cours de IN8 dans M1MATHS
