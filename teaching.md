@@ -10,20 +10,16 @@ order: 3
 
 <img src="/IMAGES/tilly.jpeg" width="30%" style="float:right;">
 
-##### 2024--2025, Université Paris Cité
+##### 2025--2026, Université Paris Cité
 ###### premier semestre
 
 ###### second semestre
-[//]: # - Cours de LO6 dans L3MATHSMFA/L3MATINF (MATHINFO)
-[//]: # - [présentation du cours](https://drive.google.com/file/d/1bEsncTjdCSsJczvZTuNkNj03da633rlv/view?usp=sharing)
-
-[//]: # - [présentation du cours](https://drive.google.com/file/d/1yoUmltB5aYRbQz5jCMb-SyuoSw7GPKzI/view?usp=drive_link)
-
-- Cours de IN8 dans M1MATHS
+- Cours/TD de MPL02 dans L0PHYS
 - Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
-	- Mercredi 16h16--18h15, 130 Olympe de Gouges
-	- Jeudi 08h30--10h30, 2012 Sophie Germain
-	- <a class="linkteachingmain" href="./modeltheory">course information</a>
+
+[//]: # - Mercredi 16h16--18h15, 130 Olympe de Gouges
+[//]: # - Jeudi 08h30--10h30, 2012 Sophie Germain
+[//]: # - <a class="linkteachingmain" href="./modeltheory">course information</a>
 
 [//]: # [course information][modeltheory]
 
@@ -38,7 +34,7 @@ order: 3
 
 ### useful links
 - [UFR de mathématiques](https://www.math.univ-paris-diderot.fr/), [Université Paris Cité](https://u-paris.fr/)
-	- [Les licences de Mathématiques](https://licence.math.univ-paris-diderot.fr/)
+	- [Les licences de Mathématiques](https://licence.math.u-paris.fr/)
 		- [Emplois du temps](https://licence.math.univ-paris-diderot.fr/informations/calendrier/edt/)
 	- [M1 Mathématiques Fondamentales et Appliquées](https://master.math.univ-paris-diderot.fr/annee/m1-math/)
 		- [Emploi du temps](https://master.math.univ-paris-diderot.fr/annee/m1-math/#infospratiques)
@@ -67,6 +63,10 @@ Short notes from teaching
 
 ### past teaching
 
+
+##### 2024--2025, Université Paris Cité
+- Cours de IN8 dans M1MATHS
+- Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
 
 ##### 2023--2024, Université Paris Cité
 - Cours/TD de MI1-1 dans L1INFO (INFO6)
