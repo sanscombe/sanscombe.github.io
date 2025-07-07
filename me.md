@@ -33,7 +33,7 @@ based in Paris:
 
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 8th May &ndash; 6th June 2025
-- <a class="linkdebugmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Trimester Program: "Definability, decidability, and computability"</a>, Hausdorff Research Institute for Mathematics, 1st September &ndash; 12th December 2025
+- <a class="linkdebugmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Trimester Program: "Definability, decidability, and computability"</a>, Hausdorff Research Institute for Mathematics, Bonn, 1st September &ndash; 12th December 2025
 
 [\\]: # - <a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th &ndash; 28th February 2025
 
