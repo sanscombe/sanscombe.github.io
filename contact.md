@@ -15,7 +15,7 @@ firstname DOT lastname AT imj-prg DOT fr
 
 My office is:
 
-> Sophie Germain 6015 
+> Sophie Germain 6014
 
 My postal address is:
 
