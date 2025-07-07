@@ -32,6 +32,15 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <ol reversed class="papers">
 
 <li>
+<a href="http://arxiv.org/abs/2405.12771">Universal-existential theories of fields</a>,
+with Arno Fehm.
+<br>
+To appear in <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
+<br>
+<a href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
+</li>
+
+<li>
 <a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
 <br>
 To appear in <i>Journal of Algebra</i>, 2025.
@@ -163,11 +172,10 @@ Supervised by Prof. Jochen Koenigsmann.
 <ol reversed class="papers" type="a">
 
 <li>
-On lambda functions in henselian and separably tame valued fields.
+<a href="https://arxiv.org/abs/2505.07518">On lambda functions in henselian and separably tame valued fields</a>.
 <br>
 Manuscript, 2025.
-<a href="./backpages/preprints.html">PDF</a>
-<!--<a href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>-->
+<a href="https://arxiv.org/abs/2505.07518">arXiv:2505.07518 [math.LO]</a>
 </li>
 
 <li>
@@ -176,14 +184,6 @@ with Dugald Macpherson, Charles Steinhorn, and Daniel Wolf.
 <br>
 Submitted, 2024.
 <a href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>
-</li>
-
-<li>
-<a href="http://arxiv.org/abs/2405.12771">Universal-existential theories of fields</a>,
-with Arno Fehm.
-<br>
-Submitted, 2024.
-<a href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
 </li>
 
 </ol>
@@ -249,22 +249,34 @@ Manuscript, 2019.
 PhD
 <ul>
 <li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.
-	<ol>
-	<li>
-	M. Ketelsen, S. Ramello, and P. Szewczyk. <i>Definable Henselian valuations in positive residue characteristic</i>, to appear in Journal of Symbolic Logic.
-	</li>
-	<li>
-	A. Rzepka, P. Szewczyk. <i>Defect extensions and a characterization of tame fields</i>, Journal of Algebra, 630(15):68--91, 2023.
-	</li>
-	<li>
-	H. Ćmiel, F-V. Kuhlmann, P. Szewczyk. <i>Continuity of roots for polynomials over valued fields</i>, Communications in Algebra, 2022.
-	</li>
-	<li>
-	P. Błaszkiewicz, H. Ćmiel, A. Linzi, P. Szewczyk. <i>Caristi-Kirk and Oettli-Théra Ball Spaces and applications</i>, Journal of Fixed Point Theory and Applications 21(4), 2019.
-	</li>
+	<ol reversed >
+        <li>
+        M. Ketelsen, S. Ramello, and P. Szewczyk. <i>Definable Henselian valuations in positive residue characteristic</i>, to appear in Journal of Symbolic Logic.
+        </li>
+        <li>
+        A. Rzepka, P. Szewczyk. <i>Defect extensions and a characterization of tame fields</i>, Journal of Algebra, 630(15):68--91, 2023.
+        </li>
+        <li>
+        H. Ćmiel, F-V. Kuhlmann, P. Szewczyk. <i>Continuity of roots for polynomials over valued fields</i>, Communications in Algebra, 2022.
+        </li>
+        <li>
+        P. Błaszkiewicz, H. Ćmiel, A. Linzi, P. Szewczyk. <i>Caristi-Kirk and Oettli-Théra Ball Spaces and applications</i>, Journal of Fixed Point Theory and Applications 21(4), 2019.
+        </li>
 	</ol>
 </li>
-<li>Paulo Andrés Soto Moreno.</li>
+<li>Paulo Andrés Soto Moreno.
+    <ol reversed >
+        <li>
+        Paulo Andrés Soto Moreno.
+        <i><a href="https://arxiv.org/abs/2505.07418">Relative Quantifier Elimination for Separable-Algebraically Maximal Kaplansky Fields</a></i>, 2025.
+        <br>
+        <a href="https://arxiv.org/abs/2505.07418">arXiv:2505.07418 [math.LO]</a>
+        </li>
+    </ol>
+</li>
+<li>
+    Tianyiwa Xie &mdash; co-supervised with Franziska Jahnke, Münster.
+</li>
 </ul>
 
 Master/Memoire

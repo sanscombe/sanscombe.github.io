@@ -19,11 +19,26 @@ My [research][research] is in model theory and its connections to algebra and nu
 -->
 
 
-[\\]: # ### current and upcoming
+### Postdoctoral position open now
+
+- Two-year postdoctoral position,
+as part of ANR-DFG project "AKE-PACT" (joint with Franziska Jahnke, Münster),
+based in Paris:
+
+    <a class="linkresearchmain" href="https://emploi.cnrs.fr/Offres/CDD/UMR7586-SYLANS-003/Default.aspx">JOB APPLICATION OPEN NOW</a>
+
+    **Deadline**: Thursday 10 July 2025, 23:59 (Paris time)
+
+### current and upcoming
+
+- Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
+- Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 8th May &ndash; 6th June 2025
+- <a class="linkdebugmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Trimester Program: "Definability, decidability, and computability"</a>, Hausdorff Research Institute for Mathematics, Bonn, 1st September &ndash; 12th December 2025
 
 [\\]: # - <a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th &ndash; 28th February 2025
 
-[\\]: # - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
+[\\]: # - <a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th &ndash; 28th February 2025
+
 
 [\\]: # - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
 
