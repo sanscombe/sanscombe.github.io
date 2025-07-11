@@ -19,16 +19,6 @@ My [research][research] is in model theory and its connections to algebra and nu
 -->
 
 
-### Postdoctoral position open now
-
-- Two-year postdoctoral position,
-as part of ANR-DFG project "AKE-PACT" (joint with Franziska Jahnke, Münster),
-based in Paris:
-
-    <a class="linkresearchmain" href="https://emploi.cnrs.fr/Offres/CDD/UMR7586-SYLANS-003/Default.aspx">JOB APPLICATION OPEN NOW</a>
-
-    **Deadline**: Thursday 10 July 2025, 23:59 (Paris time)
-
 ### current and upcoming
 
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024

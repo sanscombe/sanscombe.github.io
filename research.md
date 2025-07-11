@@ -61,6 +61,7 @@ To appear in <i>Israel Journal of Mathematics</i>, 2024.
 with Philip Dittmann and Franziska Jahnke.
 <br>
 <i>Transactions of the American Mathematical Society</i>, 377-12:8963&ndash;8988, 2024.
+hal-05158062
 </li>
 
 <li>
@@ -68,6 +69,7 @@ with Philip Dittmann and Franziska Jahnke.
 with Franziska Jahnke.
 <br>
 <i>Journal of the London Mathematical Society</i>, 109(3), 2024.
+hal-05158057
 </li>
 
 <li>
@@ -75,6 +77,7 @@ with Franziska Jahnke.
 with Philip Dittmann and Arno Fehm.
 <br>
 <i>Algebra &amp; Number Theory</i>, 17-11:2013&ndash;2032, 2023.
+hal-05158056
 </li>
 
 <li>
@@ -82,6 +85,7 @@ with Philip Dittmann and Arno Fehm.
 with Franziska Jahnke.
 <br>
 <i>Confluentes Mathematici</i>, 14, no. 2, 1&ndash;28, 2022.
+hal-05158048
 </li>
 
 <li>
@@ -196,6 +200,10 @@ Submitted, 2024.
 <a href="https://doi.org/10.1090/noti3081">The unknown logic of power series</a>.
 <br>
 <i>Notices of the American Mathematical Society</i>, 71(11):1448&ndash;1455, 2024.
+hal-05158080
+doi
+hal
+arXiv
 </li>
 
 <li>
@@ -206,6 +214,9 @@ with Valentijn Karemaker, Zeynep Kisakürek, Vlerë Mehmeti, Margherita Pagano, 
 <i>Women in Numbers Europe IV</i>, 
 edited by Ramla Abdellatif, Valentijn Karemaker, and Lejla Smajlovic.
 Assoc. Women Math. Ser., 32, 29--61, Springer, Cham, 2024.
+doi
+hal
+arXiv
 </li>
 
 <li>
@@ -214,6 +225,9 @@ Imperfection in NIP fields</a>,
 with Franziska Jahnke.
 <br>
 Extended abstract, <i>Oberwolfach Reports</i> (20) 2023, pp. 125&ndash;127.
+doi
+hal
+arXiv
 </li>
 
 <li>
@@ -222,6 +236,9 @@ Exposé Bourbaki 1186 : Shelah’s Conjecture and Johnson’s Theorem [after Wil
 <br>
 Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 <i>Astérisque</i>, no.438, p. 247&ndash;279, 2022.
+doi:10.24033/ast.1181
+hal-05158075
+arXiv
 </li>
 
 </ol>
