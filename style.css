@@ -1,3 +1,26 @@
+details > summary {
+    list-style-type: '';
+}
+
+details[open] > summary {
+    list-style-type: '';
+}
+
+details {
+    border: 0px solid gray;
+    border-radius: 0.0rem;
+    padding: 0.0rem;
+}
+
+details[open] > summary {
+    border: 0px solid gray;
+    margin-bottom: 0.5rem;
+}
+
+details[open] {
+    border: 1px solid gray;
+    margin-bottom: 0.5rem;
+}
 	.container {
 	  position: relative;
 	}
@@ -40,7 +63,7 @@ body {
 	/* I used to use Verdana, Geneva, sans-serif*/
 	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
 	/* font-family: Verdana, Geneva, sans-serif;*/
-	background-color: White;
+	background-color: White;/*SeaShell*/
 	/* White */
 	/* AliceBlue;*/
 	/*Lavender*/
@@ -49,10 +72,10 @@ body {
 	width:100%
 }
 #section {
-	background-color: White;
+	background-color: White;;/*SeaShell;*/
 	/*#FFFFFF;*/
 	width:100%;
-	height:auto;/*auto;*/
+	height:auto;
 	float:right;
 	padding:5px;
 }
@@ -123,6 +146,30 @@ navpersonalsub
 navdebugmain
 navdebugsub
 */
+
+/* LINKLIGHT */
+
+a.linklight {border-style: solid;
+border-radius: 0px;
+border-left-width: 0px;
+border-right-width: 0px;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-color: White}
+a.linklight {text-decoration:none;
+color:Black;
+background-color:White;
+font-weight: normal;
+font-size:x-large;
+font-stretch:normal;
+height:30px;
+text-align:center;
+vertical-align:center}
+a.linklight:hover {background:White;border-color:White}
+a.linklight:link, a.linklight:visited {}
+
+/* MAIN */
+
 a.navtitle {border-style: solid; /*unused*/
 border-left-width: 10px;
 border-right-width: 0px;
@@ -175,6 +222,13 @@ vertical-align:center}
 a.navsub:hover {background:DimGray;border-color:DimGray}
 a.navsub:link, a:visited {}
 
+a.linkmain {border-style: solid;
+border-radius: 8px;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 3px;
+border-bottom-width: 3px;
+border-color: Gray}
 a.linkmain {text-decoration:none;
 color:Snow;
 background-color:Gray;
@@ -184,6 +238,8 @@ text-align:center;
 vertical-align:center}
 a.linkmain:hover {background:DimGray;border-color:DimGray}
 a.linkmain:link, a:visited {}
+
+/* RESEARCH */
 
 a.navresearchmain {border-style: solid;
 border-radius: 8px;
@@ -201,7 +257,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navresearchmain:hover {background:Maroon;border-color:Maroon}
-a.navresearchmain:link, a:visited {}
+a.navresearchmain:link, a.navresearchmain:visited {}
 
 a.linkresearchmain {border-style: solid;
 border-radius: 8px;
@@ -219,7 +275,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.linkresearchmain:hover {background:Maroon;border-color:Maroon}
-a.linkresearchmain:link, a:visited {}
+a.linkresearchmain:link, a.linkresearchmain:visited {}
 
 a.linkresearchfade {border-style: solid;
 border-radius: 8px;
@@ -237,7 +293,25 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.linkresearchfade:hover {background:Maroon;border-color:Maroon}
-a.linkresearchfade:link, a:visited {}
+a.linkresearchfade:link, a.linkresearchfade:visited {}
+
+a.linkresearchlight {border-style: solid;
+border-radius: 6px;
+border-left-width: 3px;
+border-right-width: 2px;
+border-top-width: 2px;
+border-bottom-width: 2px;
+border-color: SeaShell}
+a.linkresearchlight {text-decoration:none;
+color:Black;
+background-color:SeaShell;
+font-weight: bold;
+font-size:large;
+height:30px;
+text-align:center;
+vertical-align:center}
+a.linkresearchlight:hover {font-weight:bold;background:MistyRose;border-color:MistyRose}
+a.linkresearchlight:link, a.linkresearchlight:visited {}
 
 a.navresearchsub {border-style: solid; /*unused*/
 border-left-width: 10px;
@@ -253,7 +327,9 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navresearchsub:hover {background:Maroon}
-a.navresearchsub:link, a:visited {}
+a.navresearchsub:link, a.navresearchsub:visited {}
+
+/* SEMINAR */
 
 a.navseminarmain {border-style: solid; /*unused*/
 border-radius: 8px;
@@ -271,7 +347,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navseminarmain:hover {background:Blue;border-color:Blue}
-a.navseminarmain:link, a:visited {}
+a.navseminarmain:link, a.navseminarmain:visited {}
 
 a.linkseminarmain {border-style: solid;
 border-radius: 8px;
@@ -289,7 +365,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.linkseminarmain:hover {background:Blue;border-color:Blue}
-a.linkseminarmain:link, a:visited {}
+a.linkseminarmain:link, a.linkseminarmain:visited {}
 
 a.navseminarsub {border-style: solid; /*unused*/
 border-left-width: 10px;
@@ -305,7 +381,9 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navseminarsub:hover {background:Blue}
-a.navseminarsub:link, a:visited {}
+a.navseminarsub:link, a.navseminarsub:visited {}
+
+/* TEACHING */
 
 a.navteachingmain {border-style: solid;
 border-radius: 8px;
@@ -323,7 +401,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navteachingmain:hover {background:ForestGreen;border-color:ForestGreen}
-a.navteachingmain:link, a:visited {}
+a.navteachingmain:link, a.navteachingmain:visited {}
 
 a.linkteachingmain {border-style: solid;
 border-radius: 8px;
@@ -341,7 +419,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.linkteachingmain:hover {background:ForestGreen;border-color:ForestGreen}
-a.linkteachingmain:link, a:visited {}
+a.linkteachingmain:link, a.linkteachingmain:visited {}
 
 a.navteachingsub {border-style: solid; /*unused*/
 border-left-width: 10px;
@@ -357,7 +435,9 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navteachingsub:hover {background:ForestGreen}
-a.navteachingsub:link, a:visited {}
+a.navteachingsub:link, a.navteachingsub:visited {}
+
+/* SMORGASBORD */
 
 a.navsmorgasbordmain {border-style: solid;
 border-radius: 8px;
@@ -375,7 +455,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navsmorgasbordmain:hover {background:OrangeRed;border-color:OrangeRed}
-a.navsmorgasbordmain:link, a:visited {}
+a.navsmorgasbordmain:link, a.navsmorgasbordmain:visited {}
 
 a.linksmorgasbordmain {border-style: solid;
 border-radius: 8px;
@@ -393,7 +473,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.linksmorgasbordmain:hover {background:OrangeRed;border-color:OrangeRed}
-a.linksmorgasbordmain:link, a:visited {}
+a.linksmorgasbordmain:link, a.linksmorgasbordmain:visited {}
 
 a.navsmorgasbordsub {border-style: solid; /*unused*/
 border-left-width: 10px;
@@ -409,7 +489,9 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navsmorgasbordsub:hover {background:OrangeRed}
-a.navsmorgasbordsub:link, a:visited {}
+a.navsmorgasbordsub:link, a.navsmorgasbordsub:visited {}
+
+/* BLOG */
 
 a.navblogmain {border-style: solid; 
 border-radius: 8px;
@@ -427,7 +509,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navblogmain:hover {background:DarkMagenta;border-color:DarkMagenta}
-a.navblogmain:link, a:visited {}
+a.navblogmain:link, a.navblogmain:visited {}
 
 a.linkblogmain {border-style: solid;
 border-radius: 8px;
@@ -445,7 +527,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.linkblogmain:hover {background:DarkMagenta;border-color:DarkMagenta}
-a.linkblogmain:link, a:visited {}
+a.linkblogmain:link, a.linkblogmain:visited {}
 
 a.navblogsub {border-style: solid; /*unused*/
 border-left-width: 10px;
@@ -461,7 +543,9 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navblogsub:hover {background:DarkMagenta}
-a.navblogsub:link, a:visited {}
+a.navblogsub:link, a.navblogsub:visited {}
+
+/* PERSONAL */
 
 a.navpersonalmain {border-style: solid;
 border-radius: 8px;
@@ -479,7 +563,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navpersonalmain:hover {background:DeepPink;border-color:DeepPink}}
-a.navpersonalmain:link, a:visited {}
+a.navpersonalmain:link, a.navpersonalmain:visited {}
 
 a.navpersonalsub {border-style: solid; /*unused*/
 border-left-width: 10px;
@@ -495,7 +579,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navpersonalsub:hover {background:DeepPink}
-a.navpersonalsub:link, a:visited {}
+a.navpersonalsub:link, a.navpersonalsub:visited {}
 
 a.linkpersonalmain {border-style: solid;
 border-radius: 8px;
@@ -513,8 +597,10 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.linkpersonalmain:hover {background:DeepPink;border-color:DeepPink}
-a.linkpersonalmain:link, a:visited {}
+a.linkpersonalmain:link, a.linkpersonalmain:visited {}
 
+/* DEBUG */
+ 
 a.navdebugmain {border-style: solid;
 border-radius: 8px;
 border-left-width: 12px;
@@ -531,7 +617,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navdebugmain:hover {background:Orange;border-color:Orange}
-a.navdebugmain:link, a:visited {}
+a.navdebugmain:link, a.navdebugmain:visited {}
 
 a.linkdebugmain {border-style: solid;
 border-radius: 8px;
@@ -549,7 +635,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.linkdebugmain:hover {background:Orange;border-color:Orange}
-a.linkdebugmain:link, a:visited {}
+a.linkdebugmain:link, a.linkdebugmain:visited {}
 
 a.linkdebugfade {border-style: solid;
 border-radius: 8px;
@@ -567,7 +653,7 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.linkdebugfade:hover {background:Orange;border-color:Orange}
-a.linkdebugfade:link, a:visited {}
+a.linkdebugfade:link, a.linkdebugfade:visited {}
 
 a.navdebugsub {border-style: solid; /*unused*/
 border-left-width: 10px;
@@ -583,4 +669,4 @@ height:30px;
 text-align:center;
 vertical-align:center}
 a.navdebugsub:hover {background:Orange}
-a.navdebugsub:link, a:visited {}
+a.navdebugsub:link, a.navdebugsub:visited {}

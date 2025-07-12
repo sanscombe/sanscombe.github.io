@@ -15,7 +15,7 @@ Sylvy Anscombe
 
 <div id="section">
 
-<img src="/IMAGES/AI_IMAGES/chaos3.png" width="35%" style="float:right;">
+<!--<img src="/IMAGES/AI_IMAGES/chaos3.png" width="35%" style="float:right;">-->
 
 My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory">Model Theory</a>, a part of <a href="https://en.wikipedia.org/wiki/Mathematical_logic">Mathematical Logic</a>, including connections to algebra and number theory.
 <!--I am supported by <a href="https://home.mathematik.uni-freiburg.de/palacin/GeoMod/">GeoMod</a>.-->
@@ -28,166 +28,187 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 
 <h3>publications</h3>
 
-<h5>research articles</h5>
-<ol reversed class="papers">
-
-<li>
-<a href="http://arxiv.org/abs/2405.12771">Universal-existential theories of fields</a>,
-with Arno Fehm.
-<br>
-To appear in <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
-<br>
-<a href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
-</li>
-
-<li>
-<a href="http://arxiv.org/abs/1503.05803">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
-<br>
-To appear in <i>Journal of Algebra</i>, 2025.
-<a href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
-</li>
-
-<li>
-<a href="http://arxiv.org/abs/2312.17616">Interpretations of syntactic fragments of theories of fields</a>,
-with Arno Fehm.
-<br>
-To appear in <i>Israel Journal of Mathematics</i>, 2024.
-<br>
-<a href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
-</li>
-
-<li>
-<a href="https://doi.org/10.1090/tran/9271">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
-with Philip Dittmann and Franziska Jahnke.
-<br>
-<i>Transactions of the American Mathematical Society</i>, 377-12:8963&ndash;8988, 2024.
-hal-05158062
-</li>
-
-<li>
-<a href=" https://doi.org/10.1112/jlms.12868">Characterizing NIP henselian fields</a>,
-with Franziska Jahnke.
-<br>
-<i>Journal of the London Mathematical Society</i>, 109(3), 2024.
-hal-05158057
-</li>
-
-<li>
-<a href="https://doi.org/10.2140/ant.2023.17.2013">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>,
-with Philip Dittmann and Arno Fehm.
-<br>
-<i>Algebra &amp; Number Theory</i>, 17-11:2013&ndash;2032, 2023.
-hal-05158056
-</li>
-
-<li>
-<a href="https://doi.org/10.5802/cml.84">The model theory of Cohen rings</a>,
-with Franziska Jahnke.
-<br>
-<i>Confluentes Mathematici</i>, 14, no. 2, 1&ndash;28, 2022.
-hal-05158048
-</li>
-
-<li>
-<a href="https://doi.org/10.1016/j.apal.2021.102973">Denseness results in the theory of algebraic fields</a>,
-with Philip Dittmann and Arno Fehm.
-<br>
-<i>Annals of Pure and Applied Logic</i>, 172, 2021.
-</li>
-
-<li>
-<a href="https://doi.org/10.1002/mana.201900173">A $p$-adic analogue of Siegel's theorem on sums of squares</a>,
-with Philip Dittmann and Arno Fehm.
-<br>
-<i>Mathematische Nachrichten</i>, 293:1434&ndash;1451, 2020.
-</li>
-
-<li>
-<a href="https://doi.org/10.1007/s00209-020-02516-6">Approximation theorems for spaces of localities</a>,
-with Philip Dittmann and Arno Fehm.
-<br>
-<i>Mathematische Zeitschrift</i>, 296:1471&ndash;1499, 2020.
-</li>
-
-<li>
-<a href="http://dx.doi.org/10.1016/j.jalgebra.2018.09.021">Existentially generated subfields of large fields</a>.
-<br>
-<i>Journal of Algebra</i>, 517C:78&ndash;94, 2019.
-</li>
-<li>
-<a href="http://dx.doi.org/10.1016/j.apal.2018.04.008">Henselianity in the language of rings</a>,
-with Franziska Jahnke.
-<br>
-<i>Annals of Pure and Applied Logic</i>, 169(9):872&ndash;895, 2018.
-</li>
-
-<li>
-<a href="http://dx.doi.org/10.1112/plms.12042">Characterizing diophantine henselian valuation rings and valuation ideals</a>,
-with Arno Fehm.
-<br>
-<i>Proceedings of the London Mathematical Society</i>, 115:293&ndash;322, 2017.
-</li>
-
-<li>
-<a href="http://dx.doi.org/10.1017/jsl.2016.6">Notes on extremal and tame valued fields</a>,
-with Franz-Viktor Kuhlmann.
-<br>
-<i>Journal of Symbolic Logic</i>, 81:400&ndash;416, 2016.
-</li>
-
-<li>
-<a href="http://dx.doi.org/10.2140/ant.2016.10.665">The existential theory of equicharacteristic henselian valued fields</a>,
-with Arno Fehm.
-<br>
-<i>Algebra &amp; Number Theory</i>, 10-3:665&ndash;683, 2016.
-</li>
-
-<li>
-<a href="http://dx.doi.org/10.1017/jsl.2014.27">An existential $\emptyset$-definition of $\mathbb{F}_{q}[\![t]\!]$ in $\mathbb{F}_{q}(\!(t)\!)$</a>,
-with Jochen Koenigsmann.
-<br>
-<i>Journal of Symbolic Logic</i>, 79:1336&ndash;1343, 2014.
-</li>
-
-</ol>
-
-<!--
-<h5>accepted</h5>
-<ol class="papers" start="10">
-
-
-</ol>
--->
-
-<h5>thesis</h5>
-<ol class="papers" start="0">
-
-<li>
-<!--<a href="http://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">-->Definability in Henselian Fields<!--</a>-->.
-DPhil Thesis, University of Oxford, 2013.
-<br>
-Supervised by Prof. Jochen Koenigsmann.
-</li>
-
-</ol>
-
 
 <h5>submitted/notes</h5>
 <ol reversed class="papers" type="a">
 
-<li>
-<a href="https://arxiv.org/abs/2505.07518">On lambda functions in henselian and separably tame valued fields</a>.
+<li class="paper">
+<a class="linklight">On lambda functions in henselian and separably tame valued fields</a>.
 <br>
 Manuscript, 2025.
-<a href="https://arxiv.org/abs/2505.07518">arXiv:2505.07518 [math.LO]</a>
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2505.07518">arXiv:2505.07518 [math.LO]</a>
 </li>
 
 <li>
-<a href="http://arxiv.org/abs/2408.00102">Multidimensional asymptotic classes</a>,
+<a class="linklight">Multidimensional asymptotic classes</a>,
 with Dugald Macpherson, Charles Steinhorn, and Daniel Wolf.
 <br>
 Submitted, 2024.
-<a href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>
+</li>
+
+</ol>
+
+
+<h5>research articles</h5>
+<ol reversed class="papers">
+
+<li>
+<a class="linklight">Universal-existential theories of fields</a>,
+with Arno Fehm.
+<br>
+To appear in <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
+</li>
+
+<li>
+<a class="linklight">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
+<br>
+To appear in <i>Journal of Algebra</i>, 2025.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
+</li>
+
+<li>
+<a class="linklight">Interpretations of syntactic fragments of theories of fields</a>,
+with Arno Fehm.
+<br>
+To appear in <i>Israel Journal of Mathematics</i>, 2024.
+    <a class="linkresearchlight" href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
+</li>
+
+<li>
+<a class="linklight">Ax&ndash;Kochen&ndash;Ershov principles for finitely ramified henselian fields</a>,
+with Philip Dittmann and Franziska Jahnke.
+<br>
+<i>Transactions of the American Mathematical Society</i>, 377-12:8963&ndash;8988, 2024.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1090/tran/9271">doi:10.1090/tran/9271</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05158062">hal-05158062</a>
+<!---<details><summary><a class="linkresearchlight">find me</a></summary>-->
+<!--</details>-->
+</li>
+
+<li>
+<a class="linklight">Characterizing NIP henselian fields</a>,
+with Franziska Jahnke.
+<br>
+<i>Journal of the London Mathematical Society</i>, 109(3), 2024.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1911.00309">arXiv:1911.00309 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1112/jlms.12868">doi:10.1112/jlms.12868</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05158057">hal-05158057</a>
+</li>
+
+<li>
+<a class="linklight">Axiomatizing the existential theory of $\mathbb{F}_{q}(\!(t)\!)$</a>,
+with Philip Dittmann and Arno Fehm.
+<br>
+<i>Algebra &amp; Number Theory</i>, 17-11:2013&ndash;2032, 2023.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2205.05438">arXiv:2205.05438 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.2140/ant.2023.17.2013">doi:10.2140/ant.2023.17.2013</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05158056">hal-05158056</a>
+</li>
+
+<li>
+<a class="linklight">The model theory of Cohen rings</a>,
+with Franziska Jahnke.
+<br>
+<i>Confluentes Mathematici</i>, 14, no. 2, 1&ndash;28, 2022.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1904.08297">arXiv:1904.08297 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.5802/cml.84">doi:10.5802/cml.84</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05158048">hal-05158048</a>
+</li>
+
+<li>
+<a class="linklight">Denseness results in the theory of algebraic fields</a>,
+with Philip Dittmann and Arno Fehm.
+<br>
+<i>Annals of Pure and Applied Logic</i>, 172, 2021.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1909.12188">arXiv:1909.12188 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1016/j.apal.2021.102973">doi:10.1016/j.apal.2021.102973</a>
+</li>
+
+<li>
+<a class="linklight">A $p$-adic analogue of Siegel's theorem on sums of squares</a>,
+with Philip Dittmann and Arno Fehm.
+<br>
+<i>Mathematische Nachrichten</i>, 293:1434&ndash;1451, 2020.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1904.03466">arXiv:1904.03466 [math.NT]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1002/mana.201900173">doi:10.1002/mana.201900173</a>
+</li>
+
+<li>
+<a class="linklight">Approximation theorems for spaces of localities</a>,
+with Philip Dittmann and Arno Fehm.
+<br>
+<i>Mathematische Zeitschrift</i>, 296:1471&ndash;1499, 2020.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1901.02632">arXiv:1901.02632 [math.AC]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1007/s00209-020-02516-6">doi:10.1007/s00209-020-02516-6</a>
+</li>
+
+<li>
+<a class="linklight">Existentially generated subfields of large fields</a>.
+<br>
+<i>Journal of Algebra</i>, 517C:78&ndash;94, 2019.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1710.03353">arXiv:1710.03353 [math.LO]</a>
+    <a class="linkresearchlight" href="https://dx.doi.org/10.1016/j.jalgebra.2018.09.021">doi:10.1016/j.jalgebra.2018.09.021</a>
+</li>
+
+<li>
+<a class="linklight">Henselianity in the language of rings</a>,
+with Franziska Jahnke.
+<br>
+<i>Annals of Pure and Applied Logic</i>, 169(9):872&ndash;895, 2018.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1512.04588">arXiv:1512.04588 [math.LO]</a>
+    <a class="linkresearchlight" href="https://dx.doi.org/10.1016/j.apal.2018.04.008">doi:j.apal.2018.04.008</a>
+</li>
+
+<li>
+<a class="linklight">Characterizing diophantine henselian valuation rings and valuation ideals</a>,
+with Arno Fehm.
+<br>
+<i>Proceedings of the London Mathematical Society</i>, 115:293&ndash;322, 2017.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1602.01233">arXiv:1602.01233 [math.LO]</a>
+    <a class="linkresearchlight" href="https://dx.doi.org/10.1112/plms.12042">doi:10.1112/plms.12042</a>
+</li>
+
+<li>
+<a class="linklight">Notes on extremal and tame valued fields</a>,
+with Franz-Viktor Kuhlmann.
+<br>
+<i>Journal of Symbolic Logic</i>, 81:400&ndash;416, 2016.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1407.3759">arXiv:1407.3759 [math.LO]</a>
+    <a class="linkresearchlight" href="https://dx.doi.org/10.1017/jsl.2016.6">doi:10.1017/jsl.2016.6</a>
+</li>
+
+<li>
+<a class="linklight">The existential theory of equicharacteristic henselian valued fields</a>,
+with Arno Fehm.
+<br>
+<i>Algebra &amp; Number Theory</i>, 10-3:665&ndash;683, 2016.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1501.04522">arXiv:1501.04522 [math.LO]</a>
+    <a class="linkresearchlight" href="https://dx.doi.org/10.2140/ant.2016.10.665">doi:10.2140/ant.2016.10.665</a>
+</li>
+
+<li>
+<a class="linklight">An existential $\emptyset$-definition of $\mathbb{F}_{q}[\![t]\!]$ in $\mathbb{F}_{q}(\!(t)\!)$</a>,
+with Jochen Koenigsmann.
+<br>
+<i>Journal of Symbolic Logic</i>, 79:1336&ndash;1343, 2014.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1306.6760">arXiv:1306.6760 [math.LO]</a>
+    <a class="linkresearchlight" href="https://dx.doi.org/10.1017/jsl.2014.27">doi:10.1017/jsl.2014.27</a>
+</li>
+
+</ol>
+
+
+<h5>thesis</h5>
+<ol class="papers" type="A">
+
+<li>
+<a class="linklight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">Definability in Henselian Fields</a>.
+DPhil Thesis, University of Oxford, 2013.
+<br>
+Supervised by Prof. Jochen Koenigsmann.
 </li>
 
 </ol>
@@ -197,67 +218,41 @@ Submitted, 2024.
 <ol reversed class="papers" type="i"> 
 
 <li>
-<a href="https://doi.org/10.1090/noti3081">The unknown logic of power series</a>.
+<a class="linklight">The unknown logic of power series</a>.
 <br>
 <i>Notices of the American Mathematical Society</i>, 71(11):1448&ndash;1455, 2024.
-hal-05158080
-doi
-hal
-arXiv
+    <a class="linkresearchlight" href="https://doi.org/10.1090/noti3081">doi:10.1090/noti3081</a>
 </li>
 
 <li>
-<a href="https://doi.org/10.1007/978-3-031-52163-8_2">
-A survey of local-global methods for Hilbert's Tenth Problem</a>,
+<a class="linklight">A survey of local-global methods for Hilbert's Tenth Problem</a>,
 with Valentijn Karemaker, Zeynep Kisakürek, Vlerë Mehmeti, Margherita Pagano, and Laura Paladino.
 <br>
 <i>Women in Numbers Europe IV</i>, 
 edited by Ramla Abdellatif, Valentijn Karemaker, and Lejla Smajlovic.
 Assoc. Women Math. Ser., 32, 29--61, Springer, Cham, 2024.
-doi
-hal
-arXiv
+    <a class="linkresearchlight" href="https://doi.org/10.1007/978-3-031-52163-8_2">doi:10.1007/978-3-031-52163-8_2</a>
 </li>
 
 <li>
-<a href="http://dx.doi.org/10.4171/OWR/2023/2">
-Imperfection in NIP fields</a>,
+<a class="linklight">Imperfection in NIP fields</a>,
 with Franziska Jahnke.
 <br>
 Extended abstract, <i>Oberwolfach Reports</i> (20) 2023, pp. 125&ndash;127.
-doi
-hal
-arXiv
+    <a class="linkresearchlight" href="http://dx.doi.org/10.4171/OWR/2023/2">doi:10.4171/OWR/2023/2</a>
 </li>
 
 <li>
-<a href="http://dx.doi.org/10.24033/ast.1181">
-Exposé Bourbaki 1186 : Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]</a>.
+<a class="linklight">Exposé Bourbaki 1186 : Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]</a>.
 <br>
 Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 <i>Astérisque</i>, no.438, p. 247&ndash;279, 2022.
-doi:10.24033/ast.1181
-hal-05158075
-arXiv
+    <a class="linkresearchlight" href="https://hal.science/hal-05158075">hal-05158075</a>
+    <a class="linkresearchlight" href="https://doi.org/10.24033/ast.1181">doi:10.24033/ast.1181</a>
 </li>
 
 </ol>
 
-<!--
-<li>
-An elementary geometric approach to linear prediction,
-with Amery Gration.
-Manuscript, 2021.
-</li>
-
-<li>
-<a href="https://drive.google.com/open?id=1WZgYHagdgannBDn_rwT64rvhbeaPtE5V">The mathematical structure of classical mechanics</a>,
-with Amery Gration.
-Manuscript, 2019.
-</li>
-
-</ol>
--->
 
 <br>
 
@@ -673,24 +668,25 @@ A selection of meetings that I have attended or will attend.
 
 <li>journals
 
-	<ul>
+<ul>
 
-	<li><a class="linkresearchmain" href="https://msp.org/mt">Model Theory &ndash; journal</a></li>
+    <li><a class="linkresearchmain" href="https://msp.org/mt">Model Theory &ndash; journal</a></li>
 
-	<li><a class="linkresearchmain" href="https://www.cambridge.org/core/journals/journal-of-symbolic-logic">Journal of Symbolic Logic</a></li>
+    <li><a class="linkresearchmain" href="https://www.cambridge.org/core/journals/journal-of-symbolic-logic">Journal of Symbolic Logic</a></li>
 
-	</ul>
+</ul>
 
 </li>
 
 <li>seminars
 
-	<ul>
+<ul>
 
-	<li><a class="linkseminarmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral de Logique</a></li>
-	<li><a class="linkseminarmain" href="https://gtm.imj-prg.fr/">G&eacute;om&eacute;trie et Th&eacute;orie des Mod&egrave;les</a></li>
+    <li><a class="linkseminarmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/66">S&eacute;minaire G&eacute;n&eacute;ral de Logique</a></li>
 
-	</ul>
+    <li><a class="linkseminarmain" href="https://gtm.imj-prg.fr/">G&eacute;om&eacute;trie et Th&eacute;orie des Mod&egrave;les</a></li>
+
+</ul>
 
 </li>
 
