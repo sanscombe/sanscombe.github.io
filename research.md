@@ -82,8 +82,8 @@ with Philip Dittmann and Franziska Jahnke.
 <br>
 <i>Transactions of the American Mathematical Society</i>, 377-12:8963&ndash;8988, 2024.
     <a class="linkresearchlight" href="https://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
-    <a class="linkresearchlight" href="https://doi.org/10.1090/tran/9271">doi:10.1090/tran/9271</a>
     <a class="linkresearchlight" href="https://hal.science/hal-05158062">hal-05158062</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1090/tran/9271">doi:10.1090/tran/9271</a>
 <!---<details><summary><a class="linkresearchlight">find me</a></summary>-->
 <!--</details>-->
 </li>
@@ -94,8 +94,8 @@ with Franziska Jahnke.
 <br>
 <i>Journal of the London Mathematical Society</i>, 109(3), 2024.
     <a class="linkresearchlight" href="https://arxiv.org/abs/1911.00309">arXiv:1911.00309 [math.LO]</a>
-    <a class="linkresearchlight" href="https://doi.org/10.1112/jlms.12868">doi:10.1112/jlms.12868</a>
     <a class="linkresearchlight" href="https://hal.science/hal-05158057">hal-05158057</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1112/jlms.12868">doi:10.1112/jlms.12868</a>
 </li>
 
 <li>
@@ -104,8 +104,8 @@ with Philip Dittmann and Arno Fehm.
 <br>
 <i>Algebra &amp; Number Theory</i>, 17-11:2013&ndash;2032, 2023.
     <a class="linkresearchlight" href="https://arxiv.org/abs/2205.05438">arXiv:2205.05438 [math.LO]</a>
-    <a class="linkresearchlight" href="https://doi.org/10.2140/ant.2023.17.2013">doi:10.2140/ant.2023.17.2013</a>
     <a class="linkresearchlight" href="https://hal.science/hal-05158056">hal-05158056</a>
+    <a class="linkresearchlight" href="https://doi.org/10.2140/ant.2023.17.2013">doi:10.2140/ant.2023.17.2013</a>
 </li>
 
 <li>
@@ -114,8 +114,8 @@ with Franziska Jahnke.
 <br>
 <i>Confluentes Mathematici</i>, 14, no. 2, 1&ndash;28, 2022.
     <a class="linkresearchlight" href="https://arxiv.org/abs/1904.08297">arXiv:1904.08297 [math.LO]</a>
-    <a class="linkresearchlight" href="https://doi.org/10.5802/cml.84">doi:10.5802/cml.84</a>
     <a class="linkresearchlight" href="https://hal.science/hal-05158048">hal-05158048</a>
+    <a class="linkresearchlight" href="https://doi.org/10.5802/cml.84">doi:10.5802/cml.84</a>
 </li>
 
 <li>
