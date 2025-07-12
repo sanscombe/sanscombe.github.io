@@ -202,13 +202,19 @@ with Jochen Koenigsmann.
 
 
 <h5>thesis</h5>
-<ol class="papers" type="A">
+<ol reversed class="papers" type="I">
+
+<!--<li>
+<a class="linklight">Axiomatisabilité et décidabilité de corps valués henseliens</a>.
+HDR Mémoire, Université Paris Cité, 2025.
+</li>-->
 
 <li>
-<a class="linklight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">Definability in Henselian Fields</a>.
+<a class="linklight">Definability in Henselian Fields</a>.
 DPhil Thesis, University of Oxford, 2013.
 <br>
 Supervised by Prof. Jochen Koenigsmann.
+    <!--<a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">oxford research archive</a>-->
 </li>
 
 </ol>
