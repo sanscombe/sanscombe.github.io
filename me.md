@@ -41,19 +41,11 @@ My [research][research] is in model theory and its connections to algebra and nu
 <ul>
 <li>
 <a class="linkunderconstruction" href="">Logique à Paris 2026</a> $\Longleftarrow$ <i>watch this space!</i>
-<a class="construction">
-&nbsp;
-&nbsp;
-&nbsp;
-</a>
+<a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 &nbsp;
 Under construction!
 &nbsp;
-<a class="construction">
-&nbsp;
-&nbsp;
-&nbsp;
-</a>
+<a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </li>
 </ul>
 
