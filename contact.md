@@ -3,7 +3,7 @@ layout: page
 title:  "contact"
 categories: me
 usemathjax: true
-order: 5
+order: 7
 ---
 
 <img src="/IMAGES/AI_IMAGES/frog2.png" width="35%" style="float:right;">

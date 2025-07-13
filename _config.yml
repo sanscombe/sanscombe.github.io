@@ -37,6 +37,7 @@ markdown: kramdown
 header_pages:
   - me.md
   - research.md
+  - seminar.md
   - teaching.md
   - smorgasbord.md
   - contact.md

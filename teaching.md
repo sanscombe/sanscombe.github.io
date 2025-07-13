@@ -3,7 +3,7 @@ layout: page
 title: "teaching ‖ enseignement"
 categories: teaching
 usemathjax: true
-order: 3
+order: 5
 ---
 
 ### current teaching ‖ enseignement actuel

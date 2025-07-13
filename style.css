@@ -147,6 +147,34 @@ navdebugmain
 navdebugsub
 */
 
+/* CONSTRUCTION */
+
+a.construction {
+	height:100px;
+    background: repeating-linear-gradient(
+    45deg,
+    Gold,
+    Gold 10px,
+    Black 10px,
+    Black 20px);
+}
+a.linkunderconstruction {border-style: solid;
+border-radius: 8px;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 3px;
+border-bottom-width: 3px;
+border-color: Gray}
+a.linkunderconstruction {text-decoration:none;
+color:Snow;
+background-color:Gray;
+font-size:large;
+height:30px;
+text-align:center;
+vertical-align:center}
+a.linkunderconstruction:hover {background:Gray;border-color:Gray}
+a.linkunderconstruction:link, a.linkunderconstruction:visited {}
+
 /* LINKLIGHT */
 
 a.linklight {border-style: solid;

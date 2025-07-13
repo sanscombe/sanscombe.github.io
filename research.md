@@ -204,10 +204,13 @@ with Jochen Koenigsmann.
 <h5>thesis</h5>
 <ol reversed class="papers" type="I">
 
-<!--<li>
+<!--
+<li>
 <a class="linklight">Axiomatisabilité et décidabilité de corps valués henseliens</a>.
 HDR Mémoire, Université Paris Cité, 2025.
-</li>-->
+    <a class="linkresearchlight" href="">doi:</a>
+</li>
+-->
 
 <li>
 <a class="linklight">Definability in Henselian Fields</a>.

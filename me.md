@@ -12,7 +12,8 @@ at [Université Paris Cité][UPC], and a member of the [Équipe de Logique][LM] 
 
 My [research][research] is in model theory and its connections to algebra and number theory.
 
-[//]: # I am supported by [GeoMod][GeoMod].
+- I was supported by [GeoMod][GeoMod].
+- I am currently supported by [AKE-PACT][AKE-PACT].
 
 <!--
 <a href="./seine2.jpg"><img src="/seine.jpg" alt="The river Seine" width="100%" style="display:block; margin-left: auto; margin-right: auto;"></a>
@@ -23,11 +24,8 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 8th May &ndash; 6th June 2025
-- <a class="linkdebugmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Trimester Program: "Definability, decidability, and computability"</a>, Hausdorff Research Institute for Mathematics, Bonn, 1st September &ndash; 12th December 2025
-
-[\\]: # - <a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th &ndash; 28th February 2025
-
-[\\]: # - <a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th &ndash; 28th February 2025
+- <a class="linkresearchmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Trimester Program: "Definability, decidability, and computability"</a>, [Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him), Bonn, 1st September &ndash; 12th December 2025
+    - Speaking at the Introductory School <a class="linkresearchmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, Decidability, and Computability</a><br>15th &ndash; 19th September 2025
 
 
 [\\]: # - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
@@ -40,6 +38,25 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 [//]: # - [Current favourite xkcd](https://xkcd.com/2668/)
 
+<ul>
+<li>
+<a class="linkunderconstruction" href="">Logique à Paris 2026</a> $\Longleftarrow$ <i>watch this space!</i>
+<a class="construction">
+&nbsp;
+&nbsp;
+&nbsp;
+</a>
+&nbsp;
+Under construction!
+&nbsp;
+<a class="construction">
+&nbsp;
+&nbsp;
+&nbsp;
+</a>
+</li>
+</ul>
+
 [research]: research.html
 [LAP]: logiqueaparis.html
 [teaching]: teaching.html
@@ -49,5 +66,6 @@ My [research][research] is in model theory and its connections to algebra and nu
 [IMJ-PRG]: https://www.imj-prg.fr/
 [LM]:	https://www.imj-prg.fr/lm/
 [GeoMod]: https://home.mathematik.uni-freiburg.de/palacin/GeoMod/
+[AKE-PACT]: ./
 [JSL]:	https://msp.org/mt/
 [Model Theory]:	https://msp.org/mt/
