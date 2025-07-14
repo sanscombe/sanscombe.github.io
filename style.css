@@ -260,6 +260,7 @@ border-color: Gray}
 a.linkmain {text-decoration:none;
 color:Snow;
 background-color:Gray;
+font-weight: bold;
 font-size:large;
 height:30px;
 text-align:center;

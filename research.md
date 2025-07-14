@@ -314,7 +314,7 @@ Master/Memoire
 </li>
 </ul>
 
-If you're interested in studying with me, please <a href="/contact.html">contact</a> me.
+If you're interested in studying with me, please <a class="linkmain" href="/contact.html">contact me</a>.
 
 <br><br>
 
