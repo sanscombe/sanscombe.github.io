@@ -270,7 +270,9 @@ Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 PhD
 <ul>
 <li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.
-	<ol reversed >
+<a href="./backpages/2025-07-14-Piotr.html">Piotr's papers</a>
+<!--
+	<ol reversed class="papers">
         <li>
         M. Ketelsen, S. Ramello, and P. Szewczyk. <i>Definable Henselian valuations in positive residue characteristic</i>, to appear in Journal of Symbolic Logic.
         </li>
@@ -284,6 +286,7 @@ PhD
         P. Błaszkiewicz, H. Ćmiel, A. Linzi, P. Szewczyk. <i>Caristi-Kirk and Oettli-Théra Ball Spaces and applications</i>, Journal of Fixed Point Theory and Applications 21(4), 2019.
         </li>
 	</ol>
+-->
 </li>
 <li>Paulo Andrés Soto Moreno.
     <ol reversed >
