@@ -270,7 +270,7 @@ Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 PhD
 <ul>
 <li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> &mdash; co-supervised with Arno Fehm, TU Dresden.
-<a href="./backpages/2025-07-14-Piotr.html">Piotr's papers</a>
+<a class="linkresearchmain" href="./backpages/2025-07-14-Piotr.html">Piotr's papers</a>
 <!--
 	<ol reversed class="papers">
         <li>
