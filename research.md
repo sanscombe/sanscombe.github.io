@@ -289,6 +289,8 @@ PhD
 -->
 </li>
 <li>Paulo Andrés Soto Moreno.
+<a class="linkresearchmain" href="./backpages/2025-07-14-Paulo.html">Paulo's papers</a>
+<!--
     <ol reversed >
         <li>
         Paulo Andrés Soto Moreno.
@@ -297,6 +299,7 @@ PhD
         <a href="https://arxiv.org/abs/2505.07418">arXiv:2505.07418 [math.LO]</a>
         </li>
     </ol>
+-->
 </li>
 <li>
     Tianyiwa Xie &mdash; co-supervised with Franziska Jahnke, Münster.
