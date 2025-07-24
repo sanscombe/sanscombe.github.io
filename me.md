@@ -12,7 +12,7 @@ at [Université Paris Cité][UPC], and a member of the [Équipe de Logique][LM] 
 
 My [research][research] is in model theory and its connections to algebra and number theory.
 
-- I was supported by [GeoMod][GeoMod].
+- I was supported by [GeoMod][GeoMod] AAPG2019 (ANR-DFG).
 - I am currently supported by [AKE-PACT][AKE-PACT].
 
 <!--
