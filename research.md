@@ -289,7 +289,7 @@ PhD
 </li>
 </ul>
 
-Master/Memoire
+Master/M&eacute;moire
 <ul>
 <li>Paulo Andrés Soto Moreno.
 <i>Inflators and diffeo-valued fields</i>,
