@@ -327,7 +327,7 @@ Currently serving as editor of
 <ol reversed type="A">
 
 <li>
-Ax&ndash;Kochen&ndash;Ershov Principles,
+Sixty years of Ax&ndash;Kochen&ndash;Ershov transfer principles,
 Introductory School "<a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, decidability, and computability</a>"
 (<a href="/backpages/2025-07-25-Bonn_abstract.html">abstract</a>),
 HIM Bonn,
