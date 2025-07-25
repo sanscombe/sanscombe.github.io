@@ -276,15 +276,17 @@ Postdoc
 
 PhD
 <ul>
-<li><a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> (2021 &ndash;).
+<li>
+    <a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> (2021 &ndash;).
     Co-supervised with Arno Fehm, TU Dresden.
 <a class="linkresearchmain" href="./backpages/2025-07-14-Piotr.html">Piotr's papers</a>
 </li>
-<li>Paulo Andrés Soto Moreno (2022 &ndash;).
+<li>
+    Paulo Andrés Soto Moreno (2022 &ndash;).
 <a class="linkresearchmain" href="./backpages/2025-07-14-Paulo.html">Paulo's papers</a>
 </li>
 <li>
-    Tianyiwa Xie (2025 &ndash;).
+    <a href="https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1899">Tianyiwa Xie</a> (2025 &ndash;).
     Co-supervised with Franziska Jahnke, Münster.
 </li>
 </ul>
