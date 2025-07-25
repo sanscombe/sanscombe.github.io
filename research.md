@@ -328,9 +328,16 @@ Currently serving as editor of
 
 <li>
 Ax&ndash;Kochen&ndash;Ershov Principles,
-British Postgraduate Model Theory Conference 2025,
-Manchester,
-January 2025
+Introductory School "<a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, decidability, and computability</a>"
+(<a href="/backpages/2025-07-25-Bonn_abstract.html">abstract</a>),
+HIM Bonn,
+September 2025
+</li>
+
+<li>
+Ax&ndash;Kochen&ndash;Ershov Principles,
+<a href="https://bpgmtc25.wordpress.com/">British Postgraduate Model Theory Conference 2025</a>,
+Manchester, January 2025
 </li>
 
 <li>
@@ -360,13 +367,14 @@ Paris, August 2021.
 Diophantine subsets of henselian fields
 (<a href="https://drive.google.com/file/d/1qpCCxq9iXg-0oIGxq1uRfrEMCo5sBDw9/view?usp=sharing">slides</a>,
 <a href="https://drive.google.com/file/d/1-TGu50zMnWxJ9QUXIlkkR6iWvpXYTkeY/view?usp=sharing">questions</a>),
-ALGAR 2020: Valuations, quadratic forms and definability,
+<a href="https://www.uantwerpen.be/en/summer-winter-schools/algar/programme/previous-editions/2020/">ALGAR 2020: Valuations, quadratic forms and definability</a>,
 Antwerp, July 2020.
 </li>
 
 <li>
 NIP fields and valued fields,
-British Postgraduate Model Theory Conference 2020, Leeds, January 2020
+<a href="https://conferences.leeds.ac.uk/BPGMTC20/">British Postgraduate Model Theory Conference 2020</a>,
+Leeds, January 2020
 </li>
 
 </ol>
