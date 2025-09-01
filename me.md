@@ -12,10 +12,6 @@ at [Université Paris Cité][UPC], and a member of the [Équipe de Logique][LM] 
 
 My [research][research] is in model theory and its connections to algebra and number theory.
 
-- I was supported by [GeoMod][GeoMod] AAPG2019 (ANR-DFG).
-- I am currently supported by [AKE-PACT][AKE-PACT] (AAP ANR-DFG LS 307677).
-- I am currently supported by [BrigHTMode][BrigHTMode] under the program "Investissement d'Avenir" launched by the French Government and implemented by ANR, with the reference « ANR‐18‐IdEx‐0001 » as part of its program « Emergence »
-
 <!--
 <a href="./seine2.jpg"><img src="/seine.jpg" alt="The river Seine" width="100%" style="display:block; margin-left: auto; margin-right: auto;"></a>
 -->
@@ -26,20 +22,10 @@ My [research][research] is in model theory and its connections to algebra and nu
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 8th May &ndash; 6th June 2025
 - <a class="linkresearchmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Trimester Program: "Definability, decidability, and computability"</a>, [Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him), Bonn, 1st September &ndash; 12th December 2025
+    - [Unofficial website](https://sites.google.com/view/ddcathim/home?authuser=0)
     - Speaking at the Introductory School <a class="linkresearchmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, Decidability, and Computability</a>
 (<a href="/backpages/2025-07-25-Bonn_abstract.html">abstract</a>),
 <br>15th &ndash; 19th September 2025
-
-
-[\\]: # - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
-
-[\\]: # - [Tame fields reading group](https://www.uni-muenster.de/IVV5WS/WebHop/user/sramello/tame/)
-
-[//]: # ### news
-
-[//]: # - [Model Theory](https://msp.org/mt)
-
-[//]: # - [Current favourite xkcd](https://xkcd.com/2668/)
 
 <ul>
 <li>
@@ -51,6 +37,25 @@ Under construction!
 <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </li>
 </ul>
+
+<br>
+<br>
+<br>
+
+- I was supported by [GeoMod][GeoMod] AAPG2019 (ANR-DFG).
+- I am currently supported by [AKE-PACT][AKE-PACT] (AAP ANR-DFG LS 307677).
+- I am currently supported by [BrigHTMode][BrigHTMode] under the program "Investissement d'Avenir" launched by the French Government and implemented by ANR, with the reference « ANR‐18‐IdEx‐0001 » as part of its program « Emergence »
+
+
+[\\]: # - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
+
+[\\]: # - [Tame fields reading group](https://www.uni-muenster.de/IVV5WS/WebHop/user/sramello/tame/)
+
+[//]: # ### news
+
+[//]: # - [Model Theory](https://msp.org/mt)
+
+[//]: # - [Current favourite xkcd](https://xkcd.com/2668/)
 
 [research]: research.html
 [LAP]: logiqueaparis.html
