@@ -57,8 +57,10 @@ Submitted, 2024.
 <a class="linklight">Universal-existential theories of fields</a>,
 with Arno Fehm.
 <br>
-To appear in <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
+<i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
+Published online:1--30.
     <a class="linkresearchlight" href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1017/S0013091525100771">doi:10.1017/S0013091525100771</a>
 </li>
 
 <li>
