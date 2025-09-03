@@ -54,16 +54,6 @@ Submitted, 2024.
 <ol reversed class="papers">
 
 <li>
-<a class="linklight">Universal-existential theories of fields</a>,
-with Arno Fehm.
-<br>
-<i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
-Published online:1--30.
-    <a class="linkresearchlight" href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
-    <a class="linkresearchlight" href="https://doi.org/10.1017/S0013091525100771">doi:10.1017/S0013091525100771</a>
-</li>
-
-<li>
 <a class="linklight">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
 <br>
 To appear in <i>Journal of Algebra</i>, 2025.
@@ -76,6 +66,16 @@ with Arno Fehm.
 <br>
 To appear in <i>Israel Journal of Mathematics</i>, 2024.
     <a class="linkresearchlight" href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
+</li>
+
+<li>
+<a class="linklight">Universal-existential theories of fields</a>,
+with Arno Fehm.
+<br>
+<i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
+Published online:1--30.
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1017/S0013091525100771">doi:10.1017/S0013091525100771</a>
 </li>
 
 <li>
