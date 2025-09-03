@@ -73,7 +73,7 @@ To appear in <i>Israel Journal of Mathematics</i>, 2024.
 with Arno Fehm.
 <br>
 <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
-Published online:1--30.
+Published online:1&ndash;30.
     <a class="linkresearchlight" href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
     <a class="linkresearchlight" href="https://doi.org/10.1017/S0013091525100771">doi:10.1017/S0013091525100771</a>
 </li>
