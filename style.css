@@ -4,22 +4,21 @@ details > summary {
 
 details[open] > summary {
     list-style-type: '';
+    border: 0px solid gray;
+    margin-bottom: 0.0rem;
 }
 
 details {
+    display:inline-block;
     border: 0px solid gray;
     border-radius: 0.0rem;
     padding: 0.0rem;
 }
 
-details[open] > summary {
-    border: 0px solid gray;
-    margin-bottom: 0.5rem;
-}
-
 details[open] {
-    border: 1px solid gray;
-    margin-bottom: 0.5rem;
+    vertical-align: top;
+    border: 0px solid gray;
+    margin-bottom: 0.0rem;
 }
 	.container {
 	  position: relative;
@@ -341,6 +340,24 @@ text-align:center;
 vertical-align:center}
 a.linkresearchlight:hover {font-weight:bold;background:Maroon;border-color:Maroon}/*MistyRose}*/
 a.linkresearchlight:link, a.linkresearchlight:visited {}
+
+a.linkresearchdetails {border-style: solid;
+border-radius: 8px;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 3px;
+border-bottom-width: 3px;
+border-color: Gray}/*SeaShell}*/
+a.linkresearchdetails {text-decoration:none;
+color:White;
+background-color:Gray;
+font-weight: bold;
+font-size:smaller;
+height:30px;
+text-align:center;
+vertical-align:center}
+a.linkresearchdetails:hover {font-weight:bold;background:Maroon;border-color:Maroon}/*MistyRose}*/
+a.linkresearchdetails:link, a.linkresearchdetails:visited {}
 
 a.navresearchsub {border-style: solid; /*unused*/
 border-left-width: 10px;

@@ -32,10 +32,15 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <h5>submitted/notes</h5>
 <ol reversed class="papers" type="a">
 
-<li class="paper">
+<li value="2">
 <a class="linklight">On lambda functions in henselian and separably tame valued fields</a>.
 <br>
 Manuscript, 2025.
+<!--
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+</details>
+-->
     <a class="linkresearchlight" href="https://arxiv.org/abs/2505.07518">arXiv:2505.07518 [math.LO]</a>
 </li>
 
@@ -44,7 +49,12 @@ Manuscript, 2025.
 with Dugald Macpherson, Charles Steinhorn, and Daniel Wolf.
 <br>
 Submitted, 2024.
-    <a class="linkresearchlight" href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>
+<!--
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+</details>
+-->
+<a class="linkresearchlight" href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>
 </li>
 
 </ol>
@@ -53,11 +63,14 @@ Submitted, 2024.
 <h5>research articles</h5>
 <ol reversed class="papers">
 
-<li>
+<li value="16">
 <a class="linklight">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
 <br>
 To appear in <i>Journal of Algebra</i>, 2025.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
+</details>
 </li>
 
 <li>
@@ -65,7 +78,10 @@ To appear in <i>Journal of Algebra</i>, 2025.
 with Arno Fehm.
 <br>
 To appear in <i>Israel Journal of Mathematics</i>, 2024.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
+</details>
 </li>
 
 <li>
@@ -74,8 +90,11 @@ with Arno Fehm.
 <br>
 <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
 Published online:1&ndash;30.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
     <a class="linkresearchlight" href="https://doi.org/10.1017/S0013091525100771">doi:10.1017/S0013091525100771</a>
+</details>
 </li>
 
 <li>
@@ -83,11 +102,12 @@ Published online:1&ndash;30.
 with Philip Dittmann and Franziska Jahnke.
 <br>
 <i>Transactions of the American Mathematical Society</i>, 377-12:8963&ndash;8988, 2024.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/2305.12145">arXiv:2305.12145 [math.LO]</a>
     <a class="linkresearchlight" href="https://hal.science/hal-05158062">hal-05158062</a>
     <a class="linkresearchlight" href="https://doi.org/10.1090/tran/9271">doi:10.1090/tran/9271</a>
-<!---<details><summary><a class="linkresearchlight">find me</a></summary>-->
-<!--</details>-->
+</details>
 </li>
 
 <li>
@@ -95,9 +115,12 @@ with Philip Dittmann and Franziska Jahnke.
 with Franziska Jahnke.
 <br>
 <i>Journal of the London Mathematical Society</i>, 109(3), 2024.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1911.00309">arXiv:1911.00309 [math.LO]</a>
     <a class="linkresearchlight" href="https://hal.science/hal-05158057">hal-05158057</a>
     <a class="linkresearchlight" href="https://doi.org/10.1112/jlms.12868">doi:10.1112/jlms.12868</a>
+</details>
 </li>
 
 <li>
@@ -105,9 +128,12 @@ with Franziska Jahnke.
 with Philip Dittmann and Arno Fehm.
 <br>
 <i>Algebra &amp; Number Theory</i>, 17-11:2013&ndash;2032, 2023.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/2205.05438">arXiv:2205.05438 [math.LO]</a>
     <a class="linkresearchlight" href="https://hal.science/hal-05158056">hal-05158056</a>
     <a class="linkresearchlight" href="https://doi.org/10.2140/ant.2023.17.2013">doi:10.2140/ant.2023.17.2013</a>
+</details>
 </li>
 
 <li>
@@ -115,9 +141,12 @@ with Philip Dittmann and Arno Fehm.
 with Franziska Jahnke.
 <br>
 <i>Confluentes Mathematici</i>, 14, no. 2, 1&ndash;28, 2022.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1904.08297">arXiv:1904.08297 [math.LO]</a>
     <a class="linkresearchlight" href="https://hal.science/hal-05158048">hal-05158048</a>
     <a class="linkresearchlight" href="https://doi.org/10.5802/cml.84">doi:10.5802/cml.84</a>
+</details>
 </li>
 
 <li>
@@ -125,8 +154,11 @@ with Franziska Jahnke.
 with Philip Dittmann and Arno Fehm.
 <br>
 <i>Annals of Pure and Applied Logic</i>, 172, 2021.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1909.12188">arXiv:1909.12188 [math.LO]</a>
     <a class="linkresearchlight" href="https://doi.org/10.1016/j.apal.2021.102973">doi:10.1016/j.apal.2021.102973</a>
+</details>
 </li>
 
 <li>
@@ -134,8 +166,11 @@ with Philip Dittmann and Arno Fehm.
 with Philip Dittmann and Arno Fehm.
 <br>
 <i>Mathematische Nachrichten</i>, 293:1434&ndash;1451, 2020.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1904.03466">arXiv:1904.03466 [math.NT]</a>
     <a class="linkresearchlight" href="https://doi.org/10.1002/mana.201900173">doi:10.1002/mana.201900173</a>
+</details>
 </li>
 
 <li>
@@ -143,16 +178,22 @@ with Philip Dittmann and Arno Fehm.
 with Philip Dittmann and Arno Fehm.
 <br>
 <i>Mathematische Zeitschrift</i>, 296:1471&ndash;1499, 2020.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1901.02632">arXiv:1901.02632 [math.AC]</a>
     <a class="linkresearchlight" href="https://doi.org/10.1007/s00209-020-02516-6">doi:10.1007/s00209-020-02516-6</a>
+</details>
 </li>
 
 <li>
 <a class="linklight">Existentially generated subfields of large fields</a>.
 <br>
 <i>Journal of Algebra</i>, 517C:78&ndash;94, 2019.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1710.03353">arXiv:1710.03353 [math.LO]</a>
     <a class="linkresearchlight" href="https://dx.doi.org/10.1016/j.jalgebra.2018.09.021">doi:10.1016/j.jalgebra.2018.09.021</a>
+</details>
 </li>
 
 <li>
@@ -160,8 +201,11 @@ with Philip Dittmann and Arno Fehm.
 with Franziska Jahnke.
 <br>
 <i>Annals of Pure and Applied Logic</i>, 169(9):872&ndash;895, 2018.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1512.04588">arXiv:1512.04588 [math.LO]</a>
     <a class="linkresearchlight" href="https://dx.doi.org/10.1016/j.apal.2018.04.008">doi:j.apal.2018.04.008</a>
+</details>
 </li>
 
 <li>
@@ -169,8 +213,11 @@ with Franziska Jahnke.
 with Arno Fehm.
 <br>
 <i>Proceedings of the London Mathematical Society</i>, 115:293&ndash;322, 2017.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1602.01233">arXiv:1602.01233 [math.LO]</a>
     <a class="linkresearchlight" href="https://dx.doi.org/10.1112/plms.12042">doi:10.1112/plms.12042</a>
+</details>
 </li>
 
 <li>
@@ -178,8 +225,11 @@ with Arno Fehm.
 with Franz-Viktor Kuhlmann.
 <br>
 <i>Journal of Symbolic Logic</i>, 81:400&ndash;416, 2016.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1407.3759">arXiv:1407.3759 [math.LO]</a>
     <a class="linkresearchlight" href="https://dx.doi.org/10.1017/jsl.2016.6">doi:10.1017/jsl.2016.6</a>
+</details>
 </li>
 
 <li>
@@ -187,8 +237,11 @@ with Franz-Viktor Kuhlmann.
 with Arno Fehm.
 <br>
 <i>Algebra &amp; Number Theory</i>, 10-3:665&ndash;683, 2016.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1501.04522">arXiv:1501.04522 [math.LO]</a>
     <a class="linkresearchlight" href="https://dx.doi.org/10.2140/ant.2016.10.665">doi:10.2140/ant.2016.10.665</a>
+</details>
 </li>
 
 <li>
@@ -196,8 +249,11 @@ with Arno Fehm.
 with Jochen Koenigsmann.
 <br>
 <i>Journal of Symbolic Logic</i>, 79:1336&ndash;1343, 2014.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1306.6760">arXiv:1306.6760 [math.LO]</a>
     <a class="linkresearchlight" href="https://dx.doi.org/10.1017/jsl.2014.27">doi:10.1017/jsl.2014.27</a>
+</details>
 </li>
 
 </ol>
@@ -214,11 +270,15 @@ HDR Mémoire, Université Paris Cité, 2025.
 </li>
 -->
 
-<li>
+<li value="1">
 <a class="linklight">Definability in Henselian Fields</a>.
 DPhil Thesis, University of Oxford, 2013.
 <br>
 Supervised by Prof. Jochen Koenigsmann.
+<!--<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+</details>
+-->
     <!--<a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">oxford research archive</a>-->
 </li>
 
@@ -228,11 +288,14 @@ Supervised by Prof. Jochen Koenigsmann.
 <h5>other publications</h5>
 <ol reversed class="papers" type="i"> 
 
-<li>
+<li value="4">
 <a class="linklight">The unknown logic of power series</a>.
 <br>
 <i>Notices of the American Mathematical Society</i>, 71(11):1448&ndash;1455, 2024.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://doi.org/10.1090/noti3081">doi:10.1090/noti3081</a>
+</details>
 </li>
 
 <li>
@@ -242,7 +305,10 @@ with Valentijn Karemaker, Zeynep Kisakürek, Vlerë Mehmeti, Margherita Pagano, 
 <i>Women in Numbers Europe IV</i>, 
 edited by Ramla Abdellatif, Valentijn Karemaker, and Lejla Smajlovic.
 Assoc. Women Math. Ser., 32, 29--61, Springer, Cham, 2024.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://doi.org/10.1007/978-3-031-52163-8_2">doi:10.1007/978-3-031-52163-8_2</a>
+</details>
 </li>
 
 <li>
@@ -250,7 +316,10 @@ Assoc. Women Math. Ser., 32, 29--61, Springer, Cham, 2024.
 with Franziska Jahnke.
 <br>
 Extended abstract, <i>Oberwolfach Reports</i> (20) 2023, pp. 125&ndash;127.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="http://dx.doi.org/10.4171/OWR/2023/2">doi:10.4171/OWR/2023/2</a>
+</details>
 </li>
 
 <li>
@@ -258,8 +327,11 @@ Extended abstract, <i>Oberwolfach Reports</i> (20) 2023, pp. 125&ndash;127.
 <br>
 Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 <i>Astérisque</i>, no.438, p. 247&ndash;279, 2022.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://hal.science/hal-05158075">hal-05158075</a>
     <a class="linkresearchlight" href="https://doi.org/10.24033/ast.1181">doi:10.24033/ast.1181</a>
+</details>
 </li>
 
 </ol>
