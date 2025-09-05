@@ -67,10 +67,12 @@ Submitted, 2024.
 <a class="linklight">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
 <br>
 To appear in <i>Journal of Algebra</i>, 2025.
+<!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-    <a class="linkresearchlight" href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
 </details>
+-->
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
 </li>
 
 <li>
@@ -78,10 +80,12 @@ To appear in <i>Journal of Algebra</i>, 2025.
 with Arno Fehm.
 <br>
 To appear in <i>Israel Journal of Mathematics</i>, 2024.
+<!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-    <a class="linkresearchlight" href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
 </details>
+-->
+    <a class="linkresearchlight" href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
 </li>
 
 <li>
