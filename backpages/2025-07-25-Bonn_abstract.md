@@ -1,19 +1,17 @@
 ---
-title: Short course - Sixty years of AKE transfer principles
+title: Sixty years of AKE transfer principles, a short course
 layout: post
 date: 2025-07-25 14:00:00 +0200
 ---
-Introductory School <a class="linkresearchmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, Decidability, and Computability</a><br>
+Introductory School
+<a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, Decidability, and Computability</a><br>
 15th &ndash; 19th September 2025
 
 Part of
-<a class="linkresearchmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Trimester Program: "Definability, decidability, and computability"</a>,
+<a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Trimester Program: "Definability, decidability, and computability"</a>,
 [Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him),
 Bonn,<br>
 1st September &ndash; 12th December 2025
- 
-**Title.**
-__Sixty years of Ax--Kochen--Ershov transfer principles__
 
 **Abstract.**
 Sixty years ago Ax, Kochen, and (independently) Ershov showed that the first-order theory of a field complete with respect to a non-Archimedean absolute value of characteristic $0$
@@ -40,7 +38,7 @@ The first is to discuss what is known around AKE principles for certain expansio
 The second is the analysis of existential theories of henselian valued fields, in equal characteristic and to a lesser extent in mixed characteristic.
 The third is that we lay the ground for the ''Taming Theorem'' of Jahnke and Kartas, where they find AKE results _for the first time_ that apply to certain valued fields that admit finite extensions with nontrivial defect.
 
-Course summary:
+**Course summary.**
 1. The classical Ax--Kochen/Ershov principles
 2. Positive residue characteristic: finite ramification and Kaplansky's hypothesis
 3. Tame fields and existential theories in equal characteristic
@@ -49,7 +47,7 @@ Course summary:
 which applies the AKE-theory of tame valued fields to perfectoid fields.
 The slogan is: _elementary equivalence tilts_.
 
-Highlights of this short course include:
+**Highlights** of this short course include:
 - we discuss consequences for decidability and definability
 - we present AKE principles at the level of $\exists_{n}$-formulas
 - we discuss the perspective of continuous logic

@@ -21,11 +21,12 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
 - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 8th May &ndash; 6th June 2025
-- <a class="linkresearchmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Trimester Program: "Definability, decidability, and computability"</a>, [Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him), Bonn, 1st September &ndash; 12th December 2025
+- Participating in the trimester program
+<a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Definability, decidability, and computability"</a>,<br>
+[Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him), Bonn, 1st September &ndash; 12th December 2025
     - [Unofficial website](https://sites.google.com/view/ddcathim/home?authuser=0)
-    - Speaking at the Introductory School <a class="linkresearchmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, Decidability, and Computability</a>
-(<a href="/backpages/2025-07-25-Bonn_abstract.html">abstract</a>),
-<br>15th &ndash; 19th September 2025
+    - Short course "_Sixty years of Ax--Kochen--Ershov transfer principles_" at the Introductory School <a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, Decidability, and Computability</a>, 15th &ndash; 19th September 2025
+        - <a class="linkresearchmain" href="/backpages/2025-09-10-Bonn_short_course.html">course webpage</a>
 
 <ul>
 <li>
