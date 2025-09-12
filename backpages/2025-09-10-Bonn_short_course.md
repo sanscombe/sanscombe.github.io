@@ -17,6 +17,12 @@ __Sixty years of Ax--Kochen--Ershov transfer principles__
 
 - <a href="/backpages/2025-07-25-Bonn_abstract.html">abstract, course summary, and highlights</a>
 
+- Lecture 1: 11:40 -- 12:40 Monday 15th September
+- Lecture 2: 09:00 -- 10:00 Tuesday 16th September
+- Lecture 3: 16:00 -- 17:00 Tuesday 16th September
+- Lecture 4: 10:20 -- 11:20 Thursday 18th September
+- Lecture 5: 11:40 -- 12:40 Friday 19th September
+
 [\\]: # - [lecture 1: henselian valued fields of equal characteristic zero](/backpages/2025-09-10-Bonn_lecture_1.html)
 
 [\\]: # - [lecture 2: mixed characteristic --- roughly finitely ramified](/backpages/2025-09-10-Bonn_lecture_2.html)
