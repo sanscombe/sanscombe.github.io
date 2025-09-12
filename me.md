@@ -25,8 +25,10 @@ My [research][research] is in model theory and its connections to algebra and nu
 <a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Definability, decidability, and computability"</a>,<br>
 [Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him), Bonn, 1st September &ndash; 12th December 2025
     - [Unofficial website](https://sites.google.com/view/ddcathim/home?authuser=0)
-    - Short course "_Sixty years of Ax--Kochen--Ershov transfer principles_" at the Introductory School <a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, Decidability, and Computability</a>, 15th &ndash; 19th September 2025
-        - <a class="linkresearchmain" href="/backpages/2025-09-10-Bonn_short_course.html">course webpage</a>
+    - Introductory School <a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, Decidability, and Computability</a>, 15th &ndash; 19th September 2025
+        - [Timetable](https://www.mathematics.uni-bonn.de/him/assets/2025/schedule_school_3-tp2025_12-09-2025.pdf)
+        - I'm giving a short course "_Sixty years of Ax--Kochen--Ershov transfer principles_"
+            - <a class="linkresearchmain" href="/backpages/2025-09-10-Bonn_short_course.html">course webpage</a>
 
 <ul>
 <li>
