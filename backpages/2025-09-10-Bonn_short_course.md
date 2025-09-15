@@ -17,7 +17,8 @@ __Sixty years of Ax--Kochen--Ershov transfer principles__
 
 - <a href="/backpages/2025-07-25-Bonn_abstract.html">abstract, course summary, and highlights</a>
 
-- Lecture 1: 11:40 -- 12:40 Monday 15th September
+- Lecture 1: 11:40 -- 12:40 Monday 15th September,
+[skeletal notes](https://drive.google.com/file/d/1j2_2_HdUEXngx80foTlfRXt_lVeRvkaJ/view?usp=sharing)
 - Lecture 2: 09:00 -- 10:00 Tuesday 16th September
 - Lecture 3: 16:00 -- 17:00 Tuesday 16th September
 - Lecture 4: 10:20 -- 11:20 Thursday 18th September
