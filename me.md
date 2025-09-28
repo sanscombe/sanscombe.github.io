@@ -30,17 +30,7 @@ My [research][research] is in model theory and its connections to algebra and nu
         - I'm giving a short course "_Sixty years of Ax--Kochen--Ershov transfer principles_"
             - <a class="linkresearchmain" href="/backpages/2025-09-10-Bonn_short_course.html">course webpage</a>
 - [Séminaire Bourbaki](https://bourbaki.fr/programme2025-26.html), Paris, 31 janvier 2026
-
-<ul>
-<li>
-<a class="linkunderconstruction" href="">Logique à Paris 2026</a> $\Longleftarrow$ <i>watch this space!</i>
-<a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-&nbsp;
-Under construction!
-&nbsp;
-<a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</li>
-</ul>
+- <a class="linkunderconstruction" href="">Logique à Paris 2026</a> $\Longleftarrow$ <i>watch this space!</i> <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp; Under construction!  &nbsp; <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 <br>
 <br>
