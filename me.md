@@ -29,6 +29,7 @@ My [research][research] is in model theory and its connections to algebra and nu
         - [Timetable](https://www.mathematics.uni-bonn.de/him/assets/2025/schedule_school_3-tp2025_12-09-2025.pdf)
         - I'm giving a short course "_Sixty years of Ax--Kochen--Ershov transfer principles_"
             - <a class="linkresearchmain" href="/backpages/2025-09-10-Bonn_short_course.html">course webpage</a>
+- [Séminaire Bourbaki](https://bourbaki.fr/programme2025-26.html), Paris, 31 janvier 2026
 
 <ul>
 <li>
