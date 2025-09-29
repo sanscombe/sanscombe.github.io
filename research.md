@@ -66,13 +66,14 @@ Submitted, 2024.
 <li value="16">
 <a class="linklight">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
 <br>
-To appear in <i>Journal of Algebra</i>, 2025.
+<i>Journal of Algebra</i>, available online, 2025.
 <!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
 </details>
 -->
     <a class="linkresearchlight" href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1016/j.jalgebra.2025.09.005">doi:10.1016/j.jalgebra.2025.09.005</a>
 </li>
 
 <li>
@@ -94,11 +95,13 @@ with Arno Fehm.
 <br>
 <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
 Published online:1&ndash;30.
+<!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
+</details>
+-->
     <a class="linkresearchlight" href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
     <a class="linkresearchlight" href="https://doi.org/10.1017/S0013091525100771">doi:10.1017/S0013091525100771</a>
-</details>
 </li>
 
 <li>
@@ -263,32 +266,6 @@ with Jochen Koenigsmann.
 </ol>
 
 
-<h5>thesis</h5>
-<ol reversed class="papers" type="I">
-
-<!--
-<li>
-<a class="linklight">Axiomatisabilité et décidabilité de corps valués henseliens</a>.
-HDR Mémoire, Université Paris Cité, 2025.
-    <a class="linkresearchlight" href="">doi:</a>
-</li>
--->
-
-<li value="1">
-<a class="linklight">Definability in Henselian Fields</a>.
-DPhil Thesis, University of Oxford, 2013.
-<br>
-Supervised by Prof. Jochen Koenigsmann.
-<!--<details>
-<summary><a class="linkresearchdetails">links</a></summary>
-</details>
--->
-    <!--<a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">oxford research archive</a>-->
-</li>
-
-</ol>
-
-
 <h5>other publications</h5>
 <ol reversed class="papers" type="i"> 
 
@@ -336,6 +313,36 @@ Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
     <a class="linkresearchlight" href="https://hal.science/hal-05158075">hal-05158075</a>
     <a class="linkresearchlight" href="https://doi.org/10.24033/ast.1181">doi:10.24033/ast.1181</a>
 </details>
+</li>
+
+</ol>
+
+
+<h5>theses</h5>
+<ol reversed class="papers" type="I">
+
+<!--
+<li value="2">
+<a class="linklight">Axiomatisabilité et décidabilité de corps valués henseliens</a>.
+HDR Mémoire, Université Paris Cité, 2025.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+    <a class="linkresearchlight" href="https://hal.science/">hal-</a>
+    <a class="linkresearchlight" href="https://doi.org/">doi:</a>
+</details>
+</li>
+-->
+
+<li value="1">
+<a class="linklight">Definability in Henselian Fields</a>.
+DPhil Thesis, University of Oxford, 2013.
+<br>
+Supervised by Prof. Jochen Koenigsmann.
+<!--<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+</details>
+-->
+    <!--<a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">oxford research archive</a>-->
 </li>
 
 </ol>
