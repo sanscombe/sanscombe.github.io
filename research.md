@@ -35,7 +35,7 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <li value="2">
 <a class="linklight">On lambda functions in henselian and separably tame valued fields</a>.
 <br>
-Manuscript, 2025.
+Submitted, 2025.
 <!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
