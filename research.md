@@ -371,7 +371,7 @@ PhD
 <a class="linkresearchmain" href="./backpages/2025-07-14-Paulo.html">Paulo's papers</a>
 </li>
 <li>
-    <a href="https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1899">Tianyiwa Xie</a> (2025 &ndash;).
+    <a href="https://xietianyiwa.github.io/">Tianyiwa Xie</a> (2025 &ndash;).
     Co-supervised with Franziska Jahnke, Münster.
 </li>
 </ul>
