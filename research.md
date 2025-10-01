@@ -63,20 +63,8 @@ Submitted, 2024.
 <h5>research articles</h5>
 <ol reversed class="papers">
 
-<li value="16">
-<a class="linklight">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
-<br>
-<i>Journal of Algebra</i>, available online, 2025.
-<!--
-<details>
-<summary><a class="linkresearchdetails">links</a></summary>
-</details>
--->
-    <a class="linkresearchlight" href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
-    <a class="linkresearchlight" href="https://doi.org/10.1016/j.jalgebra.2025.09.005">doi:10.1016/j.jalgebra.2025.09.005</a>
-</li>
 
-<li>
+<li value="16">
 <a class="linklight">Interpretations of syntactic fragments of theories of fields</a>,
 with Arno Fehm.
 <br>
@@ -87,6 +75,18 @@ To appear in <i>Israel Journal of Mathematics</i>, 2024.
 </details>
 -->
     <a class="linkresearchlight" href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
+</li>
+
+<li>
+<a class="linklight">One-dimensional $F$-definable sets in $F(\!(t)\!)$</a>.
+<br>
+<i>Journal of Algebra</i>, 687 (2026) 731&ndash;742.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+    <a class="linkresearchlight" href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05292948v1">hal-05292948v1</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1016/j.jalgebra.2025.09.005">doi:10.1016/j.jalgebra.2025.09.005</a>
+</details>
 </li>
 
 <li>
