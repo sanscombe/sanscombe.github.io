@@ -19,8 +19,9 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 ### current and upcoming
 
-- Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
-- Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 8th May &ndash; 6th June 2025
+[\\]: # - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 1st September &ndash; 16th December 2024
+[\\]: # - Visiting [Mathematics Münster](https://www.uni-muenster.de/MathematicsMuenster/), Münster, 8th May &ndash; 6th June 2025
+
 - Participating in the trimester program
 <a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability">Definability, decidability, and computability"</a>,<br>
 [Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him), Bonn, 1st September &ndash; 12th December 2025
@@ -29,7 +30,10 @@ My [research][research] is in model theory and its connections to algebra and nu
         - [Timetable](https://www.mathematics.uni-bonn.de/him/assets/2025/schedule_school_3-tp2025_12-09-2025.pdf)
         - I'm giving a short course "_Sixty years of Ax--Kochen--Ershov transfer principles_"
             - <a class="linkresearchmain" href="/backpages/2025-09-10-Bonn_short_course.html">course webpage</a>
-- [Séminaire Bourbaki](https://bourbaki.fr/programme2025-26.html), Paris, 31 janvier 2026
+- Giving 
+<a class="linkresearchmain" href="https://bourbaki.fr/programme2025-26.html">Séminaire Bourbaki</a>
+Paris, 31 janvier 2026
+    - "_La théorie des modèles des corps perfectoïdes, d'après Jahnke et Kartas_"
 - <a class="linkunderconstruction" href="">Logique à Paris 2026</a> $\Longleftarrow$ <i>watch this space!</i> <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp; Under construction!  &nbsp; <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 <br>
