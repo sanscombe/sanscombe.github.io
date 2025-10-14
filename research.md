@@ -362,26 +362,49 @@ Postdoc
 PhD
 <ul>
 <li>
-    <a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> (2021 &ndash;).
-    Co-supervised with Arno Fehm, TU Dresden.
-<a class="linkresearchmain" href="./backpages/2025-07-14-Piotr.html">Piotr's papers</a>
+    <a href="https://xietianyiwa.github.io/">Tianyiwa Xie</a> (2025 &ndash;).
+    Co-supervised with Franziska Jahnke, Münster.
 </li>
 <li>
     <a href="https://webusers.imj-prg.fr/~paulo.soto/">Paulo Andrés Soto Moreno</a> (2022 &ndash;).
 <a class="linkresearchmain" href="./backpages/2025-07-14-Paulo.html">Paulo's papers</a>
 </li>
+<!--
 <li>
-    <a href="https://xietianyiwa.github.io/">Tianyiwa Xie</a> (2025 &ndash;).
-    Co-supervised with Franziska Jahnke, Münster.
+    <a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> (2021 &ndash;).
+    Co-supervised with Arno Fehm, TU Dresden.
+<a class="linkresearchmain" href="./backpages/2025-07-14-Piotr.html">Piotr's papers</a>
 </li>
+-->
 </ul>
 
 Master/M&eacute;moire
 <ul>
-<li>Paulo Andrés Soto Moreno.
-<i>Inflators and diffeo-valued fields</i>,
-2022.
-</li>
+    <li>Fares Arous.
+        <i>Corps de Kaplansky très minces</i>,
+        mémoire de M1,
+        2025.
+    </li>
+    <li>Fares Arous.
+        <i>Théorie des modèles du graphe de Rado</i>,
+        stage de L3,
+        2024.
+    </li>
+    <li>Nolwen Chabaud.
+        <i>Théorie des modèles des corps valués</i>,
+        mémoire de M1,
+        2023.
+    </li>
+    <li>Julien Delteil.
+        <i>Théorie des modèles des corps finis</i>,
+        stage de L3,
+        2023.
+    </li>
+    <li><a href="https://webusers.imj-prg.fr/~paulo.soto/">Paulo Andrés Soto Moreno</a>.
+        <i>Inflators and diffeo-valued fields</i>,
+        mémoire de M2,
+        2022.
+    </li>
 </ul>
 
 If you're interested in studying with me, please <a class="linkmain" href="/contact.html">contact me</a>.
