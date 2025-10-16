@@ -34,7 +34,9 @@ My [research][research] is in model theory and its connections to algebra and nu
 <a class="linkresearchmain" href="https://bourbaki.fr/programme2025-26.html">Séminaire Bourbaki</a>
 Paris, 31 janvier 2026
     - "_La théorie des modèles des corps perfectoïdes, d'après Jahnke et Kartas_"
-- <a class="linkunderconstruction" href="">Logique à Paris 2026</a> $\Longleftarrow$ <i>watch this space!</i> <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp; Under construction!  &nbsp; <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+- <a class="linkdebugmain" href="">Logique à Paris 2026</a> $\Longleftarrow$ __registration now open!__
+
+[//]: #  <i>watch this space!</i> <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp; Under construction!  &nbsp; <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 <br>
 <br>
