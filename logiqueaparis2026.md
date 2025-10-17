@@ -1,5 +1,5 @@
 ---
-title: Logique à Paris 2026 --- back for a fourth edition!
+title: Logique à Paris 2026 is back for a fourth edition
 layout: page_LAP_2026
 ---
 A 3-day meeting of contemporary developments in Mathematical Logic.  
