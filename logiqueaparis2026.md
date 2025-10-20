@@ -1,5 +1,5 @@
 ---
-title: Logique à Paris 2026 is back for a fourth edition
+title: Logique à Paris 2026
 layout: page_LAP_2026
 ---
 A 3-day meeting of contemporary developments in Mathematical Logic.  
@@ -12,7 +12,10 @@ There will be symposium-type seminars given by invited speakers from a range of 
 [//]: # - <a class="linkdebugmain" href="/LAP2026/LAP2026_poster.pdf">LAP 2026 poster</a>
 - _Dates_ : 25th -- 27th February 2026
 - _Speakers_ :
-    - _to be confirmed_
+    - [Tingxiang Zou](https://sites.google.com/site/zoutingxiang2/), Bonn
+    - [Silvain Rideau-Kikuchi](https://www.math.ens.psl.eu/~rideau/), ENS, PSL
+    - [Juliette Kennedy](https://www.mv.helsinki.fi/home/jkennedy/), Helsinki
+    - _otheris to be confirmed_
 
 [//]: # [Albert Atserias](https://www.cs.upc.edu/~atserias/), Catalonia
 
