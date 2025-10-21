@@ -42,6 +42,9 @@ Paris, 31 janvier 2026
 <br>
 <br>
 
+<a href="/ICONS/upc.png"><img src="/ICONS/upc.png" alt="Université Paris Cité" title="Université Paris Cité" align="right" width="20%"></a>
+<a href="/ICONS/imj-prg_bleu.png"><img src="/ICONS/imj-prg_bleu.png" alt="IMJ-PRG" title="IMJ-PRG" align="right" width="20%"></a>
+
 - I was supported by [GeoMod][GeoMod] AAPG2019 (ANR-DFG).
 - I am currently supported by [AKE-PACT][AKE-PACT] (AAP ANR-DFG LS 307677).
 - I am currently supported by [BrigHTMode][BrigHTMode] under the program "Investissement d'Avenir" launched by the French Government and implemented by ANR, with the reference « ANR‐18‐IdEx‐0001 » as part of its program « Emergence »
