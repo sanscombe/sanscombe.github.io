@@ -8,24 +8,7 @@ A series of (so far) three conferences of contemporary developments in Mathemati
 with a focus on the themes of interest to the members of the
 [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
 
-<ul>
-<li>
-<a class="linkunderconstruction" href="">Logique à Paris 2026</a> $\Longleftarrow$ <i>watch this space!</i>
-<a class="construction">
-&nbsp;
-&nbsp;
-&nbsp;
-</a>
-&nbsp;
-Under construction!
-&nbsp;
-<a class="construction">
-&nbsp;
-&nbsp;
-&nbsp;
-</a>
-</li>
-</ul>
+- <a class="linkdebugmain" href="/logiqueaparis2026.html">Logique à Paris 2026</a> 
 - <a class="linkdebugmain" href="/logiqueaparis2025.html">Logique à Paris 2025</a> 
 - <a class="linkdebugmain" href="/logiqueaparis2024.html">Logique à Paris 2024</a>
 - <a class="linkdebugmain" href="/logiqueaparis2023.html">Logique à Paris 2023</a>
