@@ -95,13 +95,12 @@ with Arno Fehm.
 <br>
 <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
 Published online:1&ndash;30.
-<!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-</details>
--->
     <a class="linkresearchlight" href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05344752">hal-05344752</a>
     <a class="linkresearchlight" href="https://doi.org/10.1017/S0013091525100771">doi:10.1017/S0013091525100771</a>
+</details>
 </li>
 
 <li>
