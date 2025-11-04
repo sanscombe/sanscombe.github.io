@@ -322,7 +322,7 @@ Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 
 <!--
 <li value="2">
-<a class="linklight">Axiomatisabilité et décidabilité de corps valués henseliens</a>.
+<a class="linklight">Axiomatisabilité et décidabilité de corps valués henséliens</a>.
 HDR Mémoire, Université Paris Cité, 2025.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
@@ -337,11 +337,10 @@ HDR Mémoire, Université Paris Cité, 2025.
 DPhil Thesis, University of Oxford, 2013.
 <br>
 Supervised by Prof. Jochen Koenigsmann.
-<!--<details>
+<details>
 <summary><a class="linkresearchdetails">links</a></summary>
+    <a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">ora</a>
 </details>
--->
-    <!--<a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">oxford research archive</a>-->
 </li>
 
 </ol>
