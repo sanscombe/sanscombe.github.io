@@ -398,7 +398,7 @@ Master/M&eacute;moire
         stage de L3,
         2023.
     </li>
-    <li><a href="https://webusers.imj-prg.fr/~paulo.soto/">Paulo Andrés Soto Moreno</a>.
+    <li><a href="https://paulosotomo.github.io/">Paulo Andrés Soto Moreno</a>.
         <i>Inflators and diffeo-valued fields</i>,
         mémoire de M2,
         2022.
