@@ -364,7 +364,7 @@ PhD
     Co-supervised with Franziska Jahnke, Münster.
 </li>
 <li>
-    <a href="https://webusers.imj-prg.fr/~paulo.soto/">Paulo Andrés Soto Moreno</a> (2022 &ndash;).
+    <a href="https://paulosotomo.github.io/">Paulo Andrés Soto Moreno</a> (2022 &ndash;).
 <a class="linkresearchmain" href="./backpages/2025-07-14-Paulo.html">Paulo's papers</a>
 </li>
 <!--
