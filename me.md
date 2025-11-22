@@ -43,9 +43,10 @@ Paris, 31 janvier 2026
 <a href="https://u-paris.fr/"><img src="/ICONS/upc.png" alt="Université Paris Cité" title="Université Paris Cité" align="right" width="20%"></a>
 <a href="https://www.imj-prg.fr/"><img src="/ICONS/imj-prg_bleu.png" alt="IMJ-PRG" title="IMJ-PRG" align="right" width="20%"></a>
 
-- Supported by [AKE-PACT][AKE-PACT] "_The AKE Philosophy: from Arithmetic Geometry to Classification Theory_" (ANR-24-CE92-0082).
-- Supported by [MAS][MAS] "_Model theory of algebraic structures_" (ANR-25-CE40-5294).
-- Supported by [BrigHTMode][BrigHTMode] "_Bridges in the model theory of fields_" under the program "_Investissement d'Avenir_" launched by the French Government and implemented by ANR, with the reference « ANR‐18‐IdEx‐0001 » as part of its program « [Émergence][Émergence] »
+Support by
+- [AKE-PACT][AKE-PACT] "_The AKE Philosophy: from Arithmetic Geometry to Classification Theory_" (ANR-24-CE92-0082).
+- [MAS][MAS] "_Model theory of algebraic structures_" (ANR-25-CE40-5294).
+- [BrigHTMode][BrigHTMode] "_Bridges in the model theory of fields_" under the program "_Investissement d'Avenir_" launched by the French Government and implemented by ANR, with the reference « ANR‐18‐IdEx‐0001 » as part of its program « [Émergence][Émergence] »
 - Previously supported by [GeoMod][GeoMod] AAPG2019 (ANR-DFG).
 
 
