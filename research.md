@@ -95,13 +95,12 @@ with Arno Fehm.
 <br>
 <i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
 Published online:1&ndash;30.
-<!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-</details>
--->
     <a class="linkresearchlight" href="https://arxiv.org/abs/2405.12771">arXiv:2405.12771 [math.LO]</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05344752">hal-05344752</a>
     <a class="linkresearchlight" href="https://doi.org/10.1017/S0013091525100771">doi:10.1017/S0013091525100771</a>
+</details>
 </li>
 
 <li>
@@ -323,7 +322,7 @@ Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 
 <!--
 <li value="2">
-<a class="linklight">Axiomatisabilité et décidabilité de corps valués henseliens</a>.
+<a class="linklight">Axiomatisabilité et décidabilité de corps valués henséliens</a>.
 HDR Mémoire, Université Paris Cité, 2025.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
@@ -338,11 +337,10 @@ HDR Mémoire, Université Paris Cité, 2025.
 DPhil Thesis, University of Oxford, 2013.
 <br>
 Supervised by Prof. Jochen Koenigsmann.
-<!--<details>
+<details>
 <summary><a class="linkresearchdetails">links</a></summary>
+    <a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">ora</a>
 </details>
--->
-    <!--<a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">oxford research archive</a>-->
 </li>
 
 </ol>
@@ -362,26 +360,49 @@ Postdoc
 PhD
 <ul>
 <li>
+    <a href="https://xietianyiwa.github.io/">Tianyiwa Xie</a> (2025 &ndash;).
+    Co-supervised with Franziska Jahnke, Münster.
+</li>
+<li>
+    <a href="https://paulosotomo.github.io/">Paulo Andrés Soto Moreno</a> (2022 &ndash;).
+<a class="linkresearchmain" href="./backpages/2025-07-14-Paulo.html">Paulo's papers</a>
+</li>
+<!--
+<li>
     <a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> (2021 &ndash;).
     Co-supervised with Arno Fehm, TU Dresden.
 <a class="linkresearchmain" href="./backpages/2025-07-14-Piotr.html">Piotr's papers</a>
 </li>
-<li>
-    <a href="https://webusers.imj-prg.fr/~paulo.soto/">Paulo Andrés Soto Moreno</a> (2022 &ndash;).
-<a class="linkresearchmain" href="./backpages/2025-07-14-Paulo.html">Paulo's papers</a>
-</li>
-<li>
-    <a href="https://xietianyiwa.github.io/">Tianyiwa Xie</a> (2025 &ndash;).
-    Co-supervised with Franziska Jahnke, Münster.
-</li>
+-->
 </ul>
 
 Master/M&eacute;moire
 <ul>
-<li>Paulo Andrés Soto Moreno.
-<i>Inflators and diffeo-valued fields</i>,
-2022.
-</li>
+    <li>Fares Arous.
+        <i>Corps de Kaplansky très minces</i>,
+        mémoire de M1,
+        2025.
+    </li>
+    <li>Fares Arous.
+        <i>Théorie des modèles du graphe de Rado</i>,
+        stage de L3,
+        2024.
+    </li>
+    <li>Nolwen Chabaud.
+        <i>Théorie des modèles des corps valués</i>,
+        mémoire de M1,
+        2023.
+    </li>
+    <li>Julien Delteil.
+        <i>Théorie des modèles des corps finis</i>,
+        stage de L3,
+        2023.
+    </li>
+    <li><a href="https://paulosotomo.github.io/">Paulo Andrés Soto Moreno</a>.
+        <i>Inflators and diffeo-valued fields</i>,
+        mémoire de M2,
+        2022.
+    </li>
 </ul>
 
 If you're interested in studying with me, please <a class="linkmain" href="/contact.html">contact me</a>.
