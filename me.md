@@ -33,6 +33,10 @@ My [research][research] is in model theory and its connections to algebra and nu
 Paris, 31 janvier 2026
     - "_La théorie des modèles des corps perfectoïdes, d'après Jahnke et Kartas_"
 - <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __registration now open!__
+- Giving talk at
+<a class="linkresearchmain" href="https://slalm21.uniandes.edu.co/en/">XXI Latin American Symposium on Mathematical Logic</a>
+Bogotá, 1--5 June 2026
+    - "_La théorie des modèles des corps perfectoïdes, d'après Jahnke et Kartas_"
 
 [//]: #  <i>watch this space!</i> <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp; Under construction!  &nbsp; <a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 

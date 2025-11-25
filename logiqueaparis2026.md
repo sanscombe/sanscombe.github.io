@@ -15,6 +15,7 @@ There will be symposium-type seminars given by invited speakers from a range of 
     - [Tingxiang Zou](https://sites.google.com/site/zoutingxiang2/), Bonn
     - [Silvain Rideau-Kikuchi](https://www.math.ens.psl.eu/~rideau/), ENS, PSL
     - [Juliette Kennedy](https://www.mv.helsinki.fi/home/jkennedy/), Helsinki
+    - [Corey Bacal Switzer](https://coreyswitzer.wordpress.com/), Vienna
     - _otheris to be confirmed_
 
 [//]: # [Albert Atserias](https://www.cs.upc.edu/~atserias/), Catalonia
