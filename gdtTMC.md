@@ -19,10 +19,11 @@ usemathjax: true
 - events
     - 5th November --- overview, planning, discussion
     - 12th November --- (no session)
-    - 19th November --- 
-    - 26th November --- 
-    - 3rd December ---  
-    - 10th December ---  
+    - 19th November --- Generalized Stability Theorem, the reductions
+    - 26th November --- Generalized Stability Theorem, continued
+    - 3rd December ---  pause
+    - 10th December --- Henselian rationality I
+    - 17th December --- Henselian rationality II
 
 ##### topics:
 - function fields over tame valued fields
