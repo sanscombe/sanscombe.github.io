@@ -12,11 +12,12 @@ There will be symposium-type seminars given by invited speakers from a range of 
 [//]: # - <a class="linkdebugmain" href="/LAP2026/LAP2026_poster.pdf">LAP 2026 poster</a>
 - _Dates_ : 25th -- 27th February 2026
 - _Speakers_ :
-    - [Tingxiang Zou](https://sites.google.com/site/zoutingxiang2/), Bonn
-    - [Silvain Rideau-Kikuchi](https://www.math.ens.psl.eu/~rideau/), ENS, PSL
-    - [Juliette Kennedy](https://www.mv.helsinki.fi/home/jkennedy/), Helsinki
     - [Bahareh Afshari](https://www.gu.se/en/about/find-staff/baharehafshari), Gothenburg
-    - _others to be confirmed_
+    - [Juliette Kennedy](https://www.mv.helsinki.fi/home/jkennedy/), Helsinki
+    - [Silvain Rideau-Kikuchi](https://www.math.ens.psl.eu/~rideau/), ENS, PSL
+    - [Corey Bacal Switzer](https://coreyswitzer.wordpress.com/), Vienna
+    - [Tingxiang Zou](https://sites.google.com/site/zoutingxiang2/), Bonn
+    - _one other to be confirmed_
 
 [//]: # [Albert Atserias](https://www.cs.upc.edu/~atserias/), Catalonia
 
