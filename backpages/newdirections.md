@@ -33,7 +33,9 @@ Details of this meeting can be found at anscombe.sdf.org/newdirections.html.
 <h2><font color="#800080">$\sim$ Thank you for attending!</font></h2>
 <h4><font color="#000000">$\sim$ Registration</font></h4>
 <ul>
-	<li>Please <a href="https://www.surveymonkey.com/r/LJZYNT9">register here</a></li>
+	<li>Please <a href="https://www.surveymonkey.com/r/LJZYNT9">register here</a>
+<a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><b> OLD LINK! </b><a class="construction">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</li>
 </ul>
 <h4><font color="#000000">$\sim$ Schedule</font></h4>
 <ul>
