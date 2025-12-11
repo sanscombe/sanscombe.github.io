@@ -882,11 +882,11 @@ A selection of meetings that I have attended or will attend.
 
 	<li><a href="https://www.forkinganddividing.com/">forkinganddividing</a></li>
 
-	<li><a href="http://www.ams.org/mathscinet/collaborationDistance.html">AMS Collaboration Distance</a></li>
+	<li><a href="https://mathscinet.ams.org/mathscinet/freetools/collab-dist">AMS Collaboration Distance</a></li>
 
 	<li><a href="https://genealogy.math.ndsu.nodak.edu/index.php">Mathematics Genealogy Project</a></li>
 
-	<li><a href="http://www.logique.jussieu.fr/modnet/Meetings%20and%20events/Onlineseminars.html">Online seminars in model theory</a></li>
+	<li><a href="https://modnet.imj-prg.fr/seminars/">Online seminars in model theory</a></li>
 
 	<li><a href="https://researchseminars.org/">Online mathematics research seminars</a></li>
 
