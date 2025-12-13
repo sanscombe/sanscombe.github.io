@@ -14,7 +14,8 @@ order: 5
 ###### premier semestre
 
 ###### second semestre
-- Cours/TD de MPL02 dans L0PHYS
+- TD de MP2 dans L1PHYS/L1PHYSCHIM
+- TD de CM2 dans L1CUPGE
 - Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
 
 [//]: # - Mercredi 16h16--18h15, 130 Olympe de Gouges
