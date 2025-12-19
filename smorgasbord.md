@@ -86,6 +86,7 @@ Here are some __PUZZLES__ linked to my book chapter:
 
 ### outreach talks
 
+- Puzzles: [Des pirates et pièces](https://drive.google.com/file/d/1J9eCeD4WwjeT8HDJMgnucWZ2_ppAHz--/view?usp=drive_link), stage de troisième, Décembre 2025.
 - Puzzles: [Des pirates et pièces](https://drive.google.com/file/d/1LBaCjRsT_o4lBUQ2_aqhyjeVFe-fmdLs/view?usp=sharing), stage de troisième, Février 2024.
 - Puzzles: [Des pirates et pièces](https://drive.google.com/file/d/1i8fPiYukmXNtW5OP4D0BCoDrzeOag7s6/view?usp=sharing), stage de troisième, Février 2023.
 - Puzzles: [Hats, hats, and more hats](https://drive.google.com/open?id=1eRqj-A6q05ynuF0gFdmdLlzcNR156RLW), open day talk, November 2019.
