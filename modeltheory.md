@@ -12,7 +12,7 @@ order: 3
 
 <img src="/IMAGES/AI_IMAGES/irregular_tessellation1.jpg" width="40%" style="float:right;">
 
-##### 2023--2024, Université Paris Cité
+##### 2025--2026, Université Paris Cité
 
 ##### organization:
 - second semestre
@@ -24,7 +24,7 @@ order: 3
 	[part one][part one]
 - problem sheets:
 	[first batch][problem sheets 1]
-- <a class="linkteachingmain">**Partial exam**</a>: (date to be confirmed) ??th February/March 2025
+- <a class="linkteachingmain">**Partial exam**</a>: (date to be confirmed) ??th February/March 2026
 
 [//]: # - Replacement session: Monday 26th February, 9h--11h, salle 6033 Sophie Germain
 
