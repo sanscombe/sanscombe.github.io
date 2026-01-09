@@ -8,6 +8,9 @@ order: 7
 
 <img src="/IMAGES/AI_IMAGES/frog2.png" width="35%" style="float:right;">
 
+Office hours:
+here is my <a class="linkmain" href="https://calendar.app.google/Y6Akiap3fMYhNbHP6">booking system</a>
+
 My e-mail address is:
 
 >
@@ -31,11 +34,6 @@ My office telephone number is:
 
 >
 +33 (0) 1 57 27 92 12
-
-My office hours are:
-
->
-by appointment
 
 Here is a [campus map][campus map]:
 
