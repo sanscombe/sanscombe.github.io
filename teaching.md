@@ -17,10 +17,10 @@ order: 5
 - TD de MP2 dans L1PHYS/L1PHYSCHIM
 - TD de CM2 dans L1CUPGE
 - Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
+    - <a class="linkteachingmain" href="./modeltheory">course information</a>
 
 [//]: # - Mercredi 16h16--18h15, 130 Olympe de Gouges
 [//]: # - Jeudi 08h30--10h30, 2012 Sophie Germain
-[//]: # - <a class="linkteachingmain" href="./modeltheory">course information</a>
 
 [//]: # [course information][modeltheory]
 
