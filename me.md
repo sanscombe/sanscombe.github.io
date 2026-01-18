@@ -19,9 +19,6 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 ### current and upcoming
 
-- Soutenance d'HDR,
-Salle 2012, Bâtiment Sophie Germain, Paris, 16 janvier 2026
-    - "_Axiomatisabilité et décidabilité de corps valués henséliens_"
 - Giving 
 <a class="linkresearchmain" href="https://bourbaki.fr/programme2025-26.html">Séminaire Bourbaki</a>
 Paris, 31 janvier 2026
