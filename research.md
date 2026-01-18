@@ -320,17 +320,17 @@ Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 <h5>theses</h5>
 <ol reversed class="papers" type="I">
 
-<!--
 <li value="2">
 <a class="linklight">Axiomatisabilité et décidabilité de corps valués henséliens</a>.
-HDR Mémoire, Université Paris Cité, 2025.
+HDR Mémoire, Université Paris Cité, 2026.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://hal.science/">hal-</a>
+<!--
     <a class="linkresearchlight" href="https://doi.org/">doi:</a>
+-->
 </details>
 </li>
--->
 
 <li value="1">
 <a class="linklight">Definability in Henselian Fields</a>.
@@ -339,7 +339,7 @@ DPhil Thesis, University of Oxford, 2013.
 Supervised by Prof. Jochen Koenigsmann.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-    <a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">ora</a>
+    <a class="linkresearchlight" href="https://ora.ox.ac.uk/objects/uuid:65eec6d9-457d-4673-80de-6413865a6a46">ora:65eec6d9-457d-4673-80de-6413865a6a46</a>
 </details>
 </li>
 
