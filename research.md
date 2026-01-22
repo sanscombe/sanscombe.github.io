@@ -274,6 +274,7 @@ with Jochen Koenigsmann.
 <i>Notices of the American Mathematical Society</i>, 71(11):1448&ndash;1455, 2024.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
+    <a class="linkresearchlight" href="https://hal.science/">hal-</a>
     <a class="linkresearchlight" href="https://doi.org/10.1090/noti3081">doi:10.1090/noti3081</a>
 </details>
 </li>
@@ -287,6 +288,7 @@ edited by Ramla Abdellatif, Valentijn Karemaker, and Lejla Smajlovic.
 Assoc. Women Math. Ser., 32, 29--61, Springer, Cham, 2024.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
+    <a class="linkresearchlight" href="https://hal.science/hal-05472571v1">hal-05472571v1</a>
     <a class="linkresearchlight" href="https://doi.org/10.1007/978-3-031-52163-8_2">doi:10.1007/978-3-031-52163-8_2</a>
 </details>
 </li>
@@ -669,6 +671,8 @@ A selection of meetings that I have attended or will attend.
 <img src="/IMAGES/arithmetic.jpg" width="40%" style="float:right;">
 
 <ul>
+
+<li><a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a>, IMJ-PRG, Paris, 25th&ndash;27th February 2026</li>
 
 <li><a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th&ndash;28th February 2025</li>
 
