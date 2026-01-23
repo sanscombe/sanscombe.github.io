@@ -32,6 +32,19 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <h5>submitted/notes</h5>
 <ol reversed class="papers" type="a">
 
+<li value="3">
+<a class="linklight">Existential fragments of theories of henselian valued fields</a>,
+with Arno Fehm.
+<br>
+Manuscript, 2026.
+<!--
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+</details>
+    <a class="linkresearchlight" href="http://arxiv.org/abs/????.?????">arXiv:????.????? [math.LO]</a>
+-->
+</li>
+
 <li value="2">
 <a class="linklight">On lambda functions in henselian and separably tame valued fields</a>.
 <br>
@@ -62,7 +75,6 @@ Submitted, 2024.
 
 <h5>research articles</h5>
 <ol reversed class="papers">
-
 
 <li value="16">
 <a class="linklight">Interpretations of syntactic fragments of theories of fields</a>,
@@ -298,7 +310,7 @@ with Jochen Koenigsmann.
 <h5>other publications</h5>
 <ol reversed class="papers" type="i"> 
 
-<li>
+<li value="5">
 <a class="linklight">Exposé Bourbaki 1246 : The model theory of perfectoid fields [after Jahnke and Kartas]</a>.
 <!--
 <br>
