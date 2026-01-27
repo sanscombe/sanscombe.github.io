@@ -98,7 +98,7 @@ To appear in <i>Israel Journal of Mathematics</i>, 2024.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://arxiv.org/abs/1503.05803">arXiv:1503.05803 [math.LO]</a>
-    <a class="linkresearchlight" href="https://hal.science/hal-05292948v1">hal-05292948v1</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05292948">hal-05292948</a>
     <a class="linkresearchlight" href="https://doi.org/10.1016/j.jalgebra.2025.09.005">doi:10.1016/j.jalgebra.2025.09.005</a>
 </details>
 </li>
@@ -348,7 +348,7 @@ Assoc. Women Math. Ser., 32, 29--61, Springer, Cham, 2024.
 -->
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-    <a class="linkresearchlight" href="https://hal.science/hal-05472571v1">hal-05472571v1</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05472571">hal-05472571</a>
     <a class="linkresearchlight" href="https://doi.org/10.1007/978-3-031-52163-8_2">doi:10.1007/978-3-031-52163-8_2</a>
 </details>
 </li>
@@ -391,7 +391,7 @@ Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 HDR Mémoire, Université Paris Cité, 2026.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-    <a class="linkresearchlight" href="https://hal.science/tel-05477988">tel-05477988v1</a>
+    <a class="linkresearchlight" href="https://hal.science/tel-05477988">tel-05477988</a>
 <!--
     <a class="linkresearchlight" href="https://doi.org/">doi:</a>
 -->
