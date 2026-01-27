@@ -41,8 +41,8 @@ Manuscript, 2026.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
 </details>
-    <a class="linkresearchlight" href="http://arxiv.org/abs/????.?????">arXiv:????.????? [math.LO]</a>
 -->
+    <a class="linkresearchlight" href="http://arxiv.org/abs/2601.17395">arXiv:2601.17395 [math.LO]</a>
 </li>
 
 <li value="2">
@@ -391,7 +391,7 @@ Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 HDR Mémoire, Université Paris Cité, 2026.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-    <a class="linkresearchlight" href="https://hal.science/">hal-</a>
+    <a class="linkresearchlight" href="https://hal.science/tel-05477988">tel-05477988v1</a>
 <!--
     <a class="linkresearchlight" href="https://doi.org/">doi:</a>
 -->
