@@ -13,11 +13,11 @@ There will be symposium-type seminars given by invited speakers from a range of 
 - _Dates_ : 25th -- 27th February 2026
 - _Speakers_ :
     - [Bahareh Afshari](https://www.gu.se/en/about/find-staff/baharehafshari), Gothenburg
+    - [Manuel Bodirsky](https://tu-dresden.de/mn/math/algebra/bodirsky?set_language=en), Dresden
     - [Juliette Kennedy](https://www.mv.helsinki.fi/home/jkennedy/), Helsinki
     - [Silvain Rideau-Kikuchi](https://www.math.ens.psl.eu/~rideau/), ENS, PSL
     - [Corey Bacal Switzer](https://coreyswitzer.wordpress.com/), Vienna
     - [Tingxiang Zou](https://sites.google.com/site/zoutingxiang2/), Bonn
-    - _one other to be confirmed_
 
 [//]: # [Albert Atserias](https://www.cs.upc.edu/~atserias/), Catalonia
 
