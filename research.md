@@ -312,9 +312,11 @@ with Jochen Koenigsmann.
 
 <li value="5">
 <a class="linklight">Exposé Bourbaki 1246 : The model theory of perfectoid fields [after Jahnke and Kartas]</a>.
-<!--
 <br>
-Séminaire Bourbaki, volume 2025/2026, exposés 1246-12??.
+Séminaire Bourbaki, volume 2025/2026.
+To appear.
+<!--
+, exposés 1246-12??.
 <i>Astérisque</i>, no.438, p. 247&ndash;279, 2022.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
