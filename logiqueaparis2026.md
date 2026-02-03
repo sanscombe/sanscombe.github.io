@@ -12,14 +12,12 @@ There will be symposium-type seminars given by invited speakers from a range of 
 [//]: # - <a class="linkdebugmain" href="/LAP2026/LAP2026_poster.pdf">LAP 2026 poster</a>
 - _Dates_ : 25th -- 27th February 2026
 - _Speakers_ :
-    - [Bahareh Afshari](https://www.gu.se/en/about/find-staff/baharehafshari), Gothenburg
-    - [Manuel Bodirsky](https://tu-dresden.de/mn/math/algebra/bodirsky?set_language=en), Dresden
-    - [Juliette Kennedy](https://www.mv.helsinki.fi/home/jkennedy/), Helsinki
-    - [Silvain Rideau-Kikuchi](https://www.math.ens.psl.eu/~rideau/), ENS, PSL
-    - [Corey Bacal Switzer](https://coreyswitzer.wordpress.com/), Vienna
-    - [Tingxiang Zou](https://sites.google.com/site/zoutingxiang2/), Bonn
-
-[//]: # [Albert Atserias](https://www.cs.upc.edu/~atserias/), Catalonia
+    - [Bahareh Afshari][Afshari], Gothenburg
+    - [Manuel Bodirsky][Bodirsky], Dresden
+    - [Juliette Kennedy][Kennedy], Helsinki
+    - [Silvain Rideau-Kikuchi][Rideau-Kikuchi], ENS, PSL
+    - [Corey Bacal Switzer][Bacal Switzer], Vienna
+    - [Tingxiang Zou][Zou], Bonn
 
 - _Location_ : Campus Grandes Moulins, Université Paris Cité, 75013 Paris
 	- Amphi Turing, Sophie Germain
@@ -36,6 +34,13 @@ There will be symposium-type seminars given by invited speakers from a range of 
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png
+
+[Afshari]: https://www.gu.se/en/about/find-staff/baharehafshari
+[Bodirsky]: https://tu-dresden.de/mn/math/algebra/bodirsky?set_language=en
+[Kennedy]: https://www.mv.helsinki.fi/home/jkennedy/
+[Rideau-Kikuchi]: https://www.math.ens.psl.eu/~rideau/
+[Bacal Switzer]: https://coreyswitzer.wordpress.com/
+[Zou]: https://sites.google.com/site/zoutingxiang2/
 
 <a href="/ICONS/imj-prg_bleu.png"><img src="/ICONS/imj-prg_bleu.png" alt="IMJ-PRG" width="15%">
 <a href="/ICONS/upc.png"><img src="/ICONS/upc.png" alt="Université Paris Cité" width="15%">
