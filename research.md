@@ -446,6 +446,14 @@ PhD
 
 Master/M&eacute;moire
 <ul>
+    <li>Mahsa Yadegari Khozani.
+        Current student,
+        2026.
+    </li>
+    <li>Thibaud Oiffer.
+        Current student,
+        2026.
+    </li>
     <li>Fares Arous.
         <i>Corps de Kaplansky très minces</i>,
         mémoire de M1,
