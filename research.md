@@ -315,6 +315,7 @@ with Jochen Koenigsmann.
 <br>
 Séminaire Bourbaki, volume 2025/2026.
 To appear.
+    <a class="linkresearchlight" href="https://www.carmin.tv/en/video/1246-the-model-theory-of-perfectoid-fields">video</a>
 <!--
 , exposés 1246-12??.
 <i>Astérisque</i>, no.438, p. 247&ndash;279, 2022.

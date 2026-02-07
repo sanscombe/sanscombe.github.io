@@ -324,9 +324,9 @@ a.linkresearchfade:hover {background:Maroon;border-color:Maroon}
 a.linkresearchfade:link, a.linkresearchfade:visited {}
 
 a.linkresearchlight {border-style: solid;
-border-radius: 6px;
-border-left-width: 3px;
-border-right-width: 2px;
+border-radius: 8px;
+border-left-width: 5px;
+border-right-width: 5px;
 border-top-width: 2px;
 border-bottom-width: 2px;
 border-color: Red}/*SeaShell}*/
@@ -345,8 +345,8 @@ a.linkresearchdetails {border-style: solid;
 border-radius: 8px;
 border-left-width: 5px;
 border-right-width: 5px;
-border-top-width: 3px;
-border-bottom-width: 3px;
+border-top-width: 2px;
+border-bottom-width: 2px;
 border-color: Gray}/*SeaShell}*/
 a.linkresearchdetails {text-decoration:none;
 color:White;
