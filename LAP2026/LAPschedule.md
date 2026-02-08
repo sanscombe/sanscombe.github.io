@@ -21,7 +21,7 @@ layout: page_LAP_2026
 | 15h00-15h30 | pause               | pause                | pause                  |
 | 15h30-16h30 | [Kennedy] | [Afshari] | [Rideau-Kikuchi] |
 | | | | |
-| 16h45-18h00 | | | |
+| 16h45-18h00 | Panel 1 | Panel 2 | |
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png
@@ -41,14 +41,6 @@ layout: page_LAP_2026
 [Rideau-Kikuchi]: https://www.math.ens.psl.eu/~rideau/
 [Bacal Switzer]: https://coreyswitzer.wordpress.com/
 [Zou]: https://sites.google.com/site/zoutingxiang2/
-
-
-[AA]: https://www.cs.upc.edu/~atserias/
-[IB]: https://www.ingo-blechschmidt.eu/
-[LF]: https://lacl.fr/~lfontanella/
-[JK]: https://www.cantab.net/users/jonathankirby/
-[CLH]: https://users.math.cas.cz/~lambiehanson/
-[MV]: https://sites.google.com/view/m-vicaria/home/
 
 [UPC]:  https://u-paris.fr/
 [IMJ-PRG]: https://www.imj-prg.fr/
