@@ -879,6 +879,10 @@ A selection of meetings that I have attended or will attend.
 
     <li><a class="linkseminarmain" href="https://gtm.imj-prg.fr/">G&eacute;om&eacute;trie et Th&eacute;orie des Mod&egrave;les</a></li>
 
+    <li><a class="linkseminarmain" href="https://www.imj-prg.fr/gestion/evenement/affEvenement/71">Séminaire Théorie des modèles et groupes</a></li>
+
+    <li><a class="linkseminarmain" href="https://semsao.imj-prg.fr/">Séminaire structures algébriques ordonnées</a></li>
+
 </ul>
 
 </li>
