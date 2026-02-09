@@ -451,6 +451,10 @@ Master/M&eacute;moire
         Current student,
         2026.
     </li>
+    <li>Fares Arous.
+        Current student,
+        2026.
+    </li>
     <li>Thibaud Oiffer.
         Current student,
         2026.
