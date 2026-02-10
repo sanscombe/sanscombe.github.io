@@ -12,11 +12,6 @@ at [Université Paris Cité][UPC], and a member of the [Équipe de Logique][LM] 
 
 My [research][research] is in model theory and its connections to algebra and number theory.
 
-<!--
-<a href="./seine2.jpg"><img src="/seine.jpg" alt="The river Seine" width="100%" style="display:block; margin-left: auto; margin-right: auto;"></a>
--->
-
-
 ### current and upcoming
 
 <!--
@@ -26,10 +21,19 @@ Paris, 31 janvier 2026
     - "_La théorie des modèles des corps perfectoïdes, d'après Jahnke et Kartas_"
 -->
 - Speaking at
-<a class="linkresearchmain" href="https://slalm21.uniandes.edu.co/en/">XXI Simposio latinoamericano de lógica matemática</a>
-(SLALM XXI),
-Bogotá,
-June 1--5 2026
+    <a class="linkresearchmain" href="https://gtm.imj-prg.fr/">Géométrie et Théorie des Modèles</a>,
+    Paris,
+    March 27th 2026
+- Speaking at
+    <a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>,
+    ICMS,
+    Edinburgh,
+    11th -- 15th May 2026
+- Speaking at
+    <a class="linkresearchmain" href="https://slalm21.uniandes.edu.co/en/">XXI Simposio latinoamericano de lógica matemática</a>
+    (SLALM XXI),
+    Bogotá,
+    June 1--5 2026
 - <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __registration now open!__
 
 <br>
