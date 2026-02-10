@@ -447,6 +447,10 @@ PhD
 
 Master/M&eacute;moire
 <ul>
+    <li>Sol Susana Santoyo Olivera.
+        Current student, co-supervised with Pablo Cubides Kovacsics,
+        2026.
+    </li>
     <li>Mahsa Yadegari Khozani.
         Current student,
         2026.
