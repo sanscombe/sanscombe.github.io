@@ -447,6 +447,10 @@ PhD
 
 Master/M&eacute;moire
 <ul>
+    <li>Sol Susana Santoyo Olivera.
+        Current student, co-supervised with <a href="https://math.uniandes.edu.co/~p.cubideskovacsics/">Pablo Cubides Kovacsics</a>,
+        2026.
+    </li>
     <li>Mahsa Yadegari Khozani.
         Current student,
         2026.
