@@ -8,6 +8,15 @@ layout: page_LAP_2026
 
     Temporal logic encompasses a family of logics equipped with unary and binary operators that express temporal properties such as ‘eventually’ and ‘always’. These logics play a central role in the theory of computation, where the succinct specification and tractable verification of state-based systems are essential for reliable and efficient system design. This course offers an introduction to temporal logic and the proof systems developed for reasoning about them. We demonstrate how formal proofs can be used to analyse fundamental computational properties, including decidability and interpolation. The second half of the course explores more advanced topics, including infinitary and cyclic proof systems.
 
+1. [Corey Bacal Switzer][Bacal Switzer]
+- _Uncountable Linear Orders and Dense Subsets of Polish Spaces 1_
+
+    A foundational theorem in logic is Cantor's discovery that DLO is $\omega$ categorical or that every countable, dense linear without endpoints is isomorphic to the rationals with their standard ordering. A more topological phrasing of this result is that for each pair $A, B \subseteq \mathbb R$ which are countable and dense there is a linear order automorphism, and hence autohomeomorphism $h:\mathbb R \to \mathbb R$ so that $h``A = B$. Following Cantor, Brouwer proved this latter statement (for homeomorphisms) holds in fact for every finite dimensional Euclidean space $\mathbb R^n$ and even many locally compact, finite dimensional manifolds. A natural question is how to generalize these theorems to uncountable dense sets. In the context of linear suborders of the reals, the natural statement is denoted Baumgartner's axiom or BA and was shown to be consistent (and independent) of the axioms of ZFC by Baumgartner in 1973. There are equally natural variations for various Polish spaces $X$ and many interesting questions (most of them open) about when a Baumgartner axiom for one space $X$ implies another for a space $Y$. For instance Steprans and Watson showed in 1987 that BA (\mathbb R^n) is consistent but does not imply BA for any $n >1$. It is open whether the reverse implication holds. In this talk we will introduce this topic including the above results and more and show how it naturally ties together set theory, real analysis, topology, order theory and model theory.
+
+- _Uncountable Linear Orders and Dense Subsets of Polish Spaces 2_
+
+    In the second talk we continue to discuss Baumgartner's axiom and its variants introduced in the first talk but focus more on applications of these statements including connections between BA and other set theoretic axioms. In particular we will look at the effect of BA and its relatives on the topology of the real line and cardinal characteristics of the continuum. Time permitting we will discuss some of the author's recent work studying different models of set theory where BA and its relatives hold.
+
 1. [Silvain Rideau-Kikuchi][Rideau-Kikuchi]
 - _Existentially closed fields with an automorphism and difference algebraic geometry_
 
