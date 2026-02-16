@@ -13,9 +13,9 @@ layout: page_LAP_2026
 | | Wednesday 25th | Thursday 26th | Friday 27th | 
 | | ----------- | ---------- |---------- |
 | 09h00-09h30 | welcome and registration |  |  | 
-| 09h30-10h30 | [Bacal Switzer] | [Zou] |  [Bodirsky] | 
+| 09h30-10h30 | [Bacal Switzer] | [Bodirsky] |  [Zou] | 
 | 10h30-11h00 | pause               | pause | pause |
-| 11h00-12h00 | [Bacal Switzer] | [Zou] | [Bodirsky] |
+| 11h00-12h00 | [Bacal Switzer] | [Bodirsky] | [Zou] |
 |             | | | | 
 | 14h00-15h00 | [Kennedy] | [Afshari] | [Rideau-Kikuchi] | 
 | 15h00-15h30 | pause               | pause                | pause                  |
