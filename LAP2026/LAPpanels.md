@@ -4,9 +4,13 @@ layout: page_LAP_2026
 ---
 #### Panels
 
-- coming soon
+- **Wednesday Panel: the impact of AI on research**
 
-[//]: # #### Wednesday Panel: Career discussion
+    Riccardo Brasca, Grégoire Sergeant-Perthuis
+
+- **Thursday Panel: Career discussion**
+
+    Sylvy Anscombe, Vincent Bagayoko, Silvain Rideau-Kikuchi, Juliette Kennedy, with Alexei Saurin moderating.
 
 [//]: # 1. [Alexis Saurin][AS]
 
