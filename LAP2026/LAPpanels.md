@@ -6,7 +6,7 @@ layout: page_LAP_2026
 
 - **Wednesday Panel: the impact of AI on research**
 
-    Riccardo Brasca, Grégoire Sergeant-Perthuis
+    Guillaume Baudart, Riccardo Brasca, Grégoire Sergeant-Perthuis
 
 - **Thursday Panel: Career discussion**
 
