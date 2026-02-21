@@ -36,7 +36,7 @@ Keywords: Mathematical logic, model theory, applications of model theory to alge
 <a class="linklight">Existential fragments of theories of henselian valued fields</a>,
 with Arno Fehm.
 <br>
-Manuscript, 2026.
+Submitted, 2026.
 <!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>

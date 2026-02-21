@@ -45,6 +45,7 @@ Paris, 31 janvier 2026
 
 <a href="https://u-paris.fr/"><img src="/ICONS/upc.png" alt="Université Paris Cité" title="Université Paris Cité" align="right" width="25%"></a>
 <a href="https://www.imj-prg.fr/"><img src="/ICONS/imj-prg_horizontal_bleu.png" alt="IMJ-PRG" title="IMJ-PRG" align="right" width="25%"></a>
+<a href="https://www.imj-prg.fr/"><img src="/IMAGES/Spectra-white.png" alt="IMJ-PRG" title="IMJ-PRG" align="right" width="22%"></a>
 
 
 [\\]: # - [GEOMOD Final Conference](https://fgallinaro.github.io/geomod-conference.github.io/), Freiburg, 13th--17th November 2023
