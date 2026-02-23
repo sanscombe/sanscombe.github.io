@@ -9,6 +9,14 @@ layout: page_LAP_2026
     Temporal logic encompasses a family of logics equipped with unary and binary operators that express temporal properties such as ‘eventually’ and ‘always’. These logics play a central role in the theory of computation, where the succinct specification and tractable verification of state-based systems are essential for reliable and efficient system design. This course offers an introduction to temporal logic and the proof systems developed for reasoning about them. We demonstrate how formal proofs can be used to analyse fundamental computational properties, including decidability and interpolation. The second half of the course explores more advanced topics, including infinitary and cyclic proof systems.
 
 1. [Manuel Bodirsky][Bodirsky]
+- _Model-theoretic Challenges in Constraint Satisfaction_
+
+    Homogeneous structures and their reducts can be used to model many computational problems from finite model theory as constraint satisfaction problems (CSPs). In this talk I will give a survey on three open model-theoretic problems for such structures that are relevant for obtaining complexity classification results for the corresponding CSPs. In particular, I will discuss Thomas' closed supergroup conjecture, a topological reconstruction conjecture, and the finite homogeneous Ramsey expansion conjecture.
+
+    - _Binary finitely homogeneous NIP structures, and taking model-complete cores_
+
+    Many important questions in model theory are open for finitely homogeneous structures, and often they even remain open if we additionally require that the structures are dependent (NIP). It might be possible to classify such structures explicitly, and such a classification might be useful to answer the open questions at least for these structures. In this tutorial I present the concept of model-complete cores, which I believe to be a useful tool (besides the concept of first-order interpretations) for such a classification task.
+    Some results reported in the second talk are joint work with Bertalan Bodor and Paolo Marimon
 
 1. [Juliette Kennedy][Kennedy]
 - _Gödel and the Entscheidungsproblem_
