@@ -8,6 +8,8 @@ layout: page_LAP_2026
 
     Temporal logic encompasses a family of logics equipped with unary and binary operators that express temporal properties such as ‘eventually’ and ‘always’. These logics play a central role in the theory of computation, where the succinct specification and tractable verification of state-based systems are essential for reliable and efficient system design. This course offers an introduction to temporal logic and the proof systems developed for reasoning about them. We demonstrate how formal proofs can be used to analyse fundamental computational properties, including decidability and interpolation. The second half of the course explores more advanced topics, including infinitary and cyclic proof systems.
 
+1. [Manuel Bodirsky][Bodirsky]
+
 1. [Juliette Kennedy][Kennedy]
 - _Gödel and the Entscheidungsproblem_
 
