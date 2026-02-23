@@ -8,6 +8,15 @@ layout: page_LAP_2026
 
     Temporal logic encompasses a family of logics equipped with unary and binary operators that express temporal properties such as ‘eventually’ and ‘always’. These logics play a central role in the theory of computation, where the succinct specification and tractable verification of state-based systems are essential for reliable and efficient system design. This course offers an introduction to temporal logic and the proof systems developed for reasoning about them. We demonstrate how formal proofs can be used to analyse fundamental computational properties, including decidability and interpolation. The second half of the course explores more advanced topics, including infinitary and cyclic proof systems.
 
+1. [Juliette Kennedy][Kennedy]
+- _Gödel and the Entscheidungsproblem_
+
+    Formulated in its standard form in Hilbert and Ackermann’s 1928 text, the Entscheidingsproblem asks whether there is an algorithm for deciding validity for first order logic, i.e. if there is an algorithm which decides in a yes or no manner for any first order statement, whether it is valid or not. In this talk I will take up a question posed by Kripke in his 2013 paper, "The Church-Turing ‘Thesis’ as a Special Corollary of Gödel’s Completeness Theorem": why didn't  Gödel publish a negative solution to the Entscheidungsproblem in 1931, given that it follows very naturally from theorem IX of Gödel’s 1931 paper on incompleteness? Given the fact that the Entscheidingsproblem  was considered the major open problem in logic throughout the 1920s and 30s, Kripke's question is a natural one to ask. Here I lay out a response to Kripke based on joint work with Walter Dean. After discussing the Entscheidingsproblem I will speak briefly about the machine metaphor, before turning to the continuation of this stream of thought around the Entscheidingsproblem in Gödel’s work going forward.
+
+    - _Set theory and first order logic_
+
+    In this talk I will point out the various ways in which set theory (in the form of the ZFC axioms) sheds light on the nature of first order logic. From some points of view, set theory underwrites the canonicity of first order logic; while from other points of view, set theory calls this very canonicity into question. We also take up the question whether set theory can be viewed in a natural way as a higher order logic.
+
 1. [Corey Bacal Switzer][Bacal Switzer]
 - _Uncountable Linear Orders and Dense Subsets of Polish Spaces 1_
 
