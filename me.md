@@ -5,7 +5,9 @@ categories: me
 order: 1
 ---
 
-<a href="/IMAGES/sky.jpg"><img src="/IMAGES/sky.jpg" alt="The sky, it's blue" title="The sky, it's blue" align="right" width="30%"></a>
+<!--
+<a href="/IMAGES/sky.jpg"><img src="/IMAGES/sky.jpg" alt="The sky, it's blue" title="The sky, it's blue" align="right" width="30%"></a> -->
+<a href="/IMAGES/munster.jpg"><img src="/IMAGES/munster.jpg" alt="Münster lecture" title="Münster lecture" align="right" width="30%"></a>
 I am a mathematician.
 I am maîtresse de conférences
 at [Université Paris Cité][UPC], and a member of the [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
@@ -34,8 +36,9 @@ Paris, 31 janvier 2026
     (SLALM XXI),
     Bogotá,
     1st--5th June 2026
-- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __registration now open!__
+- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __THIS WEEK!__
 
+<br>
 <br>
 
 - Support by [AKE-PACT][AKE-PACT] "_The AKE Philosophy: from Arithmetic Geometry to Classification Theory_" (ANR-24-CE92-0082), 2025--2028.
