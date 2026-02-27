@@ -10,7 +10,7 @@ layout: page_LAP_2026
 
 - **Thursday Panel: Career discussion**
 
-    Sylvy Anscombe, Vincent Bagayoko, Silvain Rideau-Kikuchi, Juliette Kennedy, with Alexei Saurin moderating.
+    Sylvy Anscombe, Vincent Bagayoko, Silvain Rideau-Kikuchi, Juliette Kennedy, with Alexis Saurin moderating.
 
 [//]: # 1. [Alexis Saurin][AS]
 

@@ -21,7 +21,7 @@ layout: page_LAP_2026
 | 15h00-15h30 | pause               | pause                | pause                  |
 | 15h30-16h30 | [Kennedy] | [Afshari] | [Rideau-Kikuchi] |
 | | | | |
-| 16h45-18h00 | Panel 1 | Panel 2 | |
+| 16h45-18h00 | [Panel 1: AI and research][P] | [Panel 2: careers][P] | |
 
 [campus]: /IMAGES/plan_campus.png
 [HAF]: /IMAGES/plan_HAF.png
