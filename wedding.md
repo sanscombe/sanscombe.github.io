@@ -3,6 +3,7 @@ title: Marine & Sylvy
 category: personal
 layout: blank
 ---
+
 - **RSVP** : 
     <a class="linkblogmain" href="https://forms.gle/a7obzdKTiHt2cLvj7">Réponse / Form</a>
 
@@ -32,3 +33,5 @@ layout: blank
     - **Église** catholique Saint-Martin à Tourville-sur-Arques
         ([map](https://maps.app.goo.gl/248QUermeRfLDTSx7))
         Rue de l'Église, 76550 Tourville-sur-Arques, France  
+
+<a href="/IMAGES/munster.jpg"><img src="/IMAGES/munster.jpg" alt="Münster lecture" title="Münster lecture" align="right" width="30%"></a>
