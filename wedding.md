@@ -15,7 +15,7 @@ layout: blank
     - 14h30 cérémonie du mariage / marriage ceremony @**Mairie de Neuville-lès-Dieppe**
     - après-midi : activités à confirmer / afternoon activities to be confirmed
     - 20h Apéro / pre-dinner drinks @**Salle des fêtes**
-    - 21h Dîner buffet / buffet dinner @**Salle des fêtes**   
+    - 21h Dîner buffet et fête / buffet dinner and party @**Salle des fêtes**   
 
 [\\]: # - 15h00 pot / drinks @**Burrow**
 [\\]: #     - 17h00 _relax_
