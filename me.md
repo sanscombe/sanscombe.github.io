@@ -36,7 +36,8 @@ Paris, 31 janvier 2026
     (SLALM XXI),
     Bogotá,
     1st--5th June 2026
-- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __THIS WEEK!__
+
+<!-- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __THIS WEEK!__-->
 
 <br>
 <br>

@@ -7,7 +7,9 @@ There will be symposium-type seminars given by invited speakers from a range of 
 
 [//]: # <a href="/LAP2026/LAP2026_poster.pdf"><img src="/LAP2026/LAP2026_logo.jpeg" width="50%" style="float:right;border: 0px solid black;"></a>
 
-- <a class="linkdebugmain" href="https://forms.gle/6LSDXG29JP8yvs9R8">Registration</a> --- now open!
+- **Many thanks to all speakers, panellists, and attendees**
+
+- <a class="linkdebugmain" href="https://forms.gle/6LSDXG29JP8yvs9R8">Registration</a>
 
 [//]: # - <a class="linkdebugmain" href="/LAP2026/LAP2026_poster.pdf">LAP 2026 poster</a>
 - _Dates_ : 25th -- 27th February 2026

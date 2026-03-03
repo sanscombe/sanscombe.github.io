@@ -315,16 +315,17 @@ with Jochen Koenigsmann.
 <br>
 Séminaire Bourbaki, volume 2025/2026.
 To appear.
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2602.23779">arXiv:2602.23779 [math.LO]</a>
     <a class="linkresearchlight" href="https://www.carmin.tv/en/video/1246-the-model-theory-of-perfectoid-fields">video</a>
 <!--
 , exposés 1246-12??.
 <i>Astérisque</i>, no.438, p. 247&ndash;279, 2022.
-<details>
-<summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://hal.science/hal-????????">hal-????????</a>
     <a class="linkresearchlight" href="https://doi.org/10.?????/ast.????">doi:10.?????/ast.????</a>
-</details>
 -->
+</details>
 </li>
 
 <li value="4">
@@ -335,7 +336,7 @@ To appear.
 -->
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-    <a class="linkresearchlight" href="https://hal.science/">hal-</a>
+    <a class="linkresearchlight" href="https://hal.science/hal-05158080v1">hal-05158080v1</a>
     <a class="linkresearchlight" href="https://doi.org/10.1090/noti3081">doi:10.1090/noti3081</a>
 </details>
 </li>
