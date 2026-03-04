@@ -36,6 +36,10 @@ Paris, 31 janvier 2026
     (SLALM XXI),
     Bogotá,
     1st--5th June 2026
+- Speaking at
+    <a class="linkresearchmain" href="https://www.math.uni-duesseldorf.de/~internet/Kolloquium/index.html">Mathematical Colloquium</a>,
+    HHU Düsseldorf,
+    10th June 2026
 
 <!-- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __THIS WEEK!__-->
 
