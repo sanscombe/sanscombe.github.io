@@ -34,9 +34,10 @@ layout: blank
     - **Salle des fêtes** - Salle des fêtes, Tourville-sur-Arques
         ([map](https://maps.app.goo.gl/daeLRmwqV4wKgQ1F8))
         6 rue du Val Gosset, 76550 Tourville-sur-Arques
-    - **Église** catholique Saint-Martin à Tourville-sur-Arques
-        ([map](https://maps.app.goo.gl/248QUermeRfLDTSx7))
-        Rue de l'Église, 76550 Tourville-sur-Arques, France  
+
+[\\]: # - **Église** catholique Saint-Martin à Tourville-sur-Arques
+[\\]: # ([map](https://maps.app.goo.gl/248QUermeRfLDTSx7))
+[\\]: # Rue de l'Église, 76550 Tourville-sur-Arques, France  
 
 <br>
 
