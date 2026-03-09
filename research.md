@@ -310,6 +310,18 @@ with Jochen Koenigsmann.
 <h5>other publications</h5>
 <ol reversed class="papers" type="i"> 
 
+<li value="6">
+<a class="linklight">A note on existentially t-henselian fields</a>.
+<br>
+Submitted.
+    <a class="linkresearchlight" href="./backpages/Sylvy_DDG_2026.pdf">pdf</a>
+<!--
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+</details>
+-->
+</li>
+
 <li value="5">
 <a class="linklight">Exposé Bourbaki 1246 : The model theory of perfectoid fields [after Jahnke and Kartas]</a>.
 <br>
@@ -396,9 +408,7 @@ HDR Mémoire, Université Paris Cité, 2026.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://hal.science/tel-05477988">tel-05477988</a>
-<!--
-    <a class="linkresearchlight" href="https://doi.org/">doi:</a>
--->
+    <a class="linkresearchlight" href="./backpages/Sylvy_HDR_SOUTENANCE_January_2026.pdf">slides</a>
 </details>
 </li>
 
