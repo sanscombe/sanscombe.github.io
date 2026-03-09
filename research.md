@@ -766,6 +766,8 @@ A selection of meetings that I have attended or will attend.
 
 <ul>
 
+<li><a class="linkdebugmain" href="https://conferences.cirm-math.fr/3500.html">Arithmetic of fields: model theory, valuations, and geometry</a> (L’arithmétiques des corps : théories des modèles, valuations, et geometrie), CIRM, 6th&ndash;10th April 2026</li>
+
 <li><a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a>, IMJ-PRG, Paris, 25th&ndash;27th February 2026</li>
 
 <li><a class="linkdebugmain" href="./logiqueaparis2025.html">Logique à Paris 2025</a>, IMJ-PRG, Paris, 26th&ndash;28th February 2025</li>
