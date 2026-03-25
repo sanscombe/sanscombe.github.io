@@ -41,7 +41,7 @@ Speaking at
 <!-- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __THIS WEEK!__-->
 Conference:
 - <a class="linkdebugmain" href="https://conferences.cirm-math.fr/3500.html">Arithmetic of fields: model theory, valuations, and geometry</a>
-(L’arithmétiques des corps : théories des modèles, valuations, et geometrie), CIRM, 6th--10th April 2026 $\Longleftarrow$ __REGISTRATION OPEN__
+(L’arithmétiques des corps : théories des modèles, valuations, et geometrie), CIRM, 6th--10th April 2026
 
 <br>
 <br>
