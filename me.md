@@ -16,16 +16,6 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 ### current and upcoming
 
-<!--
-- Giving 
-<a class="linkresearchmain" href="https://bourbaki.fr/programme2025-26.html">Séminaire Bourbaki</a>
-Paris, 31 janvier 2026
-    - "_La théorie des modèles des corps perfectoïdes, d'après Jahnke et Kartas_"
--->
-Speaking at
-- <a class="linkresearchmain" href="https://gtm.imj-prg.fr/">Géométrie et Théorie des Modèles</a>,
-    Paris,
-    27th March 2026
 - <a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>,
     ICMS,
     Edinburgh,

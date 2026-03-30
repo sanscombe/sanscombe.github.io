@@ -585,6 +585,18 @@ Leeds, January 2020
 <ol reversed type="a">
 
 <li>
+Geometric formulations of existential Ax--Kochen--Ershov-statements,
+<a class="linkresearchmain" href="https://gtm.imj-prg.fr/">Géométrie et Théorie des Modèles</a>,
+IHP, Paris, 27th March 2026.
+</li>
+
+<li>
+La théorie des modèles des corps perfectoïdes, d'après Jahnke et Kartas,
+<a class="linkresearchmain" href="https://bourbaki.fr/programme2025-26.html">Séminaire N. Bourbaki</a>,
+IHP, Paris, 31 janvier 2026.
+</li>
+
+<li>
 Fragments of theories of fields and transfer of existential decidability,
 <a href="https://www.math.uni.wroc.pl/~dobrowol/conferences/2023/workshop.html">Model theory and related topics</a>,
 Manchester, July 2023.
