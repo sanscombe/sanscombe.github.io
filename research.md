@@ -314,7 +314,7 @@ with Jochen Koenigsmann.
 <a class="linklight">A note on existentially t-henselian fields</a>.
 <br>
 Submitted.
-    <a class="linkresearchlight" href="./backpages/Sylvy_DDG40_2026.pdf">pdf</a>
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2603.27612">arXiv:2603.27612 [math.LO]</a>
 <!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
