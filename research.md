@@ -15,16 +15,9 @@ Sylvy Anscombe
 
 <div id="section">
 
-<!--<img src="/IMAGES/AI_IMAGES/chaos3.png" width="35%" style="float:right;">-->
-
 My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory">Model Theory</a>, a part of <a href="https://en.wikipedia.org/wiki/Mathematical_logic">Mathematical Logic</a>, including connections to algebra and number theory.
-<!--I am supported by <a href="https://home.mathematik.uni-freiburg.de/palacin/GeoMod/">GeoMod</a>.-->
 
 <br><br>
-
-<!--
-Keywords: Mathematical logic, model theory, applications of model theory to algebra and number theory, Diophantine equations, asymptotic classes, measurable structures, pseudofinite structures, valued fields, henselianity, definable henselian valuations, Hilbert's Tenth Problem, arithmetic, homogeneous structures, infinite graphs<br>
--->
 
 <h3>publications</h3>
 
@@ -521,8 +514,6 @@ Currently serving as editor of
 
 <h3>talks</h3>
 
-<!--A selection of slides, notes, and abstracts.-->
-
 <img src="/IMAGES/spices.jpg" width="35%" style="float:right;">
 
 <h5>short courses</h5>
@@ -581,7 +572,7 @@ Leeds, January 2020
 
 </ol>
 
-<h5>conference talks and seminars (a selection)</h5>
+<h5>selected conference talks and seminars</h5>
 <ol reversed type="a">
 
 <li>
@@ -591,7 +582,7 @@ IHP, Paris, 27th March 2026.
 </li>
 
 <li>
-La théorie des modèles des corps perfectoïdes, d'après Jahnke et Kartas,
+La théorie des modèles des corps perfectoïdes [d'après Jahnke et Kartas],
 <a class="linkresearchmain" href="https://bourbaki.fr/programme2025-26.html">Séminaire N. Bourbaki</a>,
 IHP, Paris, 31 janvier 2026.
 </li>
@@ -610,7 +601,7 @@ online, June 2023.
 
 <li>
 Interpretations of fragments of theories of fields,
-<a href="http://gtm.imj-prg.fr">Géométrie et Théorie des Modèles</a>,
+<a class="linkresearchmain" href="https://gtm.imj-prg.fr/">Géométrie et Théorie des Modèles</a>,
 Jussieu, Paris, June, 2023.
 </li>
 
@@ -626,12 +617,6 @@ Transfer of decidability for existential theories of (valued) fields,
 <a href="https://www.youtube.com/live/OGA6R0vL1ts?feature=share">video</a>),
 <a href="https://conferences.cirm-math.fr/2761.html">Théorie des modèles des corps valués</a>,
 CIRM, Luminy, May, 2023.
-</li>
-
-<li>
-Hilbert's Tenth Problem - for the 21st century,
-<a href="https://sites.google.com/iiserbpr.ac.in/prospiral/events/2023/moss-2023">MOSS 2023</a>,
-Project Spiral, April, 2023.
 </li>
 
 <li>
@@ -697,7 +682,7 @@ Henselian discretely valued fields and existential AKE principles
 <li>
 Shelah’s Conjecture and Johnson’s Theorem [after Will Johnson]
 (<a href="https://www.bourbaki.fr/TEXTES/Exp1186-Anscombe.pdf">notes</a>),
-<a href="https://www.bourbaki.fr/">Séminaire N. Bourbaki</a>, IHP, Paris, November 2021.
+<a class="linkresearchmain" href="https://www.bourbaki.fr/">Séminaire N. Bourbaki</a>, IHP, Paris, November 2021.
 </li>
 
 <li>
@@ -716,12 +701,6 @@ Illinois, April 2021.
 Hilbert's Tenth Problem for Power Series
 (<a href="https://drive.google.com/file/d/1CztGBYXnPnC0lqc5F6dDv1jfthFMWjlG/view?usp=sharing">abstract</a>),
 IMA Early Career Mathematicians' Conference, Lancaster, March 2019.
-</li>
-
-<li>
-Research presentation
-(<a href="https://drive.google.com/open?id=0B6bVmoUt7QTXSEVNQVdIOFBwN0U">slides</a>),
-Galway, October 2017.
 </li>
 
 <li>
