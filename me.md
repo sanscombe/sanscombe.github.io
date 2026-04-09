@@ -29,9 +29,6 @@ My [research][research] is in model theory and its connections to algebra and nu
     10th June 2026
 
 <!-- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __THIS WEEK!__-->
-Conference:
-- <a class="linkdebugmain" href="https://conferences.cirm-math.fr/3500.html">Arithmetic of fields: model theory, valuations, and geometry</a>
-(L’arithmétiques des corps : théories des modèles, valuations, et geometrie), CIRM, 6th--10th April 2026
 
 <br>
 <br>

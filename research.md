@@ -306,7 +306,7 @@ with Jochen Koenigsmann.
 <li value="6">
 <a class="linklight">A note on existentially t-henselian fields</a>.
 <br>
-Submitted.
+To appear in proceedings of conference DDG40.
     <a class="linkresearchlight" href="https://arxiv.org/abs/2603.27612">arXiv:2603.27612 [math.LO]</a>
 <!--
 <details>
