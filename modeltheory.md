@@ -20,8 +20,7 @@ order: 3
 - 8 ECTS
 - 4 hours CM/week
 - outline lecture notes:
-	[preliminaries][preliminaries] /
-	[part one][part one]
+	[lecture notes][lecture notes]
 - problem sheets:
 	[first batch][problem sheets 1]
 - <a class="linkteachingmain">**Partial exam**</a>: (date to be confirmed) ??th February/March 2026
@@ -30,6 +29,7 @@ order: 3
 
 [preliminaries]: https://drive.google.com/file/d/1hj-VfC1kJv4Jd2UJwSyyEn2RcYTbK5La/view?usp=sharing
 [part one]: https://drive.google.com/file/d/1UfDhISD69gy8FaYciHGUGxBLpHhLUQH5/view?usp=sharing
+[lecture notes]: https://drive.google.com/file/d/1x4l3PKV4V1HQ8jBp5ARYmo1pDmAHBgGC/view?usp=sharing
 
 [problem sheets 1]: https://drive.google.com/file/d/14Rro0zyhp-5jffiIjgDqsgLU5w482H8H/view?usp=sharing
 
