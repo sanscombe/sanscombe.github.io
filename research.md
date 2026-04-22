@@ -25,19 +25,6 @@ My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory
 <h5>submitted/notes</h5>
 <ol reversed class="papers" type="a">
 
-<li value="3">
-<a class="linklight">Existential fragments of theories of henselian valued fields</a>,
-with Arno Fehm.
-<br>
-Submitted, 2026.
-<!--
-<details>
-<summary><a class="linkresearchdetails">links</a></summary>
-</details>
--->
-    <a class="linkresearchlight" href="http://arxiv.org/abs/2601.17395">arXiv:2601.17395 [math.LO]</a>
-</li>
-
 <li value="2">
 <a class="linklight">On lambda functions in henselian and separably tame valued fields</a>.
 <br>
@@ -68,6 +55,19 @@ Submitted, 2024.
 
 <h5>research articles</h5>
 <ol reversed class="papers">
+
+<li value="17">
+<a class="linklight">Existential fragments of theories of henselian valued fields</a>,
+with Arno Fehm.
+<br>
+To appear <i>Zeitschrift für Mathematische Logik und Grundlagen der Mathematik</i>, 2026.
+<!--
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+</details>
+-->
+    <a class="linkresearchlight" href="http://arxiv.org/abs/2601.17395">arXiv:2601.17395 [math.LO]</a>
+</li>
 
 <li value="16">
 <a class="linklight">Interpretations of syntactic fragments of theories of fields</a>,
