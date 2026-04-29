@@ -25,6 +25,19 @@ My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory
 <h5>submitted/notes</h5>
 <ol reversed class="papers" type="a">
 
+<li value="3">
+<a class="linklight">Elimination results for tame fields with finite residue fields</a>,
+with Blaise Boissonneau.
+<br>
+Manuscript, 2026.
+<!--
+<details>
+<summary><a class="linkresearchdetails">links</a></summary>
+</details>
+-->
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2505.07518">arXiv:2505.07518 [math.LO]</a>
+</li>
+
 <li value="2">
 <a class="linklight">On lambda functions in henselian and separably tame valued fields</a>.
 <br>
