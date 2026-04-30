@@ -35,7 +35,7 @@ Manuscript, 2026.
 <summary><a class="linkresearchdetails">links</a></summary>
 </details>
 -->
-    <a class="linkresearchlight" href="https://arxiv.org/abs/2505.07518">arXiv:2505.07518 [math.LO]</a>
+    <a class="linkresearchlight" href="https://arxiv.org/abs/2604.26129">arXiv:2604.26129 [math.LO]</a>
 </li>
 
 <li value="2">
