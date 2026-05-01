@@ -113,8 +113,7 @@ To appear in <i>Israel Journal of Mathematics</i>, 2024.
 <a class="linklight">Universal-existential theories of fields</a>,
 with Arno Fehm.
 <br>
-<i>Proceedings of the Edinburgh Mathematical Society</i>, 2025.
-Published online:1&ndash;30.
+<i>Proceedings of the Edinburgh Mathematical Society</i>, 69(1):95&ndash;124, 2026.
 <!--
 -->
 <details>
