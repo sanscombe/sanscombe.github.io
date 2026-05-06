@@ -3,19 +3,24 @@ title: Marine & Sylvy --- wedding
 category: personal
 layout: blank
 ---
+# <a class="linkdebugmain">UPDATED</a>
 <img src="/IMAGES/asciano.jpeg" alt="Asciano" title="Asciano" align="right" width="30%">
 - **RSVP** : 
     <a class="linkblogmain" href="https://forms.gle/a7obzdKTiHt2cLvj7">Réponse / Form</a>
 
-- **quand** / **when** : 20 juin 2026 / 20th June 2026
+- **quand** / **when** : 20--21 juin 2026 / 20th--21st June 2026
 
 - **où** / **where** : Dieppe, Normandy, France  
 
-- **déroulement** / **schedule** : [provisoire / provisional]
-    - 14h30 cérémonie du mariage / marriage ceremony @**Mairie de Neuville-lès-Dieppe**
-    - après-midi : activités à confirmer / afternoon activities to be confirmed
-    - 20h Apéro / pre-dinner drinks @**Salle des fêtes**
-    - 21h Dîner buffet et fête / buffet dinner and party @**Salle des fêtes**   
+- **déroulement** / **schedule** : 
+    - 20 juin / 20th June
+        - 14h30 cérémonie du mariage / marriage ceremony @**Mairie de Neuville-lès-Dieppe**
+        - 16h <a class="linkdebugmain">Concert</a> @**Chapelle de Bonsecours**
+        - 20h Apéro / pre-dinner drinks @**Salle des fêtes**
+        - 21h Dîner buffet et fête / buffet dinner and party @**Salle des fêtes**   
+    - 21 juin / 21st June
+        - 11h30 <a class="linkdebugmain">Brunch</a> @**Salle des fêtes**   
+        - 16h baignade dans la mer / a dip in the sea
 
 [\\]: # - 15h00 pot / drinks @**Burrow**
 [\\]: #     - 17h00 _relax_
@@ -28,6 +33,9 @@ layout: blank
     - **Mairie de Neuville-lès-Dieppe**
         ([map](https://maps.app.goo.gl/NyEqPrrMURrPjYYc6))
         150 Rue de la République, 76200 Dieppe, France
+    - **Chapelle de Bonsecours**
+        ([map](https://maps.app.goo.gl/i5Z5xBX9sm4RKKPS7))
+        16 Chemin des Falaises, 76370 Dieppe
     - **Burrow**
         ([map](https://maps.app.goo.gl/EknUpEqJYFwC7jnN8))
         37B Rue du Fort Châtillon
@@ -41,5 +49,17 @@ layout: blank
 
 <br>
 
-- **suggestions pour l'hébergement** / **accommodation suggestions** :
-    - à venir / coming soon...
+- <a class="linkdebugmain">**suggestions pour l'hébergement** / **accommodation suggestions**</a> :
+    - Hotels near the _salle des fêtes_:
+        - Hotel balladins
+        - Golden Tulip
+        - Kyriad
+        - B&B Hotel
+    - Small b&b also near the _salle des fêtes_:
+        - La Croisée des Chemins (smaller B&B)
+    - Hotels on the seafront, further from the _salle des fêtes_ but in the heart of Dieppe:
+        - Hotel Aguado
+        - Hotel de l'Europe
+        - Hotel Windsor
+        - La Tour aux Crabes
+        - Logis Hôtel les Arcades
