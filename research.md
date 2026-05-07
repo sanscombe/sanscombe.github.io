@@ -468,15 +468,28 @@ Master/M&eacute;moire
         2026.
     </li>
     <li>Mahsa Yadegari Khozani.
-        Current student,
+        <i>Non-definability of rings of integers</i>,
+        current student,
+        2026.
+    </li>
+    <li>Xiaorui Yin.
+        <i>Globally valued fields</i>,
+        current student,
+        2026.
+    </li>
+    <li>Julie Plessis.
+        <i>Power series with cross-sections</i>,
+        current student,
         2026.
     </li>
     <li>Fares Arous.
-        Current student,
+        <i>Separably algebraically maximal fields</i>,
+        current student,
         2026.
     </li>
     <li>Thibaud Oiffer.
-        Current student,
+        <i>Measure and dimension in pseudofinite fields</i>,
+        current student,
         2026.
     </li>
     <li>Fares Arous.
