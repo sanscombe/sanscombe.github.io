@@ -36,13 +36,13 @@ layout: blank
     - **Chapelle de Bonsecours**
         ([map](https://maps.app.goo.gl/i5Z5xBX9sm4RKKPS7))
         16 Chemin des Falaises, 76370 Dieppe
-    - **Burrow**
-        ([map](https://maps.app.goo.gl/EknUpEqJYFwC7jnN8))
-        37B Rue du Fort Châtillon
     - **Salle des fêtes** - Salle des fêtes, Tourville-sur-Arques
         ([map](https://maps.app.goo.gl/daeLRmwqV4wKgQ1F8))
         6 rue du Val Gosset, 76550 Tourville-sur-Arques
 
+[\\]: #     - **Burrow**
+[\\]: #         ([map](https://maps.app.goo.gl/EknUpEqJYFwC7jnN8))
+[\\]: #         37B Rue du Fort Châtillon
 [\\]: # - **Église** catholique Saint-Martin à Tourville-sur-Arques
 [\\]: # ([map](https://maps.app.goo.gl/248QUermeRfLDTSx7))
 [\\]: # Rue de l'Église, 76550 Tourville-sur-Arques, France  
