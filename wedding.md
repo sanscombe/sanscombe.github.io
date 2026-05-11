@@ -16,7 +16,7 @@ layout: blank
     - 20 juin / 20th June
         - 14h30 cérémonie du mariage / marriage ceremony @**Mairie de Neuville-lès-Dieppe**
         - 16h <a class="linkdebugmain">Concert</a> @**Chapelle de Bonsecours**
-        - 20h Apéro / pre-dinner drinks @**Salle des fêtes**
+        - 19h Apéro / pre-dinner drinks @**Salle des fêtes**
         - 21h Dîner buffet et fête / buffet dinner and party @**Salle des fêtes**   
     - 21 juin / 21st June
         - 11h30 <a class="linkdebugmain">Brunch</a> @**Salle des fêtes**   
