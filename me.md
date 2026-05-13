@@ -16,10 +16,6 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 ### current and upcoming
 
-- <a class="linkresearchmain" href="https://mathematics.huji.ac.il/eventss/logic">Jerusalem Logic Seminar</a>,
-    Einstein Institute of Mathematics,
-    Jerusalem,
-    13th May 2026
 - <a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>,
     ICMS,
     Edinburgh,
@@ -33,6 +29,11 @@ My [research][research] is in model theory and its connections to algebra and nu
     10th June 2026
 
 <!-- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __THIS WEEK!__-->
+
+<!--- <a class="linkresearchmain" href="https://mathematics.huji.ac.il/eventss/logic">Jerusalem Logic Seminar</a>,
+    Einstein Institute of Mathematics,
+    Jerusalem,
+    13th May 2026-->
 
 <br>
 <br>
