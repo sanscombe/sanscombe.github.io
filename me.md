@@ -14,19 +14,19 @@ at [Université Paris Cité][UPC], and a member of the [Équipe de Logique][LM] 
 
 My [research][research] is in model theory and its connections to algebra and number theory.
 
-### current and upcoming
+[\\]: # - ### current and upcoming
 
-- <a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>,
-    ICMS,
-    Edinburgh,
-    11th--15th May 2026
-- <a class="linkresearchmain" href="https://slalm21.uniandes.edu.co/en/">XXI Simposio latinoamericano de lógica matemática</a>
-    (SLALM XXI),
-    Bogotá,
-    1st--5th June 2026
-- <a class="linkresearchmain" href="https://www.math.uni-duesseldorf.de/~internet/Kolloquium/index.html">Mathematical Colloquium</a>,
-    HHU Düsseldorf,
-    10th June 2026
+[\\]: # - - <a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>,
+[\\]: # - ICMS,
+[\\]: # - Edinburgh,
+[\\]: # - 11th--15th May 2026
+[\\]: # - - <a class="linkresearchmain" href="https://slalm21.uniandes.edu.co/en/">XXI Simposio latinoamericano de lógica matemática</a>
+[\\]: # - (SLALM XXI),
+[\\]: # - Bogotá,
+[\\]: # - 1st--5th June 2026
+[\\]: # - - <a class="linkresearchmain" href="https://www.math.uni-duesseldorf.de/~internet/Kolloquium/index.html">Mathematical Colloquium</a>,
+[\\]: # - HHU Düsseldorf,
+[\\]: # - 10th June 2026
 
 <!-- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __THIS WEEK!__-->
 
