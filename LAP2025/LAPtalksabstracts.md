@@ -46,7 +46,7 @@ layout: page_LAP_2025
 
 [AA]: https://www.cs.upc.edu/~atserias/
 [IB]: https://www.ingo-blechschmidt.eu/
-[AD]:(https://webusers.imj-prg.fr/~adrien.deloro/
+[AD]: https://webusers.imj-prg.fr/~adrien.deloro/
 [LF]: https://lacl.fr/~lfontanella/
 [JK]: https://www.cantab.net/users/jonathankirby/
 [CLH]: https://users.math.cas.cz/~lambiehanson/

@@ -17,7 +17,7 @@ layout: blank
         - 14h30 cérémonie du mariage / marriage ceremony @**Mairie de Neuville-lès-Dieppe**
         - 18h <a class="linkdebugmain">Concert</a> @**Église Saint-Martin**
         - 19h Apéro / pre-dinner drinks @**Salle des fêtes**
-        - 20h Dîner buffet et fête / buffet dinner and party @**Salle des fêtes**   
+        - 21h Dîner buffet et fête / buffet dinner and party @**Salle des fêtes**   
     - 21 juin / 21st June
         - 11h30 <a class="linkdebugmain">Brunch</a> @**Salle des fêtes**   
         - 16h baignade dans la mer / a dip in the sea
@@ -43,6 +43,9 @@ layout: blank
         ([map](https://maps.app.goo.gl/daeLRmwqV4wKgQ1F8))
         6 rue du Val Gosset, 76550 Tourville-sur-Arques
 
+[\\]: #     - **Burrow**
+[\\]: #         ([map](https://maps.app.goo.gl/EknUpEqJYFwC7jnN8))
+[\\]: #         37B Rue du Fort Châtillon
 [\\]: # - **Église** catholique Saint-Martin à Tourville-sur-Arques
 [\\]: # ([map](https://maps.app.goo.gl/248QUermeRfLDTSx7))
 [\\]: # Rue de l'Église, 76550 Tourville-sur-Arques, France  

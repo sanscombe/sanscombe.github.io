@@ -188,7 +188,7 @@ with Franziska Jahnke.
 <a class="linklight">Denseness results in the theory of algebraic fields</a>,
 with Philip Dittmann and Arno Fehm.
 <br>
-<i>Annals of Pure and Applied Logic</i>, 172, 2021.
+<i>Annals of Pure and Applied Logic</i>, 172(8):102973, 2021.
 <!--
 -->
 <details>
