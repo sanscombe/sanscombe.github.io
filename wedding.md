@@ -15,9 +15,9 @@ layout: blank
 - **déroulement** / **schedule** : 
     - 20 juin / 20th June
         - 14h30 cérémonie du mariage / marriage ceremony @**Mairie de Neuville-lès-Dieppe**
-        - 16h <a class="linkdebugmain">Concert</a> @**Chapelle de Bonsecours**
-        - 20h Apéro / pre-dinner drinks @**Salle des fêtes**
-        - 21h Dîner buffet et fête / buffet dinner and party @**Salle des fêtes**   
+        - 18h <a class="linkdebugmain">Concert</a> @**Église Saint-Martin**
+        - 19h Apéro / pre-dinner drinks @**Salle des fêtes**
+        - 20h Dîner buffet et fête / buffet dinner and party @**Salle des fêtes**   
     - 21 juin / 21st June
         - 11h30 <a class="linkdebugmain">Brunch</a> @**Salle des fêtes**   
         - 16h baignade dans la mer / a dip in the sea
@@ -33,9 +33,9 @@ layout: blank
     - **Mairie de Neuville-lès-Dieppe**
         ([map](https://maps.app.goo.gl/NyEqPrrMURrPjYYc6))
         150 Rue de la République, 76200 Dieppe, France
-    - **Chapelle de Bonsecours**
-        ([map](https://maps.app.goo.gl/i5Z5xBX9sm4RKKPS7))
-        16 Chemin des Falaises, 76370 Dieppe
+    - **Église Saint-Martin**
+        ([map](Rue de l'Église, 76550 Tourville-sur-Arques))
+        Rue de l'Église, 76550 Tourville-sur-Arques
     - **Burrow**
         ([map](https://maps.app.goo.gl/EknUpEqJYFwC7jnN8))
         37B Rue du Fort Châtillon
@@ -49,7 +49,7 @@ layout: blank
 
 <br>
 
-- <a class="linkdebugmain">**suggestions pour l'hébergement** / **accommodation suggestions**</a> :
+- **suggestions pour l'hébergement** / **accommodation suggestions** :
     - Hotels near the _salle des fêtes_:
         - Hotel balladins
         - Golden Tulip
