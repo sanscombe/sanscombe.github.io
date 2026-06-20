@@ -32,7 +32,7 @@ layout: blank
 - **adresses utiles** / **key addresses** :
     - **Mairie de Neuville-lès-Dieppe**
         ([map](https://maps.app.goo.gl/NyEqPrrMURrPjYYc6))
-        150 Rue de la République, 76200 Dieppe, France
+        150 Avenue de la République, 76200 Dieppe, France
     - **Chapelle de Bonsecours**
         ([map](https://maps.app.goo.gl/i5Z5xBX9sm4RKKPS7))
         16 Chemin des Falaises, 76370 Dieppe
