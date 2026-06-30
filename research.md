@@ -474,7 +474,7 @@ Master/M&eacute;moire
     </li>
     <li>Xiaorui Yin.
         <i>Globally valued fields</i>,
-        current student,
+        mémoire de M2,
         2026.
     </li>
     <li>Julie Plessis.
@@ -489,7 +489,7 @@ Master/M&eacute;moire
     </li>
     <li>Thibaud Oiffer.
         <i>Measure and dimension in pseudofinite fields</i>,
-        current student,
+        mémoire de M1,
         2026.
     </li>
     <li>Fares Arous.
