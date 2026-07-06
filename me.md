@@ -16,10 +16,10 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 ### current and upcoming
 
-- <a class="linkresearchmain" href="https://www.bnf.fr/fr/agenda/un-texte-une-aventure-mathematique">Un texte-une aventure mathématique</a>,
+- <a class="linkresearchmain" href="https://smf.emath.fr/evenements-smf/programme-2026-2027-un-texte-une-aventure-mathematique">Un texte, une aventure mathématique</a>,
 BNF,
 Paris,
-13th January 2027
+13 janvier 2027
 
 [\\]: # - - <a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>,
 [\\]: # - ICMS,
