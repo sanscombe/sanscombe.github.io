@@ -11,13 +11,15 @@ order: 5
 <img src="/IMAGES/tilly.jpeg" width="30%" style="float:right;">
 
 ##### 2025--2026, Université Paris Cité
+
 ###### premier semestre
 
 ###### second semestre
-- TD de MP2 dans L1PHYS/L1PHYSCHIM
-- TD de CM2 dans L1CUPGE
-- Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
-    - <a class="linkteachingmain" href="./modeltheory">course information</a>
+- TD de MP2 dans L1PHYS, L1PHYSCHIM
+- TD de IN8 dans M1MATHS
+- Cours dans M2MATHS
+- Cours dans M2LMFI
+
 
 [//]: # - Mercredi 16h16--18h15, 130 Olympe de Gouges
 [//]: # - Jeudi 08h30--10h30, 2012 Sophie Germain
@@ -64,6 +66,11 @@ Short notes from teaching
 
 ### past teaching
 
+
+##### 2025--2026, Université Paris Cité
+- TD de MP2 dans L1PHYS/L1PHYSCHIM
+- TD de CM2 dans L1CUPGE
+- Cours de _Théorie des modèles : Outils Classiques_ dans M2LMFI
 
 ##### 2024--2025, Université Paris Cité
 - Cours de IN8 dans M1MATHS
