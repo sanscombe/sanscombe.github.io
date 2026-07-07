@@ -25,7 +25,7 @@ My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory
 <h5>submitted/notes</h5>
 <ol reversed class="papers" type="a">
 
-<li value="3">
+<li value="2">
 <a class="linklight">Elimination results for tame fields with finite residue fields</a>,
 with Blaise Boissonneau.
 <br>
@@ -38,7 +38,7 @@ Manuscript, 2026.
     <a class="linkresearchlight" href="https://arxiv.org/abs/2604.26129">arXiv:2604.26129 [math.LO]</a>
 </li>
 
-<li value="2">
+<li value="1">
 <a class="linklight">On lambda functions in henselian and separably tame valued fields</a>.
 <br>
 Submitted, 2025.
@@ -50,11 +50,17 @@ Submitted, 2025.
     <a class="linkresearchlight" href="https://arxiv.org/abs/2505.07518">arXiv:2505.07518 [math.LO]</a>
 </li>
 
-<li>
+</ol>
+
+
+<h5>research articles</h5>
+<ol reversed class="papers">
+
+<li value="18">
 <a class="linklight">Multidimensional asymptotic classes</a>,
 with Dugald Macpherson, Charles Steinhorn, and Daniel Wolf.
 <br>
-Submitted, 2024.
+To appear in <i>Transactions of the American Mathematical Society</i>, 2026.
 <!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
@@ -62,12 +68,6 @@ Submitted, 2024.
 -->
 <a class="linkresearchlight" href="https://arxiv.org/abs/2408.00102">arXiv:2408.00102 [math.LO]</a>
 </li>
-
-</ol>
-
-
-<h5>research articles</h5>
-<ol reversed class="papers">
 
 <li value="17">
 <a class="linklight">Existential fragments of theories of henselian valued fields</a>,
