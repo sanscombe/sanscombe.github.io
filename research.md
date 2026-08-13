@@ -29,7 +29,7 @@ My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory
 <a class="linklight">Elimination results for tame fields with finite residue fields</a>,
 with Blaise Boissonneau.
 <br>
-Manuscript, 2026.
+Submitted, 2026.
 <!--
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
