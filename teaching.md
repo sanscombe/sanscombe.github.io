@@ -10,7 +10,7 @@ order: 5
 
 <img src="/IMAGES/tilly.jpeg" width="30%" style="float:right;">
 
-##### 2025--2026, Université Paris Cité
+##### 2026--2027, Université Paris Cité
 
 ###### premier semestre
 

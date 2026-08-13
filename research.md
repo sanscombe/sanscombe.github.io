@@ -932,11 +932,11 @@ A selection of meetings that I have attended or will attend.
 
 	<li><a href="http://arxiv.org/a/anscombe_w_1">arXiv</a></li>
 
-	<li><a href="https://uclan.academia.edu/SylvyAnscombe">academia.edu</a></li>
+	<li><a href="http://orcid.org/0000-0002-9930-2804">ORCiD</a>: 0000-0002-9930-2804</li>
 
 	<li><a href="https://scholar.google.co.uk/citations?user=WP2b3cMAAAAJ&hl=en">Google Scholar</a></li>
 
-	<li><a href="http://orcid.org/0000-0002-9930-2804">ORCiD</a></li>
+	<li><a href="https://uclan.academia.edu/SylvyAnscombe">academia.edu</a></li>
 
 	<li><a href="https://genealogy.math.ndsu.nodak.edu/id.php?id=173503">Mathematics Genealogy Project</a></li>
 
