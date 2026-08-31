@@ -86,13 +86,12 @@ To appear <i>Zeitschrift für Mathematische Logik und Grundlagen der Mathematik<
 <a class="linklight">Interpretations of syntactic fragments of theories of fields</a>,
 with Arno Fehm.
 <br>
-To appear in <i>Israel Journal of Mathematics</i>, 2024.
-<!--
+<i>Israel Journal of Mathematics</i>, 2026.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-</details>
--->
     <a class="linkresearchlight" href="http://arxiv.org/abs/2312.17616">arXiv:2312.17616 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.1007/s11856-026-2938-z">doi:10.1007/s11856-026-2938-z</a>
+</details>
 </li>
 
 <li>
