@@ -14,6 +14,7 @@ order: 5
 
 ###### LMFI
 
+- [LMFI webpage](https://master.math.u-paris.fr/annee/m2-lmfi/)
 - [LMFI presentation 2026](./backpages/LMFI_presentation_2026.pdf)
 
 ###### premier semestre
