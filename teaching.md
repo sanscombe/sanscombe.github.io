@@ -12,6 +12,10 @@ order: 5
 
 ##### 2026--2027, Université Paris Cité
 
+###### LMFI
+
+- [LMFI presentation 2026](./backpages/LMFI_presentation_2026.pdf)
+
 ###### premier semestre
 
 ###### second semestre
