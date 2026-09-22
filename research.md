@@ -72,14 +72,13 @@ To appear in <i>Transactions of the American Mathematical Society</i>, 2026.
 <li value="17">
 <a class="linklight">Existential fragments of theories of henselian valued fields</a>,
 with Arno Fehm.
-<br>
-To appear <i>Zeitschrift für Mathematische Logik und Grundlagen der Mathematik</i>, 2026.
-<!--
+<br />
+<i>Zeitschrift für Mathematische Logik und Grundlagen der Mathematik</i>, 72:445&ndash;456, 2026.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
-</details>
--->
     <a class="linkresearchlight" href="http://arxiv.org/abs/2601.17395">arXiv:2601.17395 [math.LO]</a>
+    <a class="linkresearchlight" href="https://doi.org/10.60866/CAM.325">doi:10.60866/CAM.325</a>
+</details>
 </li>
 
 <li value="16">
