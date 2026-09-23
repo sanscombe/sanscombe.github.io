@@ -21,7 +21,7 @@ There will be symposium-type seminars given by eight invited speakers from a ran
 	- Paul Shafer (Leeds)
 	- Todor Tsankov (Lyon)
 	- Matteo Viale (Turin)
-- _Location_ : Room 278, Halle aux Farines, Campus Grandes Moulins, Université Paris Cité, 75013 Paris
+- _Location_ : Room 278, Halle aux Farines, Campus Grands Moulins, Université Paris Cité, 75013 Paris
 	- [plan of Halle aux Farines][HAF]
 	- [plan of campus][campus]
 

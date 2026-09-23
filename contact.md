@@ -25,7 +25,7 @@ My postal address is:
 >
 Mme Sylvy Anscombe<br>
 Institut de Mathématiques de Jussieu-Paris Rive Gauche<br>
-Université Paris Cité - Campus des Grandes Moulins<br>
+Université Paris Cité - Campus des Grands Moulins<br>
 Bâtiment Sophie Germain, Boite Courrier 7012<br>
 8 Place Aurélie Nemours<br>
 75205 Paris Cedex 13, France

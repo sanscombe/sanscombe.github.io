@@ -19,7 +19,7 @@ There will be symposium-type seminars given by invited speakers from a range of 
 	- [Chris Lambie-Hanson](https://users.math.cas.cz/~lambiehanson/), Czech Academy of Sciences
 
 
-- _Location_ : Campus Grandes Moulins, Université Paris Cité, 75013 Paris
+- _Location_ : Campus Grands Moulins, Université Paris Cité, 75013 Paris
 	- Amphi Turing, Sophie Germain
 	- [plan of campus][campus]
 - _Organisers_ : 
