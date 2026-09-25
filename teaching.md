@@ -18,6 +18,7 @@ order: 5
 - [LMFI presentation 2026](./backpages/LMFI_presentation_2026.pdf)
 
 ###### premier semestre
+- [Ensembles et infini](./backpages/2026-09-25-Paris1.html), M1 Philosophie, Université Paris 1 Panthéon-Sorbonne (diapositives)
 
 ###### second semestre
 - TD de MP2 dans L1PHYS, L1PHYSCHIM
