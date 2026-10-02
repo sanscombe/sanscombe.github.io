@@ -21,6 +21,9 @@ SMF,
 BNF,
 Paris,
 13 janvier 2027
+- <a class="linkresearchmain" href="https://www.math.uni.wroc.pl/~pkowa/istanbul27.html">Istanbul Model Theory Days II at Şirince: In Honour of Alexandre Borovik and Ali Nesin on Their 70th Birthdays ('BN-Pair II')</a>,
+Şirince,
+19th--22nd May 2027
 
 [\\]: # - - <a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>,
 [\\]: # - ICMS,
