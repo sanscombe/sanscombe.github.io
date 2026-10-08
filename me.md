@@ -31,7 +31,7 @@ Paris,
 - <a class="linkresearchmain" href="https://www.math.uni-bonn.de/ag/logik/">Logik-Oberseminar</a>,
 Universität Bonn,
 18th January 2027
-- <a class="linkresearchmain" href="https://www.math.uni.wroc.pl/~pkowa/istanbul27.html">Istanbul Model Theory Days II at Şirince: In Honour of Alexandre Borovik and Ali Nesin on Their 70th Birthdays ('BN-Pair II')</a>,
+- <a class="linkdebugmain" href="https://www.math.uni.wroc.pl/~pkowa/istanbul27.html">Istanbul Model Theory Days II at Şirince: In Honour of Alexandre Borovik and Ali Nesin on Their 70th Birthdays ('BN-Pair II')</a>,
 Şirince,
 19th--22nd May 2027
 

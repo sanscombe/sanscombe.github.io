@@ -463,7 +463,7 @@ PhD
 
 Master/M&eacute;moire
 <ul>
-    <li>Sol Susana Santoyo Olivera.
+    <li><a href="https://solsantoyo-math.github.io/">Sol Susana Santoyo Olivera</a>.
         Current student, co-supervised with <a href="https://math.uniandes.edu.co/~p.cubideskovacsics/">Pablo Cubides Kovacsics</a>,
         2026.
     </li>
