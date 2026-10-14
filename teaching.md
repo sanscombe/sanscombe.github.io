@@ -14,6 +14,7 @@ order: 5
 
 ###### LMFI
 
+- co-direction, with Antonio Bucciarelli (since 2026)
 - [LMFI webpage](https://master.math.u-paris.fr/annee/m2-lmfi/)
 - [LMFI presentation 2026](./backpages/LMFI_presentation_2026.pdf)
 

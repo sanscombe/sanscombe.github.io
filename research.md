@@ -782,6 +782,10 @@ A selection of meetings that I have attended or will attend.
 
 <ul>
 
+<li><a class="linkdebugmain" href="https://www.math.uni.wroc.pl/~pkowa/istanbul27.html">Istanbul Model Theory Days II at Şirince: In Honour of Alexandre Borovik and Ali Nesin on Their 70th Birthdays (BN-Pair II)</a>, Nesin Mathematics Village, Şirince, 19th&ndash;22nd May 2027 (scientific committee)</li>
+
+<li><a class="linkdebugmain" href="./logiqueaparis.html">Logique à Paris 2027</a>, IMJ-PRG, Paris, 17th&ndash;19th February 2027</li>
+
 <li><a class="linkdebugmain" href="https://conferences.cirm-math.fr/3500.html">Arithmetic of fields: model theory, valuations, and geometry</a> (L’arithmétiques des corps : théories des modèles, valuations, et geometrie), CIRM, 6th&ndash;10th April 2026</li>
 
 <li><a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a>, IMJ-PRG, Paris, 25th&ndash;27th February 2026</li>

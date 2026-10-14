@@ -19,6 +19,10 @@ My [research][research] is in model theory and its connections to algebra and nu
 - <a class="linkresearchmain" href="https://www.uni-muenster.de/Logik/en/Studium/index.shtml">Oberseminar Modelltheorie und Gruppen</a>,
 Universität Münster,
 22nd October 2026
+- <a class="linkresearchmain" href="https://ai-phi.github.io/">AI-PHI</a>,
+Séminaire sur l'IA, la philosophie et les mathématiques,
+Université Paris Cité,
+29th October 2026
 - <a class="linkresearchmain" href="https://kgrc.univie.ac.at/">Logic Colloquium</a>,
 Kurt Gödel Research Center,
 Universität Wien,
@@ -31,6 +35,10 @@ Paris,
 - <a class="linkresearchmain" href="https://www.math.uni-bonn.de/ag/logik/">Logik-Oberseminar</a>,
 Universität Bonn,
 18th January 2027
+- <a class="linkdebugmain" href="./logiqueaparis.html">Logique à Paris 2027</a>,
+IMJ-PRG,
+Paris,
+17th--19th February 2027
 - <a class="linkdebugmain" href="https://www.math.uni.wroc.pl/~pkowa/istanbul27.html">Istanbul Model Theory Days II at Şirince: In Honour of Alexandre Borovik and Ali Nesin on Their 70th Birthdays ('BN-Pair II')</a>,
 Şirince,
 19th--22nd May 2027

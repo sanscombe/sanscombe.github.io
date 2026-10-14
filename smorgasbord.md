@@ -86,6 +86,8 @@ Here are some __PUZZLES__ linked to my book chapter:
 
 ### outreach talks
 
+- Logic: L'incomplétude de Gödel : les limites de la méthode axiomatique, [Un texte, une aventure mathématique](https://smf.emath.fr/evenements-smf/programme-2026-2027-un-texte-une-aventure-mathematique) (SMF, BnF, Animath), BnF, Paris, janvier 2027.
+- AI: "Begin at the beginning... then stop": mathematics in the age of AI, the end of the beginning or the beginning of the end?, [AI-PHI](https://ai-phi.github.io/), Séminaire sur l'IA, la philosophie et les mathématiques, Paris, October 2026.
 - Puzzles: [Des pirates et pièces](https://drive.google.com/file/d/1J9eCeD4WwjeT8HDJMgnucWZ2_ppAHz--/view?usp=drive_link), stage de troisième, Décembre 2025.
 - Puzzles: [Des pirates et pièces](https://drive.google.com/file/d/1LBaCjRsT_o4lBUQ2_aqhyjeVFe-fmdLs/view?usp=sharing), stage de troisième, Février 2024.
 - Puzzles: [Des pirates et pièces](https://drive.google.com/file/d/1i8fPiYukmXNtW5OP4D0BCoDrzeOag7s6/view?usp=sharing), stage de troisième, Février 2023.
