@@ -19,6 +19,10 @@ My [research][research] is in model theory and its connections to algebra and nu
 - <a class="linkresearchmain" href="https://www.uni-muenster.de/Logik/en/Studium/index.shtml">Oberseminar Modelltheorie und Gruppen</a>,
 Universität Münster,
 22nd October 2026
+- <a class="linkresearchmain" href="https://ai-phi.github.io/">AI-PHI</a>,
+Séminaire sur l'IA, la philosophie et les mathématiques,
+Université Paris Cité,
+29th October 2026
 - <a class="linkresearchmain" href="https://kgrc.univie.ac.at/">Logic Colloquium</a>,
 Kurt Gödel Research Center,
 Universität Wien,
