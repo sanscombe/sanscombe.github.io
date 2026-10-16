@@ -395,7 +395,7 @@ Séminaire Bourbaki, volume 2021/2022, exposés 1181-1196.
 <details>
 <summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="https://hal.science/hal-05158075">hal-05158075</a>
-    <a class="linkresearchlight" href="https://doi.org/10.24033/ast.1181">doi:10.24033/ast.1181</a>
+    <a class="linkresearchlight" href="https://doi.org/10.24033/ast.1187">doi:10.24033/ast.1187</a>
 </details>
 </li>
 
