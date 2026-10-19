@@ -4,10 +4,11 @@ layout: page
 order: 3
 ---
 <a href="/LAP2025/LAP2025_poster.pdf"><img src="/LAP2025/LAP2025_logo.jpeg" width="30%" style="float:right;border: 0px solid black;"></a>
-A series of (so far) four conferences of contemporary developments in Mathematical Logic,
+A series of (so far) five conferences of contemporary developments in Mathematical Logic,
 with a focus on the themes of interest to the members of the
 [Équipe de Logique][LM] in the [Institut de Mathématiques de Jussieu–Paris Rive Gauche][IMJ-PRG].
 
+- <a class="linkdebugmain" href="/logiqueaparis2027.html">Logique à Paris 2027</a> 
 - <a class="linkdebugmain" href="/logiqueaparis2026.html">Logique à Paris 2026</a> 
 - <a class="linkdebugmain" href="/logiqueaparis2025.html">Logique à Paris 2025</a> 
 - <a class="linkdebugmain" href="/logiqueaparis2024.html">Logique à Paris 2024</a>

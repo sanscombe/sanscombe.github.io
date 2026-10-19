@@ -35,7 +35,7 @@ Paris,
 - <a class="linkresearchmain" href="https://www.math.uni-bonn.de/ag/logik/">Logik-Oberseminar</a>,
 Universität Bonn,
 18th January 2027
-- <a class="linkdebugmain" href="./logiqueaparis.html">Logique à Paris 2027</a>,
+- <a class="linkdebugmain" href="/logiqueaparis2027.html">Logique à Paris 2027</a>,
 IMJ-PRG,
 Paris,
 17th--19th February 2027
