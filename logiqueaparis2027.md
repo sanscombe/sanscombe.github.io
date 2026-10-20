@@ -5,8 +5,11 @@ layout: page_LAP_2027
 A 3-day meeting of contemporary developments in Mathematical Logic.  
 There will be symposium-type seminars given by invited speakers from a range of other centers of research in Logic.
 
+<a href="/LAP2027/LAP2027_poster.pdf"><img src="/LAP2027/LAP2027_poster.jpg" width="35%" style="float:right;border: 0px solid black;"></a>
+
 [//]: # - <a class="linkdebugmain" href="">Registration</a>
 
+- <a class="linkdebugmain" href="/LAP2027/LAP2027_poster.pdf">LAP 2027 poster</a>
 - _Dates_ : 17th -- 19th February 2027
 - _Speakers_ : to be announced
 
