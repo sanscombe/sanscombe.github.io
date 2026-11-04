@@ -29,7 +29,7 @@ My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory
 <a class="linklight">Notes on tame valued fields</a>.
 <br>
 Manuscript, 2026.
-    <a class="linkresearchlight" href="/backpages/tame.pdf">pdf</a>
+    <a class="linkresearchlight" href="/backpages/2026-11-04-tame.html">pdf</a>
 </li>
 
 <li value="2">
