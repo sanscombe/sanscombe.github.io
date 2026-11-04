@@ -25,6 +25,13 @@ My research interests lie in <a href="https://en.wikipedia.org/wiki/Model_theory
 <h5>submitted/notes</h5>
 <ol reversed class="papers" type="a">
 
+<li value="3">
+<a class="linklight">Notes on tame valued fields</a>.
+<br>
+Manuscript, 2026.
+    <a class="linkresearchlight" href="/backpages/tame.pdf">pdf</a>
+</li>
+
 <li value="2">
 <a class="linklight">Elimination results for tame fields with finite residue fields</a>,
 with Blaise Boissonneau.
