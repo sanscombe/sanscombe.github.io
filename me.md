@@ -16,32 +16,7 @@ My [research][research] is in model theory and its connections to algebra and nu
 
 ### current and upcoming
 
-- <a class="linkresearchmain" href="https://www.uni-muenster.de/Logik/en/Studium/index.shtml">Oberseminar Modelltheorie und Gruppen</a>,
-Universität Münster,
-22nd October 2026
-- <a class="linkresearchmain" href="https://ai-phi.github.io/posts/session-42-anscombe-mathematics-age-of-ai/">AI-PHI</a>,
-Séminaire sur l'IA, la philosophie et les mathématiques,
-Université Paris Cité,
-29th October 2026
-- <a class="linkresearchmain" href="https://kgrc.univie.ac.at/">Logic Colloquium</a>,
-Kurt Gödel Research Center,
-Universität Wien,
-19th November 2026
-- <a class="linkresearchmain" href="https://smf.emath.fr/evenements-smf/programme-2026-2027-un-texte-une-aventure-mathematique">Un texte, une aventure mathématique</a>,
-SMF,
-BNF,
-Paris,
-13 janvier 2027
-- <a class="linkresearchmain" href="https://www.math.uni-bonn.de/ag/logik/">Logik-Oberseminar</a>,
-Universität Bonn,
-18th January 2027
-- <a class="linkdebugmain" href="/logiqueaparis2027.html">Logique à Paris 2027</a>,
-IMJ-PRG,
-Paris,
-17th--19th February 2027
-- <a class="linkdebugmain" href="https://www.math.uni.wroc.pl/~pkowa/istanbul27.html">Istanbul Model Theory Days II at Şirince: In Honour of Alexandre Borovik and Ali Nesin on Their 70th Birthdays ('BN-Pair II')</a>,
-Şirince,
-19th--22nd May 2027
+{% include talks-upcoming.html %}
 
 [\\]: # - - <a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>,
 [\\]: # - ICMS,
