@@ -5,7 +5,7 @@ Used on research.md:  {% include talks-selected.html %}{% endcomment %}
 <li>
 {% if t.title != "TBA" %}{{ t.title }}{% if t.role == "plenary" %} (plenary lecture){% endif %}{% if t.links.size > 0 %}
 ({% for l in t.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}){% endif %},
-{% endif %}{{ t.venue }}, {{ t.when }}.
+{% endif %}{{ t.venue_plain }}, {{ t.when }}.
 </li>
 {% endif %}{% endfor %}
 </ol>

@@ -9,6 +9,7 @@ talks:
   kind: seminar
   links: []
   selected: false
+  venue_plain: <a href="https://www.math.uni-bonn.de/ag/logik/">Logik-Oberseminar</a>, Universität Bonn
   venue_main: <a class="linkresearchmain" href="https://www.math.uni-bonn.de/ag/logik/">Logik-Oberseminar</a>, Universität Bonn
 - id: 2027-01-un-texte-une
   date: '2027-01-13'
@@ -19,6 +20,7 @@ talks:
   kind: public
   links: []
   selected: true
+  venue_plain: <a href="https://smf.emath.fr/evenements-smf/programme-2026-2027-un-texte-une-aventure-mathematique">Un texte, une aventure mathématique</a>, SMF, BnF, Paris
   venue_main: <a class="linkresearchmain" href="https://smf.emath.fr/evenements-smf/programme-2026-2027-un-texte-une-aventure-mathematique">Un texte, une aventure mathématique</a>, SMF, BnF, Paris
 - id: 2027-01-tnga-seminar-lmno
   date: '2027-01-08'
@@ -29,6 +31,7 @@ talks:
   kind: seminar
   links: []
   selected: false
+  venue_plain: TNGA Seminar, LMNO, Caen
   venue_main: <a class="linkresearchmain">TNGA Seminar</a>, LMNO, Caen
 - id: 2026-12-number-theory-algebraic
   date: 2026-12
@@ -39,6 +42,7 @@ talks:
   kind: seminar
   links: []
   selected: false
+  venue_plain: Number Theory and Algebraic Geometry Seminar, KU Leuven
   venue_main: <a class="linkresearchmain">Number Theory and Algebraic Geometry Seminar</a>, KU Leuven
 - id: 2026-11-colloquium-lamfa-amiens
   date: '2026-11-24'
@@ -49,6 +53,7 @@ talks:
   kind: colloquium
   links: []
   selected: true
+  venue_plain: Colloquium, LAMFA, Amiens
   venue_main: <a class="linkresearchmain">Colloquium</a>, LAMFA, Amiens
 - id: 2026-11-logic-colloquium-kurt
   date: '2026-11-19'
@@ -59,6 +64,7 @@ talks:
   kind: colloquium
   links: []
   selected: true
+  venue_plain: <a href="https://kgrc.univie.ac.at/">Logic Colloquium</a>, Kurt Gödel Research Center, Universität Wien
   venue_main: <a class="linkresearchmain" href="https://kgrc.univie.ac.at/">Logic Colloquium</a>, Kurt Gödel Research Center, Universität Wien
 - id: 2026-06-colloquium-dusseldorf
   date: 2026-06
@@ -69,6 +75,7 @@ talks:
   kind: colloquium
   links: []
   selected: true
+  venue_plain: <a href="https://www.math.uni-duesseldorf.de/~internet/Kolloquium/index.html">Mathematical Colloquium</a>, HHU Düsseldorf
   venue_main: <a class="linkresearchmain" href="https://www.math.uni-duesseldorf.de/~internet/Kolloquium/index.html">Mathematical Colloquium</a>, HHU Düsseldorf
 - id: 2026-06-invited-plenary-speaker
   date: 2026-06
@@ -79,6 +86,7 @@ talks:
   kind: conference
   links: []
   selected: true
+  venue_plain: <a href="https://slalm21.uniandes.edu.co/en/">XXI Simposio Latinoamericano de Lógica Matemática (SLALM XXI)</a>, Bogotá
   venue_main: <a class="linkresearchmain" href="https://slalm21.uniandes.edu.co/en/">XXI Simposio Latinoamericano de Lógica Matemática (SLALM XXI)</a>, Bogotá
   role: plenary
 - id: 2026-05-a85-algebra-arithmetic
@@ -90,6 +98,7 @@ talks:
   kind: conference
   links: []
   selected: true
+  venue_plain: '<a href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>, ICMS, Edinburgh'
   venue_main: '<a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>, ICMS, Edinburgh'
 - id: 2026-01-seminaire-n-bourbaki
   date: '2026-01-31'
@@ -100,6 +109,7 @@ talks:
   kind: seminar
   links: []
   selected: true
+  venue_plain: <a href="https://bourbaki.fr/programme2025-26.html">Séminaire N. Bourbaki</a>, IHP, Paris
   venue_main: <a class="linkresearchmain" href="https://bourbaki.fr/programme2025-26.html">Séminaire N. Bourbaki</a>, IHP, Paris
 - id: 2025-09-httpswwwmathematicsuni-bonndehimprogramspasthim-trimester
   date: 2025-09
@@ -112,6 +122,7 @@ talks:
   - label: abstract
     url: /backpages/2025-07-25-Bonn_abstract.html
   selected: true
+  venue_plain: Introductory School “<a href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, decidability, and computability</a>”, HIM, Bonn
   venue_main: Introductory School “<a class="linkresearchmain" href="https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-definability-decidability-and-computability#School">Definability, decidability, and computability</a>”, HIM, Bonn
 - id: 2025-06-workshop-applications-model
   date: 2025-06
@@ -122,6 +133,7 @@ talks:
   kind: conference
   links: []
   selected: true
+  venue_plain: Workshop on applications of model theory in combinatorics and valued fields, Singapore
   venue_main: <a class="linkresearchmain">Workshop on applications of model theory in combinatorics and valued fields</a>, Singapore
 - id: 2024-08-ddccambridge-frg-workshop
   date: 2024-08
@@ -132,6 +144,7 @@ talks:
   kind: conference
   links: []
   selected: true
+  venue_plain: 'DDC@Cambridge: FRG Workshop on Definability, Decidability, and Computability, Harvard'
   venue_main: '<a class="linkresearchmain">DDC@Cambridge: FRG Workshop on Definability</a>, Decidability, and Computability, Harvard'
 - id: 2023-05-cirm-luminy
   date: 2023-05
@@ -146,6 +159,7 @@ talks:
   - label: video
     url: https://www.youtube.com/live/OGA6R0vL1ts?feature=share
   selected: true
+  venue_plain: <a href="https://conferences.cirm-math.fr/2761.html">Théorie des modèles des corps valués</a>, CIRM, Luminy
   venue_main: <a class="linkresearchmain" href="https://conferences.cirm-math.fr/2761.html">Théorie des modèles des corps valués</a>, CIRM, Luminy
 - id: 2023-02-seminaire-mathematiques-ens
   date: 2023-02
@@ -158,6 +172,7 @@ talks:
   - label: slides
     url: https://drive.google.com/file/d/1AtIyRz-S_gM9P_d6dHKQFEJG-7EmdbS1/view?usp=share_link
   selected: true
+  venue_plain: Séminaire « Des mathématiques », ENS-Ulm
   venue_main: <a class="linkresearchmain">Séminaire « Des mathématiques »</a>, ENS-Ulm
 - id: 2023-01-asl-tutorial-lectures
   date: 2023-01
@@ -168,6 +183,7 @@ talks:
   kind: minicourse
   links: []
   selected: true
+  venue_plain: Inaugural ASL Tutorial Lectures, <a href="https://www.jointmathematicsmeetings.org/">JMM 2023</a>, Boston
   venue_main: Inaugural ASL Tutorial Lectures, <a class="linkresearchmain" href="https://www.jointmathematicsmeetings.org/">JMM 2023</a>, Boston
   role: tutorial
 - id: 2023-01-model-theory-combinatorics
@@ -179,6 +195,7 @@ talks:
   kind: conference
   links: []
   selected: true
+  venue_plain: 'Model Theory: Combinatorics, Groups, Valued Fields and Neostability, Mathematisches Forschungsinstitut Oberwolfach'
   venue_main: '<a class="linkresearchmain">Model Theory: Combinatorics</a>, Groups, Valued Fields and Neostability, Mathematisches Forschungsinstitut Oberwolfach'
 - id: 2022-07-seminar-decidability-definability
   date: 2022-07
@@ -191,6 +208,7 @@ talks:
   - label: video
     url: https://www.msri.org/seminars/26790
   selected: true
+  venue_plain: Seminar, <a href="https://www.msri.org/programs/364">Decidability, definability and computability in number theory, Part 2</a>, MSRI
   venue_main: Seminar, <a class="linkresearchmain" href="https://www.msri.org/programs/364">Decidability, definability and computability in number theory, Part 2</a>, MSRI
 - id: 2022-06-logic-colloquium-2022
   date: 2022-06
@@ -203,6 +221,7 @@ talks:
   - label: slides
     url: https://drive.google.com/file/d/1UwktPcRC9mKsu5dC5utJA9r66co1k2L2/view?usp=sharing
   selected: true
+  venue_plain: <a href="http://icetcs.ru.is/lc2022/">Logic Colloquium 2022</a>, Reykjavík
   venue_main: <a class="linkresearchmain" href="http://icetcs.ru.is/lc2022/">Logic Colloquium 2022</a>, Reykjavík
 - id: 2021-11-seminaire-n-bourbaki
   date: 2021-11
@@ -215,6 +234,7 @@ talks:
   - label: notes
     url: https://www.bourbaki.fr/TEXTES/Exp1186-Anscombe.pdf
   selected: true
+  venue_plain: <a href="https://www.bourbaki.fr/">Séminaire N. Bourbaki</a>, IHP, Paris
   venue_main: <a class="linkresearchmain" href="https://www.bourbaki.fr/">Séminaire N. Bourbaki</a>, IHP, Paris
 events:
 - id: 2027-istanbul-model-theory
