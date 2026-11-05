@@ -85,7 +85,6 @@ with Arno Fehm.
 <summary><a class="linkresearchdetails">links</a></summary>
     <a class="linkresearchlight" href="http://arxiv.org/abs/2601.17395">arXiv:2601.17395 [math.LO]</a>
     <a class="linkresearchlight" href="https://doi.org/10.60866/CAM.325">doi:10.60866/CAM.325</a>
-    <a class="linkdebuglight" href="https://doi.org/10.60866/CAM.325">erratum</a>
 </details>
 </li>
 
