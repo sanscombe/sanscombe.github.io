@@ -552,7 +552,7 @@ Currently serving as editor of
 
 <br style="clear:both;">
 
-<h3>meetings organized</h3>
+<h3>meetings (co-)organized</h3>
 
 {% include meetings-organized.html %}
 
