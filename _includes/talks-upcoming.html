@@ -9,6 +9,6 @@ GitHub Pages only rebuilds on a push, so « upcoming » is as fresh as the last 
 {% for t in items %}{% if t.until >= today %}{% if t.name %}
 <li><a class="linkdebugmain" href="{{ t.url }}">{{ t.name }}</a>, {{ t.where_when }}</li>
 {% else %}
-<li>{{ t.venue_main }}, {{ t.when }}</li>
+<li>{{ t.venue_plain }}, {{ t.when }}</li>
 {% endif %}{% endif %}{% endfor %}
 </ul>
