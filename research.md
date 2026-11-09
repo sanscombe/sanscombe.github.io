@@ -459,13 +459,11 @@ PhD
         2022&ndash;2026.
         <a class="linkresearchmain" href="./backpages/2025-07-14-Paulo.html">Paulo's papers</a>
 </li>
-<!--
 <li>
-    <a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> (2021 &ndash;).
+    <a href="https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/piotr-szewczyk">Piotr Szewczyk</a> (2021 &ndash; paused in 2025).
     Co-supervised with Arno Fehm, TU Dresden.
 <a class="linkresearchmain" href="./backpages/2025-07-14-Piotr.html">Piotr's papers</a>
 </li>
--->
 </ul>
 
 <img src="/IMAGES/arithmetic.jpg" width="40%" style="float:right;">
