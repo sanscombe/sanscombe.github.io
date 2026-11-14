@@ -14,35 +14,26 @@ at [Université Paris Cité][UPC], and a member of the [Équipe de Logique][LM] 
 
 My [research][research] is in model theory and its connections to algebra and number theory.
 
+<!--
+<div style="display: flow-root; border: 4px solid blue; border-radius: 8px; width: fit-content; padding: 0.2em 0.3em; margin: 1em 0; text-align: justify;">
+<strong>Postdocs with the FSMP.</strong>
+If you are thinking of applying for a postdoctoral position of the
+<a href="https://www.sciencesmaths-paris.fr/">Fondation Sciences Mathématiques de Paris</a>
+with me as your mentor, please <a class="linkmain" href="/contact.html">contact me</a>
+at least one month before the application deadline.
+</div>
+-->
+
 ### current and upcoming
 
 {% include talks-upcoming.html %}
 
-[\\]: # - - <a class="linkresearchmain" href="https://icms.ac.uk/activities/workshop/a85/">A85: algebra and arithmetic from model theory</a>,
-[\\]: # - ICMS,
-[\\]: # - Edinburgh,
-[\\]: # - 11th--15th May 2026
-[\\]: # - - <a class="linkresearchmain" href="https://slalm21.uniandes.edu.co/en/">XXI Simposio latinoamericano de lógica matemática</a>
-[\\]: # - (SLALM XXI),
-[\\]: # - Bogotá,
-[\\]: # - 1st--5th June 2026
-[\\]: # - - <a class="linkresearchmain" href="https://www.math.uni-duesseldorf.de/~internet/Kolloquium/index.html">Mathematical Colloquium</a>,
-[\\]: # - HHU Düsseldorf,
-[\\]: # - 10th June 2026
-
-<!-- <a class="linkdebugmain" href="./logiqueaparis2026.html">Logique à Paris 2026</a> $\Longleftarrow$ __THIS WEEK!__-->
-
-<!--- <a class="linkresearchmain" href="https://mathematics.huji.ac.il/eventss/logic">Jerusalem Logic Seminar</a>,
-    Einstein Institute of Mathematics,
-    Jerusalem,
-    13th May 2026-->
-
 <br>
 <br>
 
-- Support by [AKE-PACT][AKE-PACT] "_The AKE Philosophy: from Arithmetic Geometry to Classification Theory_" (ANR-24-CE92-0082), 2025--2028.
-- Support by [MAS][MAS] "_Model theory of algebraic structures_" (ANR-25-CE40-5294), 2025--2030.
-- Support by [BrigHTMode][BrigHTMode] "_Bridges in the model theory of fields_" under the program "_Investissement d'Avenir_" launched by the French Government and implemented by ANR, with the reference « ANR‐18‐IdEx‐0001 » as part of its program « [Émergence][Émergence] », 2025--2027.
+- Supported by [AKE-PACT][AKE-PACT] "_The AKE Philosophy: from Arithmetic Geometry to Classification Theory_" (ANR-24-CE92-0082), 2025--2028.
+- Supported by [MAS][MAS] "_Model theory of algebraic structures_" (ANR-25-CE40-5294), 2025--2030.
+- Supported by [BrigHTMode][BrigHTMode] "_Bridges in the model theory of fields_" under the program "_Investissement d'Avenir_" launched by the French Government and implemented by ANR, with the reference « ANR‐18‐IdEx‐0001 » as part of its program « [Émergence][Émergence] », 2025--2027.
 - Previously supported by [GeoMod][GeoMod] AAPG2019 (ANR-DFG).
 
 <a href="https://u-paris.fr/"><img src="/ICONS/upc.png" alt="Université Paris Cité" title="Université Paris Cité" align="right" width="25%"></a>
